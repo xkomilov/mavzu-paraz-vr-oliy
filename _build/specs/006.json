@@ -1,0 +1,67 @@
+{
+  "number": 6,
+  "title": "6. O'zbekiston hududida transmissiv parazitar kasalliklarning qanday tabiiy o'choqlari tarqalgan va qayerda?",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Transmissiv parazitar kasalliklar qo'zg'atuvchisi qon so'ruvchi bo'g'imoyoqlilar orqali yuqadigan kasalliklardir. Ularning ko'pchiligi tabiiy o'choqli bo'lib, qo'zg'atuvchi tabiatda yovvoyi hayvonlar va tashuvchilar o'rtasida odamga bog'liq bo'lmagan holda aylanadi. Bu ta'limotni Ye.N. Pavlovskiy yaratgan [1].",
+      "Ushbu esseda tabiiy o'choqlilik tushunchasi, so'ng O'zbekistonda tarqalgan asosiy transmissiv parazitar kasalliklar: zoonoz va antropoz teri leyshmaniozi, visseral leyshmanioz, kanali qaytalama terlama va bezgak bo'yicha retseptivlik, ularning hududlari, manbalari va tashuvchilari ko'rib chiqiladi [2, 3, 4]."
+    ]},
+    {"heading": "Tabiiy o'choqlilik tushunchasi", "content": [
+      "Pavlovskiy ekspeditsiyalari natijasida qon so'ruvchi hasharotlar va kanalar orqali odam va hayvonlarga yuqadigan infeksiya va invaziyalarning endemik o'choqlari xaritalari tuzilgan. Ta'limotga ko'ra, tabiiy o'choq qo'zg'atuvchi, tashuvchi va rezervuar hayvonlardan iborat barqaror tizimdir [1].",
+      "Odam bunday o'choqqa kirib, tashuvchi chaqqanda zararlanadi, ya'ni odam qo'zg'atuvchining aylanishi uchun majburiy bo'g'in emas. Shu sababli tabiiy o'choqli kasalliklarni butunlay yo'qotish qiyin, profilaktika esa rezervuar va tashuvchilarga qarshi kurash hamda odamni himoya qilishga qaratiladi [1, 2]."
+    ]},
+    {"heading": "Leyshmaniozlarning umumiy tavsifi", "content": [
+      "Leyshmanioz odam va hayvonlarda uchraydigan transmissiv protozoy kasallik bo'lib, qo'zg'atuvchisi leyshmaniyalar, tashuvchisi esa iskabtopar chivinlardir. Milliy yo'riqnomaga ko'ra O'zbekistonda visseral zoonoz, teri antropoz va teri zoonoz leyshmaniozi tarqalgan [2].",
+      "Yo'riqnomada O'zbekistonda iskabtopar chivinlarning 9 turi mavjudligi ko'rsatilgan. Iskabtopar chivinlar tabiiy sharoitda kemiruvchilar va qushlar inida, daraxt kovaklarida ko'payadi, tabiiy o'choqlarda 1,5 km masofagacha tarqaladi [2]."
+    ]},
+    {"heading": "Zoonoz teri leyshmaniozi", "content": [
+      "Zoonoz teri leyshmaniozi tabiiy o'choqli transmissiv zoonoz kasallik bo'lib, qo'zg'atuvchisi Leishmania major hisoblanadi. U qishloq turidagi yoki o'tkir nekrozlanuvchi teri leyshmaniozi, pendinka va boshqa nomlar bilan ham ataladi. Odamlar asosan iyul oxiridan sentyabr o'rtalarigacha kasallanadi [2].",
+      "Ushbu kasallikning tabiiy rezervuari katta va qizil dumli qum sichqonlari bo'lib, tashuvchisi Phlebotomus papatasi va boshqa iskabtopar turlari hisoblanadi. O'choqlar Osiyo va Afrikaning cho'l hududlari bilan bog'liq, shuning uchun profilaktikada dala deratizatsiyasi va qum sichqonlar inlarini buzish asosiy o'rin tutadi [2]."
+    ]},
+    {"heading": "Teri leyshmaniozi tarqalgan hududlar", "content": [
+      "121-son buyruqda leyshmaniozning tabiiy endemik o'choqlarida tarqalishini oldini olish maqsadida Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan, Samarqand viloyatlari va Qoraqalpog'iston Respublikasidagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirish topshirilgan [3].",
+      "Respublika markazining 2017 yildagi taqdimotiga ko'ra, 2016 yilda teri leyshmaniozi bilan kasallanish Surxondaryo, Samarqand, Buxoro, Jizzax, Xorazm viloyatlari va Qoraqalpog'istonda oshgan, Toshkent viloyatida (Olmaliq shahri) mahalliy holatlar ro'yxatga olingan [4]."
+    ]},
+    {"heading": "Antropoz teri leyshmaniozi", "content": [
+      "Antropoz teri leyshmaniozi shahar turidagi, kech yaralanuvchi shakl bo'lib, qo'zg'atuvchisi L. tropica, manbai esa bemor odamdir. Yo'riqnomadagi jadvalga ko'ra uning tashuvchisi P. sergenti bo'lib, tarqalish hududlariga O'rta yer dengizi, Yaqin Sharq, Xitoy va O'rta Osiyo kiradi [2].",
+      "Taqdimotda Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda antropoz teri leyshmaniozi ro'yxatga olinishi davom etayotgani tashvishli holat sifatida qayd etilgan. Bu shakl odam manbali bo'lgani uchun bemorlarni erta aniqlash va davolash uning profilaktikasida hal qiluvchi ahamiyatga ega [2, 4]."
+    ]},
+    {"heading": "Visseral leyshmanioz", "content": [
+      "O'rta yer dengizi-O'rta Osiyo turidagi visseral leyshmaniozning qo'zg'atuvchisi L. infantum bo'lib, manbalari itlar, tulkilar va chiyabo'rilardir. Yo'riqnomaga ko'ra O'rta Osiyo davlatlarida tabiiy, yarim sinantrop yoki qishloq va shahar turidagi o'choqlar mavjud. O'zbekistonda VL tashuvchisi asosan Ph. longiductus va Ph. angustus turlaridir [2].",
+      "2007-2009 yillarda Namangan viloyatining Pop tumanida tekshirilgan 162 ta itning 38,8 foizi zararlangani va L. infantum shtammi ajratilgani qayd etilgan. Taqdimotga ko'ra 2016 yilgacha VL holatlari Namangan, Navoiy, Farg'ona, Samarqand, Jizzax va Surxondaryo viloyatlarida qayd etilgan, Samarqand viloyatining Urgut tumanida o'sish kuzatilgan [2, 4]."
+    ]},
+    {"heading": "Kanali qaytalama terlama", "content": [
+      "Kanali qaytalama terlama zoonoz, transmissiv, tabiiy o'choqli kasallik bo'lib, qo'zg'atuvchisi borreliyalar, tashuvchisi esa Argasidae oilasi, Ornithodoros avlodiga mansub kanalardir. Kanalar qo'zg'atuvchini umri davomida saqlab, nafaqat tashuvchi, balki tabiiy rezervuar vazifasini ham bajaradi [5].",
+      "O'zbekistonda bu kasallik asosan tog' va tog'oldi hududlarida, asosiy tashuvchi O. papillipes kanasi yashaydigan joylarda tarqalgan. Bu kanalar dengiz sathidan 400-1500 metr balandlikdagi, tog' daryolari oqib o'tadigan qadimiy aholi punktlarida ko'p uchraydi [5]."
+    ]},
+    {"heading": "Kanali qaytalama terlama hududlari", "content": [
+      "Yo'riqnomaga ko'ra respublikada kanali qaytalama terlama bilan kasallanishning 80 foizi Namangan va Farg'ona viloyatlariga to'g'ri keladi. Andijon, Samarqand, Toshkent, Surxondaryo, Jizzax va Navoiy viloyatlarida O. papillipes kanalari kam tarqalgan. Qashqadaryo viloyatida kanalar ko'p bo'lsa-da, oxirgi 20 yil davomida kasallik ro'yxatga olinmagan [5].",
+      "Boshqa turdagi kana O. tartakovskyi cho'l tekisliklari va tog'oldi hududlarida keng tarqalgan, ammo epidemik jarayonda deyarli ishtirok etmaydi. G'or kanasi O. cholodkovskyi esa faqat Qashqadaryo viloyati G'uzor tumanining Qizilcha mahallasi atrofida topilgan [5]."
+    ]},
+    {"heading": "Bezgak: retseptivlik va tashuvchilar", "content": [
+      "JSST 2018 yilda O'zbekistonni bezgakdan xoli mamlakat sifatida sertifikatlagan, ya'ni mahalliy yuqish to'xtatilgan. Biroq hududda bezgak chivinlari saqlanib qolgan, shuning uchun hudud bezgakka retseptiv hisoblanadi va olib kirilgan holatdan mahalliy yuqish tiklanishi xavfi mavjud [6, 7].",
+      "Jahongirov va hammualliflar qo'llanmasiga ko'ra O'zbekistonda bezgak tashuvchilarining ahamiyatli vakillari An. martinius va An. artemievi chivinlaridir. An. artemievi Qoraqalpog'iston, Surxondaryo, Buxoro, Navoiy va Xorazmdan boshqa barcha viloyatlarda keng tarqalgan [7]."
+    ]},
+    {"heading": "Chegaradosh hududlar xavfi", "content": [
+      "121-son buyruqning bezgak bo'yicha yo'riqnomasida bezgak bo'yicha epidemik qo'shni davlatlardan zararlangan chivinlar chegaradosh aholi punktlariga uchib kelishi mumkinligi ta'kidlangan. Shu sababli doimiy entomologik nazorat va 3 km masofadagi chegaradosh hududlarda chivinlarga qarshi kurash tadbirlari belgilangan [8].",
+      "Bu talab bezgak tabiiy o'choq emas, balki antropoz kasallik bo'lsa-da, uning qayta tiklanish xavfi hududning tabiiy sharoitlari va tashuvchilar mavjudligi bilan chambarchas bog'liq ekanini ko'rsatadi. Shu ma'noda bezgak ham hududiy entomologik kuzatuvni talab qiladi [6, 8]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor o'z hududidagi tabiiy o'choqlar xaritasini, rezervuar hayvonlar va tashuvchilar turlarini bilishi shart. Teri leyshmaniozida dala deratizatsiyasi, iskabtopar chivinlarga qarshi dezinseksiya, shaxsiy himoya, bemorlarni erta aniqlash va sanitariya-ma'rifiy ishlar kompleks o'tkaziladi [2].",
+      "Kanali qaytalama terlamada esa uy-joy va hovlilarni kanalarga tekshirish, qurilishlarni kanalar yashashi uchun sharoit bo'lmaydigan zamonaviy materiallardan qurish tavsiya etiladi. Tadbirlar L.M. Isayev nomidagi tibbiy parazitologiya ilmiy-tadqiqot instituti uslubiy rahbarligida rejalashtiriladi [5]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "O'zbekistonda transmissiv parazitar kasalliklarning asosiy tabiiy o'choqlari zoonoz teri leyshmaniozi (janubiy va g'arbiy viloyatlar, Qoraqalpog'iston), visseral leyshmanioz (Namangan, Navoiy, Farg'ona, Samarqand, Jizzax, Surxondaryo) va kanali qaytalama terlama (asosan Namangan va Farg'ona tog'oldi hududlari) bilan bog'liq. Bezgak yo'qotilgan bo'lsa-da, tashuvchilar mavjudligi sababli hudud retseptivligicha qoladi [2, 3, 4, 5, 6]."
+    ]}
+  ],
+  "references": [
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432.",
+    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
+    "World Health Organization. WHO certifies that Uzbekistan has eliminated malaria. 07.12.2018. https://www.who.int/news/item/07-12-2018-who-certifies-that-uzbekistan-has-eliminated-malaria",
+    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523."
+  ]
+}

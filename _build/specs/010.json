@@ -1,0 +1,69 @@
+{
+  "number": 10,
+  "title": "10. Insonda bezgakni qo'zg'atuvchilarining turlari, qaysi turlari qo'zg'atadi.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgak qo'zg'atuvchilari sodda jonivorlar tipiga, sporalilar sinfiga, Plasmodiidae oilasiga va Plasmodium avlodiga mansub. Tabiatda bu avlodning 100 dan ortiq turi mavjud, ammo ulardan faqat bir nechtasi odamda kasallik keltiradi, qolganlari maymunlar, kemiruvchilar, qushlar va kaltakesaklarda parazitlik qiladi [1].",
+      "Ushbu esseda odam bezgagi qo'zg'atuvchilarining taksonomiyasi, har bir tur keltiradigan bezgak shakli, ularning hayot siklidagi farqlari, geografik tarqalishi, zoonoz tur P. knowlesi va ovale kenja turlari, shuningdek laboratoriyada turni aniqlashning ahamiyati ketma-ket ko'rib chiqiladi [1, 2, 3]."
+    ]},
+    {"heading": "Taksonomik o'rni", "content": [
+      "Uslubiy qo'llanmadagi taksonomik jadvalga ko'ra bezgak qo'zg'atuvchisi hayvonot dunyosi, sodda jonivorlar (Protozoa) tipi, sporalilar (Sporozoa) sinfi, plazmodiylar (Plasmodiidae) oilasi va plazmodiy (Plasmodium) avlodiga kiradi. Odam uchun patogen turlar P. vivax, P. malariae, P. falciparum va P. ovale hisoblanadi [1].",
+      "Zamonaviy zoologik tasnifda sporalilar Apicomplexa tipiga kiritiladi. Bu tipdagi parazitlarning hammasi majburiy parazitlar bo'lib, hayot siklida jinssiz va jinsiy ko'payish navbatlashadi. Bezgak plazmodiylarida jinssiz bosqich odamda, jinsiy bosqich esa chivin organizmida kechadi [1, 4]."
+    ]},
+    {"heading": "Plasmodium vivax", "content": [
+      "P. vivax uch kunlik bezgak (malaria tertiana) qo'zg'atuvchisidir. Bezgakni davolash bayonnomasida uch kunlik bezgak qo'zg'atuvchisi P. vivax bo'lgan, Anopheles chivinlari chaqishi orqali yuqadigan, davriy isitma, qaltirash, kamqonlik, taloq va jigar kattalashuvi hamda qaytalanishga moyillik bilan kechadigan protozoy antropoz kasallik deb ta'riflangan [5].",
+      "P. vivax sporozoitlari jigarda darhol rivojlanishi yoki 2 yil va undan ko'proq vaqt uyqudagi bradisporozoit holatida saqlanishi mumkin. Shu sababli uch kunlik bezgakda uzoq inkubatsiya va kechki qaytalanishlar kuzatiladi, davolashda esa gipnozoitlarga qarshi dori qo'shimcha vazifa hisoblanadi [1]."
+    ]},
+    {"heading": "Plasmodium falciparum", "content": [
+      "P. falciparum tropik bezgak (malaria tropica) qo'zg'atuvchisi bo'lib, bezgakning eng xavfli shaklini keltiradi. Protokolga ko'ra tropik bezgakning asoratlangan va asoratlanmagan turlari mavjud va uni davolashda artemizinin asosidagi kombinatsiyalangan terapiya qo'llanadi [2].",
+      "Qo'llanmaga ko'ra P. falciparum merozoitlari organizmning himoya omillariga eng chidamli. Uning eritrotsitar shizogoniyasi 48 soat davom etsa-da, subpopulyatsiyalar sinxron rivojlanmagani uchun isitma xurujlari tez-tez takrorlanadi. Davolashdan keyin gametotsitlar qonda 6 haftagacha saqlanishi mumkin [1]."
+    ]},
+    {"heading": "Plasmodium malariae", "content": [
+      "P. malariae to'rt kunlik bezgak (malaria quartana) qo'zg'atuvchisidir. Uning eritrotsitlardagi rivojlanishi 72 soat davom etadi, boshqa turlarda esa bu muddat 48 soat. Shu sababli to'rt kunlik bezgakda xurujlar har uchinchi kuni emas, har to'rtinchi kuni takrorlanadi [1].",
+      "To'rt kunlik bezgakda jigardagi to'qima shizogoniyasi 6 haftagacha davom etadi, boshqa shakllarda esa 6-15 sutkadan 3 haftagacha. Qo'llanmada odam organizmiga eng ko'p moslashgan tur P. malariae, eng kam moslashgani esa P. falciparum ekani ko'rsatilgan [1]."
+    ]},
+    {"heading": "Plasmodium ovale", "content": [
+      "P. ovale ovale bezgagi qo'zg'atuvchisi bo'lib, klinik jihatdan uch kunlik bezgakka o'xshaydi. Qo'llanmaga ko'ra bu shakl asosan tropik Afrika va Okeaniyada kuzatiladi. P. vivax kabi uning sporozoitlari ham jigarda uzoq muddat uyqudagi holatda saqlanishi mumkin [1].",
+      "Zamonaviy adabiyotda P. ovale ikki alohida tur sifatida, P. ovale curtisi va P. ovale wallikeri deb ajratiladi. Shu sababli ayrim manbalarda odam bezgagi qo'zg'atuvchilari besh emas, olti tur deb ko'rsatiladi [6]."
+    ]},
+    {"heading": "Plasmodium knowlesi", "content": [
+      "JSST odamda bezgak keltiradigan 5 tur parazitni qayd etadi va ulardan P. falciparum va P. vivax eng katta xavf tug'dirishini ta'kidlaydi. Beshinchi tur P. knowlesi bo'lib, u tabiatda makaka maymunlarida uchraydi va odamda asosan zoonoz sifatida kechadi [3, 7].",
+      "Odamdagi katta P. knowlesi o'chog'i 2004 yilda Malayziyaning Saravak hududida tavsiflangan, keyinchalik holatlar Janubi-Sharqiy Osiyoning deyarli barcha mamlakatlarida aniqlangan. U morfologik jihatdan P. malariae'ga o'xshash bo'lgani uchun molekulyar usullar paydo bo'lgunga qadar aniqlanmay kelgan [7]."
+    ]},
+    {"heading": "Hayot siklining umumiy sxemasi", "content": [
+      "Bezgak parazitlarining rivojlanishi navbat bilan odam organizmida (jinssiz bosqich) va Anopheles chivinlari organizmida (jinsiy bosqich) kechadi. Sporozoitlar zararlangan urg'ochi chivin chaqqanda odamga tushadi va 15-45 daqiqada qon bilan jigarga o'tib, gepatotsitlarda to'qima shizogoniyasini boshlaydi [1].",
+      "To'qima shizogoniyasi natijasida hosil bo'lgan merozoitlar eritrotsitlarga kirib eritrotsitar shizogoniyani boshlaydi. Eritrotsitlarda jinsiy shakllar, ya'ni gametotsitlar ham rivojlanadi va chivin aynan ularni qon bilan birga yutib zararlanadi. Bu jarayon barcha odam turlari uchun umumiy, farqlar esa muddat va uyqudagi shakllarda [1]."
+    ]},
+    {"heading": "Turlarning tibbiy ahamiyati", "content": [
+      "Turlarning farqlari patogenez, kechish, tashxis, epidemiologiya va profilaktikadagi o'ziga xosliklarni belgilaydi. Masalan, P. vivax gametotsitlari xlorokin bilan davolanganda qondan tez yo'qoladi, tropik bezgakda esa gametotsitlarga qarshi qo'shimcha primaxin buyuriladi [1].",
+      "Shuningdek P. vivax va P. ovale'da gipnozoitlar sabab bo'ladigan qaytalanishlarni oldini olish uchun radikal davolash zarur, P. falciparum va P. malariae'da esa bu muammo yo'q. Davolash sxemasi aniq turga va milliy bayonnomaga muvofiq tanlanadi [1, 5]."
+    ]},
+    {"heading": "Laboratoriyada turni aniqlash", "content": [
+      "Bezgak parazitlari turini va rivojlanish bosqichlarini, sonini aniqlash klinika, dori samarasini nazorat qilish va epidemiologik nazorat uchun hal qiluvchi ahamiyatga ega. BM-SOM-08 standart amaliyotiga ko'ra qalin tomchida kamida 100 ta ko'rish maydoni tekshiriladi, paraziti topilsa ham aralash infeksiyani o'tkazib yubormaslik uchun tekshiruv davom ettiriladi [8].",
+      "Turni aniqlashda Romanovskiy-Gimza usulida bo'yalgan yupqa surtma yetakchi hisoblanadi. Musbat natijada qo'zg'atuvchining lotincha nomi yoziladi, avlod nomi «P.» shaklida qisqartiriladi va rivojlanish bosqichi ko'rsatiladi [8]."
+    ]},
+    {"heading": "O'zbekiston uchun ahamiyati", "content": [
+      "Jahongirov va hammualliflar qo'llanmasiga ko'ra hozirgi kunda O'zbekistonda bezgakning 2 turi, tropik (P. falciparum) va uch kunlik (P. vivax) bezgak uchraydi, to'rt kunlik va ovale bezgagi esa Markaziy Osiyoga kam olib kiriladi [9].",
+      "JSST 2018 yilda O'zbekistonni bezgakdan xoli mamlakat sifatida sertifikatlagan. Shu sababli hozirgi kunda ro'yxatga olinadigan holatlar olib kirilgan bo'lib, ularda qo'zg'atuvchi turini aniq belgilash bemorni davolash va mahalliy yuqishning qayta tiklanishiga yo'l qo'ymaslik uchun muhimdir [9, 10]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor laboratoriya xulosasida qo'zg'atuvchi turi, bosqichi va parazitemiya darajasi aniq ko'rsatilishini nazorat qiladi. Aralash infeksiya gumon qilinganda yupqa surtma sinchiklab o'rganiladi, chunki P. falciparum bilan aralash holat davolash taktikasini tubdan o'zgartiradi [8].",
+      "Janubi-Sharqiy Osiyodan qaytgan bemorda P. malariae'ga o'xshash parazit topilsa, P. knowlesi ehtimoli ham hisobga olinishi kerak, chunki bu turni oddiy mikroskopiyada farqlash qiyin. Bunday holatda referens-laboratoriyada molekulyar tasdiqlash maqsadga muvofiq [7]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Odamda bezgakni Plasmodium avlodining to'rt klassik turi keltiradi: P. vivax uch kunlik, P. malariae to'rt kunlik, P. falciparum tropik va P. ovale ovale bezgagini qo'zg'atadi. Beshinchi tur P. knowlesi zoonoz bezgak qo'zg'atuvchisidir, P. ovale esa zamonaviy adabiyotda ikki turga ajratiladi. Turni aniq aniqlash davolash va epidemiologik nazoratning asosidir [1, 3, 6, 8]."
+    ]}
+  ],
+  "references": [
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+    "World Health Organization. Malaria (health topic). https://www.who.int/health-topics/malaria",
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "Relapsing Malaria. StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK538333/",
+    "Human infections and detection of Plasmodium knowlesi (sharhli maqola; mualliflar va jurnal ko'rsatilmadi). PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC3623376/",
+    "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104.",
+    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+    "World Health Organization. WHO certifies that Uzbekistan has eliminated malaria. 07.12.2018. https://www.who.int/news/item/07-12-2018-who-certifies-that-uzbekistan-has-eliminated-malaria"
+  ]
+}

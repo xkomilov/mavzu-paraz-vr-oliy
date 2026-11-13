@@ -1,0 +1,105 @@
+{
+ "number": 5,
+ "title": "5. Invaziya nima, superinvaziya, autoinvaziya, reinvaziya, mikstinvaziya.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Parazitologiyada invaziya atamasi hayvon tabiatli parazitlar, ya'ni sodda jonivorlar, gelmintlar va bo'g'imoyoqlilar bilan zararlanishni bildiradi. Bu atama mikroorganizmlar keltiradigan infeksiya tushunchasidan farqlanadi va parazitar kasalliklarning ko'pchiligi invazion kasalliklar deb ataladi [1, 2].",
+    "Ushbu esseda invaziya tushunchasi, uning intensivligi va ekstensivligi, so'ng superinvaziya, autoinvaziya, reinvaziya va mikstinvaziya turlari misollar bilan ko'rib chiqiladi. Oxirida bu tushunchalarning tashxis, davolash va dispanser kuzatuvidagi amaliy ahamiyati yoritiladi [2, 3, 4]."
+   ]
+  },
+  {
+   "heading": "Invaziya tushunchasi",
+   "content": [
+    "Invaziya deganda parazitning xo'jayin organizmiga kirishi, unda yashashi va rivojlanishi tushuniladi. Invaziya belgisiz tashuvchanlik shaklida ham, klinik yaqqol kasallik shaklida ham kechishi mumkin. Parazitlar xo'jayinga mexanik, toksik-allergik ta'sir ko'rsatadi va oziq moddalarni o'zlashtiradi [2].",
+    "Invaziya manbai bo'lib parazitning oxirgi yoki oraliq xo'jayini xizmat qiladi. Darslikda ta'kidlanishicha, parazitlar xo'jayin uchun doimo begona organizm bo'lib, sekret, ekskret va allergenlari bilan organizmni umumiy zaiflashtiradi va boshqa kasalliklarga moyillikni oshiradi [1]."
+   ]
+  },
+  {
+   "heading": "Invaziya intensivligi va ekstensivligi",
+   "content": [
+    "Invaziyani tavsiflashda ikki ko'rsatkich qo'llaniladi. Intensivlik bitta xo'jayindagi parazitlar soni yoki tuxumlar miqdori bilan ifodalanadi, ekstensivlik esa tekshirilgan aholi ichida zararlanganlar ulushini bildiradi. Bu ko'rsatkichlar kasallikning og'irligi va o'choq faolligini baholashga imkon beradi [2, 3].",
+    "Milliy yo'riqnomada askaridoz va trixotsefalyoz o'choqlari aholining zararlanish darajasiga ko'ra intensiv, o'rta intensiv va sust intensiv turlarga ajratilgan. Masalan, askaridozda aholining 30 foiz va undan ortiq zararlanishi intensiv o'choq belgisi hisoblanadi [3]."
+   ]
+  },
+  {
+   "heading": "Superinvaziya",
+   "content": [
+    "Superinvaziya deganda organizmda mavjud invaziya saqlanib turgan holda shu turdagi parazit bilan qayta zararlanish tushuniladi. Natijada parazitlar soni ortadi va invaziya intensivligi oshadi. Darslikda superinvaziya paytida ko'p miqdorda begona oqsil tushishi sensibilizatsiyani kuchaytirishi va og'ir allergik reaksiyalarga olib kelishi qayd etilgan [2].",
+    "Superinvaziyaga nisbatan immunitet ham o'rganiladi. Masalan, zoonoz teri leyshmaniozida yara bosqichida 3-4 oyga kelib superinvaziyaga to'liq chidamlilik shakllanishi, antropoz shaklida esa bu muddat 10-12 oyga cho'zilishi darslikda keltirilgan [1]."
+   ]
+  },
+  {
+   "heading": "Autoinvaziya",
+   "content": [
+    "Autoinvaziya parazitning o'z xo'jayinini qayta zararlashidir. Ichki autoinvaziyada parazit tashqi muhitga chiqmasdan xo'jayin organizmida yangi rivojlanish siklini boshlaydi. Pakana gijjada (Hymenolepis nana) tuxumlardan chiqqan onkosferalar ichak bo'shlig'ida yangi sikl boshlaydi, bu autoinvaziya deb ataladi [4].",
+    "Kriptosporidiozda ham yupqa devorli ootsistalardan ichakda sporozoitlar ajralib, epiteliy hujayralarini zararlaydi va bu jarayon autoinvaziya deb nomlanadi. Autoinvaziya parazitning organizmda uzoq saqlanishini ta'minlaydi va kasallikning surunkali kechishiga sabab bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Autoreinvaziya va autosuperinvaziya",
+   "content": [
+    "Tashqi autoinvaziya yoki autoreinvaziyada parazit tuxumlari tashqariga chiqib, shaxsiy gigiena buzilganda qo'llar orqali yana o'sha xo'jayinga tushadi. Atlasda gimenolepidozda shaxsiy gigiena qoidalariga rioya qilinmasa, xo'jayinning qayta zararlanishi mumkinligi va shu tufayli parazitlar soni bir necha yuztagacha yetishi ko'rsatilgan [4].",
+    "Enterobiozda ham tez-tez takrorlanadigan autoinvaziya kasallikning surunkali kechishiga sabab bo'ladi, bu davolash bayonnomasida alohida ta'kidlangan. Strongiloidozda esa lichinkalar ichak devoriga kirib, migratsiya yo'lini qayta o'tadi, bu holat autosuperinvaziya deb ataladi [4, 5, 6]."
+   ]
+  },
+  {
+   "heading": "Reinvaziya",
+   "content": [
+    "Reinvaziya deganda parazitdan xalos bo'lgandan, masalan davolangandan keyin shu turdagi parazit bilan yangidan zararlanish tushuniladi. Reinvaziya bo'lmasa, qisqa umr ko'radigan ayrim gelmintlarda kasallik o'z-o'zidan sog'ayish bilan tugashi mumkin, bu darslikda alohida qayd etilgan [2].",
+    "Reinvaziya xavfi kontagioz gelmintozlarda ayniqsa yuqori. Shu sababli milliy yo'riqnomada enterobiozda oila a'zolari va jamoadagi aloqadorlarni bir vaqtda tekshirish yoki profilaktik davolash, ko'rpa-to'shakni dazmollash va ich kiyimlarni har kuni almashtirish talab etiladi [3]."
+   ]
+  },
+  {
+   "heading": "Mikstinvaziya",
+   "content": [
+    "Mikstinvaziya yoki aralash invaziya deganda bir xo'jayinda bir vaqtning o'zida ikki yoki undan ortiq turdagi parazitning bo'lishi tushuniladi. Masalan, askaridoz va trixotsefalyoz yoki lyambliyoz va enterobioz birgalikda uchrashi mumkin. Taqdimot materialida odam organizmida bir vaqtda bir necha xil gijja yashashi mumkinligi qayd etilgan [6].",
+    "Mikstinvaziyada parazitlarning ta'siri qo'shilib, klinik ko'rinish og'irlashishi va tashxis murakkablashishi mumkin, chunki har bir parazit xo'jayinga o'z mexanik, toksik va allergik ta'sirini ko'rsatadi. Shu sababli bitta parazit topilgandan keyin ham boshqa invaziyalarni istisno qilish uchun tekshiruvni davom ettirish tavsiya etiladi [2, 6]."
+   ]
+  },
+  {
+   "heading": "Atamalarning amaliy farqlanishi",
+   "content": [
+    "Superinvaziya va reinvaziya o'rtasidagi asosiy farq oldingi invaziyaning holatidadir: superinvaziyada eski parazitlar hali mavjud, reinvaziyada esa ular yo'qolgan bo'ladi. Autoinvaziyada manba xo'jayinning o'zi bo'lsa, superinvaziya va reinvaziyada manba odatda tashqaridan, boshqa odam yoki muhit obyektlaridan keladi [2, 4].",
+    "Bu farqlarni bilish davolash natijasini baholashda muhim. Davolashdan keyingi nazorat tekshiruvida parazit qayta topilsa, bu davolashning samarasizligi, autoinvaziya yoki reinvaziya natijasi bo'lishi mumkin va har bir holatda tadbirlar har xil bo'ladi [3]."
+   ]
+  },
+  {
+   "heading": "Dispanser kuzatuvidagi ahamiyati",
+   "content": [
+    "Milliy yo'riqnomada gimenolepidoz bilan kasallanganlar 6 oy davomida dispanser kuzatuvida bo'lishi, gimenolepidozga 5-7 kun oralatib, enterobiozga esa 2-3 kun oralatib 3 marta tekshirilishi belgilangan. Bunday uzoq kuzatuv autoinvaziya va reinvaziya xavfini hisobga olish zarurligidan kelib chiqadi [3].",
+    "Yopiq turdagi bolalar muassasalarida enterobiozga qarshi yiliga 2 marta profilaktik davolash o'tkazilishi ham reinvaziya va jamoaviy zararlanish xavfini kamaytirishga qaratilgan. Yo'riqnomaga ko'ra davolangan bola 4 kun davomida gijja tuxumlarini ajratadi, shuning uchun davolash dam olish kunlarida o'tkaziladi [3]."
+   ]
+  },
+  {
+   "heading": "Parazitolog-shifokor uchun ahamiyati",
+   "content": [
+    "Parazitolog-shifokor bu atamalarni o'choqni tekshirish dalolatnomasida va xabarnomalarda to'g'ri qo'llashi kerak. Masalan, oilada bir necha a'zoda bir xil gelmint topilsa, bu jamoaviy reinvaziya manbaini izlashni, bitta odamda bir necha parazit topilsa, mikstinvaziyani kompleks davolashni talab qiladi [3].",
+    "Shuningdek autoinvaziya xavfi bo'lgan invaziyalarda bemorga shaxsiy gigiena qoidalarini tushuntirish davolashning ajralmas qismidir. Aks holda dori bilan erishilgan natija tezda yo'qoladi va o'choq saqlanib qoladi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Tasdiqlanmagan ma'lumotlar",
+   "content": [
+    "Kutubxona manbalarida invaziya, superinvaziya, reinvaziya va mikstinvaziya atamalarining yagona rasmiy ta'rifi topilmadi. Bu atamalar attestatsiya savollari ro'yxatlarida keltirilgan, ammo ularning ta'riflari ushbu esseda darsliklardagi qo'llanish va umumqabul qilingan parazitologik ma'noga tayanib berildi [7].",
+    "Ayniqsa mikstinvaziya ta'rifi va bitta parazit topilgandan keyin kompleks tekshiruvni davom ettirish tavsiyasi bevosita iqtibos bilan tasdiqlanmagan, misollar esa umumiy amaliyotdan olingan. Bu ta'riflarni milliy o'quv dasturi yoki rasmiy terminologik lug'at bilan solishtirish tavsiya etiladi [7]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Invaziya hayvon tabiatli parazitlar bilan zararlanishdir. Superinvaziya mavjud invaziya fonida shu parazit bilan qayta zararlanish, autoinvaziya parazitning o'z xo'jayinini qayta zararlashi, reinvaziya parazitdan xalos bo'lgandan keyin yangidan zararlanish, mikstinvaziya esa bir necha turdagi parazit bilan bir vaqtda zararlanishdir. Bu tushunchalar davolash, dispanser kuzatuvi va o'choqdagi tadbirlarni belgilaydi [1, 2, 3, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Gijja (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1581.",
+  "Parazitologiya mutaxassisligi bo'yicha shakllantirilgan og'zaki savollar ro'yxati (attestatsiya). xayrullokomilov.uz/kutubxona, material ID 2470."
+ ]
+}
