@@ -1,0 +1,112 @@
+{
+  "number": 19,
+  "title": "19. Tekshirilgan qonning indeksi nima, ular qanday sanaladi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Bezgak bo'yicha epidemiologik nazoratda qon preparatlarini tekshirish hajmi va sifati alohida ko'rsatkichlar bilan baholanadi. Milliy yo'riqnomada bunday ko'rsatkich qon preparatlarini tekshirish indeksi deb nomlanadi va bezgak diagnostikasi sifatini monitoring qilish bo'limida hisoblab chiqiladi [1].",
+        "Esseda avval indeks tushunchasi va milliy hujjatlardagi talqini ko'rib chiqiladi. So'ng JSST tavsiya etgan yaqin ko'rsatkichlar, ya'ni qon tekshirishning yillik darajasi va testning musbatlik ko'rsatkichi, hisoblash qoidalari, parazit zichligini sanash va parazitar hamda taloq indekslari yoritiladi [4, 5]."
+      ]
+    },
+    {
+      "heading": "Indeks tushunchasi",
+      "content": [
+        "Epidemiologiyada indeks deb kuzatilgan hodisaning jami tekshirilganlarga yoki aholiga nisbatini ifodalovchi nisbiy ko'rsatkichga aytiladi. Bezgakda indekslar ikki guruhga bo'linadi: nazorat faolligini baholovchi, ya'ni qancha qon tekshirilgani, va endemiklikni baholovchi, ya'ni tekshirilganlar orasida parazit yoki katta taloq ulushi [2, 7].",
+        "Savol sarlavhasidagi tekshirilgan qonning indeksi birinchi guruhga mansub. Attestatsiya savollari ro'yxatida u «IIK (qon testi indeksi, QTI) nima, uni qanday hisoblash mumkin» shaklida berilgan. Boshqa ro'yxatlarda esa «qon tekshirish indeksi» va «qonning indeks tekshiruvi (IIK)» deb yozilgan [3]."
+      ]
+    },
+    {
+      "heading": "Milliy yo'riqnomadagi talqini",
+      "content": [
+        "121-son buyruq 1-ilovasida bezgak diagnostikasi sifatini monitoring qilish bo'limida tuman DSENM parazitologiya bo'limi va laboratoriyasi DPMlardan birlamchi yoki nazorat maqsadida keltirilgan qon preparatlarini to'liq hisobga olishi aytilgan. Isitmali bemorlar hamda chet ellarga borib kelganlarning preparatlari belgilanadi [1].",
+        "Shundan keyin qon preparatlarini tekshirish indeksi hisoblab chiqiladi. Shuningdek, DSENMlarning parazitologiya laboratoriyalarida quyi tizimdan keltirilgan preparatlarni hisobga olish jurnallari yuritiladi. Demak, indeks birlamchi hisob-kitob jurnallaridagi tekshirilgan preparatlar soniga tayanadi [1]."
+      ]
+    },
+    {
+      "heading": "Qaysi preparatlar hisobga olinadi",
+      "content": [
+        "Yo'riqnomada birlamchi tekshirilgan qon preparatlarining 10 foizi (laboratoriyada yuqori malakali laborantlar bo'lganda), barcha musbat natijali preparatlar va chet ellarga borib kelganlarning preparatlari 100 foiz hududiy DSENM parazitologiya laboratoriyalariga nazorat uchun yuborilishi ko'rsatilgan. Shunday qilib, birlamchi, musbat va xorijdan qaytganlar preparatlari alohida toifalar sifatida ko'riladi [1].",
+        "Bemordan bezgakka laboratoriya tekshiruvi uchun kamida 2 ta qon preparati olinadi. Klinik belgilar va musbat anamnezga qaramay qo'zg'atuvchi topilmasa, qayta preparat olinadi. Sifatsiz preparatlar olingan bo'limga qayta olish uchun qaytariladi. Laboratoriya natijasi preparat tekshirilgan kuniyoq beriladi [1]."
+      ]
+    },
+    {
+      "heading": "JSST: qon tekshirishning yillik darajasi (ABER)",
+      "content": [
+        "JSST hisobotida surveillance ko'rsatkichlari qatorida qon tekshirishning yillik darajasi keltirilgan. U bir yil davomida parazitologik test o'tkazgan bemorlar sonining bezgak xavfi ostidagi aholining yil o'rtasidagi soniga nisbati, foizda ifodalangan. Ko'rsatkich diagnostika harakatini aks ettiradi [4].",
+        "Bu ko'rsatkich milliy qon tekshirish indeksining mazmuniga yaqin, lekin hisoblash asosi farq qilishi mumkin: JSST bemorlar soni va aholini oladi, milliy hujjatda esa preparatlar hisobga olinadi. Shuning uchun ikkala ko'rsatkichni bir xil deb qarash uchun milliy formulaning aniq matni kerak [1, 4]."
+      ]
+    },
+    {
+      "heading": "Testning musbatlik ko'rsatkichi",
+      "content": [
+        "JSSTning ko'rsatkichlar jadvalida testning musbatlik darajasi tasdiqlangan bezgak holatlari sonining parazitologik test o'tkazgan bemorlar soniga nisbati sifatida beriladi. U bezgak bo'yicha kasallanish ko'rsatkichlari qatorida keltirilgan va diagnostika natijasining ulushini ko'rsatadi [4].",
+        "Qo'llanmada ta'kidlanishicha, tendensiyalarni tahlil qilishda qon tekshirishning yillik darajasi bilan birga testning musbatlik darajasiga qarash foydali, chunki u umumiy bemorlar oqimi, diagnostika va hisobot berish o'zgarishlaridan kamroq buziladi. Shu bois ikkala ko'rsatkich birga baholanadi [4]."
+      ]
+    },
+    {
+      "heading": "Qon tekshirishning yillik holati va parazitar indeks",
+      "content": [
+        "Uslubiy qo'llanmada bezgakni tugatgandan keyingi epidemiya kengligi va og'irligini baholash uchun JSSTning hujum bosqichi dasturi asosida epidemiologik nazorat o'tkazish zarurligi yozilgan. Oddiy ko'rsatkichlarga qo'shimcha qonni tekshirishning yillik holati, yillik parazitar indeks va P. falciparum aniqlanish foizi tahlil qilinadi [2].",
+        "Shunday qilib, qonni tekshirishning yillik holati milliy hujjatdagi qon preparatlarini tekshirish indeksi bilan bir xil yo'nalishdagi ko'rsatkichlar qatoriga kiradi. Qo'llanmada bu ko'rsatkichlarning hisoblash formulasi keltirilmagan, shuning uchun ularning aniq ta'rifi tasdiqlanmagan hisoblanadi [2]."
+      ]
+    },
+    {
+      "heading": "Shartli hisoblash misoli",
+      "content": [
+        "Hisoblash tartibini ko'rsatish uchun shartli misol keltiramiz; raqamlar manbadan olinmagan va faqat arifmetikani tushuntiradi. Faraz qilaylik, tuman aholisi 50 000 kishi, yil davomida parazitologik test o'tkazgan bemorlar 2 500 nafar. Qon tekshirishning yillik darajasi 2 500 ni 50 000 ga bo'lib, 100 ga ko'paytirilganda 5 foiz chiqadi [4].",
+        "Agar ular orasida tasdiqlangan holat 5 ta bo'lsa, testning musbatlik darajasi 5 ni 2 500 ga bo'lganda 0,2 foizni tashkil qiladi. Shu tarzda ikki ko'rsatkich birgalikda tekshirish qamrovini va topilish ulushini beradi. Milliy indeks formulasi bundan farq qilishi mumkin [1, 4]."
+      ]
+    },
+    {
+      "heading": "Parazit zichligini sanash: boshqa ko'rsatkich",
+      "content": [
+        "Parazitlarni sanash standart amaliy muolajasida qalin tomchida parazitlar soni qondagi leykotsitlarga nisbatan hisoblanadi, leykotsitlarning standart miqdori 1 mkl qonda 8000 deb olinadi. Formula: topilgan parazitlar soni 8000 ga ko'paytirilib, sanalgan leykotsitlar soniga bo'linadi [5].",
+        "Yupqa surtmada hisob eritrotsitlarning standart miqdori, ya'ni 1 mkl da 5 000 000 asosida olib boriladi. Bu yerda natija 1 mkl qondagi parazit soni bo'ladi, ya'ni parazit zichligi. U kasallik og'irligini baholashga xizmat qiladi va qon tekshirish indeksidan farqli ko'rsatkichdir [5]."
+      ]
+    },
+    {
+      "heading": "Preparatni ko'rish hajmi",
+      "content": [
+        "Hisobga olinadigan preparatlarning sifati ko'rilgan maydonlar soniga ham bog'liq. Standart amaliy muolajada bezgak parazitlari topilmadi deb xulosa berishdan oldin immersion obyektivda kamida 100 ko'rish maydoni tekshirilishi shart, ishonchli natija uchun esa 200 maydon maqsadga muvofiq deyilgan [5].",
+        "Uslubiy qo'llanmada ham parazit topilmasa bezgak tashxisi inkor etilishi va tashxisda ko'rilgan maydonlar soni ko'rsatilishi yozilgan. Shu sababli manfiy natijani qayd etishda ko'rish hajmi hujjatlashtirilishi kerak [2, 5]."
+      ]
+    },
+    {
+      "heading": "Parazitar va taloq indekslari",
+      "content": [
+        "Hududning endemiklik darajasi boshqa indekslar bilan ham tavsiflanadi. JSST tasnifi bo'yicha 2-9 yoshdagi bolalarda taloq indeksi 10 foizgacha bo'lsa gipoendemiya, 11-50 foiz mezoendemiya, 51-75 foiz giperendemiya, 76 foizdan yuqori bo'lsa goloendemiya. Bir yoshgacha bolalarda parazitar indeks doim 75 foizdan yuqori [2, 6].",
+        "Taloq indeksi bu bolalar orasida taloqi kattalashganlar ulushi, parazitar indeks esa tekshirilganlar orasida parazitemiyasi borlar ulushi. Ular qon preparatlarini tekshirish hajmini emas, tekshirilgan guruhdagi zararlanish darajasini ko'rsatadi va asosan endemik o'choqlarni tavsiflashda qo'llanadi [2, 7]."
+      ]
+    },
+    {
+      "heading": "Parazitolog-shifokor uchun ahamiyati",
+      "content": [
+        "Parazitolog tuman bo'yicha tekshirilgan preparatlar sonini, ularning isitmali bemorlar va chet elga borib kelganlar bo'yicha taqsimotini muntazam yuritib, indeksni davriy hisoblab borishi kerak. Past ko'rsatkich diagnostika faolligi yetarli emasligiga shubha tug'dirishi mumkin [1, 4].",
+        "Bezgak yo'qligining haqqoniyligini respublika va viloyat DSENM komissiyasi so'nggi 3 yil ma'lumotlari asosida tekshiradi. Diagnostika monitoringida birlamchi hujjatlar va jurnallarning yuritilish sifati ham baholanadi. Indeks shu hisob ma'lumotlariga tayanadi [1]."
+      ]
+    },
+    {
+      "heading": "Tasdiqlanmagan ma'lumotlar",
+      "content": [
+        "Milliy qon preparatlarini tekshirish indeksi (IIK, QTI) uchun aniq hisoblash formulasi, maxraj va ko'paytirish koeffitsiyenti (100 yoki 1000), shuningdek me'yoriy qiymati kutubxona materiallarida topilmadi. Shuning uchun bu jihatlar tasdiqlanmagan hisoblanadi va formula taxmin qilib yozilmadi [1, 3].",
+        "Ikkinchidan, JSST hujjati 2018 yil nashri bo'lib, sahifasida ikkinchi nashr bilan almashtirilgani ko'rsatilgan. Shu sababli keltirilgan ABER va musbatlik ko'rsatkichi ta'riflari hozirgi tahrir bilan solishtirilishi mumkin. Milliy IIK bilan JSST ABER birligi (preparat yoki bemor) ham farq qilishi mumkin [4]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Tekshirilgan qonning indeksi, ya'ni qon preparatlarini tekshirish indeksi (IIK), tuman DSENM parazitologiya bo'limi tomonidan isitmali bemorlar va chet elga borib kelganlarning hisobga olingan preparatlari asosida hisoblanadigan ko'rsatkichdir. Aniq milliy formula topilmadi, JSST bo'yicha yaqin ko'rsatkichlar qon tekshirishning yillik darajasi va testning musbatlik darajasidir [1, 3, 4]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Parazitologiya mutaxassisligi bo'yicha shakllantirilgan og'zaki savollar ro'yxati (uchinchi va ikkinchi malaka toifasi uchun). xayrullokomilov.uz/kutubxona, material ID 2470.",
+    "World Health Organization. Malaria surveillance, monitoring & evaluation: a reference manual. Geneva: WHO, 2018. ISBN 978-92-4-156557-8. https://www.who.int/publications/i/item/9789241565578",
+    "Микроскопия малярии. Стандартная операционная процедура ММ-SOP-09: подсчёт малярийных паразитов. РесЦГСЭН МЗ РУз, версия 1, 2017. xayrullokomilov.uz/kutubxona, material ID 1605.",
+    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "Малярия (o'quv materiali). xayrullokomilov.uz/kutubxona, material ID 1457."
+  ]
+}

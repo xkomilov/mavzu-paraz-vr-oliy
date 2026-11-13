@@ -1,0 +1,74 @@
+{
+  "number": 35,
+  "title": "35. Bezgak chivinlarini asosiy turining tavsifi.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgak qo'zg'atuvchilarini Anopheles turkumiga mansub urg'ochi chivinlar tashiydi, biroq turkumning har bir turi bir xil epidemiologik ahamiyatga ega emas. Bir tur bir sharoitda bezgakning asosiy, boshqa sharoitda ikkinchi darajali tashuvchisi bo'lishi mumkin, chunki bu iqlim, geografiya va ekologiyaga bog'liq [1].",
+      "Esseda avval Anopheles turkumining o'rni va O'zbekiston faunasi, so'ng asosiy tashuvchi hisoblanadigan turlarning tavsifi, ikkinchi darajali turlar va kurash taktikasi bayon etiladi. Manbalar o'rtasidagi farqlar ham ochiq ko'rsatiladi [1, 2]."
+    ]},
+    {"heading": "Anopheles turkumining o'rni", "content": [
+      "Culicidae oilasi Anophelinae, Toxorhynchitinae va Culicinae kenja oilalariga bo'linadi. Dunyoda Anopheles turkumiga kiruvchi chivinlarning taxminan 500 turi bor, ulardan faqat 70 tasi bezgak tashuvchisi hisoblanadi [1].",
+      "JSST o'quv qo'llanmasi ham taxminan 490 tur, jumladan egizak turlar mavjudligini, 60 dan 70 gacha turi bezgakni yuqtira olishini va taxminan 30 tasi muhim tashuvchi ekanini bildiradi. Ba'zi turlar hayvon qonini afzal ko'rgani uchun odamga kam yuqtiradi [7]."
+    ]},
+    {"heading": "O'zbekiston Anopheles faunasi", "content": [
+      "Tibbiy entomologiya o'quv qo'llanmasiga ko'ra MDH hududida bezgak chivinlarining 22 turi bor, O'zbekistonda esa 7 turi topilgan: algeriensis, artemievi, claviger, hyrcanus, martinius, pulcherrimus va superpictus. Ular ikki kenja turkum, Anopheles va Cellia, tarkibiga kiradi [1].",
+      "Taqdimotda O'zbekiston ro'yxati sakkizta tur bilan berilgan, unda yuqoridagilarga An. maculipennis ham qo'shilgan. Qo'llanmada maculipennis kompleksi 1970 yillargacha politipik tur deb sanalgani, hozir sakkiz turga ajratilgani va artemievi ular qatoriga kirgani aytiladi [1, 2]."
+    ]},
+    {"heading": "Asosiy va ikkinchi darajali tashuvchilar", "content": [
+      "Taqdimotga ko'ra O'zbekistonda asosiy tashuvchilar uch tur: An. maculipennis, An. pulcherrimus va An. superpictus. Ikkinchi darajali yoki epizodik tur sifatida claviger, hyrcanus va martinius, rolini hali aniqlanmagan tur sifatida algeriensis ko'rsatilgan [2].",
+      "Qo'llanmada hozirgi vaqtda superpictus, artemievi va pulcherrimus O'zbekistonda bezgakni tarqatishda eng xavfli turlar deyiladi. Ikkala manba ham superpictus bilan pulcherrimusni asosiy tashuvchi deb ataydi, farq faqat uchinchi turda, ya'ni maculipennis yoki artemievida [1, 2]."
+    ]},
+    {"heading": "An. superpictus: belgilari va tarqalishi", "content": [
+      "An. superpictus Cellia kenja turkumiga kiradi, imagoning qanoti old qismida to'rtta oq dog' bo'lishi bilan boshqa turlardan ajraladi. Tur asosan O'rta Osiyoda keng tarqalgan bo'lib, O'zbekistonda tog' oldi va tog'li hududlarda ko'p uchraydi, dengiz sathidan 2800 metrgacha aniqlangan [1].",
+      "Lichinkalari sekin oqadigan, kalsiy tuzlariga boy, toza, yaxshi isiydigan suvlarda, sholipoyalarda, turg'un va sizot suvlarda uchraydi. Daryolarning toshloq o'zanlari, buloqlar va kichik turg'un suv havzalari ham ko'payish joyi, rivojlanish uchun qulay harorat +30 dan 35 °C gacha [1, 2]."
+    ]},
+    {"heading": "An. superpictus: ekologiyasi va ahamiyati", "content": [
+      "Imago endofil va endofag, ya'ni yashash binolarida, molxonada, xo'jalik xonalari va yerto'lalarda ko'p topiladi hamda odam va hayvonlarga bino ichida hujum qiladi. Soni yozning ikkinchi yarmida ortadi, urg'ochilari qishlaydi va xona issiq bo'lsa butun qish davomida qon so'rishi mumkin [1, 2].",
+      "O'rta Osiyoning tog' va tog' oldi tumanlarida bu tur bezgakning asosiy tashuvchisi hisoblanadi. Odam yashash joylariga bog'liqligi, yoz davomida sonining ko'pligi va bir gonotrofik davrda bir necha marta qon so'rashi uni eng xavfli turga aylantiradi [1, 3]."
+    ]},
+    {"heading": "An. pulcherrimus: belgilari va rivojlanishi", "content": [
+      "An. pulcherrimus ham Cellia kenja turkumiga kiradi, qanotining old qismida to'rtta oq dog' bor. Tana va qanotlaridagi oq tuklar uni quyoshdan himoya qiladi va shu belgi bilan An. superpictusdan farqlanadi, tur O'rta Osiyoning janubiy tekisliklarida keng tarqalgan [1].",
+      "Lichinkalari o'simlikka boy, yaxshi isiydigan suv havzalarida va sholipoyalarda rivojlanadi, optimal harorat +30 °C va undan yuqori. Qalin suv o'tlari bilan qoplangan havzalarda uchramaydi, lichinkalar III bosqichda doimiy suv havzalarida qishlaydi, lichinkalar soni avgust va sentyabrda eng ko'p bo'ladi [1]."
+    ]},
+    {"heading": "An. pulcherrimus: imagosi va ahamiyati", "content": [
+      "Imago past tekislikka moslashgan, dengiz sathidan 500 dan 1000 metrgacha tarqalgan, issiqqa chidamli yarim ekzofil tur. Kunduzgi boshpanalari bostirma, ochiq molxona, loy devor, butazor va g'orlar bo'lib, urg'ochilari o'lja izlab uzoqqa uchadi [1].",
+      "Mualliflar bu turning bir marotabalik uchishi Haydarko'l ustida bir necha soatda 6 km, boshqa kuzatuvda uchish joyidan 25 km gacha masofada qayd etilganini keltiradi. Markaziy Osiyo tekisliklarida bu tur asosiy tashuvchi hisoblanadi, bezgak mavsumining eng issiq vaqtida soni ortadi [1, 3]."
+    ]},
+    {"heading": "An. artemievi va maculipennis kompleksi", "content": [
+      "An. artemievi qanotida tangachalardan hosil bo'lgan qora dog'lar bo'ladi. O'zbekistonda Qoraqalpog'iston, Surxondaryo, Buxoro, Navoiy va Xorazm viloyatlaridan boshqa barcha viloyatlarda keng tarqalgan, lichinkalari asosan sholizorlarda, oqava va turg'un suvli ariqlarda ko'payadi [1].",
+      "Taqdimotda maculipennis va artemievi birgalikda berilgan: lichinka sekin oqadigan suvlarda, imago endofil, odamga uyda va tashqarida hujum qiladi, bir gonotrofik davrda qayta qon so'rgani kuzatilgan. Urg'ochilari qishlaydi, qishda ham qon so'raydi, tur Markaziy Osiyo va Qozog'istonda asosiy tashuvchi hisoblanadi [1, 2]."
+    ]},
+    {"heading": "Ikkinchi darajali turlar", "content": [
+      "An. martinius yarim ekzofil va zoofil bo'lib, yilning issiq vaqtida soni kamligi tufayli ikkinchi darajali rol o'ynaydi. An. claviger ekzofil, namsevar, sovuq buloq suvlarida ko'payadi va uchib chiqqan joyidan uzoqqa ketmaydi, bezgakni tarqatishda u ham ikkinchi darajali [2].",
+      "An. hyrcanus ekzofil bo'lib, sholipoyalarda va qamishli zovurlarda uchraydi, qonni ochiq tabiatda hazm qiladi. Uning roli yaxshi o'rganilmagan, biroq taqdimotga ko'ra epidemiya bo'lgan joylarda birinchi darajali tashuvchi hisoblanadi. An. algeriensisning roli aniqlanmagan [1, 2]."
+    ]},
+    {"heading": "Endofiliya va kurash taktikasi", "content": [
+      "Taqdimotga ko'ra maculipennis va superpictus endofil, claviger va hyrcanus ekzofil, pulcherrimus va martinius yarim ekzofil. Bu farq amaliyotda muhim, chunki endofil turlarga qarshi binolarga qoldiq ta'sirli insektitsidlar bilan ishlov berish asosiy usul hisoblanadi [2].",
+      "Yarim ekzofil turlarga ishlov bezovtalanish bo'lmagan taqdirda qo'llanadi, ekzofil turlarga qarshi insektitsid shimdirilgan to'rlar, gidrotexnik tadbirlar va kichik suv havzalarida lichinkalarga qarshi ishlov ko'rsatilgan. Bu tanlov turning ekologiyasini bilishdan boshlanadi [2, 3]."
+    ]},
+    {"heading": "Turlarni aniqlash usullari", "content": [
+      "Turlarni aniqlashda tuxum, lichinka va imagoning tashqi morfologik belgilariga e'tibor beriladi: qanot dog'lari, tuxum ekzoxorionining naqshi, erkak chivinlarning jinsiy ilovalari. Egizak turlarda tashqi belgilar yetmasa, kariosistematik va molekulyar-genetik usullar qo'llanadi [1].",
+      "Anopheles lichinkasida sifon bo'lmaydi va suv yuzasiga parallel turadi, imago esa devorga 45 daraja burchak ostida o'tiradi. JSST qo'llanmasi ham anofelin lichinkada sifon yo'qligini, culicin lichinka esa suv yuzasiga sifon bilan osilishini ta'kidlaydi [1, 4, 7]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor o'z hududidagi asosiy tashuvchi turni bilishi kerak, chunki profilaktika taktikasi, ishlov turi va muddati shunga bog'liq. Milliy yo'riqnoma entomologlardan Anopheles entomofaunasini, ayniqsa qishlash, kunlash va ko'payish bosqichlarini bilishni talab qiladi, endofiliya va antropofiliya esa tashuvchilik qobiliyatini belgilaydi [5, 6].",
+      "Shuningdek, tur tarkibi va sonining mavsumiy o'zgarishi bezgak o'choqlarini baholashda foydalaniladi. JSST tavsiyalariga asoslangan Farg'ona ma'ruzasida tashuvchi sonini kamaytirishdan ko'ra qari, epidemiologik xavfli urg'ochilarni yo'qotish muhimroq deyiladi [3]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Manbalar asosiy tashuvchi turlar ro'yxatida bir xil emas. Qo'llanmada An. artemievi eng xavfli turlardan, taqdimotda esa An. maculipennis asosiy tashuvchi sifatida keltirilgan, JSST Yevropa mintaqasi ro'yxatida artemievi epizodik tashuvchilar qatoriga kiritilgan. Bu farqni men yagona xulosaga keltirmadim [1, 2, 3].",
+      "Artemievi uchun qulay lichinka harorati qo'llanmada +30 dan 35 °C gacha, taqdimot va Fargona ma'ruzasida esa +25 dan 30 °C gacha ko'rsatilgan. Turlarning hozirgi sonlari, viloyatlar kesimidagi zararlanish foizi va yangi molekulyar ma'lumotlar bu yerda tasdiqlanmadi [1, 2, 3]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "O'zbekistonda manbalarning umumiy xulosasiga ko'ra bezgakning asosiy tashuvchilari An. superpictus va An. pulcherrimus, shuningdek An. maculipennis kompleksiga kiruvchi An. artemievi; An. claviger, hyrcanus va martinius ikkinchi darajali ahamiyatga ega. Har bir tur ekologiyasi kurash choralarini tanlashga asos bo'ladi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+    "Жахонгиров Ш.М. Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi: taqdimot. L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1575.",
+    "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ: презентация. ОблЦГСЭН Ферганской области, Фергана, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
+    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Бакинский государственный университет. xayrullokomilov.uz/kutubxona, material ID 1604.",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "World Health Organization. Malaria entomology and vector control: guide for participants (Training module on malaria control). Geneva: WHO, 2013. ISBN 978 92 4 150581 9. https://afro.who.int/sites/default/files/2017-06/9789241505819_eng.pdf"
+  ]
+}

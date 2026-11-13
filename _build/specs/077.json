@@ -1,0 +1,77 @@
+{
+  "number": 77,
+  "title": "77. Enterobioz, etiologiyasi, epidemiologiyasi.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Enterobioz ostritsa (Enterobius vermicularis) qo'zg'atadigan, ayniqsa bolalar orasida keng tarqalgan ichak gelmintozidir. U odamdan odamga bevosita muloqot va ifloslangan buyumlar orqali yuqadi, shu sababli bolalar jamoalarida tez tarqaladi va oila hamda muassasalarda qayta zararlanishga moyil bo'ladi [1, 3].",
+      "Ushbu esseda enterobiozning ta'rifi, qo'zg'atuvchining taksonomiyasi va morfologiyasi, hayot sikli, tuxumning tashqi muhitdagi chidamliligi, invaziya manbai va yuqish mexanizmi, shuningdek O'zbekistondagi milliy talablar hamda Farg'ona viloyati ma'lumotlari ko'rib chiqiladi [1, 2, 4, 6]."
+    ]},
+    {"heading": "Ta'rif va tasnif", "content": [
+      "Davolash bayonnomasida enterobioz orqa teshik atrofida qichish va dispeptik belgilar bilan kechadigan, tez-tez takrorlanadigan autoinvaziya tufayli surunkali bo'ladigan antroponoz kontaktli ichak gelmintozi deb ta'riflanadi. Bayonnomada u B80 shifri bilan berilgan, qo'zg'atuvchisi ostritsa (yumaloq qilgijja) hisoblanadi [3].",
+      "Gijja taqdimotida enterobioz kontagioz, ya'ni muloqot orqali yuqadigan gelmintozlar guruhiga kiritilgan: ularning tuxumi bemordan ajralgan zahoti yuqumli bo'ladi va odam atrofidagi buyumlar orqali tarqaladi. Faqat odam kasallanadi, shu sababli yagona manba kasal odamdir [6]."
+    ]},
+    {"heading": "Qo'zg'atuvchi taksonomiyasi", "content": [
+      "Enterobius vermicularis Nemathelminthes tipiga, Nematoda sinfiga, Rhabditida turkumiga, Oxyurata kenja turkumiga va Oxyuridae oilasiga mansub. Nomi yunoncha enteron (ichak) va bios (hayot) so'zlaridan olingan, eski nomi «ostritsa» bo'lib, bu gelmintoz Gippokrat va Aristotelga ham ma'lum bo'lgan [1].",
+      "Darslikda Avitsenna «Tib qonunlari»da ostritsani achchiq shuvoq va erkak paporotnik bilan davolashni tavsiya qilgani yozilgan. Bu tarixiy ma'lumot enterobiozning qadimdan ma'lum ekanini ko'rsatadi, hozirgi davolash esa milliy bayonnoma talablariga muvofiq o'tkaziladi [1, 3]."
+    ]},
+    {"heading": "Morfologiya", "content": [
+      "Ostritsa mayda oq nematoda: urg'ochisining uzunligi 9-12 mm, erkagi 2-5 mm, erkagining dum uchi qorin tomonga spiral egilgan. Bosh uchida kutikulyar vezikulalar bor, qizilo'ngachning orqa qismida bulbus joylashgan, ular birgalikda ichak devoriga mahkamlanish apparatini hosil qiladi [1].",
+      "Tuxumi cho'zinchoq, biroz assimmetrik, o'lchami 50-60 x 20-30 mkm. Taqdimotda urg'ochisi 0,9-1,2 sm, erkagi 0,2-0,5 sm deb yozilgan, bu o'lchamlar darslikdagi bilan mos keladi va bemor ota-onalar najasda ko'rishi mumkin bo'lgan oq ipsimon gijjaga to'g'ri keladi [1, 3, 6]."
+    ]},
+    {"heading": "Hayot sikli", "content": [
+      "Odam yetilgan lichinkali tuxumni yutganda zararlanadi. Lichinkalar o'n ikki barmoqli ichakda tuxum qobig'idan chiqadi, och va yonbosh ichakka tushib bir necha marta tullaydi va 14-15 kundan keyin ingichka ichakning pastki qismida jinsiy yetuk ostritsaga aylanadi; odatda ko'richakda parazitlik qiladi [1].",
+      "Urg'ochi bachadonida 5 mingdan 17 minggacha tuxum yig'iladi. Tuxumga to'lgan urg'ochi ichakka mahkamlana olmay, to'g'ri ichakka tushadi va kechqurun hamda tunda anus sfinkteri bo'shashganda tashqariga o'rmalab chiqadi. Perianal burmalarda tuxum qo'yadi va halok bo'ladi, umri ichakda 3-4 hafta [1]."
+    ]},
+    {"heading": "Tuxumning yetilishi va chidamliligi", "content": [
+      "Tuxumlar teri yuzasida nam, kislorod va taxminan 36 daraja harorat sharoitida 4-6 soatda invazion lichinkali bo'lib yetiladi. Tashqi muhitda ular 22-40 darajada yaxshi rivojlanadi, optimal harorat 36 daraja, namlik 90 foizdan past; 41-42 darajada bir necha daqiqada halok bo'ladi [1, 2].",
+      "4-13 darajada tuxumlar taxminan 7 kun, -15 darajada esa 40-50 daqiqa yashaydi. Boshqa darslikda tuxumlar noqulay sharoitda uch haftagacha tirik qolishi va zaif dezinfeksiya eritmalari ularni o'ldirmasligi ko'rsatilgan; milliy yo'riqnomada xlorli eritmalar gelmint tuxumiga ta'sir qilmasligi aytilgan [1, 2, 4]."
+    ]},
+    {"heading": "Invaziya manbai va yuqish mexanizmi", "content": [
+      "Yagona invaziya manbai enterobioz bilan kasallangan odam. Zararlanish bemor bilan bevosita muloqotda yoki tuxum bilan ifloslangan buyumlar va oziq-ovqat orqali sodir bo'ladi; qichishgan joyni qashiganda tuxumlar barmoq va tirnoq ostiga yopishadi hamda og'izga olib boriladi [2].",
+      "Tunda tuxumlar bemor tanasidan ich kiyim va choyshabga, u yerdan polga, mebelga va boshqa buyumlarga tushadi, ayrim hollarda barmoq bilan burun va og'izga ham olib o'tiladi. Shu sababli zararlanish asosan bemorning ifloslangan qo'llari orqali yuz beradi va zararlanganlar tez-tez qayta zararlanadi [1]."
+    ]},
+    {"heading": "Autoinvaziya va reinvaziya", "content": [
+      "Davolash bayonnomasida tez-tez takrorlanadigan autoinvaziya enterobiozning surunkali kechishiga sabab bo'lishi alohida ta'kidlangan. Tuxum perianal teriga qo'yilgani va qichima bola qo'lini ifloslantirgani uchun bola o'zini qayta zararlaydi, tuxumli qo'l og'izga tushganda sikl yangidan boshlanadi [1, 3].",
+      "Milliy yo'riqnomada davolangan bola 4 kun gijja tuxumlarini ajratishi ko'rsatilgan, shu sababli davolash dam olish kunlariga rejalashtiriladi. Yo'riqnomaga ko'ra oiladagi aloqadorlar tekshiriladi yoki tekshiruvsiz profilaktik davolanadi, bayonnomada esa samarali degelmintizatsiya uchun oila a'zolari va muassasa tarbiyalanuvchilarini bir vaqtda davolash lozimligi ko'rsatilgan [3, 4]."
+    ]},
+    {"heading": "Tashqi muhitning ifloslanishi", "content": [
+      "Sanitar parazitologiya darsligida shimoliy Rossiya bolalar bog'chalari va maktablarida turli obyektlarning ostritsa tuxumlari bilan ifloslanishi 30,9-46,3 foizga yetgani yozilgan. Eng ko'p eshik va shkaf tutqichlari (38,5-60,0 foiz), o'yinchoqlar (35,3-62,5), kiyim (40,0-45,4) va choyshab (26,6-41,7) ifloslangan [5].",
+      "Yo'riqnomada bunday obyektlardan surtma olinadi: o'yinchoq, choyshab, gilam, kiyim shkafi, eshik tutqichi, ovqatlanish stollari va o'yin maydonchasidagi tuproq. Bitta namunada ham musbat natija sanitariya-gigiena tartibining qo'pol buzilishi hisoblanadi, shuningdek bolalar va xodimlar qo'lidan alohida surtma olinadi [4, 5]."
+    ]},
+    {"heading": "Moyil guruhlar", "content": [
+      "Darslikda enterobioz bolalar bog'chasi va kichik sinf o'quvchilari orasida hamma joyda tarqalgan gelmintoz ekani, ko'p bolada belgisiz kechishi qayd etilgan. Gelmintozlardan faqat enterobioz va gimenolepidoz, ya'ni muloqot orqali yuqadiganlari, butun dunyoda uchraydi [1].",
+      "Milliy yo'riqnomada enterobiozga tekshiriladigan guruhlar belgilangan: maktabgacha muassasa bolalari va xodimlari, 1-4 sinf o'quvchilari, dekret kontingent, bolalar uylari va bolalar shifoxonasiga yotqiziladiganlar, basseynga qatnaydigan bolalar va kasallar bilan muloqotdagilar [4]."
+    ]},
+    {"heading": "Farg'ona viloyati ma'lumotlari", "content": [
+      "Farg'ona viloyati DSENM ma'ruzasiga ko'ra, 10 ta tanlangan bolalar muassasasida 50 nafardan bolani Kato-Katts va surtma usulida tekshirishda 500 bolaning 173 tasida (34,6 foiz) gijja topilgan. 2012 yilda 3 hududda 300 bola tekshirilganda 80 tasi (26,6 foiz) zararlangan [6].",
+      "Maktab o'quvchilari orasida gijja turlari bo'yicha taqsimot taqdimotda quyidagicha berilgan: enterobioz 75,4 foiz, gimenolepidoz 12,4 foiz, ikkalasi birga 12,2 foiz. Qo'shtepa tumanidagi maktabda 20 daqiqa kuzatilgan 20 o'quvchining 14 tasi, ya'ni 70 foizi hojatxonadan chiqib qo'lini yuvmagan, ota-onalarning 55,3 foizida bilim yetarli bo'lmagan [6]."
+    ]},
+    {"heading": "Epidemiologik nazorat mezonlari", "content": [
+      "Bolalar jamoasida bir marta tekshirilganda zararlanish 15 foiz va undan yuqori bo'lsa, jamoa 100 foiz davolanadi va sog'lomlashtirish samarasi laboratoriya qayta tahlili bilan tekshiriladi. Bunday hollarda muassasadagi 100 foiz bola va xodimga 1-2 kurs degelmintizatsiya o'tkaziladi [4].",
+      "Yopiq turdagi bolalar muassasalarida oldindan tekshiruvsiz yiliga 2 marta bir kursli profilaktik davolash o'tkaziladi. Enterobioz bilan kasallanganlar 3 marta, 2-3 kun oralatib tekshiriladi; davolash bayonnomasida muassasalar va tashqi muhit obyektlarini yiliga 2 marta tekshirish ko'zda tutilgan [3, 4]."
+    ]},
+    {"heading": "Profilaktika va o'choqdagi chora", "content": [
+      "O'choqlarda bolalarga shaxsiy gigiena o'rgatiladi, tuvaklar alohida ajratiladi va zararsizlantiriladi, idish va o'rindiqlar qaynoq suv bilan ishlanadi, alohida sochiq beriladi. Ich kiyim va choyshablar dazmollanadi, yumshoq o'yinchoqlar changyutgich bilan tozalanadi, qattiq buyumlar sovun-soda eritmasi bilan yuviladi [4].",
+      "Kuniga ikki marta sovun-soda eritmalari bilan namli yig'ishtirish o'tkaziladi; xlorli eritmalar tuxumga ta'sir qilmagani uchun ishlatilmaydi. Bolalarda tirnoqni qisqa olish, tirnoq chaynashni to'xtatish, uxlashdan oldin va erta bilan yuvinish hamda ich kiyimni har kuni almashtirish tavsiya etilgan [2, 4]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor enterobioz o'chog'ida bemorni emas, butun jamoa va oilani baholashi kerak: tuxumlar buyumlarda, qo'lda va changda saqlanadi, yagona manba esa odam. Shu sababli epidemiologik tekshiruv, o'choq pasporti va muassasadagi sanitariya holati bir vaqtda o'rganiladi [1, 4].",
+      "Davolash va nazoratni rejalashtirishda tuxum chidamliligi va qayta zararlanish xavfi hisobga olinadi: davolash dam olish kunlarida o'tkaziladi, nazorat tekshiruvlari 2-3 kun oralatib uch marta o'tkaziladi, kontaktdagilar bir vaqtda davolanadi yoki profilaktik davo oladi [3, 4]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Manbalarda raqamlar farq qiladi. Urg'ochi ostritsa bachadonida tuxum soni bir darslikda 5-17 ming, boshqa darslik va taqdimotda 12 ming gacha deb yozilgan; lichinkaning voyaga yetishi birida 14-15 kun, ikkinchisida 15-26 kun deb ko'rsatilgan. Tuxumlar 4-13 darajada 7 kun, boshqa manbada uch haftagacha tirik qolgan [1, 2, 6].",
+      "O'zbekiston bo'yicha enterobiozning yagona respublika darajasidagi tarqalish ko'rsatkichi ko'rilgan manbalarda topilmadi; Farg'ona ma'lumotlari faqat bitta viloyatga tegishli, atrof-muhit obyektlarining tuxum bilan ifloslanish foizlari esa shimoliy Rossiya muassasalaridan olingan va O'zbekistonga ko'chirilmaydi (tasdiqlanmagan) [5, 6]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Enterobioz Enterobius vermicularis qo'zg'atadigan, yagona manbasi kasal odam bo'lgan kontakt gelmintozdir. Uning tarqalishini perianal burmalarga qo'yilgan tuxumlarning tez yetilishi, ifloslangan qo'l va buyumlar hamda autoinvaziya belgilaydi, shuning uchun nazorat jamoani bir vaqtda davolash va gigiena choralariga tayanadi [1, 3, 4]."
+    ]}
+  ],
+  "references": [
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "Parazitar kasalliklarni davolash bayonnomalari (enterobiozni davolash bayonnomasi, B80). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+    "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581."
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "number": 92,
+  "title": "92. Geogelmintoz holatlarini va o'chog'ini epidemiologik tekshirish.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Geogelmintozlar, ya'ni askaridoz va trixotsefalyoz, bo'yicha epidemiologik tekshirish har bir aniqlangan holat va u bilan bog'liq o'choqni o'rganishni o'z ichiga oladi. Maqsad zararlanish sabablarini, yuqish omillarini va o'choq turini aniqlab, sog'lomlashtirish tadbirlarini asoslashdir [1, 2].",
+      "Esseda holatni ro'yxatga olish, tekshiriladigan kontingent, o'choqni pasportlashtirish, tashqi muhit namunalarini olish, retrospektiv va operativ tahlil, o'choq turini baholash hamda uni hisobdan chiqarish tartibi yoritiladi. Davolash va profilaktika alohida mavzularda ko'riladi [1, 2]."
+    ]},
+    {"heading": "Holatni ro'yxatga olish va xabarnoma", "content": [
+      "Yo'riqnomaga ko'ra har bir askaridoz va trixotsefalyoz holatiga shoshilinch xabarnoma 058/u shakli yuboriladi. Invaziyalanganlarni degelmintizatsiya qilish va uning samaradorligini aniqlashni davolash-profilaktika muassasalarining butun tizimi amalga oshiradi [1].",
+      "Klinik-diagnostik laboratoriyalarning gelmintozlarni aniqlash bo'yicha faoliyatini hududiy DSENM nazorat qiladi. Ko'rsatma va tanlab tekshirish koproovoskopiya usulida o'tkaziladi; epidemiologik ko'rsatmalar bo'yicha va mikroo'choqlardagi aholini DSENM shifokori yoki laboranti tekshiradi [1]."
+    ]},
+    {"heading": "Tekshiriladigan kontingent", "content": [
+      "Geogelmintozlarni aniqlash va o'choqlarda epidemiologik vaziyatni baholash uchun tanlab tekshirishga 7-14 yoshli bolalar, 3-6 yoshli maktabgacha ta'lim muassasalari bolalari, epidemiologik ko'rsatma bo'yicha kattalar, fermer xo'jaligi ishchilari va sabzavot yetishtiruvchilar kiradi [1].",
+      "Shuningdek shifoxona va ambulatoriya bemorlari tibbiy ko'rsatmaga muvofiq tekshiriladi. Tekshiruvlar samaradorligini va qamrov muddatini hududiy DSENM yilda bir marta nazorat qiladi. Laboratoriya jihatidan Kato-Miura usuli ommaviy tekshiruvlar uchun qulay, flotatsiya esa yumaloq gijja tuxumlariga samarali [1, 3]."
+    ]},
+    {"heading": "Intensivlikni aniqlash", "content": [
+      "O'choqda invaziya intensivligini aniqlash uchun Kato-Kats usuli ishlatiladi: teshikli plastinka yordamida standart miqdordagi najas olinadi va topilgan tuxumlar soni 24 koeffitsiyentiga ko'paytirilib, 1 g najasdagi tuxum miqdori hisoblanadi. Bu usul ommaviy tekshiruvlarda intensivlikni baholashga mo'ljallangan [3].",
+      "Kato-Miura usuli nativ surtmaga qaraganda 20-30 marta ko'proq material ko'rishga imkon beradi, ammo past intensivlikda uning samarasi ancha kamayadi. Shuning uchun salbiy natija past intensivlikda invaziyani butunlay inkor etmaydi va epidemiologik tekshiruvda bu hisobga olinadi [3]."
+    ]},
+    {"heading": "O'choqni epidemiologik tekshirish va pasportlashtirish", "content": [
+      "Invaziyalanganlar aniqlangach parazitolog yoki parazitolog yordamchisi o'choqning epidemiologik tekshiruvini va pasportlashtirishni o'tkazadi hamda 357/u shakldagi epidemiologik kartani to'ldiradi. Tekshiruv natijalari bo'yicha dalolatnoma tuzilib, aniqlangan kamchiliklarni bartaraf etish muddatlari ko'rsatiladi [1].",
+      "Tekshiruvda zararlanish sabablari, xonadonning sanitariya va hojatxonalari holati, uy hayvonlarining mavjudligi, suv bilan ta'minlanishi hamda tomorqada ekinlar bor-yo'qligi hisobga olinadi. Bu o'choqning «asl» yoki «yolg'on» turini aniqlash uchun zarur ma'lumotlarni beradi [1]."
+    ]},
+    {"heading": "O'choq turi va intensivligini baholash", "content": [
+      "Askaridoz va trixotsefalyoz o'choqlari ekstensiv darajasi, ya'ni aholi zararlanishi va mikroo'choqlar soni bilan aniqlanadi. «Asl» o'choqda qo'zg'atuvchi aylanishi va yuqtirish sharoiti bor, «yolg'on» o'choqda esa manba bor, ammo omillar va aylanish sharoiti yo'q [1].",
+      "Askaridozda intensiv o'choqda aholi zararlanishi 30 foiz va undan yuqori, uchastkalar 50 foiz va undan ko'p; o'rta intensivda 15-29 foiz va 40 foiz; sust intensivda 15 foizgacha. Trixotsefalyozda zararlanish mos ravishda 10-15, 3-9 foiz va yakka holatlar ko'rsatilgan [1]."
+    ]},
+    {"heading": "Tuproq namunalarini olish", "content": [
+      "Gelmintologik tahlil uchun har bir namuna maydonchasidan 200 g massali bitta umumlashgan namuna olinadi; u 0-5 va 5-10 sm chuqurlikdan qatlam-qatlam olingan, har biri 20 g bo'lgan o'nta nuqtaviy namunadan tuziladi. Tuproq gelmintologik tekshiruvi kamida yilda bir marta o'tkaziladi [4].",
+      "Bolalar bog'chalari, davolash muassasalari va dam olish zonalari tuprog'i kamida yilda ikki marta, bahor va kuzda tekshiriladi. O'zbekiston sanitariya normasi ham aholi punktlari tuprog'ini, jumladan bolalar o'yin maydonchalarini, 0-10 sm qatlamdan, qishloq xo'jaligi yerlarini 0-25 sm dan steril idishga olishni talab qiladi [4, 5]."
+    ]},
+    {"heading": "Namunalarni saqlash va baholash", "content": [
+      "Gelmintologik namunalar laboratoriyaga olinishi bilanoq yetkaziladi; imkon bo'lmasa 4-5 gradusli muzlatgichda saqlanadi. Geogelmint tuxumlariga tekshiriladigan tuproq ishlov berilmagan holda bir oydan ko'p saqlanmaydi, qurib qolmasligi uchun haftada bir marta namlanib, havo bilan ta'minlanadi [4].",
+      "Sanitariya normasida tuproq ifloslanishining ekstensiv ko'rsatkichi musbat namunalarning jami namunalarga nisbati foizi bilan, intensiv ko'rsatkich esa 100 g yoki 1 kg tuproqdagi tuxum soni bilan aniqlanadi. Sanitariya-muhofaza hududlarida 1 kg tuproqda 5 tagacha tuxum toza, 5 dan ortig'i ifloslangan hisoblanadi [5]."
+    ]},
+    {"heading": "Tuproqni baholashda invazionlik", "content": [
+      "Sanitar parazitologiya qo'llanmasida tuproqning gelmintologik sifatini baholashda tuxumlar miqdoridan ko'ra ularning invazionligi va hayotchanligi muhimroq ekani ta'kidlangan. Kam ifloslangan tuproq ham to'liq invazion tuxumlar bo'lsa, kuchli ifloslangan tuproqdek xavfli bo'lishi mumkin [6].",
+      "Qo'llanmada o'choqlardagi tuproqdagi invazion tuxumlar soni bo'yicha tasnif ham keltirilgan: askaridada 1 kg tuproqda 11-35 tuxum o'rtacha, 36 va undan ko'pi kuchli ifloslanish deb belgilangan. Bunday sxemalar shartli va mahalliy ahamiyatga ega [6]."
+    ]},
+    {"heading": "Retrospektiv va operativ tahlil", "content": [
+      "Epidemiologik nazorat yo'riqnomasiga ko'ra ko'p yillik retrospektiv tahlil kamida oxirgi 5 yilni qamrab oladi: kasallanishning ko'p yillik va mavsumiy dinamikasi, hududlar, yosh, jins va kontingentlar, yuqish yo'llari va omillari, laboratoriya tashxisi holati hamda o'tkazilgan tadbirlar samaradorligi tahlil qilinadi [2].",
+      "Operativ tahlil har kuni, o'tgan hafta va oy uchun o'tkaziladi; unda epidemik jarayon rivoji, sanitar-epidemiologik fon, ichimlik suvi va oziq-ovqat sifati kuzatiladi. Oilaviy o'choqlar va uyushgan jamoalardagi kasallanish alohida tahlil qilinadi [2]."
+    ]},
+    {"heading": "Nazorat va hisobdan chiqarish", "content": [
+      "Sog'lomlashtirish natijasi har bir o'choqdagi 200-300 kishilik doimiy aholi guruhini oxirgi dehelmintizatsiyadan 3 oy o'tgach qayta tekshirish bilan baholanadi. Zararlanish darajasining pasayishi o'tkazilgan chora-tadbirlar samaradorligini ko'rsatadi [1].",
+      "Agar o'choqda 2 yil davomida geogelmintozlar bilan zararlanganlar aniqlanmasa va tashqi muhitning sanitariya-parazitologik tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi. Rossiya taqdimotida ham mikroo'choq 2 yil kuzatilib, shu shartlar bajarilganda ro'yxatdan chiqarilishi aytilgan [1, 8]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Yo'riqnomadagi jadvalda trixotsefalyoz uchun mikroo'choqlardagi uchastkalar ulushi ustunida nol yozilgan, uning mazmuni va foizlari aniq emas; shuning uchun bu ko'rsatkich keltirilmadi. Askaridoz uchun o'rtacha intensivlikda uchastkalar ulushi darslikda 50 foizdan kam deb berilgan, yo'riqnomada esa 40 foiz [1, 7].",
+      "O'zbekistonda geogelmintoz o'choqlari soni, pasportlangan o'choqlar ulushi va tuproqdagi tuxum miqdorining mahalliy ko'rsatkichlari tekshirilgan manbalarda topilmadi. Rossiya adabiyotidagi tuproq tasnifi va ariq suvi me'yorlari O'zbekiston normativi emas [6]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Geogelmintoz o'chog'ini epidemiologik tekshirish holatni ro'yxatga olish, aholini koproovoskopik tekshirish, o'choqni pasportlashtirish, tuproq va tashqi muhit namunalarini tahlil qilish hamda ko'p yillik tahlilni o'z ichiga oladi. Yakuniy maqsad o'choq turini aniqlash va sog'lomlashtirish samarasini baholashdir [1, 2, 5]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+    "ГОСТ 17.4.4.02-2017. Межгосударственный стандарт. Охрана природы. Почвы. Методы отбора и подготовки проб для химического, бактериологического, гельминтологического анализа. xayrullokomilov.uz/kutubxona, material ID 1053.",
+    "Sanitariya qoidalari, normalari va gigiyena normativlari 0112-26-son SanQvaN «Tuproqning sanitariya-gigiyenik holatini baholash hamda tuproqdagi ekzogen zararli moddalarning ruxsat etilgan maksimal va taxminiy konsentratsiyalariga doir». xayrullokomilov.uz/kutubxona, material ID 2702.",
+    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580."
+  ]
+}

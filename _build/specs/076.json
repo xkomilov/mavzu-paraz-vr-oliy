@@ -1,0 +1,72 @@
+{
+  "number": 76,
+  "title": "76. Gelmintlar bilan zararlanish simptomlari.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Gelmintlar bilan zararlanish belgilari gijjaning turiga, joylashgan a'zosiga, sonining ko'pligiga va kasallik bosqichiga bog'liq. Darslikda ko'pchilik gelmintozlar uzoq davom etishi va belgisiz kechishdan og'ir shakllargacha ko'rinishi ta'kidlangan [3].",
+      "Ushbu esseda simptomlarning xilma-xillik sabablari, kasallik fazalari, allergik, ichak, mexanik, toksik va ovqatlanish buzilishi bilan bog'liq belgilar, ayrim gelmintozlarda a'zoga xos ko'rinishlar hamda belgisiz kechish ketma-ket ko'rib chiqiladi. Oxirida parazitolog-shifokor uchun amaliy ahamiyati yoritiladi [1, 2, 3]."
+    ]},
+    {"heading": "Simptomlar nima uchun xilma-xil", "content": [
+      "Gijjalar nafaqat oshqozon-ichak yo'lida, balki nafas a'zolarida, jigarda, taloqda, mushaklarda, qonda, miyada va ko'zda ham yashaydi. Taqdimotda odam organizmida gijjalar yashay olmaydigan a'zo yo'qligi, shu sababli parazitologdan tashqari barcha mutaxassislik shifokorlari ularga duch kelishi mumkinligi yozilgan [1].",
+      "Gelmintlarning organizmga ta'siri bir necha turga bo'linadi: allergik, mexanik, travmatik, toksik va ozuqa moddalarini o'zlashtirish orqali ta'sir. Gijja o'zi joylashgan a'zodan tashqari boshqa a'zo va tizimlar faoliyatini ham buzishi mumkin, shu bois gijja kasalliklari butun organizm kasalligi deyiladi [1]."
+    ]},
+    {"heading": "Kasallik fazalari", "content": [
+      "Ko'pgina gelmintozlar fazali kechadi. Askaridozda erta, migratsion faza odatda yengil o'tadi, kechki fazada esa holsizlik, yo'tal va ba'zan qon tupurish paydo bo'ladi; harorat odatda subfebril, kamroq 38 darajagacha ko'tariladi. Migratsion fazada lichinkalar qon, jigar va o'pkada bo'ladi [2].",
+      "Surunkali fazada sensibilizatsiya bilan bir qatorda mexanik omil ham muhim bo'ladi. Masalan, exinokokk kistasi yoki alveokokk tuguni jigar darvozasida o't oqimini buzishi, sistitserklar bosh miya qorinchalarida o'tkazuvchanlikni buzishi, gelmintlarning mahkamlanish apparati esa ichak shilliq qavatini jarohatlashi mumkin [2]."
+    ]},
+    {"heading": "Allergik belgilar", "content": [
+      "Taqdimotda allergik ta'sir mahalliy va umumiy turlarga ajratilgan. Mahalliy ko'rinishlar ekzema, dermatit, terida allergik toshmalar, Kvinke shishi, bronxial astma va allergik bronxit, umumiy ko'rinishlar esa tana haroratining ko'tarilishi va anafilaktik shokdir [1].",
+      "Anafilaktik shok ko'proq exinokokk pufagi yorilganda va askaridozda o'limga olib kelishi mumkin. Darslikda qayta lichinka tug'adigan gelmintlarda, masalan strongiloidoz va filyariatozda, o'tkir hamda surunkali fazada qichima va boshqa allergik reaksiyalar, disproteinoz va og'ir distrofik jarayonlar qonuniy ravishda paydo bo'lishi yozilgan [1, 2]."
+    ]},
+    {"heading": "Ichak belgilari", "content": [
+      "Ichak shaklidagi askaridozda bemorlar charchoqning kuchayishi, ishtaha pasayishi, ko'ngil aynishi, qusish va qorin og'rig'idan shikoyat qiladi. Ayrim bemorlarda ich ketishi yoki aksincha ich qotishi kuzatiladi, ba'zan ichak o'tkazuvchanligi buziladi [2].",
+      "Gimenolepidozda dispeptik belgilar bir necha daqiqadan bir necha soatgacha davom etadigan qorin va kindik atrofidagi og'riqlar, ich buzilishi, ba'zan shilliq bilan ich ketishi, ko'ngil aynishi, qusish, ishtaha buzilishi va so'lak oqishi bilan ifodalanadi. Subklinik shaklda esa bola ovqatlangandan keyin ichakda og'riq paydo bo'ladi [1]."
+    ]},
+    {"heading": "Mexanik va travmatik asoratlar", "content": [
+      "Askarida jigar va o'pka xo'ppozi, alveolit, mayda qon quyilishlar, o't yo'liga tiqilib obturatsion sariqlik va ichak tutilishiga sabab bo'lishi mumkin. Qusish davrida u halqum va nafas yo'llariga o'rmalab kirib, asfiksiya va o'limga olib kelishi mumkinligi ham qayd etilgan [1].",
+      "Darslikda askaridning o't pufagi va o't yo'llariga kirishi qusish, epigastral va o'ng qovurg'a ostida o'tkir og'riq va sariqlik bilan o'tishi, ikkilamchi bakterial infeksiyada yiringli xolangit, jigar xo'ppozi va sepsisgacha olib borishi yozilgan. Ankilostoma o'tkir tishlari bilan ichak devorida yara hosil qiladi [1, 2]."
+    ]},
+    {"heading": "Toksik va asab belgilari", "content": [
+      "Gijjalar ozuqlangandan keyin zaharli qoldiqlar ajratadi, ular qonga so'rilib organizmni zaharlaydi. Natijada bolalar balog'at yoshidan ortda qoladi, bo'yi o'smaydi, aqliy va jismoniy rivojlanishda orqada qoladi, injiq va jizzaki bo'ladi, xotira pasayadi [1].",
+      "Taqdimotda parishonxotirlik, bosh og'rig'i, umumiy darmonsizlik va kechqurun yotganda tish g'ijirlatish ham sanalgan; ular asosan kalta tizma, xo'kiz tizmasi, askaridoz va enterobiozda uchrashi aytilgan. Bu belgilar nospetsifik bo'lgani uchun tashxis laboratoriya tekshiruvi bilan tasdiqlanishi shart [1, 3]."
+    ]},
+    {"heading": "Ovqatlanish buzilishi va kamqonlik", "content": [
+      "Gijjalar tayyor ozuqa moddalarini so'rib oladi: enterobioz, askaridoz, gimenolepidoz, fassiola, opistorxoz va teniarinxoz vitaminlar, uglevodlar, oqsil va mineral moddalarning yetishmasligiga sabab bo'ladi. Taqdimotda gijjalar tayyor ozuqani so'rib olgani sababli odam tez ochqab, to'ymaydigan bo'lib qolishi ham yozilgan [1].",
+      "Qon so'rib ozuqlanadigan shistosoma, ankilostoma va nekator ichak devoriga yopishib oladi va og'ir kamqonlik keltirib chiqaradi. Difillobotrioz B12 vitaminini so'rib olib, pernitsioz yoki yomon sifatli anemiyaga sabab bo'lishi mumkin. Milliy yo'riqnomada uzoq davom etgan opistorxozda surunkali jigar, o't pufagi va oshqozon osti bezi yetishmovchiligi hamda jigar va o't yo'llari saratoni rivojlanishi mumkinligi aytilgan [1, 4]."
+    ]},
+    {"heading": "A'zoga xos belgilar", "content": [
+      "Jigar exinokokkozida o'ng qovurg'a ostida, belda, o'ng yelka va o'mrov sohasida og'riq bo'ladi. Pufak yorilganda birdan kuchli og'riq, titroq, harorat ko'tarilishi, eshakyemi, giperezinofilli leykotsitoz va anafilaktik holat yuz beradi, pufak yiringlasa jigar xo'ppozi rivojlanadi [1].",
+      "Milliy yo'riqnomada trixinellyozda allergik belgilar hamda mushaklarning zaiflashishi va og'rig'i qayd etilgan. Fassiolyozning o'tkir fazasini aniqlash qiyin, tashxis anamnez, epidemiologik va klinik ma'lumotlarga tayanadi, o'tkir boshlanish esa o'tkir allergoz holati sifatida namoyon bo'ladi [4]."
+    ]},
+    {"heading": "Bolalarda ko'rinishi", "content": [
+      "Darslikda odam nematodalar bilan istalgan yoshda zararlanishi, lekin ko'proq bolalar zararlanishi ta'kidlangan. Askaridoz bilan bolalar kattalarga qaraganda ancha ko'p kasallanadi, bu shaxsiy gigiena qoidalariga rioya qilmaslik bilan bog'liq, enterobioz esa bog'cha bolalari va kichik sinf o'quvchilarida keng tarqalgan [2].",
+      "Enterobiozda intensiv invaziyada 2-3 kundan keyin qorin og'rig'i, ko'ngil aynishi, beqaror ich, holsizlik va uyquning buzilishi paydo bo'ladi; qichima odatda tuxum qo'yish boshlanganda sezilib, bolalar injiq va bezovta bo'ladi. Bu belgilar enterobiozning klinikasi bilan bog'liq [2, 5]."
+    ]},
+    {"heading": "Belgisiz va yashirin kechish", "content": [
+      "Ko'pchilik gelmintozlarda zararlanish belgisiz kechadi. Enterobiozda ko'plab bolalarda kasallik belgisiz o'tadi, gimenolepidozda esa 30 foizgacha bemor hech qanday shikoyatsiz bo'lishi mumkinligi taqdimotda yozilgan. Darslikda ham gelmintozlarning klinik ko'rinishi belgisiz shakllardan og'ir shakllargacha keng doirada ekani ta'kidlangan [1, 2, 3].",
+      "Enterobioz bayonnomasida tez-tez takrorlanadigan autoinvaziya tufayli kasallik surunkali kechishi ko'rsatilgan. Milliy yo'riqnomada esa belgisiz tashuvchilarni ham aniqlash uchun maktabgacha muassasa bolalari, 1-4 sinf o'quvchilari va dekret kontingent enterobioz va gimenolepidozga muntazam tekshirilishi belgilangan [4, 5]."
+    ]},
+    {"heading": "Immunitet va yondosh kasalliklar", "content": [
+      "Taqdimotda gelmintozlar tutqanoq, parishonxotirlik, terida oq dog'lar, appenditsit, enurez, otit, salpingit, vulvovaginit, Kvinke shishi, bronxit, bronxial astma, dermatit va bronxopnevmoniya kabi ko'plab holatlarni keltirib chiqarishi yozilgan. Bunday bog'liqlik faqat shu manbada keltirilgan [1].",
+      "Immunitet pasayib, o'tkir kasalliklar surunkali shaklga o'tishi va organizm kasallikka moyil bo'lib qolishi ham ko'rsatilgan. Gimenolepidozda organizm immuniteti susayishi va boshqa kasalliklarga chidamlilik pasayishi alohida qayd etilgan [1]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Gelmintoz belgilari xilma-xil va nospetsifik bo'lgani uchun parazitolog-shifokor epidemiologik anamnezni, ya'ni sabzavot, xom go'sht, baliq, it bilan aloqa va yashash joyini aniqlashi shart. Tashxis klinika, epidemiologik anamnez va tuxum, lichinka yoki gijja bo'laklarini topishga asoslanadi [2].",
+      "Erta fazada yoki lichinkali gelmintozlarda, masalan exinokokkozda, serologik reaksiyalar muhim. Tashxis qo'yishda klinik manzara, epidemiologik anamnez hamda najas, o't suyuqligi yoki balg'amda tuxum, lichinka va yetuk gijja bo'laklarini topish birgalikda baholanadi [2]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Taqdimotdagi bir qator tasdiqlar, jumladan gelmintlar tutqanoq, appenditsit yoki terida oq dog'lar keltirib chiqarishi, 40 dan ortiq gijja saraton chaqirishi haqidagi ma'lumotlar ko'rilgan boshqa manbalarda uchramadi. Shu sababli ular asosiy belgilar sifatida emas, faqat shu manbaga tegishli tasdiqlanmagan ma'lumot sifatida berildi [1].",
+      "Belgilarning uchrash chastotasi va inkubatsion davr bo'yicha gelmintozlarning umumiy guruhi uchun yagona me'yor ko'rilgan manbalarda berilmagan. Ular har bir nozologiya uchun alohida bo'lgani sababli esseda faqat manbada aniq ko'rsatilgan misollar keltirildi [2, 3]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Gelmintlar bilan zararlanish simptomlari allergik, ichak, mexanik, toksik va ozuqa yetishmovchiligi bilan bog'liq bo'lib, kasallik fazasi va gijja joylashgan a'zoga qarab farqlanadi. Ko'pchilik gelmintozlar belgisiz yoki nospetsifik o'tgani uchun tashxis epidemiologik anamnez va laboratoriya tasdig'iga tayanishi kerak [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581.",
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "Parazitar kasalliklarni davolash bayonnomalari (enterobiozni davolash bayonnomasi, B80). xayrullokomilov.uz/kutubxona, material ID 1559."
+  ]
+}

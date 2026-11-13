@@ -1,0 +1,71 @@
+{
+  "number": 93,
+  "title": "93. Geogelmintozga qarshi kurashning kompleks chora-tadbirlarini tashkil etish.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Geogelmintozlarga qarshi kurash alohida bir tadbir emas, balki tashkiliy, sanitar-gigiyenik, davolash-profilaktik va epidemiyaga qarshi choralarning yagona tizimidir. Yo'riqnomada geogelmintozlar birinchi navbatda sanitariya muammosi ekani ta'kidlangan, shu sababli tadbirlar hajmi va sifati o'choq sharoitiga qarab belgilanadi [1, 2].",
+      "Esseda tadbirlarni rejalashtirish va mas'ul tashkilotlar, aholini aniqlash va davolash, dehelmintizatsiya jadvali, sanitariya-gigiyenik va ekologik monitoring choralari, sog'lomlashtirish samaradorligini baholash hamda JSST strategiyasi bilan taqqoslash bayon etiladi [1, 5]."
+    ]},
+    {"heading": "Tashkiliy asos va mas'ul tashkilotlar", "content": [
+      "Parazitar kasalliklarning oldini olish bo'yicha aniq chora-tadbirlar rejasini hududiy DSENMlar davlat hokimiyati organlari hamda mulkchilik shaklidan qat'i nazar mutasaddi tashkilotlar bilan hamkorlikda har bir ma'muriy hudud uchun ishlab chiqadi. Rejaning to'liq va o'z vaqtida bajarilishini sanitariya-epidemiologiya xizmati nazorat qiladi [2].",
+      "Epidemiologik vaziyat yomonlashgan hududlarda umumlashgan sog'lomlashtirish tadbirlari tuziladi. Geogelmintozlarda degelmintizatsiyani va uning samaradorligini aniqlashni davolash-profilaktika muassasalari tizimi, laboratoriyalar faoliyatini esa hududiy DSENM nazorat qiladi; o'choqni tekshirishni parazitolog o'tkazadi [1, 2]."
+    ]},
+    {"heading": "Aholini aniqlash va hisobga olish", "content": [
+      "Invaziya manbalarini aniqlash koproovoskopiya orqali ko'rsatma va tanlab tekshirishlarda olib boriladi. Tanlab tekshiruvga 7-14 yoshli bolalar, 3-6 yoshli bolalar, ko'rsatma bo'yicha kattalar, fermer xo'jaligi xodimlari va sabzavot yetishtiruvchilar kiradi [1].",
+      "Har bir askaridoz va trixotsefalyoz holati bo'yicha shoshilinch xabarnoma 058/u yuboriladi. Bemorlar va parazit tashuvchilarni aniqlash, ularni davolash, muloqotda bo'lganlarni tekshirish hamda bolalar muassasalari va umumiy ovqatlanish korxonalarida sanitar-parazitologik nazorat o'rnatish umumiy tadbirlar tarkibiga kiradi [1, 2]."
+    ]},
+    {"heading": "O'choq intensivligiga qarab tadbirlar hajmi", "content": [
+      "Tadbirlar hajmi o'choqning ekstensiv darajasiga bog'liq. Aholi zararlanishi 30 foiz va undan yuqori bo'lgan intensiv o'choqlarda aholiga yilda ikki marta ommaviy dehelmintizatsiya o'tkaziladi, o'rta intensiv o'choqlarda esa dehelmintizatsiya faqat invaziya aniqlangan mikroo'choqlarda bajariladi [1].",
+      "Zararlanish darajasi, ob-havo, ijtimoiy sharoit, o'choqdagi aholining xo'jalik faoliyati hamda epidemik va sanitariya-gigiyenik monitoring tadbirlar miqdori va sifatini belgilaydi. «Yolg'on» va «asl» o'choqlar o'rtasida doim bog'liqlik bo'lsa, ikkala turdagi mikroo'choqlarda 2 yil davomida sog'lomlashtirish o'tkaziladi [1]."
+    ]},
+    {"heading": "Dehelmintizatsiya muddatlari", "content": [
+      "Birinchi dehelmintizatsiya bahor oxiri yoki yoz boshida o'tgan yil va joriy yil bahorida zararlanganlarni askarida tuxumlaridan tozalash uchun, ikkinchisi kech kuz yoki qish boshida joriy mavsumda zararlangan hammani gelmintdan xalos qilish uchun o'tkaziladi [1].",
+      "Ikki marta o'tkazish sababi shuki, yo'riqnomaga ko'ra tuproqda askarida tuxumlari bir necha yil saqlanadi. O'choqlarni sog'lomlashtirish tomorqa tuprog'ining sanitariya-gelmintologik tekshiruvi natijalari nazorati ostida olib boriladi [1]."
+    ]},
+    {"heading": "Antigelmint vositalar", "content": [
+      "Sog'lomlashtirish zamonaviy antigelmint preparat-nematotsidlar bilan o'tkaziladi. Davolash standartlarida levamizol, mebendazol, albendazol, pirantel, piperazin va kardobendatsim ko'rsatilgan; bayonnomada albendazol 2 yoshdan katta bolalar va kattalarga 400 mg bir marta berilishi qayd etilgan [1, 3, 4].",
+      "JSST tavsiya etgan albendazol 400 mg va mebendazol 500 mg dorilari samarali, arzon va tibbiyot xodimi bo'lmagan shaxslar, masalan o'qituvchilar tomonidan ham berilishi mumkin. Bayonnomadagi mebendazol sxemasi (bir necha kun davomida qabul) JSST ning 500 mg lik tavsiyasidan farq qiladi, shu sababli klinik qo'llashda milliy bayonnoma asos bo'ladi [3, 5]."
+    ]},
+    {"heading": "Bemorlarni davolashni tashkil etish", "content": [
+      "Milliy bayonnomalarga ko'ra askaridozda kasalxonaga erta davrdagi bolalar va intensiv invaziyali bemorlar, trixotsefalyozda esa og'ir, o'rta og'ir va asoratli shakldagi, shuningdek yosh bolalar va noqulay moddiy sharoitdagi bemorlar yotqiziladi [3].",
+      "Rekonvalesentlar dispanser kuzatuvida bo'ladi: askaridozda 6 oygacha, trixotsefalyozda 3 oygacha. Qayta najas tahlillari mos ravishda 3, 4 va 6 oydan keyin hamda davolashdan 1 oy o'tgach 10-15 kun tanaffus bilan ikki marta o'tkaziladi [3]."
+    ]},
+    {"heading": "Sanitariya-gigiyenik tadbirlar", "content": [
+      "Darslikda geogelmintozlarga qarshi kompleksga invaziya manbalarini aniqlash, tuproq, sabzavot, rezavor va ko'katlarning gelmint tuxumlari bilan ifloslanishining oldini olish, o'choqlarni sog'lomlashtirish, sanitariya-gelmintologik monitoring o'tkazish, samaradorlikni tahlil qilish va sanitariya-tarbiya ishlari kiritilgan [6].",
+      "Yo'riqnomada sanitar-gigiyenik va dezinvazion tadbirlar, yuqish omillariga ta'sir (pashshalarga qarshi kurash, ichimlik suvini qaynatish, qo'l yuvish), oila va bolalar jamoalarida, ichimlik suv manbalari, tuproq va qumda invaziya manbalarini aniqlash ko'rsatilgan [2, 6]."
+    ]},
+    {"heading": "Tuproq, oqova suv va ekologik monitoring", "content": [
+      "Rossiya taqdimotida o'choqlarda atrof-muhit obyektlarini sanitar-parazitologik monitoring qilish, tuproq va chiqindilarni dezinvaziya, invaziyalangan odam najasini o'g'it sifatida ishlatishni taqiqlash hamda mikroo'choqni 2 yil kuzatish ko'rsatilgan. Nazorat nuqtalari epidemiologik tekshiruv davomida belgilanadi [7].",
+      "Oqova suvlar va ularning cho'kmalari qishloq xo'jaligida ishlatilganda tuproq ifloslanish xavfi bor, shu sababli ularni tayyorlash, sug'orish usullari va me'yorlarini sanitariya nazorati ostida olib borish kerak. Bu sanitar nazoratda va profilaktika tadbirlarini ishlab chiqishda hisobga olinadi [8]."
+    ]},
+    {"heading": "Sanitariya-tarbiya va o'qitish", "content": [
+      "Epidemiologik nazorat yo'riqnomasi aholining turli guruhlarida shaxsiy gigiena bilimlari va ko'nikmalarini sanitariya-maorif ishlari orqali oshirishni, bolalar muassasalari xodimlari, tibbiyot xodimlari va oziq-ovqat korxonalari ishchilarini gigiena bo'yicha o'qitishni nazarda tutadi [2].",
+      "Dekretlangan kontingentlarni, ayniqsa umumiy ovqatlanish xodimlarini o'qitishni salomatlik markazi mutaxassislari olib boradi. JSST ham sog'liq va gigiena ta'limi yuqishni va qayta zararlanishni kamaytirishini ta'kidlaydi [2, 5]."
+    ]},
+    {"heading": "Samaradorlikni baholash", "content": [
+      "Yo'riqnomaga ko'ra har bir o'choqdagi 200-300 kishilik doimiy aholi guruhini oxirgi dehelmintizatsiyadan 3 oy o'tgach qayta tekshirish aholi zararlanishi pasayganini ko'rsatadi. Agar 2 yil davomida invaziyalanganlar topilmasa va tashqi muhit tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi [1].",
+      "Rossiya taqdimotida davolangan bemorlarda samaradorlik dehelmintizatsiyadan 14 kun o'tgach nazorat qilinishi, aholi mikroo'choqda 2 yil davomida har yili tekshirilishi ko'rsatilgan. Bu tartib milliy yo'riqnomadagi 3 oylik nazoratdan farq qiladi [1, 7]."
+    ]},
+    {"heading": "JSST strategiyasi va milliy tizim", "content": [
+      "JSST tuproq orqali yuqadigan gelmintozlarga qarshi kurash strategiyasi xavf ostidagi aholini endemik hududlarda individual tashxissiz davriy dori bilan davolashga asoslangan: maktabgacha va maktab yoshidagi bolalar, reproduktiv yoshdagi ayollar va ayrim kasblardagi kattalar. Bu gijja yukini kamaytirib, kasallanishni pasaytiradi [5].",
+      "Strategiya sog'liq ta'limi va sanitariyani ham o'z ichiga oladi. JSST dasturlar muvaffaqiyatini 5-6 yillik davriy davolashdan keyin, samarali qamrov 75 foiz va undan yuqori bo'lganda baholashni tavsiya etadi. Milliy yo'riqnoma esa o'choqqa asoslangan: intensiv o'choqlarda yilda ikki marta ommaviy dehelmintizatsiya o'tkaziladi [1, 5]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Tekshirilgan manbalarda O'zbekistonda geogelmintozga qarshi dasturning joriy natijalari, dehelmintizatsiya qamrovi va o'choqlar soni haqida ma'lumot topilmadi, shuning uchun mahalliy samaradorlik haqida xulosa berilmaydi. Milliy ma'lumot sifatida faqat 2015 yildagi yo'riqnoma ishlatilgan [1, 2].",
+      "JSST strategiyasi individual tashxissiz ommaviy davolashni tavsiya etadi, milliy yo'riqnoma esa o'choq intensivligiga qarab tadbirlar hajmini belgilaydi. Bugungi kunda O'zbekistonda qaysi yondashuv amalda ekani manbalardan aniq emas, chunki hujjatlar turli vaqt va kontekstga mo'ljallangan [1, 5]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Geogelmintozga qarshi kompleks tizim rejalashtirish, aholini tekshirish va davolash, dehelmintizatsiyani o'choq intensivligiga mos o'tkazish, sanitariya-gigiyenik va ekologik monitoring, sanitariya-tarbiya hamda doimiy samaradorlik baholashdan iborat. Tashkilotchining vazifasi bu bo'g'inlarni birlashtirish va natijani nazorat qilishdir [1, 2, 5]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "Parazitar kasalliklarni tashxisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
+    "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
+    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580.",
+    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598."
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "number": 28,
+  "title": "28. Bezgak o'chog'ini joylashuvi va tugatilishi bo'yicha tashkillashtirilgan va o'tkazilgan epidemik chora-tadbirlar.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgak o'chog'i bu bezgak yuqishi mumkin bo'lgan, ya'ni bemor yoki parazit tashuvchi, anofelogen suv havzalari va bezgak chivinlari uchrashadigan hudud. O'choqda o'z vaqtida o'tkazilgan epidemiyaga qarshi tadbirlar kasallik tarqalishini to'xtatadi va hududni qayta sog'lomlashtirishga imkon beradi [1, 2].",
+      "Ushbu esseda avval o'choqning joylashuvi va chegarasi, so'ng xabarnoma, epidemiologik va entomologik tekshiruv, holat va o'choqni tasniflash, aloqadorlarni kuzatish, uyma-uy yurish, davolash va chivinlarga qarshi tadbirlar ketma-ket ko'rib chiqiladi. Oxirida o'choqni tugatish tartibi yoritiladi [1, 2]."
+    ]},
+    {"heading": "O'choqning joylashuvi va chegarasi", "content": [
+      "Uslubiy qo'llanmaga ko'ra aholi punkti unga tutashgan anofelogen suv manbalari bilan birga bezgak o'chog'i hisoblanadi. O'choq deb baholashda aholi punktining maydoni va rasmiy maqomi ahamiyatsiz. Shu sababli bitta qishloq ham, shahar mahallasi ham o'choq bo'lishi mumkin [2].",
+      "Yo'riqnomada tadbirlar mikroo'choq hududidan 3 km atrofda, shuningdek bemor aniqlanishidan oldin vaqtincha bo'lgan joylarda, ya'ni ish, o'qish va maktabgacha tarbiya muassasalarida o'tkazilishi belgilangan. Demak o'choq chegarasi bemorning yashash joyi bilan cheklanmaydi [1]."
+    ]},
+    {"heading": "Shoshilinch xabarnoma va holatni aniqlash", "content": [
+      "Yo'riqnomaga ko'ra bezgak holatini aniqlash tibbiyot xodimining mutaxassisligi va mulkchilik shaklidan qat'i nazar asosiy burchi hisoblanadi. Aniqlangan va gumon qilingan barcha holat haqida hududiy DSENMga shoshilinch xabarnoma beriladi, tekshiruv uchun kamida 2 ta qon preparati olinadi [1].",
+      "Xususiy shifoxona va poliklinikalarda qayd etilgan bemorlar haqida davlat tizimiga xabar berish majburiy. Barcha musbat qon preparatlari kasallik aniqlanganidan 24 soat ichida nazorat uchun Respublika DSENMga yuboriladi. Bu talab o'choq haqidagi ma'lumotlarning tez va ishonchli yig'ilishini ta'minlaydi [1]."
+    ]},
+    {"heading": "Epidemiologik va entomologik tekshiruv", "content": [
+      "Bemor yoki parazit tashuvchi haqida ma'lumot olingan kunning o'zida shahar yoki tuman DSENM parazitologi va entomologi o'choqda epidemiologik va entomologik tekshiruv o'tkazishga majbur. Tekshiruvning maqsadi infeksiya manbasini, kasallik paydo bo'lish va tarqalish sharoitlarini aniqlash hamda tadbirlarni maqsadli o'tkazishdir [1].",
+      "Tekshiruvda anamnez yig'iladi, laboratoriya natijalari baholanadi, aholi so'raladi, aloqadorlar aniqlanadi, uyma-uy yurish tashkil etiladi va bezgak chivinlarining ko'payish joylari aniqlanadi. Barcha ma'lumot o'choqning epidemiologik tekshiruv kartasiga yoziladi va bir nusxasi yuqori DSENMga yuboriladi [1]."
+    ]},
+    {"heading": "Holat va o'choqni tasniflash", "content": [
+      "Epidemiologik tekshiruv natijasiga ko'ra o'choq tasnifi keltiriladi va o'choq pasporti to'ldiriladi. Yo'riqnomada aniqlangan holat olib kelingan, mahalliy, emlangan yoki qaytalangan deb tasniflanadi, o'choq esa yolg'on, potensial, faol yoki faol bo'lmagan deb toifalanadi [1].",
+      "O'choqni toifalashda kasallik qayd etilishidan oldingi va keyingi epidemiologik hamda entomologik holat o'rganiladi. Yolg'on o'choqda mahalliy yuqish sharoiti yo'q, faqat tashqaridan olib kelingan kasallik bor. Shu sababli tadbirlar hajmi o'choq turiga qarab belgilanadi [1, 2]."
+    ]},
+    {"heading": "Aloqadorlarni ro'yxatga olish va kuzatish", "content": [
+      "Kasallik o'chog'ida bemor bilan muloqotda bo'lganlar to'liq ro'yxatga olinadi va laboratoriya yo'li bilan bezgakka tekshiriladi. Ularning tana harorati, teri rangi, taloq va jigar holati kuzatuv varag'iga yozilib, tibbiy kuzatuv 21 kun davom etadi [1].",
+      "Bunday kuzatuv inkubatsiya davrida bemor bo'lib qolishi mumkin bo'lgan shaxslarni erta aniqlashga qaratilgan. Ro'yxatga olish yashirin tashuvchilarni va ikkilamchi holatlarni tezda topish imkonini beradi, bu esa o'choqda yuqish zanjirini uzishning muhim shartidir [1]."
+    ]},
+    {"heading": "Uyma-uy yurish va faol aniqlash", "content": [
+      "O'choq hududida hududiy tibbiyot muassasasi 3 nafar o'rta tibbiy xodim va 1 nafar shifokordan iborat brigada tuzadi. Birlamchi o'choqda uyma-uy yurish 2 haftada 1 marta, hududda qayta holat ro'yxatga olinsa haftada 1 marta o'tkaziladi [1].",
+      "Yurish davomida chet davlatlarga borib kelganlar, tomorqalardagi sholi maydonlari va chivin ko'payish joylari haqidagi ma'lumot hududiy DSENMga beriladi. Qon olish uchun xodimlar termometr va steril to'plam bilan ta'minlanadi, gumon qilingan bemorlardan qon preparati zudlik bilan laboratoriyaga yuboriladi [1]."
+    ]},
+    {"heading": "Davolash va kimyoprofilaktika", "content": [
+      "Aniqlangan bemorlar milliy davolash bayonnomasiga muvofiq davolanadi, bu esa bemordan chivinlarning zararlanishini to'xtatadi. Faol va qoldiq faol o'choqlarda hududiy DSENM bilan kelishilgan holda aholining yoshiga qarab mavsumiy kimyoprofilaktika, mavsumlararo davrda esa primaxin bilan 14 kunlik kimyoprofilaktika maqsadga muvofiq hisoblanadi [1, 2].",
+      "Uch kunlik bezgak bilan og'rigan bemorlar 3 yil, tropik bezgak bilan og'riganlar 1 yil davomida dispanser nazoratida turadi. Kasallik qaytalanishining oldini olish uchun epidemik mavsum boshlanishidan oldin bezgakka qarshi davolash ham o'tkaziladi [1]."
+    ]},
+    {"heading": "O'choqda chivinlarga qarshi tadbirlar", "content": [
+      "Entomologik brigada chivinlarga qarshi tadbirlarni mahalla fuqarolar yig'ini xodimlari bilan hamkorlikda o'tkazadi. Imago bosqichiga qarshi qoldiq ta'sirli insektitsidlar bilan ishlov berilib, qamrov kamida 90-95 foiz bo'lishi shart. Ishlov berilgan sirt chivinni infeksiyani o'tkazishga ulgurmay nobud qiladi [1, 2].",
+      "Ishlov sifati entomolog tomonidan 1 sutkadan keyin tekshiriladi: anofeles lichinka va imagolari soni ishlovdan oldingi bilan solishtiriladi va kamayish 95 foizdan yuqori bo'lsa tadbir samarali hisoblanadi. Lichinkalarga qarshi gidrotexnik, gambuziya va ishlov berish usullari ham qo'llanadi [1]."
+    ]},
+    {"heading": "Tadbirlar hajmining o'choq turiga bog'liqligi", "content": [
+      "Yo'riqnomadagi jadvallar potensial, yangi faol, qoldiq faol, faol bo'lmagan va sog'lomlashtirilgan o'choqlar uchun davolash-profilaktik hamda chivinga qarshi tadbirlar hajmini alohida ko'rsatadi. Mahalliy faol o'choqlarda tadbirlar hajmi juda katta, yolg'on o'choqlarda esa kamroq [1].",
+      "Bunday tabaqalash resursni oqilona taqsimlashga yordam beradi. Masalan, faol va qoldiq faol o'choqlarda sanitariya-ma'rifat ishi, bemorlarni faol aniqlash, mavsumiy yoki mavsumlararo kimyoprofilaktika va radikal davolash birgalikda qo'llanadi, sog'lomlashtirilgan o'choqda esa asosiy e'tibor kuzatuvga qaratiladi [1]."
+    ]},
+    {"heading": "O'choqni tugatish va sog'lomlashtirish", "content": [
+      "Yolg'on o'choqdan boshqa barcha o'choqlarda sog'lomlashtirish tadbirlari 3 yil davomida o'tkaziladi. Har bir holat bo'yicha birlamchi, qo'shimcha va o'choqni sog'lomlashtirish tadbirlari to'liq hajmda bajarilgandan so'ng yakuniy ma'lumot beriladi [1].",
+      "Epidemiologik tekshiruv tugagach o'choq kartasi va kasallik tarixi nusxasi laboratoriya natijalari bilan viloyat va Respublika DSENMga topshiriladi. JSST tasnifida mahalliy yuqish 3 yildan ortiq qayd etilmagan o'choq tugatilgan, ya'ni cleared deb hisoblanadi; bu muddat milliy 3 yillik sog'lomlashtirish davriga mazmunan yaqin [1, 3]."
+    ]},
+    {"heading": "Aholi o'rtasida tushuntirish ishlari", "content": [
+      "Yo'riqnomada aholi o'rtasida bezgak belgilari va oldini olish usullari bo'yicha tushuntirish ishlari tashkil etilishi, umumta'lim maktablarida bezgakning oldini olishga bag'ishlangan diktantlar yozdirilishi ko'rsatilgan. Bu o'choq aholisining tibbiy yordamga erta murojaat qilishini oshiradi [1].",
+      "Aholini hamkor qilish bezgakka qarshi kurashda katta ahamiyatga ega. Radio, televideniye va mahalliy gazetalar orqali chiqishlar, o'zini o'zi boshqarish organlari bilan suhbatlar hamda 25 aprel Umumjahon bezgakka qarshi kurash kunini nishonlash tadbirlari o'choqdagi ishni qo'llab-quvvatlaydi [1]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor o'choqda epidemiologik tekshiruvni xabarnoma kelgan kuniyoq boshlashi, holat va o'choqni to'g'ri tasniflashi hamda tadbirlar hajmini shunga moslashi kerak. Noto'g'ri tasnif keraksiz xarajatga yoki zarur tadbirning o'tkazib yuborilishiga olib keladi [1, 2].",
+      "Shuningdek u uyma-uy yurish, aloqadorlar kuzatuvi, dispanser nazorati va chivinlarga qarshi ishlov sifatini nazorat qiladi. Tadbirlar samarasi yangi va sog'lomlashtirilgan o'choqlar sonining dinamikasi bilan baholanadi, bu dasturning muvaffaqiyati haqida eng yaxshi ko'rsatkich hisoblanadi [2]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Kutubxona manbalarida yolg'on, potensial, faol va faol bo'lmagan o'choqlarning aniq mezonlari hamda o'choqni sog'lomlashtirilgan deb e'lon qilish uchun milliy hujjatda belgilangan to'liq shartlar topilmadi. Yo'riqnoma faqat toifalar nomini va 3 yillik tadbirlar muddatini keltiradi [1].",
+      "Uslubiy qo'llanmada o'choqlar olti toifaga bo'linishi yozilgan, yo'riqnomada esa to'rt toifa sanalgan. Bu farq to'liq izohlanmagani uchun hududda amaldagi toifalashni davlat sanitariya-epidemiologiya xizmati ko'rsatmasi bo'yicha aniqlash zarur [1, 2]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgak o'chog'ida epidemiyaga qarshi tadbirlar xabarnomadan boshlanib, epidemiologik va entomologik tekshiruv, tasniflash, aloqadorlar kuzatuvi, uyma-uy yurish, davolash, kimyoprofilaktika va chivinlarga qarshi ishlov bilan davom etadi. Tadbirlar o'choq turiga qarab hajmlanadi va 3 yil davomida sog'lomlashtirish bilan yakunlanadi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "World Health Organization. A framework for malaria elimination. Geneva: WHO, 2017. https://www.who.int/publications/i/item/9789241511988"
+  ]
+}

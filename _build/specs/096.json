@@ -1,0 +1,76 @@
+{
+ "number": 96,
+ "title": "96. Teniarinxozning klinikasi va tashxisi.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Teniarinxozning klinikasi ko'pincha yengil yoki belgisiz kechadi, shu sababli tashxis bemorning bo'g'imlar chiqishini payqashiga va laboratoriya tasdig'iga tayanadi. Davolash bayonnomasi kasallikni ba'zan belgisiz, ba'zan toksik-allergik reaksiyalar va dispeptik buzilishlar bilan kechadigan ichak lezyoni deb ta'riflaydi [4].",
+   "Esseda inkubatsiya davri, klinik belgilar, bo'g'imlarning faol chiqishi va asoratlar, so'ng tashxis mezonlari, laboratoriya usullari, turni farqlash hamda differensial tashxis bayon etiladi. Oxirida minimal tekshiruv ro'yxati va manbalardagi farqlar qayd etiladi [1, 4, 5]."
+  ]},
+  {"heading": "Inkubatsiya davri va boshlanishi", "content": [
+   "Pavlovich darsligida teniarinxozning invaziya bosqichlari o'rganilmagan, inkubatsiya davri aniqlanmagan deb belgilangan. Tuxum va bo'g'imlar najasda zararlanishdan taxminan 2-3 oy o'tgach paydo bo'ladi, bu laboratoriya tashxisining qachondan boshlab mumkinligini belgilaydi [1].",
+   "JSST ham taeniazni yengil va o'ziga xos bo'lmagan belgilar bilan ta'riflaydi, belgilar parazit ichakda to'liq rivojlangan taxminan 8 haftadan keyin paydo bo'lishi mumkin. Demak, kasallik erta bosqichda ko'pincha sezilmaydi [1, 8]."
+  ]},
+  {"heading": "Asosiy klinik belgilar", "content": [
+   "Bemorlar bosh aylanishi, umumiy holsizlik, ishtahaning oshishi yoki pasayishi, ko'ngil aynishi, qusish va qorin og'rig'idan shikoyat qiladi. Ba'zilarda tana vazni kamayadi, najas beqaror bo'ladi, anus atrofida qichishish va bosh og'rig'i kuzatiladi [1].",
+   "Odessa atlasiga ko'ra, klinika bemorning yoshiga, invaziya darajasiga va davomiyligiga bog'liq, ko'pincha kasallik belgisiz o'tib, faqat bo'g'imlarning ajralishi bilan bilinadi. CDC qoramol solityorida belgilar boshqa taeniazlarga nisbatan ko'proq uchrashini parazitning yirik o'lchami bilan bog'laydi [3, 7]."
+  ]},
+  {"heading": "Bo'g'imlarning faol chiqishi", "content": [
+   "Teniarinxozning eng yorqin belgisi qoramol solityori bo'g'imlarining defekatsiyadan tashqari faol tarzda anusdan chiqishi, teriga, ichki kiyimga va to'shakka tushishidir. Bo'g'imlar o'lchami taxminan 20-30 x 12 mm bo'lib, boshqa lentasimon chuvalchanglarda bu odatda kuzatilmaydi [1, 3].",
+   "Bayonnomada anusdan mustaqil sudralib teriga chiqqan uzun proglottidlar tashxis uchun katta ahamiyatga ega ekani ta'kidlangan. Shu sababli bemordan bo'g'imlar chiqishi haqida so'rash tashxisning birinchi va asosiy qadami hisoblanadi [3, 4]."
+  ]},
+  {"heading": "Asoratlar", "content": [
+   "Darslikda appenditsit, ichak tutilishi, o'tkir pankreatit va gepatoxolesistit asoratlar sifatida sanalgan. Ayrim hollarda appendikulyar kolika, gastroduodenit, o't yo'li kolikasi, ichak devori teshilishi va bolalarda epileptiform tutqanoqlar ta'riflangan [1].",
+   "CDC ham kamdan-kam hollarda proglottidlar appendiks bo'shlig'iga yoki o't va oshqozon osti bezi yo'llariga tiqilib qolishini yozadi. Bayonnomaga ko'ra, kasallikning o'tkir shaklidagi bemorlar shifoxonaga yotqizilishi shart [4, 7]."
+  ]},
+  {"heading": "Og'irlik mezonlari va umumiy tekshiruv", "content": [
+   "Bayonnomada og'irlik darajasi intoksikatsiya sindromining yaqqolligi, jarayonning o'tkir kechishi va kamqonlik belgilari bilan baholanadi. Tasnifda hozircha faqat ichak shakli ko'rsatilgan, ya'ni teniarinxozda sistitserkoz kabi ichkaridan tashqari shakl nazarda tutilmaydi [4].",
+   "Standartning minimal ro'yxatiga bemor so'rovi, najasni ko'zdan kechirish, perianal burmalardan qirma va umumiy qon tahlili kiritilgan. Qon tahlili parazitning o'zini aniqlamaydi, ammo kamqonlikni baholab, davolash taktikasini tanlashga yordam beradi [4, 6]."
+  ]},
+  {"heading": "Tashxis mezonlari", "content": [
+   "Bayonnomaga ko'ra tashxis klinik-epidemiologik belgilar va parazitologik usullarga asoslanadi, yakuniy tashxis bemor so'rovi, perianal qirma va Kato usuli o'tkazilgandan keyin qo'yiladi. Boshqa koprologik usullar bu kasallikda kam samarali deb baholangan [4].",
+   "Darslikda ham yakuniy tashxis aniqlangan epidemiologik anamnezga tayanib, parazitologik usullar bilan tasdiqlanishi yozilgan. Makroskopik tahlil bo'g'imlarni topishga, mikroskopik tahlil esa najas va perianal qirmada tuxum, ya'ni onkosfera topishga qaratilgan [2]."
+  ]},
+  {"heading": "So'rov va makroskopik usul", "content": [
+   "Milliy laboratoriya yo'riqnomasida makroskopik usul qoramol va cho'chqa solityorini farqlashning asosiy usuli deb ko'rsatilgan, chunki onkosferalar mikroskopda bir xil. Bemordan so'rab, defekatsiya paytida bo'g'imlar chiqishini bilgan holda aniq javobga erishiladi [5].",
+   "Gumon qilingan bo'laklar pinset yoki preparoval ignalar yordamida alohida buyum oynalariga olinadi va ikki oyna orasida lupa yoki stereoskopik mikroskopda ko'riladi. Bo'g'im siqilganda qorong'u shoxchalar va bachadon halqalari ko'rinadi [1, 5]."
+  ]},
+  {"heading": "Perianal qirma va koproovoskopiya", "content": [
+   "Perianal qirma enterobioz, teniarinxoz va tenioz tashxisida yakka yoki ommaviy tekshiruvlarda qo'llanadi. Graham usulida yopishqoq tasma, Torgushin va Kevorkov usullarida paxtali shpatel ishlatiladi, bu usullar milliy yo'riqnomada teniarinxoz uchun ham ko'rsatilgan [5].",
+   "Bayonnomada qo'shimcha usul sifatida Kato usuli keltirilgan. Odessa atlasi yopishqoq lenta usulida onkosferalar topilishini ham yozadi, ammo faqat tuxum topilsa qurolli va qurolsiz solityor farqlanmaydi, shu sababli turni bo'g'im va skoleks orqali aniqlash zarur [3, 4]."
+  ]},
+  {"heading": "Turni aniqlash", "content": [
+   "Barcha teniidlar tuxumlari mikroskopda farqlanmaydi, shuning uchun skoleks va proglottidlar morfologiyasiga e'tibor beriladi. Qoramol solityorining farqlovchi belgisi skoleksda ilgaklarning yo'qligi, bo'g'imda esa bachadon yon shoxchalarining soni hisoblanadi [3, 4].",
+   "Darsliklarda qoramol solityorida shoxchalar 17-35 atrofida, cho'chqa solityorida 7-12 atrofida beriladi, milliy laboratoriya yo'riqnomasida esa bu ikki ko'rsatkich teskari yozilgan. JSST ham Kato-Katz usuli tur uchun xos emasligini va musbat namunalar alohida tasdiqlanishini ta'kidlaydi [1, 2, 5, 8]."
+  ]},
+  {"heading": "Differensial tashxis", "content": [
+   "Bayonnomaga ko'ra teniarinxoz kolit, enterokolit va boshqa ichak gelmintozlaridan farqlanadi. Kontrastli rentgenologik tekshiruvda qoramol solityori ichakda uzun yo'l-yo'l bo'lib ko'rinadi, Pavlovich darsligida bu yo'lakning kengligi 0,7-0,9 sm deb berilgan [1, 4].",
+   "Darslikda teniarinxozni asosan difillobotrioz bilan farqlash yozilgan, bunda epidemiologik anamnez va parazitologik tasdiq hal qiluvchi. Keng lentetsning yetuk bo'g'imida bachadon rozetkasimon, bo'g'imning eni esa uzunligidan katta bo'ladi [2]."
+  ]},
+  {"heading": "Takroriy tekshiruv va natijani baholash", "content": [
+   "CDC tuxum va bo'g'imlar parazit o'rnashgandan taxminan 2-3 oy o'tgach ajralishini, shu sababli erta bosqichda manfiy natija kasallikni inkor etmasligini ko'rsatadi. Yengil invaziyada topish ehtimolini takroriy tekshiruv va boyitish usullari oshiradi [7].",
+   "CDC turli kunlarda olingan 3 ta najas namunasini tekshirishni tavsiya qiladi. Milliy yo'riqnomada ham biogelmintozlarda najas tekshiruvi kamida uch marta o'tkazilishi, bu davolangandan keyingi nazoratda ko'rsatilgan [5, 7]."
+  ]},
+  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+   "Milliy yo'riqnomada QVP va poliklinikalarda so'rov usulida teniidozlarni faol aniqlash ambulator bemorlar birinchi marta murojaat qilganda har yili va uyma-uy yurib tekshirishda belgilangan. Bu klinik gumonni ommaviy skrining bilan bog'laydi [9].",
+   "Aniqlangan har bir holat bo'yicha shoshilinch xabarnoma (ф. 058/u) to'ldiriladi. Shu sababli tashxis qo'ygan shifokor so'rov, qirma va bo'g'im topilishi natijalarini aniq hujjatlashtirishi lozim, chunki keyingi epidemik tekshiruv shunga tayanadi [9]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Milliy hujjatlarda perianal qirma va Kato usullarining sezgirligi, ya'ni necha foiz bemorda tuxum topilishi haqida raqam topilmadi, shu sababli u yozilmadi. Laboratoriya yo'riqnomasidagi bachadon shoxchalari soni darsliklarga mos kelmaydi, bu aniqlashtirishni talab qiladi [1, 2, 5].",
+   "CDC koproantigen va molekulyar usullar hamda serologik tekshiruvlar hozircha asosan tadqiqot laboratoriyalarida mavjudligini yozadi. Ko'rilgan milliy yo'riqnoma va bayonnomalarda bunday usullar teniarinxoz uchun ko'rsatilmagan, shu sababli ular amaliy tavsiya sifatida keltirilmadi [4, 7]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Teniarinxozning klinikasi yengil va o'ziga xos bo'lmagan belgilardan, eng muhimi bo'g'imlarning faol chiqishidan iborat, tashxis esa bemor so'rovi, bo'g'im morfologiyasi va perianal qirma hamda Kato usuli natijalariga tayanadi. Tuxum bo'yicha tur farqlanmasligi sababli skoleks va bo'g'imlarni ko'rish zarur [1, 4, 5]."
+  ]}
+ ],
+ "references": [
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М., Костюшов В.В., Тымчишин О.Л. Медицинская паразитология: атлас / под ред. Ю.И. Бажоры. Одесса: Одесский государственный медицинский университет, 2001. ISBN 966-7733-11-4. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Parazitar kasalliklarni davolash bayonnomalari (teniarinxoz, tenioz va sistitserkoz bayonnomalari). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "Parazitar kasalliklarni tashhisoti va davolash standartlari. O'zbekiston Respublikasi Sog'liqni saqlash vazirligi buyrug'iga ilova (hujjat matnida buyruq raqami va sanasi to'ldirilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "Centers for Disease Control and Prevention. Clinical Overview of Taeniasis. Sahifa sanasi: 3 may 2024. https://portugues.cdc.gov/taeniasis/hcp/clinical-overview/index.html",
+  "World Health Organization. Taeniasis/Cysticercosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/taeniasis-cysticercosis",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525."
+ ]
+}

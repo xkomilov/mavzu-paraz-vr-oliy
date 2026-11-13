@@ -1,0 +1,71 @@
+{
+  "number": 30,
+  "title": "30. Bezgakning kimyoprofilaktika, uning turlari.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgakning kimyoprofilaktikasi bu parazitotsid ta'sirli bezgakka qarshi dori vositalari yordamida zararlanishning yoki kasallik rivojlanishining oldini olish tadbiridir. U bezgakdan individual himoya vositasi hisoblanadi va chivinlarga qarshi jamoaviy tadbirlarning o'rnini bosmaydi, balki ularni to'ldiradi [1, 2].",
+      "Ushbu esseda kimyoprofilaktikaning ta'sir mexanizmi, qamrab oluvchi kontingent va o'tkazilish muddati bo'yicha turlari ko'rib chiqiladi. So'ng shaxsiy, mavsumlararo va mavsumiy kimyoprofilaktikaning amaliy xususiyatlari, preparatlar guruhlari hamda cheklovlar yoritiladi [1, 2, 3]."
+    ]},
+    {"heading": "Ta'sir mexanizmi bo'yicha turlar", "content": [
+      "Davolash protokolida kimyoprofilaktikaning ikki turi ajratilgan. Birinchisi zararlanish jarayoniga ta'sir qiladi va kasallik yuqishining oldini olishga qaratilgan, ikkinchisi eritrotsitar shizogoniyani to'xtatadi, ya'ni yuqish emas, kasallik klinikasi rivojlanishining oldini oladi [1].",
+      "Uslubiy qo'llanmada bu bo'linish boshqacha nomlanadi: profilaktik davolash jigardagi gipnozoitlarni yo'qotishga, supressiv davolash esa jigardan qonga chiqqan parazitlarni o'ldirishga qaratilgan. Supressiv dori zararlanishdan himoya qilmaydi, faqat kasallikning klinik belgilarini bostiradi [2]."
+    ]},
+    {"heading": "Kontingent bo'yicha turlar", "content": [
+      "Himoyalanadigan kontingentga ko'ra kimyoprofilaktikaning uch turi farqlanadi: shaxsiy, guruhli va ommaviy. Maqsad aholining alohida zaif guruhi yoki bezgak o'chog'ida yashovchilar orasida kasallik yuqishi va kasallanishning oldini olishdir [1].",
+      "Uslubiy qo'llanmada supressiv davolash ham ikki holda keltirilgan: yuqori xavfli o'choqlarga boradigan kishilarda individual kimyoprofilaktika, yuqish davom etayotgan o'choq aholisida esa ommaviy yoki mavsumiy kimyoprofilaktika. Shu tariqa kontingent tanlovi tadbir shaklini belgilaydi [2]."
+    ]},
+    {"heading": "Muddati bo'yicha turlar", "content": [
+      "O'tkazilish muddatiga ko'ra kimyoprofilaktika qisqa muddatli, mavsumiy va mavsumlararo turlarga bo'linadi. Qisqa muddatli shakl shaxs o'choqda vaqtincha bo'lgan davrni, mavsumiy shakl kasallik yuqish mavsumini, mavsumlararo shakl esa yuqish mavsumidan tashqari davrni qamraydi [1].",
+      "Mavsumiy kimyoprofilaktika qisqa yashirin davrli uch kunlik va tropik bezgak bilan zararlanish hamda kasallanishning oldini olish uchun o'tkaziladi. Mavsumlararo shakl mavsum oxirida gipnozoitlar hisobiga uzoq yashirin davrli uch kunlik bezgak bilan ommaviy zararlanishning oldini oladi [1]."
+    ]},
+    {"heading": "Shaxsiy kimyoprofilaktika", "content": [
+      "Shaxsiy kimyoprofilaktika endemik o'choqqa boradigan barcha shaxslar, ya'ni sayyohlar, tadbirkorlar, ekipaj a'zolari va ekspeditsiya ishtirokchilari uchun qo'llanadi. Dori tanlash bezgakka qarshi davolashning milliy siyosatiga va borilayotgan hududning epidemiologik vaziyatiga muvofiq amalga oshiriladi [1, 2].",
+      "Dori qabuli ketishdan 1 hafta oldin boshlanadi, butun xavf davrida va qaytgandan keyin 1 oy davom ettiriladi. Yo'lovchilarga vaqtincha to'xtagan aeroportlarda ham kasallik yuqishi mumkinligi tushuntiriladi. JSST ham chemoprophylaxis chivin chaqishidan saqlanish bilan birga qo'llanishini ta'kidlaydi [1, 2, 4]."
+    ]},
+    {"heading": "Primaxin bilan radikal profilaktik davolash", "content": [
+      "Yangi va qoldiq faol o'choqlarda yashovchi, uch kunlik bezgak bilan kasallanganlarni radikal profilaktik davolash primaxin bilan amalga oshiriladi. Profilaktik davolash organizmni P. vivax gipnozoitlaridan xalos etish uchun tavakkaliga buyuriladi, chunki gipnozoit tashuvchilikni aniqlash imkoni yo'q [1, 2].",
+      "Ommaviy primaxin profilaktikasi samarali, ammo qimmat va murakkab: dori 14 kun beriladi, muvaffaqiyat uchun aholining taxminan 95 foizini qamrab olish kerak. Tibbiyot xodimlari har kuni xonadonlarga borib qabulni nazorat qiladi va gemoliz belgilariga e'tibor beradi [2]."
+    ]},
+    {"heading": "Mavsumiy va mavsumlararo kimyoprofilaktika", "content": [
+      "Yo'riqnomaga ko'ra faol va qoldiq faol o'choqlarda hududiy DSENM bilan kelishilgan holda aholining yoshiga qarab ko'rsatma asosida mavsumiy kimyoprofilaktika o'tkaziladi. Mavsumlararo kimyoprofilaktika aholining yoshiga qarab primaxin bilan 14 kun davomida o'tkazilishi maqsadga muvofiq deb ko'rsatilgan [3].",
+      "Uslubiy qo'llanma mavsumiy kimyoprofilaktika keng qo'llanilsa ham har doim o'zini oqlamasligini ta'kidlaydi. Bu usul uch kunlik bezgakning belgilari mavsumlararo davrda rivojlanishiga olib keladi va uzoq inkubatsiyali holatlar sonining sun'iy oshishiga sabab bo'lishi mumkin [2]."
+    ]},
+    {"heading": "Ommaviy va jamoaviy kimyoprofilaktika", "content": [
+      "Davolash protokolida ommaviy kimyoprofilaktika yuqish va kasallanish yuqori bo'lgan yangi va qoldiq faol o'choqlarda barcha aholi orasida o'tkaziladi. Jamoaviy shakl esa yuqish mavsumida o'choqda yashovchilarning barchasiga qo'llanadi [1].",
+      "Bunda parazit bilan zararlangan aholining bir qismi infeksiya manbasi sifatida xavf tug'dirmaydi, kasallik tarqalishi sezilarli kamayadi va o'choqdagi boshqa yashovchilar himoyalanadi. Protokolga ko'ra, jamoaviy kimyoprofilaktika yuqish mavsumida o'tkaziladi va uning maqsadi o'choqdagi qolgan aholini zararlanishdan saqlashdir [1]."
+    ]},
+    {"heading": "Qo'llanadigan preparatlar", "content": [
+      "Davolash protokolining ilovasida kimyoprofilaktika uchun mefloxin, xloroxin, atovakvon bilan proguanil, doksisiklin va proguanil keltirilgan, dozalar tana vazni va yoshga qarab jadvalda beriladi. Aniq dozani ushbu jadvaldan va amaldagi milliy bayonnomadan tekshirish zarur [1].",
+      "Protokolda artemisinin va uning birikmalari kimyoprofilaktika maqsadida qo'llanilmasligi ko'rsatilgan. Artemeter bilan lyumefantrin kombinatsiyasi ham endemik hududga ketuvchilarni davolash uchun tavsiya etiladi, lekin kimyoprofilaktikada ishlatilmaydi. Bu davolash va profilaktika vositalarini aralashtirmaslik uchun muhim [1]."
+    ]},
+    {"heading": "Kimyoprofilaktikaning cheklovlari", "content": [
+      "Protokolga ko'ra kimyoprofilaktika preparatlarini to'liq samarali va yuz foiz xavfsiz deb bo'lmaydi. Ular zararlanish va kasallanishdan to'liq himoya qilmaydi, lekin muntazam qabul qilinsa og'ir asoratlar va o'lim holatlarining oldini oladi. Yon ta'sirlar ko'pincha tug'ma biokimyoviy anomaliyalarga bog'liq [1].",
+      "Preparatlarning birortasi gipnozoitlarga ta'sir qilmaydi, shu sababli uyga qaytgandan bir necha oy keyin uch kunlik yoki ovale bezgakning kech namoyon bo'lishi mumkin. JSST ham primaxin gipnozoitlarni o'ldiradigan yagona dori ekanini va hozirgi sxemalar qaytalanishning oldini olmasligini bildiradi [1, 4]."
+    ]},
+    {"heading": "Maxsus guruhlar va qarshi ko'rsatmalar", "content": [
+      "Protokolga ko'ra kimyoprofilaktika homiladorlar, yosh bolalar va qariyalarga, ayniqsa tropik bezgakning dori-darmonlarga chidamli shakllari bor mamlakatlarda tavsiya etilmaydi. Radikal davolanmagan homilador ayollar va 4 yoshgacha bolalar qarshi ko'rsatma tugagach 14 kun primaxin qabul qiladi [1].",
+      "Agar qarshi ko'rsatma muddati bezgak tarqalish mavsumiga to'g'ri kelsa, ular xloroxin bilan mavsumiy kimyoprofilaktika olishi mumkin. Shu sababli kimyoprofilaktikani tayinlashda shifokor yosh, homiladorlik, G6FDG holati va hududdagi dori sezuvchanligini hisobga oladi [1]."
+    ]},
+    {"heading": "Milliy talablar va safardan qaytganlar", "content": [
+      "Tropik va subtropik davlatlarga xizmat safariga yuboruvchi tashkilotlar va sayyohlik agentliklari DSENM parazitologini jalb etib bezgak profilaktikasi bo'yicha yo'l-yo'riq o'tkazishi, maslahat xonasi tashkil etishi va qaytgach kimyoprofilaktika olganligi haqida shifokorni ogohlantirish tavsiyasini berishi lozim [3].",
+      "Xorijdan qaytganlar hisobga olinib, laboratoriya yo'li bilan tekshiriladi va 3 yil dispanser nazoratiga olinadi. JSSTning sayohatchilar uchun tavsiyasiga ko'ra, xavfli hududga kirgandan 1 hafta yoki undan keyin va ketgandan keyin 3 oygacha paydo bo'lgan isitmaga zudlik bilan tashxis qo'yish kerak [3, 4]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor kimyoprofilaktika turini epidemik ko'rsatma, o'choq turi, aholi yoshi va dori xavfsizligiga qarab tanlaydi. Masalan, safarga ketuvchilar uchun shaxsiy, yangi va qoldiq faol o'choqlar aholisi uchun mavsumiy yoki mavsumlararo shakl qo'llanadi [1, 3].",
+      "U shuningdek qabul tartibiga rioya etilishini nazorat qiladi va kimyoprofilaktika kasallikni butunlay oldini olishiga ishonib, chivin chaqishidan himoyani e'tibordan chetda qoldirmaslik zarurligini tushuntiradi. Qaytgan shaxslarda isitma bo'lsa, bezgakka qon tekshiruvi kechiktirilmaydi [1, 3, 4]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Bu esseda kimyoprofilaktika preparatlarining aniq dozalari keltirilmadi, chunki protokol ilovasidagi jadvallar matni nusxada notekis o'qiladi va ularning amaldagi milliy bayonnoma bilan solishtirilgani tasdiqlanmagan. Faqat tadbir turlari va muddatlar manbalarga muvofiq berildi [1].",
+      "Protokolda kimyoprofilaktika sxemasi shahar va tumanning o'ziga xos vaziyatidan kelib chiqib tayinlanishi aytilgan, ammo O'zbekiston hududlari uchun hozirgi tavsiya etilgan sxema kutubxona manbalarida ko'rsatilmagan. Shu sababli hududiy ko'rsatmani DSENMdan aniqlash lozim [1, 3]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgak kimyoprofilaktikasi ta'sir mexanizmi bo'yicha ikki, kontingent bo'yicha uch (shaxsiy, guruhli, ommaviy), muddati bo'yicha uch (qisqa muddatli, mavsumiy, mavsumlararo) turga bo'linadi. Hech bir tur to'liq himoya bermaydi va gipnozoitlarga ta'sir qilmaydi, shu sababli u chivinlarga qarshi tadbirlar bilan birga qo'llanadi [1, 2, 3, 4]."
+    ]}
+  ],
+  "references": [
+    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "World Health Organization. International travel and health 2017, Chapter 7: Malaria. https://www.who.int/docs/default-source/travel-and-health/2017-ith-chapter7.pdf"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "number": 144,
+  "title": "144. Bezgak qo'zg'atuvchilarini hayotiy davri.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Odamda bezgakni Plasmodium turkumidagi to'rt tur qo'zg'atadi: P. vivax uch kunlik, P. malariae to'rt kunlik, P. falciparum tropik bezgakni, P. ovale esa P. vivaxga o'xshash ovale bezgakni. Ularning hayotiy davri murakkab bo'lib, ikki xo'jayin organizmida o'tadi [1, 2].",
+      "Ushbu esseda hayotiy davr ketma-ket ko'rib chiqiladi: odam organizmidagi jinssiz bosqich (jigar va eritrotsitar shizogoniya, gametotsit hosil bo'lishi), Anopheles chivini organizmidagi jinsiy bosqich (sporogoniya), hamda bu bosqichlarning klinik va epidemiologik ahamiyati [1, 2]."
+    ]},
+    {"heading": "Ikki xo'jayinli davr", "content": [
+      "Bezgak parazitlarining rivojlanishi navbat bilan odam organizmida (jinssiz bosqich) va Anopheles turkumidagi chivinlar organizmida (jinsiy bosqich) kechadi. Odamda ko'payish avval jigar hujayralarida, so'ng eritrotsitlarda sodir bo'ladi, jinsiy shakllar esa eritrotsitlarda paydo bo'ladi [1].",
+      "Plasmodiyalar sporalilar sinfiga kiradi: odamdagi jinssiz sikl shizogoniya, urg'ochi Anopheles chivinidagi jinsiy rivojlanish esa sporogoniya deb ataladi. Shu sababli chivin faqat mexanik tashuvchi emas, parazit rivojlanishining zaruriy xo'jayinidir [1, 2]."
+    ]},
+    {"heading": "Sporozoitlarning odam organizmiga tushishi", "content": [
+      "Sporozoitlar odam organizmiga zararlangan urg'ochi bezgak chivini chaqqanda tushadi. 15-45 daqiqada, ayrim ma'lumotlarga ko'ra 30-60 daqiqadan keyin, ular qon oqimi bilan jigarga o'tadi va gepatotsitlarga kiradi, bu bilan ekzoeritrotsitar sikl boshlanadi [1].",
+      "Bu bosqichda jigar to'qimasida yallig'lanish rivojlanmaydi, kasallikning klinik belgilari va immunologik o'zgarishlar kuzatilmaydi. Shu sababli sporozoitlar tushgandan keyingi dastlabki davr yashirin kechadi va bemor kasallanganini bilmaydi [1]."
+    ]},
+    {"heading": "Ekzoeritrotsitar (to'qima) shizogoniya", "content": [
+      "Gepatotsitda parazit kattalashib, ko'p marta bo'linadi va ko'plab bir yadroli shakllar, ya'ni to'qima merozoitlari hosil qiladi. To'qima shizogoniyasi to'rt kunlik bezgakda 6 haftagacha, qolgan shakllarda 6-15 sutkadan 3 haftagacha davom etadi [1].",
+      "Tropik bezgakda 40000 tagacha to'qima merozoiti paydo bo'ladi, boshqa shakllarda ancha kam. Darslikda esa ekzoeritrotsitar shizontlarning yetilishi 6 sutkadan (P. falciparum) 15 sutkagacha (P. malariae) davom etib, 10000-50000 merozoit hosil bo'lishi keltirilgan, bu manbalar orasidagi farq hisoblanadi [1, 2]."
+    ]},
+    {"heading": "Gipnozoitlar va uzoq yashirin davr", "content": [
+      "P. vivax va P. ovale sporozoitlari jigarga kirgach darhol shizogoniyaga o'tishi (taxisporozoitlar) yoki jigarda uzoq muddat mudroq holatda, ya'ni bradisporozoit yoki gipnozoit sifatida saqlanishi mumkin. Mudroq davr bir necha oydan 2 yil va undan ko'pgacha cho'ziladi [1].",
+      "Sporozoitlarning bir qismi 7-14 oy va undan ko'p gepatotsitlarda yotadi, faqat shundan keyin eritrotsitlarni zararlaydigan merozoitlar rivojlanadi. Bu uzoq inkubatsiyani va kech qaytalanishlarni belgilaydi, shu sababli uch kunlik bezgakda qondan parazitning yo'qolishi hali to'liq sog'ayish emas [1]."
+    ]},
+    {"heading": "Eritrotsitar shizogoniya", "content": [
+      "Merozoitlar jigardan qonga chiqib, eritrotsitlarga kiradi va eritrotsitar shizogoniya boshlanadi. Merozoitning eritrotsitga kirishi parazit va eritrotsit membranasidagi retseptorlarning o'zaro mos bo'lishiga bog'liq. P. malariae uchun rivojlanish 72 soat, boshqa turlarda 48 soat davom etadi [1].",
+      "Parazit bo'linib, eritrotsit yoriladi va erkin merozoitlar yangi eritrotsitlarni zararlaydi. Darslikda shizont 8 dan 24 tagacha merozoit hosil qilishi, ular yorilgandan 10-15 daqiqada yangi eritrotsitga kirishi yozilgan. Bu bosqich bezgak xurujlarining sababi hisoblanadi [1, 2]."
+    ]},
+    {"heading": "Turlar bo'yicha sinxronlik", "content": [
+      "Paroksizmlar yaqqol namoyon bo'lishi uchun parazitlar sinxron rivojlanishi kerak. Bu ko'proq uch kunlik bezgakka xos, shuning uchun xurujlarning ketma-ket kelishi shu turda kuzatiladi. Tropik bezgakda parazitning bir necha subpopulyatsiyasi bir vaqtda rivojlanmaydi [1].",
+      "Shu sababli P. falciparumda eritrotsitar shizogoniya vivaxdagidek 48 soat bo'lsa ham navbatdagi tugash vaqti turli kun va soatda sodir bo'ladi, bu esa tropik bezgakda isitma xurujlarining tartibsiz va tezroq qaytalanishini belgilaydi. Klinik belgilar faqat eritrotsitar shizogoniya bilan bog'liq [1]."
+    ]},
+    {"heading": "Gametotsitogoniya", "content": [
+      "Eritrotsitlarga tushgan merozoitlarning bir qismidan jinsiy shakllar, ya'ni makrogametotsitlar (urg'ochi) va mikrogametotsitlar (erkak) rivojlanadi. Ularning keyingi rivojlanishi faqat chivin organizmida davom etadi, chivinlar esa yetuk gametotsitlari bor kishilardan zararlanadi [1].",
+      "P. vivax, P. malariae va P. ovale bezgaklarida yetuk gametotsitlar klinik belgilar boshlangan dastlabki kunlardan paydo bo'ladi va eritrotsitar shizogoniya tugashi bilan halok bo'ladi. Tropik bezgakda esa isitma boshlangandan 2 hafta o'tgach paydo bo'lib, qonda bir necha oy aylanadi [1]."
+    ]},
+    {"heading": "Chivin ichagida gametogenez va urug'lanish", "content": [
+      "Zararlangan odam qoni bilan chivin oshqozoniga tushgan yetuk gametotsitlar eritrotsitlardan ozod bo'ladi. 9-12 daqiqadan keyin erkak gametotsit 8 ta ingichka harakatchan xivchin chiqaradi, bu jarayon eksflagellyatsiya deb ataladi va mikrogametalar hosil bo'ladi [1].",
+      "Mikrogameta urg'ochi hujayra, ya'ni makrogameta ichiga kirib, ikki yadro qo'shilishidan zigota hosil bo'ladi. 18-24 soat ichida u cho'zilib harakatlanuvchi ookinetaga aylanadi, chivin oshqozoni epiteliysidan o'tib bazal membrana ostiga joylashadi va qobiq bilan o'ralib, ootsistaga aylanadi [1]."
+    ]},
+    {"heading": "Sporogoniya va chivinning yuqumli bo'lishi", "content": [
+      "Ootsista yetilganda uning hajmi ortadi, yadro ko'p marta bo'linadi va ichida taxminan 10000 ta o'roqsimon sporozoit paydo bo'ladi. Sporozoitlar chivin gemolimfasidan so'lak bezlariga o'tgach chivin yuqumli bo'ladi. Sporogoniya 10-30 daraja haroratda kechadi va turga qarab 7 dan 45 kungacha davom etadi [1, 2].",
+      "Uslubiy qo'llanmada P. vivax sporogoniyasi tugashi uchun zarur harorat yig'indisi 14,5 daraja bo'sag'adan yuqori 105 daraja-kun deb hisoblanadi, hisob o'rtacha sutkalik harorat 16 darajaga yetgan kundan boshlanadi. Shu asosda yuqish mavsumining boshlanishi aniqlanadi [1]."
+    ]},
+    {"heading": "Parenteral yuqishda hayotiy davr", "content": [
+      "Bezgak plazmodiyalari bilan parenteral zararlanishda, masalan qon quyish yoki sterilizatsiya qilinmagan asboblar orqali, to'qima shizogoniyasi kuzatilmaydi. Merozoitlar to'g'ridan-to'g'ri qonga tushib, eritrotsitlarga kiradi va eritrotsitar shizogoniya boshlanadi [1].",
+      "Shu sababli bunday emlangan bezgakda jigar bosqichi o'tmaydi, milliy davolash protokolida emlangan uch kunlik va ovale bezgakda gipnozoitlar bo'lmagani uchun primaxin tavsiya etilmasligi ko'rsatilgan. Bu hayotiy davrni bilish davolashni tanlash uchun amaliy ahamiyatga ega [1, 3]."
+    ]},
+    {"heading": "Hayotiy davrning klinik va epidemiologik ahamiyati", "content": [
+      "Faqat eritrotsitar shizogoniya isitma, kamqonlik, gepatomegaliya va splenomegaliyani keltirib chiqaradi, ekzoeritrotsitar shizogoniya, uyqu holati va gametotsitogoniya klinik belgilarsiz o'tadi. Shu sababli tashxis qonda parazit topilishiga asoslanadi [1].",
+      "Gipnozoitlar qaytalanishlarning, gametotsitlar esa chivinning zararlanishining sababi bo'lgani uchun davolashda ikkala shaklni ham yo'qotish kerak. Gematoshizotrop dorilar qondagi shakllarni, primaxin esa jigardagi gipnozoitlarni yo'qotadi, bu esa hayotiy davr bosqichlariga mos tanlangan davolash ekanini ko'rsatadi [1, 3]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor hayotiy davrni bilgani uchun inkubatsiya davrini, qaytalanish turini va yuqish mavsumini baholaydi. Masalan, qisqa yashirin davrdan keyingi holat joriy yilda yuqqan, uzoq yashirin davrli holat esa o'tgan yilda yuqqan bo'lishi mumkin va bu o'choq tasnifiga ta'sir qiladi [1].",
+      "Shuningdek hayotiy davr chivinlarga qarshi tadbirlar muddatini ham belgilaydi. Sporogoniya uchun zarur harorat yig'indisi va chivinning yetilish davri hisoblanib, shu asosda chivinlarga qarshi ishlov va kimyoprofilaktikani qachon boshlash mumkinligi aniqlanadi [1, 3]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Manbalar orasida farqlar bor: to'rt kunlik bezgakda to'qima shizogoniyasi uslubiy qo'llanmada 6 haftagacha, darslikda esa 15 sutkagacha ko'rsatilgan. Merozoitlar soni ham turlicha (40000 tagacha va 10000-50000). Qaysi biri aniq ekani kutubxona manbalaridan hal qilinmadi [1, 2].",
+      "Gametotsitlarning qonda saqlanish davri ham farq qiladi: uslubiy qo'llanmada tropik bezgakda bir necha oy, darslikda bir necha hafta. Sporogoniya harorat chegarasi ham turlicha berilgan, shuning uchun mahalliy yuqish mavsumini aniqlashda uslubiy qo'llanma hisobi ishlatiladi [1, 2]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgak qo'zg'atuvchilarining hayotiy davri odamdagi jinssiz bosqich (jigar va eritrotsitar shizogoniya, gametotsit hosil bo'lishi) va chivindagi jinsiy bosqich (urug'lanish, ookineta, ootsista, sporozoitlar) dan iborat. P. vivax va P. ovale gipnozoitlari qaytalanish va uzoq inkubatsiyani, eritrotsitar shizogoniya klinik xurujlarni belgilaydi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546."
+  ]
+}

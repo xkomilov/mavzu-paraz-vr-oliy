@@ -1,0 +1,65 @@
+{
+  "number": 68,
+  "title": "68. Kanali qaytalama terlamaning (KQT) laborator teshirishning ko'rsatkichi.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Kanali qaytalama terlamada laboratoriya tekshiruvi bemor qonida spiroxetalarni topish bilan tashxisni tasdiqlaydi, shuningdek o'choqdagi kanalarni tekshirish orqali epidemiologik vaziyatni baholaydi. Laboratoriya ko'rsatkichlari ikki guruhga bo'linadi: bemorga tegishli (klinik-laboratoriya) va tashuvchi kanalar bo'yicha [1].",
+      "Ushbu esseda tekshiruvga ko'rsatmalar, qon mikroskopiyasi natijalari, gematologik o'zgarishlar, sifat nazorati, serologik va qo'shimcha usullar hamda kanalar va insektitsid samaradorligi bo'yicha laboratoriya ko'rsatkichlari ko'rib chiqiladi. Mavzu nomidagi «ko'rsatkich» atamasi shu ma'noda tushunildi [1, 2, 3]."
+    ]},
+    {"heading": "Tekshiruvga ko'rsatmalar", "content": [
+      "Qo'llanmaga ko'ra KQT endemik o'choqlarida yashovchi yoki kasallik boshlanishidan 1-3 hafta oldin u yerda bo'lib qaytgan, tana harorati yuqori, tashxisi noaniq bemorlardan qon (qalin tomchi) olinib spiroxetalarga tekshiriladi [1].",
+      "Tana harorati ko'tarilgan va kana chaqqani ma'lum barcha bemorlar ham shu kasallikka tekshiriladi. Qo'llanmada bir necha marta yuqori haroratli bemorlarni spiroxetozga va yashash joylarini kanalarga tekshirish orqali Qashqadaryo viloyatida kasallik yo'qligi tasdiqlangani ham eslatilgan [1]."
+    ]},
+    {"heading": "Material va asosiy usul", "content": [
+      "Laboratoriya tashxisi uchun barmoqdan qalin qon tomchisi olinib, quritiladi va Romanovskiy-Gimza bo'yicha bo'yaladi. Laboratoriya diagnostikasi yo'riqnomasidagi jadvalda ham qon namunasi, qalin tomchi mikroskopiyasi bezgak va KQT uchun ko'rsatilgan [1, 4].",
+      "Namuna immersion yog'da 7x okulyar va 90x yoki 100x ob'ektivda ko'riladi. Spiroxetalar bir necha ko'rish maydonida oz topilgani uchun kamida 100-200 maydon yoki 5-10 daqiqa ko'rish talab qilinadi; aniq natija uchun ba'zan qon bir necha marta olinadi [1]."
+    ]},
+    {"heading": "Mikroskopik natija ko'rsatkichlari", "content": [
+      "Ijobiy natija sifatida qon surtmasida spiroxetalar topilishi hisoblanadi: ular uzunchoq, ozroq parmasimon ko'k spiral, ayrim hollarda yarim oy shaklida, ikki uchi o'tkir va 4-12 ta katta buramadan iborat. Xuruj vaqtida ham, xurujlar oralig'ida ham aniqlanadi [1].",
+      "Bayonnomada qon xuruj paytida bir necha kun davomida olinishi, Romanovskiy-Gimza bilan 3-6 preparat tayyorlanishi, mikroskopiyada qon surtmasi, qalin tomchi yoki osma tomchida spiroxetalar topilishi tashxisni tasdiqlashi ko'rsatilgan. Biologik namunada ham qon mikroskopiyasi tashxisni tasdiqlaydi [3]."
+    ]},
+    {"heading": "Gematologik o'zgarishlar", "content": [
+      "Taqdimotga ko'ra xuruj vaqtida leykotsitoz aniqlanadi, apireksiya va sog'ayish davrida leykotsitlar soni me'yorga keladi. Limfotsitlar 30-45 foizgacha, monotsitlar 10-12 foizgacha, eozinofillar 5 foizgacha ko'payishi mumkin [2].",
+      "Kasallik uzoq cho'zilsa gipoxrom kamqonlik rivojlanib, eritrotsitlar soni 3-3,5 mln gacha tushadi. Bayonnomada umumiy qon, siydik va axlat tahlillari ham tekshiruv ro'yxatiga kiritilgan, ammo ular tashxisni emas, asoratlarni baholashga xizmat qiladi [2, 3]."
+    ]},
+    {"heading": "Natijani talqin qilish", "content": [
+      "Spiroxetalar qonda kam bo'lgani uchun taqdimotda ular bemorlarning 18-20 foizida topilishi, ko'rilgan bir necha tomchida 1-2 ta uchrashi aytilgan. Shu sababli bir marta o'tkazilgan manfiy natija kasallikni istisno qilmaydi, takroriy namuna va xuruj paytida olish tavsiya etiladi [1, 2].",
+      "Bezgakda esa qonda plazmodiylar topilib, taloq katta bo'ladi; bayonnomada KQT xurujlari kunlar davomida, bezgakda soatlar davomida kechishi farqi ko'rsatilgan. Laboratoriya natijasi shu klinik ma'lumotlar bilan birga baholanadi [2, 3]."
+    ]},
+    {"heading": "Sifat nazorati", "content": [
+      "Qo'llanmaga ko'ra viloyat DSENM laborantlari tumanlarga chiqqanda qon namunalarining 20-30 foizini qayta nazorat qilib, mikroskopiya sifatiga e'tiborni kuchaytirishi zarur. Barcha aniqlangan holatlar bo'yicha shahar yoki tuman DSENMga shoshilinch xabarnoma yuboriladi [1].",
+      "Mikro o'choq va o'choqlarda kanalar bo'lsa-da, KQT qayd etilmasligining sabablaridan biri DPMlarda spiroxetalarni aniqlash bo'yicha laboratoriya tashxisi sifati yomonligi va DSENM tomonidan nazoratning yo'qligi deb ko'rsatilgan. Bu holat laboratoriya ko'rsatkichlarining epidemiologik ahamiyatini ko'rsatadi [1]."
+    ]},
+    {"heading": "Serologik va qo'shimcha ko'rsatkichlar", "content": [
+      "Bayonnomada qorong'i maydon mikroskopiyasi, Burri usuli, spiroxetalarni kumushlash, biologik namuna hamda agglyutinatsiya, Rikkenberg-Brusin, komplement biriktirish va bilvosita immunoflyuoressensiya reaksiyalari keltirilgan. Serologik reaksiya 4 marta, 10-15 kun dinamikada o'tkazilganda titr doimiyligi tashxisni tasdiqlaydi [3].",
+      "Tahlil bo'yicha minimal ro'yxat bakterioskopik (qalin surtma, Burri, osma tomchi), biologik va serologik (KBR, BIFR) tekshiruvlardan iborat. Taqdimotda Burri usuli bir tomchi qon va bir tomchi tushni aralashtirib, immersion tizimda qorong'i fonda ko'rishdan iborat deb yozilgan [2, 3]."
+    ]},
+    {"heading": "Kanalarni laboratoriya tekshiruvi", "content": [
+      "Kanalar pinset bilan yig'ilib, probirkaga solinadi va DSENMga tirik yoki 2-3 foizli formalin yoki 70 foizli spirt bilan fiksatsiyalangan holda olib kelinadi; etiketkaga topilgan joy, vaqt va yig'uvchining ismi yoziladi. Kanalar tarqalganligi 1 kg tuproqda 1-2 ta bo'lsa kam, o'nlab bo'lsa o'rtacha, yuzlab bo'lsa ko'p deb baholanadi [1].",
+      "Kanalar transportirovkasi bo'yicha materialda ular qum solingan probirkada paxta-dokali qopqoq bilan yuborilishi, har bir ob'ektdan alohida idishga joylanishi, tirik yetkazilishi aniqlikni oshirishi va tirik holda 10 kungacha +4 darajada saqlanishi mumkinligi qayd etilgan [5]."
+    ]},
+    {"heading": "Insektitsid samaradorligini laboratoriya baholash", "content": [
+      "Ishlovdan 2-3 kun o'tgach xona polining turli joylaridan, kanalar mikrobiotoplaridan, kemiruvchi inlaridan namunalar olinadi. Ishlov berilmagan binolardagi O. papillipes ning 3-6 nimfa va yetuk kanasi insektitsid solingan probirkaga yig'ilib, nazorat uchun toza probirkaga turli yoshdagi 5 dona kana qo'yiladi; falajlik ishlov belgisi hisoblanadi [1].",
+      "Samaradorlik ko'rsatkichlari: kanalar sonining ishlovdan oldingisiga nisbatan kamayishi, namunada o'lik yoki falaj kanalar topilishi, nazorat namunalarida kana lichinkalari va yosh nimfalar yo'qligi hamda aholi shikoyatining yo'qligi. Epidemiologik tekshiruv kartasida ishlovdan oldin va keyin O. papillipes necha marta aniqlangani yoziladi [1, 6]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor qon surtmalarini o'zi yoki laborantlar bilan ko'rib, shubhali isitmali bemorlarda tekshiruvni xuruj paytiga to'g'ri vaqtda tashkil qiladi. Bunda namunani saqlash, bo'yash va immersion mikroskopiya talablariga rioya etilishini nazorat qiladi [1].",
+      "Shuningdek kanalar topilgan joyni, soni va rivojlanish bosqichini aniq qayd etib, insektitsid ishlovidan keyingi laboratoriya natijalarini tahlil qiladi. Bu ma'lumotlar ishlov takrori yoki to'xtatilishi qarorini asoslaydi [1]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Manbalarda qalin tomchida spiroxetalar sonini baholovchi miqdoriy shkala (masalan, bezgakdagi kabi) KQT uchun berilmagan. Serologik reaksiyalarning sezuvchanligi va O'zbekistonda qaysi laboratoriyalarda o'tkazilishi haqida ham aniq ma'lumot topilmadi [1, 3].",
+      "Taqdimotdagi gematologik ko'rsatkichlar (limfotsitlar 30-45 foiz va boshqalar) bitta manbadan olingan, milliy bayonnomada son ko'rsatkichlari yo'q. Shu sababli ular tashxis mezoni sifatida emas, qo'shimcha orientir sifatida keltirildi [2, 3]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "KQT ning asosiy laboratoriya ko'rsatkichi Romanovskiy-Gimza bo'yicha bo'yalgan qalin tomchida spiroxetalarning topilishi bo'lib, manfiy bir martalik natija kasallikni inkor etmaydi; qo'shimcha Burri, serologik va biologik usullar, gematologik o'zgarishlar, shuningdek kanalarni tekshirish va insektitsid samaradorligini baholash ko'rsatkichlari ham qo'llanadi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
+    "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
+    "Parazitar kasalliklarni davolash bayonnomalari («Kanalar o'tkazuvchi qaytalama terlamani davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+    "Kanalar transportirovkasi (kanalarni yig'ish va yuborish bo'yicha taqdimot). xayrullokomilov.uz/kutubxona, material ID 1582.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
+  ]
+}

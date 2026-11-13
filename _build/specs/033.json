@@ -1,0 +1,74 @@
+{
+  "number": 33,
+  "title": "33. Bezgak kasalligining tashuvchilariga qarshi kurash usullari.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgak qo'zg'atuvchilarini Anopheles turkumiga mansub urg'ochi chivinlar tashiydi, shu sababli tashuvchilarga qarshi kurash bezgakni yuqtirishni to'xtatishning asosiy yo'nalishlaridan biri hisoblanadi. U tashuvchining ko'payish joylariga ham, uchib yuruvchi chivinga ham qaratiladi [1, 2, 3].",
+      "Ushbu esseda tashuvchilarga qarshi usullarning tasnifi, entomologik nazorat, lichinkalarga qarshi gidrotexnik, kimyoviy va biologik usullar, qanotli chivinlarga qarshi qoldiq ta'sirli ishlov, samaradorlikni baholash hamda odamni chivin chaqishidan himoyalash ko'rib chiqiladi [1, 2, 3]."
+    ]},
+    {"heading": "Usullarning tasnifi", "content": [
+      "Entomologiya qo'llanmasida bezgak tashuvchilariga qarshi kurash usullari ikki yo'nalishga bo'linadi: lichinkalarga va imagolarga qarshi kurash. Lichinkalarga qarshi gidrotexnik, lichinkaxo'r baliqlar, bakterial preparatlar va fizikaviy usullar, imagolarga qarshi esa xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berish qo'llanadi [3].",
+      "Uslubiy qo'llanmada bezgakka qarshi choralar qo'zg'atuvchiga va tashuvchiga qaratilishi mumkinligi, hech biri barcha vaziyatda hal qiluvchi emasligi yozilgan. Shu sababli usul tanlashda uning ta'siri, qo'llanish joyi, mexanizmi va epidemiologik sharoitga mosligi baholanadi [2]."
+    ]},
+    {"heading": "Entomologik nazorat", "content": [
+      "Yo'riqnomaga ko'ra entomolog o'z hududidagi Anopheles entomofaunasini, ayniqsa chivinlarning qishlash, kunlash va turli suv havzalarida ko'payish bosqichlarini bilishi shart. U gidrotexnik muhandis bilan anofelogen suv havzalarini pasportlashtiradi va yil davomida paydo bo'ladigan havzalarni nazorat qiladi [1].",
+      "Fenologik kuzatuvlar chivinlar qishlash joyidan uchib chiqishi, birinchi avlod uchib chiqishi, imago va lichinkalar sonining cho'qqisi hamda diapauzaga ketish kabi sanalarni aniqlaydi. Birinchi avlodning uchib chiqishi chivinlarning samarali zararlanish mavsumi boshlanganini va bezgakka qarshi choralar muddatini belgilaydi [1]."
+    ]},
+    {"heading": "Ko'payish joylarini yo'qotish va gidrotexnik tadbirlar", "content": [
+      "Ko'payish joylarini yo'qotish, ya'ni bonifikatsiya eng qadimgi va eng samarali usul sanaladi, u hududning bezgak paydo qilish potensialini radikal kamaytiradi. Muammo shundaki, ko'p suv havzalari ekologik, xo'jalik yoki rekreatsion jihatdan qimmatli, ularni yo'qotish esa qimmat yoki jismonan mumkin emas [1, 2].",
+      "Katta gidrotexnik tadbirlarga keraksiz hovuzlarni yo'qotish, drenaj va sug'orish tarmoqlarini tartibda saqlash, qirg'oqlarni tekislash kiradi. Sholipoyalar chivinlarning ommaviy ko'payish joyi bo'lishi mumkin, shu sababli suv quyish tartibi lichinkalar rivojlanmaydigan qilib joriy etiladi [2]."
+    ]},
+    {"heading": "Lichinkalarga qarshi ishlov", "content": [
+      "Larvitsid tadbirlar, ya'ni kichik suv havzalaridagi lichinka va g'umbaklarni yo'qotish, ko'payish joylari kam, ancha doimiy va sathini dorilash mumkin bo'lgan, asosan quruq tumanlarda samarali. Qo'llanadigan vositalar umurtqalilar uchun zaharli bo'lmagan insektitsidlar, suv ustida parda hosil qiluvchi moddalar va biogen larvitsidlardir [1].",
+      "Ishlov samaradorligi uchun barcha hovuzlar ro'yxatga olinib xaritaga tushiriladi, ularning raqami yaqin joyda yoziladi va jadvalga so'zsiz rioya qilinadi. Odatda ishlov haftasiga yoki 10 kunda bir marta o'tkaziladi, jadvalda kun bilan birga soat ham ko'rsatiladi [1, 2]."
+    ]},
+    {"heading": "Lichinkaxo'r baliqlar", "content": [
+      "Lichinka bilan oziqlanadigan baliqlarni ko'paytirish ham usullardan biri. Mumkin bo'lsa mahalliy turlar ishlatiladi, ammo amalda asosan ekzotik gambuziya qo'llanadi. O'rta Osiyo janubida gambuziya qishlay oladi, sovuqroq hududlarda esa har yili nihollardan olib suv havzalariga qo'yiladi [1].",
+      "Entomologiya qo'llanmasiga ko'ra bitta gambuziya sutkada 60-100 ta lichinka yoki g'umbak bilan oziqlanadi, tirik tug'uvchi baliqlar uchun 1 m2 suvga 5 ta bug'oz baliq qo'yilsa yetarli. Baliqlar erta bahorda qo'yilsa, ularning soni 1-1,5 oydan keyin yetarli bo'ladi [3]."
+    ]},
+    {"heading": "Bakterial va fizikaviy usullar", "content": [
+      "Biologik larvitsid sifatida entomopatogen bakteriyalar qo'llanadi. Bacillus thuringiensis israelensis preparatlari Anopheles, Culex va Aedes lichinkalariga samarali, Bacillus sphaericus preparatlari esa asosan Culex lichinkalariga. Ular g'umbaklarga va katta yoshdagi lichinkalarga ta'sir qilmaydi [3].",
+      "Bakterial preparatlar xonalarga ishlov samarasi pasaygan, chivinlar insektitsidlarga chidamli yoki bezovta bo'ladigan va ekzofil chivinlar ko'p bo'lgan joylarda yaxshi natija beradi. Fizikaviy usullar lichinka va g'umbaklarning nafas olishiga to'sqinlik qiladigan neft mahsulotlariga asoslanadi [3]."
+    ]},
+    {"heading": "Qoldiq ta'sirli insektitsidlar bilan ishlov", "content": [
+      "Qanotli chivinlarga qarshi xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov berish bezgak yuqishini to'xtatish yoki keskin kamaytirishga qaratilgan dasturlar uchun asosiy usul. Uslubiy qo'llanmada bu O'zbekiston sharoitida yuqishni samarali to'xtatishga qaratilgan yagona usul deb ko'rsatilgan [1, 2].",
+      "Ishlov berilgan sirt bir necha hafta va oy davomida chivinga zaharli ta'sirini saqlaydi, shuning uchun xonada uxlayotgan odamlarni, ular orasida parazit tashuvchilarni, chaqayotgan chivinlar infeksiyani o'tkazishga ulgurmay nobud bo'ladi. Ishlovni sanepidxizmat yoki dezinfeksiya xizmati o'tkazadi [1, 2]."
+    ]},
+    {"heading": "Ishlovning qamrovi va insektitsid tanlash", "content": [
+      "O'choqli yoki butun aholi punktini qamrovchi ishlov tavsiya etiladi, chunki sporozoitlar yetilish davrida zararlangan chivin zararlangan joyidan uzoqqa borishi mumkin. Xonadonlarga ishlovning qamrovi kamida 90-95 foiz bo'lishi shart va yashamaydigan binolar hisobiga to'ldirilmaydi [1, 2].",
+      "Insektitsid tanlashda mahalliy tashuvchilarda chidamlilik yo'qligi, chivinni bezovta qilmasligi va sirtda faolligining uzoq saqlanishi hisobga olinadi. Chivinlarga qarshi piretroidlar, fosfororganik birikmalar, karbamatlar va xlororganik birikmalar qo'llanadi, JSST tavsiyasi bilan xlororganiklardan foydalanish kamaygan [2, 3]."
+    ]},
+    {"heading": "Ishlov muddati va to'siq usuli", "content": [
+      "Entomologiya qo'llanmasiga ko'ra mavsum davomida chivinlarning uch avlodiga, ya'ni qishlovdan chiqqan, bahorgi-yozgi va kuzgi avlodlarga qarshi ishlov beriladi. O'rta Osiyoda xonalarga ishlov aprelning birinchi o'n kunligigacha tugallanishi, so'ng iyunning birinchi o'n kunligida va avgustda takrorlanishi ko'rsatilgan [3].",
+      "Anofelogen suv havzalari ko'p bo'lsa to'siq usuli qo'llanib, suv havzasi tarafdagi 50-300 m masofadagi xonalarga ishlov beriladi. Qoldiq ta'sirli insektitsidlar ishlangan xonalarda kuchini 3 oygacha saqlashi mumkin. Epidemiya paytida mavsumning barcha sanalarida ishlov beriladi [3]."
+    ]},
+    {"heading": "Samaradorlikni baholash", "content": [
+      "Yo'riqnomaga ko'ra chivinlarga qarshi tadbirlarning sifati va samaradorligini entomolog kimyoviy ishlovdan 1 sutka o'tgach tekshiradi. Anopheles lichinka va imagolarining ishlovdan oldingi va keyingi soni solishtiriladi, kamayish 95 foizdan yuqori bo'lsa tadbir samarali hisoblanadi [1].",
+      "Insektitsid qo'llanilsa chivinlarning unga sezuvchanligi va bezovtalanish reaksiyasi kuzatiladi. Samaradorlik nafaqat soni kamayishi, balki populyatsiya tarkibining keskin yoshargani, ya'ni keksa chivinlarning ko'proq nobud bo'lishi bilan ham baholanadi [1]."
+    ]},
+    {"heading": "Odamni chivin chaqishidan himoyalash", "content": [
+      "Bezgak profilaktikasining birinchi usullaridan biri chivinlarning yashash xonalariga kirishini oldini olish, buning uchun deraza oynalariga doka to'r tutiladi va to'shak ustida pashshaxonalardan foydalaniladi. Pashshaxona mutlaq kafolat bermaydi, chunki chivinlar teshik orqali kirishi yoki to'r orqali chaqishi mumkin [1].",
+      "Insektitsid shimdirilgan to'rlar ishonchliroq, chunki chivinning bir qismi chaqishdan oldin nobud bo'ladi. Himoya kiyimlari va repellentlar ham tavsiya etiladi, lekin repellentlar pashshaxonalar kabi samarali emas. Tezkor ta'sirli aerozollar endemik hududga chiqilganda shaxsiy himoyada qulay [1, 2]."
+    ]},
+    {"heading": "O'choq turiga qarab qo'llash", "content": [
+      "Yo'riqnomadagi jadvalga ko'ra entomologik nazorat o'choqning barcha turlarida o'tkaziladi, xonadon va suv havzalariga kimyoviy ishlov esa yangi faol hamda qoldiq faol o'choqlarda ko'rsatilgan. Bezgak yuqish xavfi yuqori hududda Anopheles ko'payadigan barcha joylarda gambuziya ko'paytirish tavsiya etiladi [1].",
+      "Yo'riqnomada gambuziya samarasi past joylardagina chivinga qarshi boshqa barcha choralar qo'llanishi, bezgak ommaviy olib kirilgan tumanlarda esa qoldiq ta'sirli insektitsidlar bilan ishlov tavsiya etilishi yozilgan. Yuqish to'xtatilgan hududlarda erishilgan yutuqni qo'llab-quvvatlash asosiy vazifa bo'lib qoladi [1]."
+    ]},
+    {"heading": "Parazitolog va entomolog uchun ahamiyati", "content": [
+      "Parazitolog bemor aniqlangan kunida entomolog bilan o'choqqa chiqib, chivin ko'payish joylari va chivinlar sonini baholaydi. Birgalikda ishlov turi, hajmi va muddati belgilanadi, chunki epidemiologik va entomologik ma'lumotlar tadbirlarni maqsadli o'tkazish uchun asos bo'ladi [1, 2].",
+      "Ishlov sifati, qamrov va chivinlarning insektitsidlarga sezuvchanligi doimiy nazorat qilinmasa, tadbir samarasiz bo'lib, kasallik qayta tiklanishi mumkin. Uslubiy qo'llanmada ishlov to'satdan to'xtatilsa yuqish davom etayotgan joyda tez epidemiya paydo bo'lishi ham ko'rsatilgan [2]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Ushbu esseda O'zbekistonda hozir qo'llanadigan insektitsidlar nomi, konsentratsiyasi va sarf me'yori keltirilmadi, chunki kutubxona manbalarida ular amaldagi milliy hujjat bilan tasdiqlanmagan. Entomologiya qo'llanmasidagi jadvallar xalqaro adabiyotdan olingan [3].",
+      "Yo'riqnomada chivin turlari bo'yicha hududlar ro'yxati va ishlov muddatlari O'zbekiston bo'yicha aniq berilmagan, O'rta Osiyo muddatlari entomologiya qo'llanmasidan olindi. Hududiy muddatlarni mahalliy fenologik kuzatuvlar asosida entomolog belgilashi zarur [1, 3]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgak tashuvchilariga qarshi kurash lichinkalarga qarshi gidrotexnik, biologik va kimyoviy usullarni, qanotli chivinlarga qarshi qoldiq ta'sirli ishlovni hamda individual himoyani o'z ichiga oladi. O'zbekistonda yuqishni to'xtatishda xonalarga qoldiq ta'sirli ishlov asosiy usul bo'lib, uning qamrovi kamida 90-95 foiz bo'lishi va samarasi 1 sutkadan keyin baholanishi shart [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357."
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "number": 21,
+  "title": "21. Tropik bezgakning klinika va asoratning ehtimoli.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Tropik bezgak Plasmodium falciparum qo'zg'atadigan va bezgakning eng xavfli shakli hisoblangan kasallikdir. Protokolga ko'ra uning asoratlangan va asoratlanmagan turlari farqlanadi. Klinik ko'rinishi turli-tumanligi sababli kasallik ko'pincha boshqa isitmali kasalliklar niqobi ostida o'tadi [3].",
+      "Ushbu esseda tropik bezgakning klinik tavsifi, boshlanishi, xurujlarining o'ziga xosligi, og'ir kechish mezonlari, asoratlar turlari hamda ularning ehtimolini belgilovchi omillar milliy hujjatlar va JSST ma'lumotlari asosida ko'rib chiqiladi [1, 2, 3, 5]."
+    ]},
+    {"heading": "Klinik ta'rif", "content": [
+      "Davolash bayonnomasida tropik bezgak P. falciparum qo'zg'atadigan, Anopheles chivinlari chaqishi orqali yuqadigan protozoy antropoz kasallik deb ta'riflangan. U vaqti-vaqti bilan isitmalab qaltirash, kamqonlik, taloq va jigar kattalashuvi hamda qaytalanishga moyillik belgilariga ega [2].",
+      "Bayonnomada kasallik og'irligiga ko'ra yengil, o'rtacha va og'ir turlarga, asoratlanishiga ko'ra asoratli va asoratsiz shakllarga bo'linadi. Bunday tasnif bemorni shoshilinch davolash zaruratini va davo taktikasini aniqlash uchun xizmat qiladi [2]."
+    ]},
+    {"heading": "Klinik ko'rinishning xilma-xilligi", "content": [
+      "Tropik bezgakning klinik ko'rinishi juda xilma-xil bo'lgani uchun uni «mim-kasallik», ya'ni «o'xshatuvchi kasallik» deb ataydilar. Bezgakka xos isitma ko'pincha kuzatilmaydi, qaltirash va terlash unchalik yaqqol bo'lmaydi [1].",
+      "Birinchi o'ringa ichki a'zolar, avval ichak va o'pka, keyinroq jigar hamda markaziy asab tizimi shikastlanishi belgilari chiqadi. Milliy yo'riqnomada ham kasallik boshida o'choqli belgilar ichak yoki nafas olish a'zolari shikastlanishini ko'rsatishi qayd etilgan [1, 4]."
+    ]},
+    {"heading": "Asoratsiz tropik bezgak", "content": [
+      "Asoratsiz tropik bezgak xurujlarining nomunazamligi bilan farqlanadi va ko'pincha uzoq kunlar davomida holsizlik bilan o'tadigan isitmali kasallikni eslatadi. Ikki kunlik tsiklda harorat ko'pincha yuqori turadi, faqat bir necha soatga pasayishi mumkin, bu uch kunlik bezgakka nisbatan teskari holat [1].",
+      "Titroq, isitma va terlash fazalari bo'lsa ham, ularning ketma-ketligi bir xil kelmaydi: isitma fazasi terlashga o'tmasdan yana isitmaga aylanishi mumkin. Haroratning pasayishida ham bemor sog'lig'i to'liq tiklanmaydi, ahvoli uch kunlik bezgakdagidan og'irroq bo'ladi [1]."
+    ]},
+    {"heading": "Xurujlar nomunazamligining sababi", "content": [
+      "Tropik bezgak bilan kasallangan bemorda ko'pincha parazitning bir necha subpopulyatsiyasi shakllanadi va ular bir vaqtda rivojlanmaydi. Eritrotsitar shizogoniya 48 soatni tashkil etsa ham, uning tugash vaqti turli kun va soatlarda bo'ladi [1].",
+      "Bu holat tropik bezgakda isitma xurujlarining tezroq qaytalanishini belgilaydi. Kamqonlik uch kunlik bezgakka qaraganda ertaroq rivojlanadi, taloq kattalashuvi esa aksincha, kechroq yuzaga keladi. Shu sababli bemorni faqat taloq kattalashuviga qarab tashxislash noto'g'ri bo'ladi [1]."
+    ]},
+    {"heading": "Oqibati: o'z-o'zidan tuzalish yoki zo'rayish", "content": [
+      "Tropik bezgak bilan og'rigan bemor davolanmasa ham, bir necha hafta yoki oydan keyin tuzalib ketishi mumkin, bu holat takroran kasallanganlarda kuzatiladi. Bunda faqat eritrotsitar takrorlanishlar bo'lishi mumkin, tropik bezgakda eksoeritrotsitar takrorlanish bo'lmaydi [1].",
+      "Biroq ko'p hollarda kasallik zo'rayadi, birinchi navbatda bosh miya va buyrak shikastlanadi, bemorning ahvoli og'irlashadi. JSST ma'lumotiga ko'ra davolanmagan P. falciparum bezgagi 24 soat ichida og'ir kasallik va o'limga olib kelishi mumkin [1, 5]."
+    ]},
+    {"heading": "Og'ir kechish mexanizmi", "content": [
+      "Tropik bezgakning og'ir kechishi asosan parazitning juda tez ko'payishi, ya'ni yuqori parazitemiya, immunitetning nisbatan sekin rivojlanishi hamda mikrotsirkulyatsiyaning keskin buzilishiga bog'liq. Parazit bilan shikastlangan eritrotsitlar ichki a'zolar qon tomirlarida to'planib qoladi [1].",
+      "Natijada birinchi navbatda bosh miya va buyrak shikastlanadi. Shu sababli asoratlar ehtimoli bevosita parazitemiya darajasi va davo boshlanish vaqti bilan bog'liq bo'lib, kasallikning dastlabki kunlaridayoq xavf baholanishi kerak [1]."
+    ]},
+    {"heading": "Og'ir bezgak mezonlari", "content": [
+      "Uslubiy qo'llanmada og'ir kechishni aniqlash uchun quyidagi belgilardan birortasi yoki ko'pchiligi asos qilib olinadi: ruhiy holat o'zgarishi, takroriy qusish, tura olmaslik, sopor va koma, siydik ajralishi kamayishi, og'ir kamqonlik, gipoglikemiya va qon ketishga moyillik [1].",
+      "Yana bir mezon sifatida 1 mkl da 50000 dan ortiq parazit bilan ifodalangan juda yuqori parazitemiya keltirilgan. Parazitlar soni 100000/mkl atrofida bo'lganda o'lim xavfi ortadi, tropik bezgakda esa o'lim bundan ham kam parazitemiyada kuzatilishi mumkin [1]."
+    ]},
+    {"heading": "Asoratlar turlari", "content": [
+      "Davolash bayonnomasi bo'yicha tropik bezgakning asoratlari safiga bezgak komasi, ya'ni serebral shakl, algid holat, gemoglobinuriyali isitma va buyrakning o'tkir yetishmovchiligi kiritilgan. Qolgan bemorlar asoratsiz hisoblanadi [2].",
+      "Patogenetik davo qismida tutqanoqning oldini olish, og'ir kamqonlik, o'pka shishi, gipoglikemiya, giperpireksiya, giperparazitemiya va shok kabi holatlar ham alohida ko'rsatilgan. Bu ro'yxat shifokor kuzatishi kerak bo'lgan tizimlarni belgilab beradi [2]."
+    ]},
+    {"heading": "Asoratlar ehtimolini oshiruvchi holatlar", "content": [
+      "Uslubiy qo'llanmaga ko'ra davoni kechiktirish, masalan «avval tashxis aniqlansin» deb kutish, bemor uchun juda xavfli. Davosiz bezgak komasi so'zsiz o'lim bilan tugaydi, o'lim esa bemor hushi to'liq bo'lganda ham yuz berishi mumkin [1].",
+      "Protokolda bemor dorini og'iz orqali qabul qila olmasa, bu holat bezgakning og'ir yoki asoratlangan shakli deb qaraladi. Shuningdek, qusish va ich ketishi tufayli dorining chala so'rilishi samarasiz davoga olib keladi, bu esa asorat ehtimolini oshiradi [3]."
+    ]},
+    {"heading": "Tashxis va shoshilinch davo", "content": [
+      "Milliy yo'riqnomaga ko'ra tropik bezgakka gumon qilinganda, qon preparatlari olingandan keyin asoratlarga yo'l qo'ymaslik maqsadida davolash milliy siyosatga muvofiq oldindan buyuriladi. Protokol laboratoriya natijasi 3 dan 6 soatdan ko'p kechiksa, davolash kursini boshlashga ruxsat beradi [3, 4].",
+      "Laboratoriya natijasi manfiy bo'lsa, davolash tezda to'xtatiladi. Tropik bezgak bilan og'rigan barcha bemorlar yuqumli kasalliklar shifoxonasida davolanadi, chunki og'ir tropik bezgak intensiv davo talab qiladigan shoshilinch holat hisoblanadi [1, 2, 4]."
+    ]},
+    {"heading": "Oqibatlar", "content": [
+      "Komadan chiqqandan keyin og'ir nevrologik asoratlar kam uchraydi, ammo dastlab sezilmaydigan ko'plab neyropsixik buzilishlar oylar va yillar davomida saqlanishi mumkin. Shu sababli komadan chiqqan bemorlarni uzoq muddat kuzatish zarur bo'ladi [1].",
+      "Tropik va to'rt kunlik bezgakda eksoeritrotsitar sikl tugagach, parazitlar butun kasallik davomida qonda bo'ladi va ularning qondan yo'qolishi sog'ayishni bildiradi. Gipnozoitlar bo'lmaganligi uchun tropik bezgakda uzoq muddatli jigar qaytalanishi kuzatilmaydi [1]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Tropik bezgak ko'pincha bezgakka xos klinikasiz kechgani uchun geografik anamnez hal qiluvchi ahamiyatga ega. Milliy yo'riqnomada geografik anamnezi musbat bo'lsa, boshqa belgilar bor-yo'qligidan qat'i nazar qon bezgakka tekshirilishi belgilangan [4].",
+      "Parazitolog-shifokor kasallik qo'zg'atuvchisi turini va parazitemiya darajasini aniqlab, og'irlik xavfini baholaydi. Natija kechiksa davo boshlash, manfiy bo'lsa uni to'xtatish tartibi bo'yicha qaror qabul qiladi va bemorni o'z vaqtida shifoxonaga yo'naltiradi [1, 3, 4]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Tropik bezgakda asoratlar ehtimoli foizlarda, masalan serebral shakl yoki o'lim ko'rsatkichi, ushbu essedagi milliy manbalarda aniq berilmagan. Shu sababli bunday raqamlar keltirilmadi va ularni tasdiqlanmagan ma'lumot deb qarash lozim.",
+      "O'zbekistonda tropik bezgakning olib kirilgan holatlari soni va ulardagi asoratlar tuzilishi ham tekshirilmadi. Uslubiy qo'llanmadagi (2009) ma'lumotlar tropik hududlar tajribasiga tayanadi va mahalliy statistika bilan solishtirilmagan [1]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Tropik bezgak nomunazam xurujlar, ichak va o'pka belgilari, erta kamqonlik bilan kechadi, uning asoratlari bezgak komasi, algid holat, gemoglobinuriyali isitma va buyrak yetishmovchiligi bo'lib, ehtimoli parazitemiya darajasi va davoning kechikishiga bog'liq, shu sababli tezkor tashxis va darhol davo zarur [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "number": 34,
+  "title": "34. Bezgak holatlarida va o'choklarida epidemiologik tekshirishlar.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgak holatini epidemiologik tekshirish infeksiya manbaini, kasallik paydo bo'lishi va tarqalish sharoitlarini aniqlash hamda o'choqni sog'lomlashtirish choralarini maqsadli o'tkazish uchun qilinadi. Bezgak o'chog'i deganda aholi punkti va unga tutash anofelogen suv havzalari majmuasi tushuniladi [1, 3].",
+      "Ushbu esseda tekshiruvning huquqiy asosi, muddatlari va bosqichlari, epidemiologik tekshiruv kartasi, holat va o'choq tasnifi, entomologik qism hamda hujjatlashtirish ketma-ket yoritiladi. Oxirida parazitolog-shifokor uchun amaliy ahamiyat va manbalarda tasdiqlanmagan jihatlar ko'rsatiladi [1, 2]."
+    ]},
+    {"heading": "Tekshiruvning huquqiy asosi va muddati", "content": [
+      "Bemor yoki parazit tashuvchi haqida ma'lumot olingan kuniyoq shahar yoki tuman DSENM parazitologi va entomologi o'choqda epidemiologik va entomologik tekshiruv o'tkazishga majbur. Bu talab 121-son buyruqning 1-ilovasida belgilangan [1].",
+      "7-ilovada bezgak holati aniqlanganda shoshilinch ma'lumot telefon orqali 12 soat ichida, yozma ravishda 24 soat ichida berilishi ko'rsatilgan. Barcha musbat qon preparatlari kasallik aniqlangandan keyin 24 soat ichida nazorat tekshiruvi uchun Respublika DSENMga yuboriladi [1, 2]."
+    ]},
+    {"heading": "Holatni aniqlash va laboratoriya tasdig'i", "content": [
+      "Bezgakka shubha qilingan bemordan kamida ikkita qon preparati olinadi, qalin tomchi shu kuniyoq laboratoriyaga yuboriladi. Tana harorati 37,5 °C dan yuqori bo'lishi isitma hisoblanadi, uning so'nggi 3 kun ichida kuzatilgani haqidagi ma'lumot yetarli [1, 3].",
+      "Geografik anamnez ijobiy bo'lsa, boshqa belgilardan qat'i nazar qon bezgakka tekshiriladi. Isitma 4 kun va undan ortiq davom etsa, qaltirash bilan harorat ko'tarilsa, taloq va jigar kattalashgan bo'lsa, shuningdek donorlar qon topshirishdan oldin ham tekshiruv o'tkaziladi [1]."
+    ]},
+    {"heading": "Epidemiologik tekshiruvning tarkibi", "content": [
+      "Milliy yo'riqnomaga ko'ra epidemiologik tekshiruv kasallik anamnezini yig'ish, laboratoriya natijalarini baholash, aholini so'rov qilish, bemor bilan muloqotda bo'lganlarni aniqlash va uyma-uy yurishni tashkil etishdan iborat. Unga qon preparati olish va chivin ko'payish joylarini aniqlash ham kiradi [1].",
+      "Barcha ma'lumotlar o'choqni epidemiologik tekshirish kartasiga yoziladi, kartaning bir nusxasi yuqori DSENMga yuboriladi va o'choq pasporti to'ldiriladi. Natijalarga ko'ra o'choq tasniflanadi va tegishli epidemiyaga qarshi tadbirlar belgilanadi [1]."
+    ]},
+    {"heading": "Epidemiologik tekshirish kartasi", "content": [
+      "Karta parazitolog yoki epidemiolog tomonidan har bir bezgak bemori yoki parazit tashuvchi uchun to'ldiriladi. Yakuniy tashxis punktida holat turi (3 kunlik, tropik, 4 kunlik, ovale), kelib chiqishi va paydo bo'lish shakli ko'rsatiladi [2].",
+      "Kelib chiqishi bo'yicha mahalliy, olib kelingan holatdan ikkilamchi yuqqan, chetdan kirib kelgan, respublikaning boshqa tumanlaridan kirgan yoki emlangan variantlar farqlanadi. Shakli bo'yicha erta, kechikkan, qaytalangan holat yoki parazit tashuvchi belgilanadi [2]."
+    ]},
+    {"heading": "Holatlarni tasniflash", "content": [
+      "JSST har bir aniqlangan holatni identifikatsiya qilishni tavsiya etadi: olib kelingan, olib kelingandan keyingi ikkilamchi, mahalliy, retsidiv va sun'iy yuqtirilgan shizont holatlari ajratiladi. Tasniflashda oxirgi ikki yilgi epidemiologik anamnezni aniqlash muhim hisoblanadi [3].",
+      "Yangi yuqqan uch kunlik bezgakni uzoq yashirin davrdan keyingi birlamchi ko'rinishdan farqlash qiyin. Kasallik boshlangan sana bilan joriy yildagi yuqish mavsumi boshlangan sanani solishtirish bu vazifani deyarli har doim hal qilishga yordam beradi [3]."
+    ]},
+    {"heading": "Yuqish mavsumi va sporogoniyani hisoblash", "content": [
+      "Uch kunlik bezgakda sporogoniya uchun o'rtacha sutkalik haroratdan 14,5 °C ayiriladi va farqlar yig'indisi 105 °C ga yetgan kun chivinlarning samarali zararlanish davri yakunlangan sana hisoblanadi. Unga 10 dan 14 kungacha bo'lgan qisqa yashirin davr qo'shilsa, yangi holatlarning eng erta muddati chiqadi [3, 5].",
+      "Tropik bezgak uchun quyi harorat chegarasi 18 °C, ayiriladigan qiymat 16 °C va kerakli yig'indi 111 °C deb keltirilgan. Bu hisob holat joriy yilda yuqqanmi yoki yo'qmi degan savolga javob berib, ayniqsa mahalliy yuqish mavsumining boshida muhim bo'ladi [5]."
+    ]},
+    {"heading": "O'choqni entomologik tekshirish", "content": [
+      "Karta 39 va 43-punktlarida bezgak taxmin qilingan o'choq atrofidagi 3 km radiusdagi anofelogen suv havzalari, turar joy va yordamchi binolardagi bezgak chivinlarining mavjudligi, turi, yoshi va lichinkalari qayd etiladi. Entomolog hovuzlarni pasportlashtiradi va ularni kuzatib boradi [1, 2].",
+      "Suv havzalari kvadrat metrga lichinka soni hisoblanadigan miqdoriy usul bilan tekshiriladi. Standart to'r bilan olingan har bir namuna 1/5 kv. m yuzani qamraydi, shuning uchun beshta namuna 1 kv. m uchun lichinka sonini beradi, natijalar maxsus shaklga kiritiladi [6]."
+    ]},
+    {"heading": "Aloqadorlar va chivin uchish masofasi", "content": [
+      "Zararlangan urg'ochi chivin sporozoitlar yetilguncha 3 yoki 4 marta gonotrofik davrni o'tkazadi va zararlangan joyidan bir necha kilometr uzoqqa ketishi mumkin. Shu sababli bemorning yaqin qo'shnilari boshqa aholidan ko'ra ko'proq xavf ostida emas [4, 5].",
+      "Bu tufayli bezgakda odatiy ma'nodagi aloqador shaxs tushunchasi cheklangan, transmissiya bo'layotgan qishloqning har bir aholisi aloqador hisoblanadi. Shunga qaramay milliy yo'riqnoma aloqada bo'lganlarni to'liq ro'yxatga olib, laboratoriya tekshiruvidan o'tkazishni va 21 kun kuzatishni talab qiladi [1, 5]."
+    ]},
+    {"heading": "O'choq turlari va kategoriyalari", "content": [
+      "121-son buyruqning 1-ilovasiga ko'ra tadbirlar o'choqning epidemiologik va entomologik holatiga qarab o'tkaziladi, o'choq yolg'on, potensial, faol yoki faol bo'lmagan kategoriyalarga ajratiladi. Jadvalda yangi faol, qoldiq faol va sog'lomlashtirilgan turlar ham ko'rsatilgan [1].",
+      "7-ilovadagi karta yolg'on, yangi faol, yangi potensial, faol turg'un va faol bo'lmagan o'choqni nomlaydi. Uslubiy qo'llanma esa o'choqlarni sog'lomlashtirilgan, yangi potensial, yangi faol, yangi endemik, qoldiq faol va qoldiq nimjon deb olti toifaga bo'ladi [2, 3]."
+    ]},
+    {"heading": "Uyma-uy yurish va tibbiy kuzatuv", "content": [
+      "O'choqda uchta o'rta tibbiy xodim va bitta shifokordan iborat brigada tuziladi. Birlamchi aniqlangan o'choqda uyma-uy yurish 2 haftada 1 marta, shu hududda yana holat ro'yxatga olinsa haftada 1 marta o'tkaziladi [1].",
+      "Uslubiy qo'llanmada ko'rik muntazamligi 7 dan 14 kungacha bir marta deb ko'rsatilgan, ya'ni ikki manba bir oz farq qiladi. Ikkala hujjatda ham shikoyat qilmaydiganlarni ommaviy tekshirish faqat o'ta zarur hollarda, masalan endemik hududlardan kelgan migrantlar orasida o'tkaziladi [1, 3]."
+    ]},
+    {"heading": "O'choqni sog'lomlashtirish choralari", "content": [
+      "Epidemiyaga qarshi tadbirlar mikroo'choq hududi atrofidagi 3 km masofada hamda bemor aniqlanishidan oldin vaqtincha bo'lgan ish, o'qish va maktabgacha muassasalarda o'tkaziladi. Yolg'on o'choqdan boshqa barcha o'choqlarda sog'lomlashtirish tadbirlari 3 yil davomida davom etadi [1].",
+      "Faol va qoldiq faol o'choqlarda ko'rsatma bo'lsa mavsumiy kimyoprofilaktika, mavsumaro davrda esa primaxin bilan 14 kunlik profilaktik davo maqsadga muvofiq. Chivinlarga qarshi entomologik nazorat, kimyoviy ishlov va gambuziyalashtirish o'choq turiga qarab belgilanadi [1]."
+    ]},
+    {"heading": "Hujjatlashtirish va hisobot", "content": [
+      "Epidemiologik tekshiruv tugagach o'choqning tekshiruv kartasi va kasallik tarixidan nusxa laboratoriya natijalari bilan viloyat va Respublika DSENMga yuboriladi. Xabarnoma telefon, faks, elektron pochta orqali o'z vaqtida beriladi, xususiy muassasalar ham davlat tizimiga xabar beradi [1].",
+      "Yakuniy ma'lumotda yuqish davri va joyi, taxminiy manba, asosiy omillar, holat turi va o'choq kategoriyasi ko'rsatiladi. Bezgak aniqlanganda navbatdan tashqari ma'lumot shakli ham to'ldirilib, unda o'choqdagi entomologik holat yoritiladi [2]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor tekshiruvni shoshilinch xabarnoma kelgan kuniyoq boshlashi, holatni to'g'ri tasniflashi va o'choq kategoriyasini asoslab berishi kerak. Noto'g'ri tasnif keraksiz keng ko'lamli tadbirlarga yoki zarur tadbirlarning o'tkazib yuborilishiga olib keladi [1, 3].",
+      "Entomolog bilan hamkorlik alohida ahamiyatga ega, chunki xulosa faqat klinik ma'lumotga emas, balki chivinlar soni, lichinkalar va ko'payish joylariga ham tayanadi. Natijalar bo'yicha qabul qilingan chora-tadbirlar sifatini baholash ham tahlilning bir qismidir [2, 6]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Ushbu esse 2015 yilgi 121-son buyruq ilovalariga va 2009 yilgi uslubiy qo'llanmaga tayanadi. Buyruqlarning keyingi tahrirlari, yangi shakl raqamlari yoki muddatlari bu yerda tekshirilmagan, shu sababli amaldagi talabni parazitolog rasmiy manbadan qayta aniqlashi lozim [1, 2].",
+      "JSST ma'lumotiga ko'ra O'zbekiston 2018 yilda bezgakdan xoli deb sertifikatlangan. Bu sharoitda o'choq kategoriyalari amalda qanday qo'llanishi va ularning sonlari manbalarda keltirilmagan, shuning uchun mazkur jihat bo'yicha raqam yoki hudud nomlari berilmadi [7]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgak holati va o'chog'ini epidemiologik tekshirish shoshilinch, bosqichma-bosqich va hujjatlashtirilgan jarayon bo'lib, holatni tasdiqlash, tasniflash, entomologik baholash, aloqadorlarni kuzatish va sog'lomlashtirish tadbirlarini o'z ichiga oladi. Uning sifati qayta yuqishning oldini olishda hal qiluvchi rol o'ynaydi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+    "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ: презентация. ОблЦГСЭН Ферганской области, Фергана, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
+    "Xamiraev A.I. Suv havzalari va binolarni entomologik tekshirishni o'tkazish usullari: taqdimot. Surxondaryo viloyati SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1590.",
+    "World Health Organization. WHO certifies that Uzbekistan has eliminated malaria. 07.12.2018. https://www.who.int/news/item/07-12-2018-who-certifies-that-uzbekistan-has-eliminated-malaria"
+  ]
+}

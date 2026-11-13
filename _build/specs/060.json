@@ -1,0 +1,68 @@
+{
+  "number": 60,
+  "title": "60. Visseral leyshmaniozining tashxisi.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Visseral leyshmanioz (VL) davolanmasa yuqori o'lim bilan tugaydigan kasallik bo'lgani uchun uning tashxisi tez va ishonchli bo'lishi shart. Tashxis klinik-epidemiologik ma'lumotlar, parazitologik hamda serologik tekshiruvlarni birgalikda baholashga asoslanadi va natija laboratoriyada tasdiqlanadi [1, 6].",
+      "Ushbu esseda klinik-epidemiologik mezonlar, JSST holat ta'rifi, namuna olish va mikroskopiya, serologik va molekulyar usullar, qaytalanish va OIV bilan birga kechishida tashxis, differensial tashxis hamda tasdiqlash va nazorat tartibi ko'rib chiqiladi. Manbalar farqi oxirida ko'rsatiladi [1, 2, 3]."
+    ]},
+    {"heading": "Klinik-epidemiologik mezonlar", "content": [
+      "Yo'riqnomaga ko'ra VL ni aniqlash uchun laboratoriya tekshiruvi klinik-epidemiologik ko'rsatkichlarga ega bemorlarda o'tkaziladi: isitma qilgan, jigar va taloq kattalashgan, limfadenopatiya, leykopeniya, trombotsitopeniya, kamqonlik va vazn kamayishi bor bemorlarda [1].",
+      "Bemorning VL bo'yicha endemik o'choqlarda yoki tropik va subtropik mamlakatlarda bo'lgani ham e'tiborga olinadi. MSD ma'lumotnomasiga ko'ra VL da tartibsiz isitma, gepatosplenomegaliya, pansitopeniya va poliklonal gipergammaglobulinemiya xarakterli, teri shikastlanishi kam uchraydi [1, 7]."
+    ]},
+    {"heading": "JSST holat ta'rifi", "content": [
+      "Respublika markazi taqdimotida JSST (2010) tavsiya etgan ta'rif keltirilgan: VL uzoq davom etuvchi tartibsiz isitma, splenomegaliya va vazn yo'qotishi bilan kechadi. Bezgak endemik hududlarda isitma 2 haftadan ortiq davom etib, bezgakka qarshi dorilarga javob bo'lmasa, VL ga shubha qilinishi kerak [2].",
+      "Laboratoriya mezonlari sifatida suyak iligi, taloq, jigar, limfa tugunlari yoki qondan bo'yalgan surtmalarda parazit yoki kulturada musbat natija, musbat serologik testlar (IFAT, ELISA, rK39, to'g'ridan-to'g'ri agglyutinatsiya reaksiyasi) va musbat PCR ko'rsatilgan. Klinik belgilar serologik yoki parazitologik natija bilan tasdiqlanishi talab qilinadi [2]."
+    ]},
+    {"heading": "Namuna olish va tashxis qo'yishdagi asosiy yondashuv", "content": [
+      "Davolash bayonnomasida VL da parazit suyak iligi, taloq, limfoid to'qima va jigar hujayralarida tropizmga ega bo'lgani uchun shu a'zolar tekshiruv materiali bo'ladi. Amaliyotda kam shikast keltiruvchi va ishlovga qulay usul sifatida sternal punksiya yoki quymich suyagi punksiyasi qo'llanadi [3].",
+      "Olingan punktatdan Romanovskiy-Gimza usulida tekshiriladigan surtma tayyorlanadi. Standartda VL uchun suyak iligi punktatini tekshirish, umumiy qon tahlili va qonning biokimyoviy tahlili (bilirubin, AsAT, AlAT, timol sinamasi, umumiy oqsil va fraksiyalari) ko'rsatilgan [3, 4]."
+    ]},
+    {"heading": "Suyak iligi surtmasini tayyorlash va ko'rish", "content": [
+      "Laboratoriya yo'riqnomasiga ko'ra suyak iligi punksiya orqali olingach, buyum oynasiga darhol qo'yiladi va juda ehtiyotkorlik bilan yupqa qatlam hosil qilinadi. Punktat quyuq bo'lsa, «tamg'a» usulida surtma olish mumkin. Surtma havoda quritiladi, etil spirtda yoki Nikiforov aralashmasida 30 daqiqa, metil spirtda 5 daqiqa fiksatsiya qilinadi [5].",
+      "Romanovskiy usulida 30-50 daqiqa bo'yaladi (ishchi eritma rN 6,9-7,1 buferda tayyorlanadi), immersiya moyi bilan 90 yoki 100 marta obyektivda ko'riladi. Leyshmaniyalar makrofaglar ichida yoki tashqarida diametri 3-5 mkm li dumaloq, oval yoki guruch donasi shaklida, kinetoplasti yadrodan to'qroq bo'yalgan holda topiladi [5]."
+    ]},
+    {"heading": "Surtmada xato talqin xavfi", "content": [
+      "Yo'riqnomada ba'zan qon plastinkalari yoki hujayra parchalari (sitoplazma qoldiqlari) leyshmaniyalar kabi ko'rinishi, kam hollarda mikroskopda achitqi zamburug'lari va bir hujayrali suvo'tlari kuzatilishi qayd etilgan. Ular idish devorlari orqali surtmaga tushishi mumkin [5].",
+      "Bunday begona tanachalar surtmada to'qroq bo'yaladi (sitoplazma to'q ko'k, yadro yorqin qizg'ish) va kinetoplasti bo'lmaydi, leyshmaniyada esa kinetoplast yadroga nisbatan to'qroq bo'yalgan holda aniqlanadi. Eslatmada VL da leyshmaniyalarni periferik qonda ham topish mumkinligi, alohida hollarda jigar, o'pka va limfa tugunlari punksiya qilinishi aytilgan [5]."
+    ]},
+    {"heading": "Serologik va molekulyar usullar", "content": [
+      "Yo'riqnomaga ko'ra VL tashxisi qon zardobida maxsus antitelalarni (ELISA, rk39 test) aniqlashga va PCR yordamida qo'zg'atuvchi DNK sini topishga ham asoslanadi. Davolash bayonnomasida yangi RK-39 ekspress-testi qo'yilishi tashxisni tezlashtirib, davolashni o'z vaqtida boshlashga olib kelishi aytilgan [1, 3].",
+      "Yo'riqnomada VL ning birlamchi namoyon bo'lgan davrida rk39 test musbat bo'lsa, parazitologik usulni qo'llashga hojat yo'q deyilgan. Taqdimotdagi nazorat algoritmida esa ekspress usullarning musbat natijasi mikroskopiya bilan tasdiqlanishi, natijalar mos kelmaganda PCR o'tkazilishi ko'rsatilgan, bu farq tushuntirishga muhtoj [1, 2]."
+    ]},
+    {"heading": "Qaytalanish va OIV bilan birga kechganda", "content": [
+      "Yo'riqnomaga ko'ra qaytalanishga shubha bo'lsa, tashxisda yagona parazitologik usul qo'llanadi, chunki serologik usul bilan kasallikning boshlang'ich davridan boshlab uzoq vaqt natija musbat bo'ladi. OIV infeksiyasida suyak iligi punktati (shuningdek taloq, jigar yoki limfa tugunlari) tekshiriladi [1].",
+      "Davo kursi boshlanishidan oldin tanadagi leyshmaniyalar sonini aniqlash zarur, chunki bu kasallik holatini va davodan keyingi samarani baholashga imkon beradi. Yo'riqnomada OIV li bemorlarda 12 oy davomida qaytalanish 50 foizgacha bo'lishi mumkinligi ham ta'kidlangan [1]."
+    ]},
+    {"heading": "Differensial tashxis", "content": [
+      "Yo'riqnomaga ko'ra kasallikning erta davrida differensial tashxis gripp, bronxit, pnevmoniya, bezgak, qorin tifi va brutsellyoz bilan o'tkaziladi. Avj olgan davrida sepsis, qon kasalliklari, sil, taloq abstsessi, OIV/OITS, limfoma, leykemiya va kamqonlik bilan taqqoslanadi [1].",
+      "Taqdimotda ham bezgak endemik hududlarida isitma 2 haftadan ortiq davom etib, bezgakka qarshi dorilarga javob bermasa, VL shubha qilinishi kerakligi ta'kidlangan. Bu bezgakni VL dan ajratishning amaliy mezoni sifatida muhim [2]."
+    ]},
+    {"heading": "Qo'shimcha va tarixiy usullar", "content": [
+      "Polejayeva va hammualliflariga ko'ra hind va O'rta yer dengizi-O'rta Osiyo VL o'choqlarida tashxis klinik belgilar va giperglobulinemiyani aniqlovchi oddiy reaksiya (Neypir reaksiyasi) asosida qo'yilishi mumkin; serologik usullar va PCR ham qo'llanadi [8].",
+      "Pavlovich darsligida tashxis suyak iligi, limfa tugunlari punktatlaridagi amastigotalarni, NNN muhitidagi kultura promastigotalarini, serologik reaksiyalarni va leyshmanin bilan teri allergik sinamasini aniqlashga asoslanishi yozilgan. Bu usullar milliy yo'riqnomada asosiy usul sifatida ko'rsatilmagan, ammo ma'lumot uchun keltirildi [9]."
+    ]},
+    {"heading": "Majburiy tekshirish, tasdiqlash va nazorat", "content": [
+      "Taqdimotga ko'ra 14 yoshgacha bolalarda jigar va taloq kattalashgan, kamqonlik va sababi noma'lum isitma bo'lsa, klinik-epidemiologik ko'rsatma bilan suyak iligi punksiyasi orqali VL ga majburiy laboratoriya tekshiruvi o'tkaziladi. VL bemorlari majburiy kasalxonaga yotqiziladi, laboratoriya tasdig'idan keyin 24 soat ichida davo boshlanadi [2].",
+      "Yo'riqnomaga ko'ra tashxisni tasdiqlash uchun surtma DSENM parazitologik laboratoriyasiga yuboriladi. Davolangan bemor kasalxonadan chiqqach dispanser nazoratiga olinib, 1, 3, 6, 9, 12 oydan keyin qon tahlili bilan tekshiriladi; parazitologik tahlillar manfiy bo'lsa va belgilar bo'lmasa 12 oydan keyin hisobdan chiqariladi [1]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Ko'rilgan manbalarda rK39, ELISA, PCR yoki suyak iligi mikroskopiyasining O'zbekiston sharoitidagi sezgirligi va o'ziga xosligi bo'yicha raqamlar berilmagan. Shuningdek viloyat laboratoriyalarining ekspress-testlar va PCR bilan ta'minlanganligi bo'yicha tekshirilgan ma'lumot topilmadi, shuning uchun ular yozilmadi [2, 3].",
+      "Yo'riqnomada birlamchi davrda rK39 musbat bo'lsa parazitologik tekshiruv shart emas deyilgan, taqdimotda esa ekspress-test natijasi mikroskopiya bilan tasdiqlanishi talab qilingan. Qaysi hujjat amaldagi talabni aks ettirishi manbalarda ochiq ko'rsatilmagan, JSST sahifasi esa tashxis uchun klinik belgilar bilan parazitologik yoki serologik testlar birga olinishini yozadi [1, 2, 6]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "VL tashxisi klinik-epidemiologik belgilar (uzoq isitma, taloq va jigar kattalashishi, kamqonlik, endemik o'choqda bo'lish) asosida shubha qilinib, suyak iligi punktatidan Romanovskiy-Gimza bo'yalgan surtmada amastigotalarni topish, rK39/ELISA va PCR bilan tasdiqlanadi. Bezgak va boshqa kasalliklar bilan differensial tashxis o'tkazilib, qaytalanish va OIV da parazitologik usul albatta qo'llanadi [1, 2, 3, 5]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+    "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "Parazitar kasalliklarni tashxisoti va davolash standartlari. O'zR SSV buyrug'iga ilova, 2016. xayrullokomilov.uz/kutubxona, material ID 1560.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+    "Richard D. Pirson. Leyshmanioz. MSD ma'lumotnomasi, professional versiya (tarkib 2019 yil may oyida o'zgartirilgan). xayrullokomilov.uz/kutubxona, material ID 1536.",
+    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "number": 79,
+  "title": "79. Uyushgan guruhlarda bolalar orasida enterobioz holatlarida o'tkazilgan epidemiyaga qarshi chora-tadbirlar.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Enterobioz ostritsa (Enterobius vermicularis) qo'zg'atadigan, kontakt yo'li bilan yuqadigan antroponoz ichak gelmintozidir. Bolalar bog'chalari, maktablar va yopiq muassasalarda bolalar bir-biri bilan tez-tez aloqada bo'lgani uchun u jamoa ichida oson tarqaladi, shu sababli epidemiyaga qarshi tadbirlar butun guruhga qaratiladi [2, 4].",
+      "Ushbu esseda enterobioz holati aniqlangan uyushgan bolalar jamoasida o'tkaziladigan tadbirlar ketma-ket ko'rib chiqiladi: qo'zg'atuvchining tarqalish xususiyati, holatni tasdiqlash, jamoani tekshirish, degelmintizatsiya, chetlatish qoidalari, gigiena va dezinfeksiya, atrof-muhit nazorati hamda davolashdan keyingi kuzatuv [1, 2]."
+    ]},
+    {"heading": "Qo'zg'atuvchining biologik xususiyatlari", "content": [
+      "Urg'ochi ostritsa uzunligi 9-12 mm bo'lib, u to'g'ri ichakdan, asosan kechqurun va tunda, anus tashqarisiga chiqib perianal burmalarga tuxum qo'yadi. Tuxumlar 4-6 soat ichida invazion bosqichga yetadi, shu sababli bola o'zini qayta zararlashi mumkin [4, 5].",
+      "Yagona invaziya manbai kasal odamdir, zararlanish asosan tirnoq tagiga o'tgan tuxumlar bilan iflosgan qo'llar orqali sodir bo'ladi. Tuxumlar choyshab, ichki kiyim va maishiy buyumlarga tushadi hamda tashqi muhitda uch haftagacha tirik qoladi, bu esa jamoadagi tadbirlar tarkibini belgilaydi [4, 5]."
+    ]},
+    {"heading": "Holatni aniqlash va tasdiqlash", "content": [
+      "Enterobiozning asosiy tashxis usuli perianal burmalardan qirindi olib mikroskopiya qilishdir. Laboratoriya yo'riqnomasida Grem bo'yicha yopishqoq tasma, Torgushin va Kevorkov usullari keltirilgan, ular bola jamoalarini ommaviy tekshirishda ham qo'llanadi [3].",
+      "Davolash bayonnomasiga ko'ra tekshiruv ertalab, yuvinishdan oldin 3-5 martagacha takrorlanadi, minimal ro'yxatga perianal burmalar va tirnoq tagidan olingan qirindi kiradi. Tuxum topilgani yoki ota-onalar najasda yetuk gijja ko'rgani yakuniy tashxis uchun asos bo'ladi [2]."
+    ]},
+    {"heading": "Jamoani tekshirish va 15 foiz mezoni", "content": [
+      "Milliy yo'riqnomada bolalar muassasalari tarbiyalanuvchilari, xodimlari va 1-4 sinf o'quvchilari enterobiozga tekshiriladigan guruhlar qatoriga kiritilgan. Bola jamoasi bir marta tekshirilganda zararlanganlar 15 foiz va undan yuqori chiqsa, jamoa to'liq davolanadi [1].",
+      "Bunday holatda muassasadagi bolalar va xodimlarning 100 foiziga 1-2 kurs degelmintizatsiya o'tkaziladi, so'ngra sog'lomlashtirish samaradorligi laboratoriya orqali qayta tahlil qilinadi. Bu yondashuv alohida kasallarni emas, butun jamoadagi invaziya manbalarini birdaniga kamaytirishni maqsad qiladi [1]."
+    ]},
+    {"heading": "Kasallarni jamoadan chetlatish qoidalari", "content": [
+      "Ostritsa bilan zararlangan bolalar manba hisoblanadi, shu sababli ular davolanish va nazoratli qayta tekshiruv davrida bog'cha va maktabga vaqtincha qatnamaydi. Rejali tekshiruvda zararlanish 15 foiz va undan yuqori topilgan muassasalarda esa bolalar davolanish davrida chetlatilmaydi, butun jamoa davolanadi [1].",
+      "Xodimlar zararlanganda ular vaqtincha atrofga yuqtirish xavfi bilan bog'liq bo'lmagan ishga o'tkaziladi, buning imkoni bo'lmasa Bosh davlat sanitariya shifokori qarori bilan ishdan chetlatiladi. Gelmintozga tekshirilmagan bolalarni qabul qilish, shuningdek bir oy va undan ortiq uzilishdan keyin qaytganlarni qabul qilish man etiladi [1]."
+    ]},
+    {"heading": "Degelmintizatsiya va dori vositalari", "content": [
+      "Bayonnomaga ko'ra alomatsiz shaklda dorisiz ham, ya'ni uch kun xonalarni nam usulda tozalash va shaxsiy gigiena bilan, davolash mumkin. Boshqa shakllarda albendazol 2 yoshdan oshgan bolalarga 400 mg bir marta, pirantel 10 mg/kg bir marta beriladi, ikki haftadan keyin takrorlanadi [2].",
+      "Samarali degelmintizatsiya uchun oila a'zolari va muassasa tarbiyalanuvchilari bir vaqtda davolanishi shart. Davolangan bola to'rt kun tuxum ajratgani uchun bolalar va xodimlarni dam olish kunlari davolash, muassasa atrofining ifloslanishini kamaytiradi [1, 2]."
+    ]},
+    {"heading": "Yopiq turdagi muassasalarda tadbirlar", "content": [
+      "Sutkalik yopiq muassasalarda, ya'ni bolalar uyi va internatlarda, enterobioz aniqlangan bolalar va o'smirlarga degelmintizatsiya o'tkaziladi. Boshqa bolalarga oldindan tekshiruvsiz yiliga 2 marta 1 kurs profilaktik davolash ham ko'zda tutilgan [1].",
+      "Davolash bayonnomasi bolalar muassasalari, maktab va litseylar hamda tashqi muhit ob'ektlarini enterobiozga yiliga ikki marta tekshirishni, MTM va maktab kontingentini esa yiliga ikki marta ommaviy degelmintizatsiya qilishni tavsiya etadi. Bu me'yorlar yopiq jamoada qayta zararlanish xavfi yuqoriligi bilan izohlanadi [1, 2]."
+    ]},
+    {"heading": "Shaxsiy gigiena choralari", "content": [
+      "Jamoada bolalarga shaxsiy gigiena qoidalarini o'rgatish va nazorat qilish, tarbiyachilar nazoratini kuchaytirish asosiy tadbirdir. Qo'llar ikki marta sovunlab yuviladi, yotadigan muassasalarda uyqudan oldin va ertalab sovunlab yuvinish tashkil etiladi, tirnoqlar qisqa olinadi, tirnoq tishlash odati yo'qotiladi [1].",
+      "Bolalarning ichki kiyimi har kuni almashtirilib dazmollanadi, zararlangan bolalarga tunda tor ichki kiyim kiydiriladi, choyshablar dazmollanadi. Darslikda ham ertalab va kechqurun yuvinish, ichki kiyimni qaynatish yoki issiq dazmol bilan ishlash tavsiya etilgan [1, 5]."
+    ]},
+    {"heading": "Xonalarni dezinfeksiya qilish", "content": [
+      "O'choqda tuvaklar alohida ajratilib zararsizlantiriladi, o'rindiq va idish-tovoqlar qaynoq suv bilan ishlanadi, bolalarga alohida sochiq beriladi. Qattiq o'yinchoqlar, eshik tutqichlari, stollar, partalar va zina tutqichlari sovun-soda eritmasi bilan tozalanadi, xonalarda kuniga 2 marta nam yig'ishtirish o'tkaziladi [1].",
+      "Yumshoq o'yinchoqlar changyutgich bilan tozalanadi yoki chiqqan chang ultrabinafsha nur bilan kuydiriladi, ko'rpa-to'shak va gilamlar yozda quyoshga yoyiladi. Xlorli eritmalar gijja tuxumiga ta'sir qilmasligi ta'kidlanadi, shuning uchun xlorli vositaga tayanib qolish xatodir [1]."
+    ]},
+    {"heading": "Atrof-muhitning sanitariya-gelmintologik nazorati", "content": [
+      "DSENM mutaxassislari muassasalarda o'yinchoq, choyshab, gilam, spor anjomlari, eshik tutqichi, ovqatlanish stoli, bolalar va xodimlar qo'li hamda o'yin maydonchasidagi tuproq va qumdan namuna oladi. Surtma paxtali tampon bilan, 1 foizli natriy ishqori yoki 20 foizli glitserin eritmasida olinadi [1].",
+      "Tashqi muhitdan namuna yiliga kamida bir marta, o'choqda sog'lomlashtirish davrida yiliga 2-3 marta olinadi. Biror namunada tuxum topilsa, bu sanitariya-gigiena tartibining qo'pol buzilishi hisoblanadi, kompleks sog'lomlashtirish tayinlanadi va rahbariyat qonunga muvofiq javobgarlikka tortiladi [1]."
+    ]},
+    {"heading": "Davolashdan keyingi kuzatuv", "content": [
+      "Yo'riqnomaga ko'ra enterobiozda davolashdan keyin 2-3 kun oralatib 3 marta perianal surtma tekshiriladi. Davolash bayonnomasida qayta nazorat ikki hafta va bir oydan so'ng 3 marta o'tkazilishi, dispanser kuzatuvi 3 oygacha, og'ir kechganda 6 oygacha davom etishi aytilgan [1, 2].",
+      "Davolash standartida esa davolash tugagach 2 haftadan keyin manfiy natija 5 karra tekshiruv bilan tasdiqlanishi ko'rsatilgan. Nazorat jadvallaridagi bu farqlarni parazitolog muassasa shartlariga qarab kelishib, bitta aniq rejaga keltirishi lozim [1, 2, 6]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog enterobioz o'chog'ida tadbirlar ketma-ketligini belgilaydi: holatni laboratoriya orqali tasdiqlash, jamoani tekshirish, davolash, dezinfeksiya va nazorat. Muvaffaqiyat faqat dori berishga emas, bolalar, ota-onalar va xodimlarning birgalikdagi harakatiga bog'liq [1, 2].",
+      "Sanitariya-targ'ibot ishlari oila a'zolariga ham yo'naltiriladi, chunki bola uyda qayta zararlansa jamoadagi tadbirlar samarasiz qoladi. Shu sababli muassasa rahbarlari, tibbiyot xodimlari va ota-onalar hamkorligi epidemiyaga qarshi ishning ajralmas qismidir [1, 5]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Ushbu manbalarda O'zbekiston uyushgan jamoalarida enterobioz bilan zararlanishning joriy ko'rsatkichlari keltirilmagan, shu sababli aniq hududiy raqamlar berilmadi. Dori dozalari faqat milliy davolash bayonnomasidan olindi, yosh va vazn bo'yicha ularni qo'llashdan oldin amaldagi bayonnoma bilan solishtirish kerak [2].",
+      "Qayta tekshiruv muddatlari va kuzatuv davomiyligi yo'riqnoma, bayonnoma va standartda bir-biridan farq qiladi. Qaysi hujjat jamoadagi vaziyat uchun ustun ekanligi manbalarda ochiq aytilmagan, shuning uchun bu savol rasmiy tushuntirishni talab qiladi [1, 2, 6]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Uyushgan bolalar guruhida enterobioz aniqlanganda epidemiyaga qarshi ish jamoani tekshirish, 15 foiz va undan yuqori zararlanishda 100 foiz davolash, manbani chetlatish yoki qo'shib davolash, gigiena va dezinfeksiya, atrof-muhit nazorati hamda qayta tekshiruvdan iborat yagona tizim sifatida olib boriladi [1, 2]."
+    ]}
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560."
+  ]
+}

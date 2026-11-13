@@ -1,0 +1,78 @@
+{
+  "number": 84,
+  "title": "84. Fassiolyozning etiologiyasi, epidemiologiyasi.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Fassioloz jigar va o't yo'llarini shikastlaydigan, o'choqli zoonoz biogelmintozdir. Uning qo'zg'atuvchilari trematodalar sinfiga mansub Fasciola hepatica va Fasciola gigantica bo'lib, odam bu kasallikka asosan hayvonlardan zararlanishi sababli epidemiologiyasi veterinariya bilan chambarchas bog'liq [1, 7].",
+      "Esseda qo'zg'atuvchilarning tuzilishi, xo'jayinlari va hayot sikli, tashqi muhit omillari, invaziya manbai va yuqish yo'llari, jahon va hududiy tarqalish ma'lumotlari hamda milliy yo'riqnomadagi epidemiologik yondashuv ketma-ket ko'rib chiqiladi. Tasdiqlanmagan jihatlar alohida bo'limda ko'rsatiladi [1, 2, 3]."
+    ]},
+    {"heading": "Qo'zg'atuvchilar va taksonomiya", "content": [
+      "Odamda fassiolozni ikki tur keltirib chiqaradi: oddiy jigar qurti Fasciola hepatica va gigant fassiola Fasciola gigantica. Ikkalasi Fasciolidae oilasiga kiradi, davolash bayonnomasida ham ikkala tur qo'zg'atuvchi sifatida ko'rsatilgan [1, 7].",
+      "Turlarning tarqalish hududi har xil: F. hepatica mo'tadil mintaqalarda ko'proq o'rganilgan, F. gigantica tropik hududlarga xosdir. Osiyo va Afrikaning ayrim joylarida ikkala tur ustma-ust uchraydi va oraliq shakllar mavjud bo'lib, tur aniqlash qiyinlashadi [3, 4]."
+    ]},
+    {"heading": "Morfologiya", "content": [
+      "F. hepatica yassi, bargsimon tanali bo'lib, uzunligi 30-50 mm, eni 8-12 mm; tananing oldingi qismi tikanli, og'iz va qorin so'rg'ichlari xartumchada joylashgan. F. gigantica uzunroq, 33-76 x 5-12 mm o'lchamda [1].",
+      "Tuxumlari sarg'ish-qo'ng'ir, qopqoqli va qutblarida qalinlashgan po'stli bo'lib, F. hepatica tuxumi 0,13-0,14 x 0,07-0,09 mm. Laboratoriya yo'riqnomasida tuxum o'lchami 125-150 x 62-81 mkm va najas hamda o't suyuqligida topilishi ko'rsatilgan [1, 6]."
+    ]},
+    {"heading": "Xo'jayinlar", "content": [
+      "Yakuniy xo'jayinlar odam, mayda va yirik shoxli hayvonlar, otlar va cho'chqalardir, oraliq xo'jayin esa chuchuk suv mollyuskalaridir. Yo'riqnomada yakuniy xo'jayinlar qatoriga tuyalar va kemiruvchilar ham kiritilgan, odamda esa kasallik kam uchrashi qayd etilgan [1, 2].",
+      "Eng ko'p zararlanadigan hayvonlar qo'y, echki va qoramol bo'lib, ular asosiy rezervuar hisoblanadi. Boshqa manbada Boliviyada eshak va cho'chqa ham yuqishda ishtirok etishi ko'rsatilgan [1, 3]."
+    ]},
+    {"heading": "Hayot sikli", "content": [
+      "Tuxumlar najas bilan tashqi muhitga tushadi va harorat hamda namlikka qarab 4-6 haftadan bir necha oygacha rivojlanib, kirpikli lichinka, ya'ni mirasidiy hosil qiladi. Mirasidiy suvda mollyuskaga kirib, sporotsista, rediy va dumli serkariylar avlodlarini beradi [1].",
+      "Serkariylar suv o'simliklari poyasiga yopishib adoleskariyga aylanadi, bu invazion lichinka o'simlikda va nam tuproqda 2 yilgacha tirik qoladi. Yakuniy xo'jayin lichinkani suv yoki o'simlik bilan yutadi, lichinka ichak devoridan o'tib qon bilan jigarga boradi [1, 2]."
+    ]},
+    {"heading": "Oraliq xo'jayin: mollyuska", "content": [
+      "Atlasda oraliq xo'jayin sifatida kichik hovuz salyangozi Limnea truncatula ko'rsatilgan, Dalton kitobining o'zbekcha nashrida ham asosiy salyangoz Lymnaea truncatula deb yozilgan. Hayot sikli besh bosqichdan iborat bo'lib, ularning biri salyangoz ichidagi rivojlanishdir [4, 5].",
+      "Yo'riqnomada bu mollyuskalar tez isiydigan mayda, ko'pincha vaqtincha turg'un suv havzalarida, botqoq ko'lmaklarda va yaylovlarda uchrashi aytilgan. Shu sababli kasallik o'choqlari salyangoz yashaydigan namlik ko'p joylar bilan bog'liq bo'ladi [2, 4]."
+    ]},
+    {"heading": "Iqlim va tashqi muhit omillari", "content": [
+      "Tuxumning rivojlanishi va salyangoz populyatsiyasi harorat va namlikka bog'liq: parazit rivojlanishi 10 darajadan past va 30 darajadan yuqori haroratda to'xtaydi. Metaserkariylar quruq muhit va 25 darajadan yuqori haroratga sezgir, shu sababli ular namlik yetarli bo'lgandagina uzoq saqlanadi [3].",
+      "Ko'p yog'ingarchilik va mo'tadil harorat hayvonlarda kasallik tarqalishiga olib keladi, odamlarda ham yog'ingarchilik ko'p yillarda zararlanish ko'proq kuzatilgan. Yuqish mavsumi hududga qarab o'zgaradi, Yevropada yoz va kuzda yuqib, belgilar qishda paydo bo'ladi [3]."
+    ]},
+    {"heading": "Rivojlanish muddatlari", "content": [
+      "Odam yoki hayvon organizmida gijja yetilib tuxum qo'yguncha 2 oydan ko'proq vaqt o'tadi, butun rivojlanish sikli esa kamida 4-5 oy davom etadi. Shu sababli kasallikning o'tkir davrida najasni tekshirish kam samarali [1, 7].",
+      "Odamda jinsiy yetilish uchun kamida 3-4 oy kerakligi, yuqori intensivlikda esa bu muddat uzayishi ko'rsatilgan. Yo'riqnomada ham zararlanishdan 2,5-3 oy o'tgach tuxum topilishi tashxisni tasdiqlashi aytilgan [2, 3]."
+    ]},
+    {"heading": "Invaziya manbai va yuqish omillari", "content": [
+      "Odam uchun invaziya manbai qishloq xo'jalik va yovvoyi hayvonlardir. Asosiy yuqish omillari suv, suv havzalarida yoki nam va sug'oriladigan yerlarda o'sadigan yeyiladigan ko'kat, hamda lichinkalar bilan ifloslangan suv bilan yuvilgan sabzavot va mevalardir [1, 2].",
+      "Yo'riqnomaga ko'ra odam yuvilmagan sho'vul, tomorqa ko'katlari va salat o'tlarini iste'mol qilganda, turg'un suvdan ichganda yoki unda ko'katlarni yuvib, cho'milganda adoleskariyni yutib zararlanadi. Dalton kitobida odamdagi holatlarning ko'pi suv ko'kati (watercress) iste'moli bilan bog'liqligi, shuningdek Samarqand bozoridagi ko'katlar ham yuqish vositasi bo'lishi mumkinligi ko'rsatilgan [2, 3]."
+    ]},
+    {"heading": "Jahon bo'yicha tarqalish", "content": [
+      "Dalton kitobidagi sharhga ko'ra so'nggi 25 yilda 51 mamlakatdan 6848 odam holati hisobga olingan, haqiqiy son esa bundan ancha ko'p. Odam fassiolozi hayvonlar orasidagi kasallik darajasiga to'g'ri proporsional emas, yuqori kasallanish ko'pincha boshqa omillar bilan bog'liq [3].",
+      "Tarqalish darajasi gipoendemik (1 foizdan kam), mezoendemik (1-10 foiz) va giperendemik (10 foizdan ortiq) toifalarga bo'lingan. O'rtacha kengliklarda odamda kasallik odatda sporadik uchraydi, Osiyo, Afrika va Lotin Amerikasi tropik zonalarida esa kasallanish yuqori bo'lishi mumkin [1, 3]."
+    ]},
+    {"heading": "Odamning epidemik jarayondagi roli", "content": [
+      "Odamning fassiolozdagi roli uzoq vaqt hisobga olinmagan edi, biroq giperendemik hududlarda odam yakuniy xo'jayin sifatida tuxum ajratib, yuqishda faol ishtirok etishi isbotlangan. Odamda parazitning hayot davomiyligi 5-12 yil yoki 9-13,5 yil deb baholangan [3].",
+      "Odamlar odatda tuxumni kam ajratadi, ko'pincha 1-4 epg. Tarqalishi yuqori joylarda 15 yoshgacha bolalarda zararlanish ko'proq, endemik bo'lmagan joylarda esa har qanday yoshdagi odam kasallanishi mumkin [3]."
+    ]},
+    {"heading": "Samarqand hududi haqida ma'lumotlar", "content": [
+      "Dalton kitobida sobiq SSSRda deyarli barcha holatlar Tojikistondan ma'lum qilinganligi ko'rsatilgan, ammo Samarqand hududida ham yuqori tarqalish ehtimoli bor, deb yozilgan. Buning dalili sifatida 1968-1986 yillarda 81 nafar aholining jigarida otopsiyada 1-14 tadan gijja topilgani keltirilgan [3].",
+      "Shuningdek Samarqand bozorida sotilgan ko'katlarning 10,5 foizida kapsulalangan metaserkariylar aniqlangan, ammo bu ma'lumot 1988 yilga tegishli va kitobda ikkilamchi manba sifatida keltirilgan. Shu sababli uni hozirgi vaziyatni baholash uchun asos qilib bo'lmaydi [3]."
+    ]},
+    {"heading": "Epidemiologik nazorat va xabarnoma", "content": [
+      "Milliy yo'riqnomada fassiolozga qarshi kurash sog'liqni saqlash vazirligi va veterinariya xizmatining asosiy muammosi deb ataladi. Har bir holat bo'yicha DSENMga tezkor xabarnoma (shakl 058/u) yuboriladi, DSENM esa veterinariya xizmatiga axborot beradi [2].",
+      "Tuman yoki shahar DSENM mutaxassislari bilan veterinariya xizmati 24 soat ichida birgalikda tekshiruv o'tkazadi. Bu zoonoz o'choqda odam va hayvon epidemiologik zanjirining ikki tomoni bir vaqtda o'rganilishi zarurligini ko'rsatadi [2]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Epidemiologik bilim parazitologga anamnez yig'ishda yordam beradi: yuvilmagan ko'kat, sho'vul, turg'un suv, hayvon jigari iste'moli haqida so'rash tashxis uchun muhim. Najasdagi tuxum faqat zararlanishning 2,5-3 oyidan keyin ishonchli [2].",
+      "Bundan tashqari, zararlangan hayvon jigarini iste'mol qilgan odamda najasda tranzit tuxumlar topilishi mumkin va bu kasallikni tasdiqlamaydi. Bunday holatda tekshiruv takrorlanishi kerak [1, 2, 7]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Ushbu manbalarda O'zbekiston bo'yicha fassiolozning joriy kasallanish ko'rsatkichlari, hududiy tarqalishi va mahalliy mollyuska turlari tasdiqlanmadi. Samarqand haqidagi ma'lumotlar 1999 yilda nashr etilgan ingliz tilidagi kitobdan olingan va 1968-1988 yillarga tegishli [3].",
+      "Tuxum o'lchamlari manbalarda turlicha: darslikda 0,13-0,14 x 0,07-0,09 mm, jadvalida 110-149 x 63-70 va 150-190 x 75-90 mkm, yo'riqnomada esa 125-150 x 62-81 mkm. Bu farq o'lchash usullari va turlarga bog'liq bo'lishi mumkin, aniq izoh manbalarda yo'q [1, 6]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Fassiolozning etiologiyasi Fasciola hepatica va F. gigantica trematodalari bilan bog'liq, hayot sikli esa chuchuk suv mollyuskasi va suv o'simliklari orqali o'tadi. Epidemiologiyasida hayvonlar manba, yuvilmagan ko'kat va ifloslangan suv yuqish omili bo'lib, odam ko'pincha tasodifiy xo'jayin, giperendemik hududlarda esa faol ishtirokchi hisoblanadi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "Dalton J.P. (ed.). Fasciolosis. Wallingford: CABI Publishing, 1999 (shu jumladan Mas-Coma S., Bargues M.D., Esteban J.G. Human fasciolosis, 411-bet dan). xayrullokomilov.uz/kutubxona, material ID 1534.",
+    "Dalton J.P. (tahr.). Fasciolosis (o'zbekcha tarjima). xayrullokomilov.uz/kutubxona, material ID 1535.",
+    "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
+    "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559."
+  ]
+}

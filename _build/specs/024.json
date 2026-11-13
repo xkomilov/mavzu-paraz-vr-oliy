@@ -1,0 +1,75 @@
+{
+  "number": 24,
+  "title": "24. Bezgak tashxisining zamonaviy usuli.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgak tashxisining zamonaviy usullari parazitni topishga asoslangan mikroskopiyadan tortib, antigenlarni aniqlovchi tezkor testlar va nuklein kislotalarni aniqlovchi molekulyar usullargacha bo'lgan keng doirani qamrab oladi. Hozirgi vaqtda amaliyotda mikroskopiya, tezkor diagnostik testlar va PCR qo'llanadi [4].",
+      "Ushbu esseda mikroskopiyaning o'rni, tezkor testlarning ishlash printsipi, PCR va LAMP usullari, rivojlanayotgan noinvaziv sinovlar hamda zamonaviy usullarning milliy tizim bilan bog'liqligi JSST va ilmiy sharhlar asosida bayon etiladi [1, 2, 3, 4]."
+    ]},
+    {"heading": "Zamonaviy tashxis tamoyili", "content": [
+      "JSST bezgakka gumon qilingan barcha bemorlarda davodan oldin parazitga asoslangan tashxis, ya'ni mikroskopiya yoki tezkor diagnostik test o'tkazishni tavsiya etadi. Sifat kafolatlangan tashxis mavjud joyda dori faqat testi musbat bemorlarga beriladi, manfiylarda isitmaning boshqa sabablari izlanadi [3].",
+      "Bunday yondashuv kasallik va o'limni kamaytiradi, bezgakli va bezgaksiz isitmani farqlashga imkon beradi hamda dori chidamliligi paydo bo'lishi va tarqalishini cheklashga yordam berishi mumkin. Shu tamoyil zamonaviy tashxisning asosiy mezoni hisoblanadi [3]."
+    ]},
+    {"heading": "Mikroskopiya: an'anaviy mezon", "content": [
+      "Yorug'lik mikroskopiyasi bezgak parazitlarini, ularning rivojlanish bosqichlarini, shu jumladan gametotsitlarni aniqlash va parazit zichligini o'lchash imkonini beradi. JSST Gimza bo'yog'ini tavsiya etadi, tashxis uchun bir bemordan olingan qalin va yupqa surtma tekshiriladi [2].",
+      "Mikroskopiya boshqa usullar bilan taqqoslanadigan an'anaviy standart bo'lib, davo muvaffaqiyatsizligini o'rganishda ham tanlov usuli hisoblanadi. Ammo uning sifati ko'pincha yetarli emas, shu sababli mikroskopiya xizmatlarida sifat kafolati tizimi talab qilinadi [2]."
+    ]},
+    {"heading": "Tezkor diagnostik testlar", "content": [
+      "Tezkor diagnostik testlar, ya'ni RDT bezgak parazitlari ishlab chiqaradigan va infeksiyalangan odam qonida bo'ladigan maxsus antigenlarni aniqlaydi. Qon odatda barmoqdan olinadi va natija 15 dan 30 minutda tayyor bo'ladi, bozorda 200 dan ortiq mahsulot mavjud [1].",
+      "Ayrim testlar bitta turni, ayrimlari bir necha turni (P. falciparum, P. vivax, P. malariae va P. ovale) aniqlaydi, yana ba'zilari P. falciparum bilan boshqa turlarni farqlaydi. Testlar nisbatan oddiy, kam o'qitishni talab qiladi va jamoa darajasida tashxis qo'yishga imkon beradi [1]."
+    ]},
+    {"heading": "RDT antigenlari va turni aniqlash", "content": [
+      "Sharhli maqolada RDTlarda uch antigendan foydalanilishi bayon etilgan: histidinga boy oqsil 2, laktatdegidrogenaza va aldolaza. Birinchisi P. falciparumga xos, qolgan ikkisi barcha turlarda uchraydi, tijoriy testlarning 90 foizdan ortig'i HRP2 ni aniqlaydi [4].",
+      "Hozirgi tur-xos RDTlar faqat P. falciparum va P. vivaxni farqlay oladi, boshqa turlarda esa faqat parazit borligini ko'rsatadi. Shu sababli tezkor test turini aniqlashda mikroskopiyani to'liq almashtira olmaydi va natijani izohlashda bu cheklovni hisobga olish kerak [4]."
+    ]},
+    {"heading": "PCR usuli", "content": [
+      "PCR usullari qon namunasida bezgak parazitining maqsadli genlarini aniqlaydi, ularning aksariyati parazitning 18S rRNK genini nishon qiladi. Ko'p qo'llanadigan variantlar: ketma-ket (nested) PCR, multipleks real vaqtdagi PCR va teskari transkriptazali PCR [4].",
+      "Sharhga ko'ra PCR sezgirligi 98 dan 100 foizgacha, aniqlash chegarasi 1 mkl qonda 0,5 dan 5 parazitgacha, bajarilish vaqti taxminan ikki soat. PCR asimptomatik va submikroskopik infeksiyalarni topishda alohida foydali, lekin parazit yukini aniqlash uchun mikroskopiya kerak bo'ladi [4]."
+    ]},
+    {"heading": "PCRning tibbiy amaliyotdagi o'rni", "content": [
+      "Klinik sharoitda asosiy ikki usul mikroskopiya va tezkor test hisoblanadi, PCR esa ko'proq ilmiy tadqiqotlarda ishlatiladi. PCRdan tashxis qo'yilgandan keyin bezgak turini tasdiqlash uchun ham foydalanish mumkin [5].",
+      "JSST nuklein kislotani kuchaytirish testlari, ya'ni NAATlar past zichlikdagi infeksiyalarni sezgir aniqlashga imkon berishini ta'kidlaydi. Biroq PCR qimmat termosikler va yuqori malakali xodimni talab qiladi, shu sababli dala sharoitida qo'llash qiyin [4, 3]."
+    ]},
+    {"heading": "LAMP usuli", "content": [
+      "LAMP, ya'ni sirtmoqli izotermik kuchaytirish nuklein kislotani aniqlashning nisbatan yangi usuli bo'lib, 2000 yilda tavsiflangan. PCRdan farqli ravishda, u termosiklersiz, taxminan 65 °C haroratli suv hammomi yoki issiqlik blokida 30 dan 60 minutda bajariladi [4].",
+      "Sharhga ko'ra LAMP mikroskopiyaga nisbatan 98,3 dan 100 foizgacha sezgirlik va 94,3 dan 100 foizgacha o'ziga xoslik ko'rsatgan, aniqlash chegarasi 1 mkl da 1 dan 5 parazitgacha. Sharhda u hali rivojlanayotgan variantlar qatorida tilga olingan [4]."
+    ]},
+    {"heading": "Rivojlanayotgan usullar", "content": [
+      "Sharhda NASBA, izotermik tHDA, so'lak va siydik asosidagi sinovlar hamda teri orqali gemozoinni aniqlash kabi usullar sanab o'tilgan. Ularning bir qismi qon olishni talab qilmaydi va bezgakni nazorat qilish hamda yo'q qilishga yordam berishi mumkin [4].",
+      "Bu usullar hozircha rivojlanish bosqichida va ularga oid milliy ma'lumotlar topilmadi. Shuningdek, ultra sezgir tezkor test ishlab chiqilmoqda va u joriy testlarga qaraganda aniqlash chegarasini 10 barobar yaxshilashi mumkinligi taxmin qilinadi [4]."
+    ]},
+    {"heading": "Zamonaviy usullarning cheklovi: HRP2 deletsiyalari", "content": [
+      "JSST ma'lumotiga ko'ra ko'pchilik RDTlar P. falciparum ishlab chiqaradigan HRP2 va HRP3 oqsillarini aniqlaydi. Bu oqsillarni ifodalamaydigan genetik mutatsiyali parazitlar bunday testlarda aniqlanmaydi, bemorlar tashxis qo'yilmay qolib, mutant parazitlar tarqalishi mumkin [6].",
+      "2024 yilda bunday mutant parazitlar 42 ta endemik mamlakatda qayd etilgan. Bu holat tezkor testni tanlashda va natijalarni baholashda mahalliy sharoitni hisobga olishni, zarur bo'lsa mikroskopiya bilan tekshirishni taqozo etadi [6]."
+    ]},
+    {"heading": "Sifat va tanlov mezonlari", "content": [
+      "JSST xarid qilinadigan barcha RDTlar JSST tomonidan oldindan sifat bahosidan o'tgan, ya'ni prekvalifikatsiyalangan bo'lishini tavsiya etadi. Bunday mahsulotlar minimal samaradorlik mezonlariga javob beradi va klinik bezgakni tashxislashda maqbul hisoblanadi [1].",
+      "Yuqori atrof-muhit haroratida ishlatiladigan joylar uchun termobarqaror testlar tanlanishi tavsiya etiladi. Shuning uchun zamonaviy usulni tanlash faqat sezgirlikka emas, balki sifat kafolati, saqlash sharoitlari va mahalliy epidemiologik vaziyatga ham bog'liq [1]."
+    ]},
+    {"heading": "Milliy hujjatlarda mikroskopiya tayanchi", "content": [
+      "Milliy uslubiy qo'llanma mikroskopiyani asosiy tashxis usuli deb ataydi va uning sezgirligi, tur bo'yicha miqdoriy ma'lumot berishi, arzonligi hamda preparatning yillar davomida qayta tekshirish uchun saqlanishini afzallik sifatida ko'rsatadi [7].",
+      "Standart amaliy muolajalar ham qalin tomchi va yupqa surtma mikroskopiyasini bezgak laboratoriya tashxisining asosi sifatida belgilaydi. Shu sababli zamonaviy usullar milliy tizimda mikroskopiyani to'ldiruvchi yoki sifat nazoratining bir qismi sifatida ko'riladi [7, 8]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor har bir usulning imkoniyati va cheklovini bilishi kerak: mikroskopiya tur, bosqich va parazit zichligini beradi, tezkor test tezlik, PCR va LAMP esa yuqori sezgirlik beradi. JSST mikroskopiyani davo muvaffaqiyatsizligini tekshirishda tanlov usuli deb hisoblaydi, shuning uchun natijalar bir-biriga mos kelmasa, ularni mikroskopiya va klinika bilan solishtirish maqsadga muvofiq [2, 4].",
+      "Gipnozoitlar mavjud diagnostika vositalari bilan aniqlanmaydi, shuning uchun hech bir zamonaviy usul jigardagi uyqudagi shaklni topa olmaydi. Bu uch kunlik va ovale bezgagida anamnez va davo to'liqligining ahamiyatini saqlab qoladi [5]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "O'zbekistonda tezkor testlar, PCR va LAMPning hozirgi vaqtda rasmiy tartibda qo'llanilishi, ularni tanlash mezonlari va laboratoriyalarda mavjudligi ushbu essedagi milliy hujjatlarda topilmadi. Shu sababli bu ma'lumotlar tasdiqlanmagan hisoblanadi.",
+      "Sezgirlik, o'ziga xoslik, narx va vaqt ko'rsatkichlari (masalan, PCR uchun 2 soat, RDT uchun 15 dan 20 minut) faqat keltirilgan sharhga tegishli va mahalliy laboratoriyalarda tekshirilmagan. Milliy qo'llanma (2009) mikroskopiya aniqlash bo'sag'asini 5 parazit/mkl, sharh esa 50 dan 200 gacha deb beradi [4, 7]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgakning zamonaviy tashxisi parazitga asoslangan tasdiqlashni talab qiladi: mikroskopiya an'anaviy mezon bo'lib qoladi, tezkor testlar tezlik va soddalik beradi, PCR hamda LAMP past parazitemiyani sezgir aniqlaydi, ammo har birining cheklovlarini hisobga olish va natijani klinik ma'lumot bilan baholash zarur [2, 3, 4]."
+    ]}
+  ],
+  "references": [
+    "World Health Organization. Rapid diagnostic tests for malaria (Global Malaria Programme). https://www.who.int/teams/global-malaria-programme/case-management/diagnosis/rapid-diagnostic-tests",
+    "World Health Organization. Microscopy (Global Malaria Programme). https://www.who.int/teams/global-malaria-programme/case-management/diagnosis/microscopy",
+    "World Health Organization. Diagnostic testing for malaria (Global Malaria Programme). https://www.who.int/teams/global-malaria-programme/case-management/diagnosis",
+    "Evaluation of Malaria Diagnostic Methods as a Key for Successful Control and Elimination Programs (sharhli maqola; mualliflar va jurnal ko'rsatilmadi). PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC7344938/",
+    "Relapsing Malaria. StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/sites/books/NBK538333/",
+    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104."
+  ]
+}

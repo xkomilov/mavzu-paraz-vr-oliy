@@ -1,0 +1,69 @@
+{
+  "number": 11,
+  "title": "11. Bezgak bilan zararlanishning yo'llari va manbai.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Bezgak Plasmodium turkumiga mansub qon parazitlari qo'zg'atadigan, Anopheles turkumi chivinlari orqali yuqadigan antropoz transmissiv kasallikdir. Kasallikning tarqalishi infeksiya manbaining mavjudligi, tashuvchi chivinning faolligi va odamning moyilligi kabi bir necha zanjir bo'g'inlariga bog'liq [1, 3].",
+      "Ushbu esseda avval infeksiya manbai bo'lgan bemor va parazit tashuvchining epidemiologik o'rni ko'rib chiqiladi. So'ng asosiy transmissiv yo'l, sun'iy va vertikal yo'llar, odamning moyilligi hamda yuqish holatlarining tasnifi yoritiladi. Oxirida natijalar parazitolog-shifokor amaliyotiga bog'lanadi [1, 4]."
+    ]},
+    {"heading": "Bezgakning transmissiv mohiyati", "content": [
+      "Bezgak qo'zg'atuvchisi o'z hayotini saqlab turishi uchun uchta bo'g'inga muhtoj: Plasmodium parazitiga, umurtqali xo'jayin sifatida odamga va hasharot tashuvchi Anopheles chivinlariga. Shu bois bunday tizim uch a'zoli parazitar tizim deb ataladi va kasallik majburiy transmissiv guruhga kiradi [2].",
+      "Majburiy transmissiv kasalliklar tabiiy yo'l bilan issiq qonli bir hayvondan boshqasiga faqat qon so'ruvchi hasharotlar orqali o'tadi. Bezgak ham shunday kasalliklardan biri hisoblanadi. Shuning uchun uning manbai ham, yuqish yo'li ham chivin ishtirokisiz to'liq tushuntirilmaydi [2, 3]."
+    ]},
+    {"heading": "Infeksiya manbai: bezgak bemori", "content": [
+      "Qonida gametotsitlar bo'lgan bezgak bemorlari yoki parazit tashuvchilar infeksiya manbai bo'lib xizmat qiladi. Ularning epidemiologik mavqei bir xil emas. Bemor odam parazit tashuvchiga nisbatan chivinni plazmodiylar bilan samaraliroq zararlaydi, bunga bir necha sabab mavjud [1].",
+      "Birinchidan, isitmalayotgan bemor chivinni ozuqa manbai sifatida ko'proq jalb qiladi. Ikkinchidan, unda antiparazitar immunitet hali shakllanib ulgurmagan, shu sababli gametotsitlarning yuqumlilik xususiyati susaymagan. Bemor bolalarda parazitemiya katta yoshlilarnikidan yuqori, ular chivin hujumidan ham kamroq himoyalangan bo'ladi [1]."
+    ]},
+    {"heading": "Gametotsitlar va yuqumlilik muddati", "content": [
+      "Chivinning zararlanishi periferik qondagi gametotsitlar soniga va ularning fiziologik yetukligiga bog'liq. Bemordan chivinga plazmodiylarni yuqtirish qonda gametotsitlar paydo bo'lishi bilanoq boshlanadi. Uch kunlik, to'rt kunlik va ovale bezgagida bu kasallikning dastlabki kunlariga to'g'ri keladi [1].",
+      "Tropik bezgakda esa gametotsitlar kasallikning 10-12 kunlaridan boshlab paydo bo'ladi. Gametotsitogoniya qancha uzoq davom etsa, odam organizmida antigametotsit antitanalar shuncha ko'payadi va jinsiy hujayralarning yuqumlilik xususiyati pasayadi. Bu holat bemorning manba sifatidagi xavfini vaqt bo'yicha o'zgartiradi [1]."
+    ]},
+    {"heading": "Infeksiya manbai: parazit tashuvchi", "content": [
+      "Parazit tashuvchilik bezgakning o'tkir isitma xurujlaridan keyingi bosqichi bo'lib, eritrotsitar shizogoniya davom etayotganini ko'rsatadi. Biroq hosil bo'lgan immunitet va pirogen bo'sag'aning oshishi parazitemiyaga javoban isitma rivojlanishiga to'sqinlik qiladi. Qondagi gametotsitlar yetarli bo'lsa ham, ularning chivin uchun yuqumliligi susaygan bo'ladi [1].",
+      "Shunga qaramay, tashuvchining epidemiologik ahamiyati katta. U harakatchan, ajratib qo'yilmaydi, o'zini sog'lom deb hisoblab shifokorga murojaat qilmaydi va eritrotsitar shizogoniya o'z-o'zidan tugamaguncha manba bo'lib qoladi. Gametotsitlar mikroskopiyada topilmaydigan darajada kam bo'lsa ham, chivinni zararlashga yetadi [1]."
+    ]},
+    {"heading": "Asosiy yo'l: zararlangan chivin chaqishi", "content": [
+      "Bezgakning asosiy yuqish mexanizmi transmissiv bo'lib, yuqtirish omili Anopheles turkumiga mansub chivinlarning urg'ochilaridir. Kasallik qo'zg'atuvchisi Anopheles chivinlari chaqishi orqali yuqadi. Erkak chivinlar qon so'rmaydi va faqat o'simlik shirasi bilan oziqlanadi, shuning uchun ular yuqtirishda qatnashmaydi [1, 2, 3].",
+      "JSST ma'lumotiga ko'ra ham bezgak odamlarga asosan ayrim zararlangan urg'ochi Anopheles chivinlarining chaqishi orqali tarqaladi. Shu manbaga muvofiq infeksiya odamdan odamga bevosita yuqmaydi. Demak, mahalliy yuqish uchun hududda zararlangan chivin ham, uni oziqlantiradigan odam ham bir vaqtda bo'lishi shart [4]."
+    ]},
+    {"heading": "Chivin organizmidagi rivojlanish va yuqtirish", "content": [
+      "Chivin zararlangan bemor qonini so'rgach, uning oshqozonida jinsiy rivojlanish boshlanadi: gametogoniya, ookineta va oosista hosil bo'lishi, so'ng sporogoniya. Yetilgan oosistalar yorilib, sporozoitlar gemolimfa bilan so'lak bezlarigacha yetadi. Chivinning keyingi har bir oziqlanishi odamga sporozoit yuqtirishi mumkin [1].",
+      "Sporogoniya tashqi harorat bilan bog'liq: P. vivax uchun +16 daraja atrofida 45 kun, +20 darajada 19 kun, +28 darajada 7 kun davom etgani qayd etilgan. Sporozoitlar to'liq yetilgunga qadar zararlangan chivin to'rt martagacha gonotrofik davrni o'tkazishi mumkin [2, 6]."
+    ]},
+    {"heading": "Sun'iy yo'l: qon quyish va tibbiy asboblar", "content": [
+      "Transmissiv yo'ldan tashqari, sun'iy yo'l ham ma'lum: qon quyish yoki sterillanmagan tibbiy asboblar orqali zararlangan qonning to'g'ridan-to'g'ri yuborilishi. Bunda yuqtirilgan holat shizont-sun'iy deb tasniflanadi. JSST ham qon quyish va ifloslangan ignalar orqali yuqish mumkinligini qayd etadi [1, 4].",
+      "Uslubiy qo'llanmada bezgak har qanday vena ichiga yuborishda, shprits sterillanmasdan bir necha marta ishlatilganda yoki igna almashtirilganda ham o'tishi mumkinligi aytilgan. Kam hollarda mushak ichiga yuborishda ham zararlanish bo'ladi. Shu sababli donorlar qon topshirishdan oldin bezgakka tekshirilishi lozim [1]."
+    ]},
+    {"heading": "Vertikal yo'l va yuqmaydigan yo'llar", "content": [
+      "Taqdimot materiallarida bezgak yuqishining uch turi ajratilgan: chivin orqali tabiiy yo'l, qon quyish va ifloslangan asboblar orqali sun'iy yo'l hamda zararlangan homilador ayoldan chaqaloqqa qon orqali vertikal yo'l. Ko'pchilik holatlar tabiiy yo'l bilan yuz beradi [5].",
+      "Vertikal yo'lning mahalliy ko'rsatkichlari bo'yicha tekshiriladigan manba topilmadi. JSST ma'lumotiga muvofiq bezgak odamdan odamga bevosita tarqalmaydi, shu bois muloqot, havo yoki maishiy buyumlar orqali yuqish epidemiologik jihatdan asosiy yo'l hisoblanmaydi [4, 5]."
+    ]},
+    {"heading": "Aholining moyilligi", "content": [
+      "Plasmodium falciparum, P. malariae va P. ovale bilan zararlanishga butun aholining tabiiy moyilligi yuqori. P. vivax ga esa negroid irqiga mansub odamlar moyil emas, chunki ularda merozoitlar uchun retseptor hisoblangan Daffi guruhidagi qon izoantigenlari bo'lmaydi [1].",
+      "Gemoglobin anomaliyasi, masalan HbAS, tropik bezgakdan himoya qiladi. G6FD fermenti tug'ma yetishmovchiligida esa P. vivax ning o'tkir shakli kamroq uchraydi, ko'pincha parazit tashuvchilik shakllanadi. Qolgan hollarda aholi bezgakka umumiy moyil, shuning uchun manba va chivin mavjud joyda yuqish kutiladi [1]."
+    ]},
+    {"heading": "Yuqish holatlarining tasnifi", "content": [
+      "JSST har bir aniqlangan bezgak holatini tasniflashni tavsiya etadi. Holatlar olib kelingan, olib kelingandan keyingi ikkilamchi, mahalliy, retsidiv va sun'iy yuqtirilgan turlarga bo'linadi. Bunday ajratish infeksiya manbai qayerda va qaysi yo'l bilan shakllanganini aniqlash uchun zarur [1].",
+      "Holatni tasniflashda klinik va parazitologik natijalardan, shuningdek oxirgi ikki yillik epidemiologik anamnezdan foydalaniladi. Yangi yuqqan uch kunlik bezgakni uzoq vaqtdan keyingi retsidivlardan ajratish qiyin, lekin kasallik boshlangan sana va yuqish mavsumi boshlanishini solishtirish bunga yordam beradi [1]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Bezgak bo'yicha 121-son buyruq 1-ilovasi harorati 37,5 darajadan yuqori isitmalagan bemorlarda geografik anamnezni aniqlashni va bezgak bo'yicha endemik joylarga borganlarni qon tekshiruviga yo'naltirishni talab qiladi. Laboratoriya tekshiruvi uchun kamida ikkita qon preparati olinadi, bu manbani o'z vaqtida topishga imkon beradi [3].",
+      "Mahalliy yuqish xavfi bo'lgan hududlarda parazit tashuvchilarni ham faol aniqlash zarur, chunki ular yangi mavsum boshida zararlanishning asosiy zaxirasi bo'lishi mumkin. Shuningdek, qon quyish va ukol anamnezini so'rash hamda tashuvchi chivinlarga qarshi choralarni ko'rish epidemiologik nazoratning ajralmas qismidir [1, 3]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Mazkur esse davomida O'zbekistonda sun'iy va vertikal yo'llar bilan yuqqan holatlarning yillar bo'yicha soni haqida tekshiriladigan manba topilmadi, shu sababli bunday raqamlar keltirilmadi. Ular rasmiy hisobotlardan alohida aniqlanishi lozim [3].",
+      "Shuningdek, har bir yuqish yo'lining mahalliy ulushi, masalan chetdan olib kelingan holatlar ichida sun'iy yo'lning foizi, kutubxona materiallarida ko'rsatilmagan. Bu ko'rsatkichlar tasdiqlanmagan hisoblanadi va ular bo'yicha taxminiy xulosa chiqarilmaydi [1, 3]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgak manbai qonida gametotsitlar bo'lgan bemor yoki parazit tashuvchidir. Asosiy yuqish yo'li zararlangan urg'ochi Anopheles chivinining chaqishi, qo'shimcha yo'llar esa qon quyish, ifloslangan asboblar va vertikal yo'ldir. Mahalliy yuqish chivin, harorat va moyil aholi mavjud bo'lgan joyda yuz beradi [1, 2, 4, 5]."
+    ]}
+  ],
+  "references": [
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ (taqdimot). ОблЦГСЭН Ферганской области, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
+    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604."
+  ]
+}

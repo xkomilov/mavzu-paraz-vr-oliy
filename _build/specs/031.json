@@ -1,0 +1,68 @@
+{
+  "number": 31,
+  "title": "31. Uch kunlik bezgakning davolash.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Uch kunlik bezgak P. vivax qo'zg'atadigan, Anopheles chivinlari chaqishi orqali yuqadigan protozoy antroponoz kasallik bo'lib, davriy isitma xuruji, kamqonlik, taloq va jigar kattalashuvi hamda qaytalanishga moyillik bilan kechadi. Tashxis qo'yilgach davolash zudlik bilan boshlanadi [1, 2].",
+      "Ushbu esseda davolashning maqsadi, joyi, xloroxin va primaxin bilan standart sxema, xloroxinga chidamli holatlar, homiladorlik va G6FDG tanqisligidagi xususiyatlar hamda davolash nazorati, dispanser kuzatuvi ko'rib chiqiladi. Dozalar milliy protokol va bayonnomaga muvofiq keltiriladi [1, 2, 3]."
+    ]},
+    {"heading": "Davolashning maqsadlari", "content": [
+      "Uslubiy qo'llanmaga ko'ra uch kunlik bezgakda davolashning asosiy maqsadi bemordan chivinlarning zararlanishini oldini olishdir, chunki xloroxin qabul qilingach P. vivax gametotsitlari qondan tez yo'qoladi. Demak davolash bemor uchun ham, atrofdagilar uchun ham epidemiyaga qarshi chora hisoblanadi [3].",
+      "Ikkinchi maqsad jigardagi gipnozoitlarni yo'qotib, ekzoeritrotsitar qaytalanishning oldini olishdir. Bu shoshilinch vazifa emas, chunki qaytalanishlar odatda birinchi xurujdan yarim yil va undan ko'p o'tgach yuzaga keladi. Shu sababli qonni va jigarni sterilizatsiya qilish alohida preparatlar bilan amalga oshiriladi [3]."
+    ]},
+    {"heading": "Davolash joyi", "content": [
+      "Yo'riqnomada asoratlanmagan uch kunlik bezgak bilan og'rigan bemorlar uy sharoitida tibbiy xodim nazorati ostida davolanishi mumkinligi ko'rsatilgan. Uslubiy qo'llanmada ham bunda bemor har kuni tibbiy ko'rikdan o'tishi va dorini tibbiyot xodimining o'zi ichirishi kerakligi yozilgan [3, 4].",
+      "Davolash bayonnomasida esa uch kunlik bezgakda barcha bemorlar shifoxonada davolanishi kerakligi ko'rsatilgan. Bu farq hujjatlar orasidagi tafovut hisoblanadi, shuning uchun amalda bemorni yotqizish qarorini amaldagi bayonnoma va epidemiologik vaziyat asosida qabul qilish zarur [2, 4]."
+    ]},
+    {"heading": "Xloroxin bilan gematoshizotrop davolash", "content": [
+      "Davolash protokoliga ko'ra uch kunlik bezgak standart sxema bo'yicha gematoshizotrop xloroxin difosfat (delagil) bilan davolanadi. Kurs dozasi 1 kg tana vazniga 25 mg asos bo'lib, 3 kun beriladi: 1-kun 10 mg/kg, 8 soatdan keyin 5 mg/kg, 2-kun 5 mg/kg, 3-kun 5 mg/kg [1].",
+      "Bayonnomada ham kurs dozasi 25 mg/kg, ikkinchi sxemada 1-kun 10 mg/kg, 2-kun 10 mg/kg, 3-kun 5 mg/kg beriladi. Bolalar uchun xloroxin dozasi tana vazni va yoshga qarab 150 mg li tabletkalar bo'yicha alohida jadvalda keltirilgan, shu sababli bola dozasi jadvaldan olinadi [1, 2]."
+    ]},
+    {"heading": "Primaxin bilan radikal davolash", "content": [
+      "Xloroxin jigar hujayralaridagi gipnozoitlarga ta'sir qilmaydi, shu sababli radikal davolash uchun gistoshizotrop primaxin qo'shimcha buyuriladi. Protokolga ko'ra primaxin kuniga 0,25 mg/kg hisobida kattalarga xloroxindan keyin tanaffussiz yoki 1 hafta, 1 oydan keyin 14 kun davomida beriladi [1].",
+      "Bayonnomada ham kattalarga primaxin asosi 0,25 mg/kg dozada 14 kun beriladi. Protokol primaxinni 14 kundan kam qabul qilish retsidivga olib kelishini va dorini tibbiyot xodimi shaxsan «bemorning og'ziga» tamoyili bo'yicha tarqatishi kerakligini ta'kidlaydi [1, 2]."
+    ]},
+    {"heading": "G6FDG tanqisligida primaxin", "content": [
+      "Protokolda G6FDG fermentining qisman tanqisligi holatida primaxin 0,45 mg/kg hisobida haftada bir marta 8 hafta davomida tavsiya etilishi ko'rsatilgan. Bunday sxema gemoliz xavfini kamaytirish bilan birga gipnozoitlarga ta'sirni saqlashga qaratilgan [1].",
+      "Tug'ma G6FDG tanqisligi bor bemorlarda primaxin tomir ichi gemolizini keltirib chiqarishi mumkin. Shu sababli primaxin tayinlashdan oldin bemorning anamnezi va holati baholanadi, qabul davomida esa siydik rangi va umumiy holat kuzatiladi [1, 3]."
+    ]},
+    {"heading": "Xloroxinga chidamli holatlar", "content": [
+      "Xloroxinga chidamli P. falciparum va P. vivax keng tarqalgan Janubiy Osiyo va Okeaniya g'arbiy qismi mamlakatlaridan kasallik olib kelinganda dastlab xloroxin bilan davolanadi. Dori ta'sir qilmasa bemor xininning 5 kunlik kursiga o'tkaziladi, xinin har 8 soatda beriladi [1].",
+      "Xloroxinga chidamli uch kunlik bezgakda dihidroartemizinin bilan piperaxin yoki artemeter bilan lyumefantrin primaxin bilan birga qabul qilinadi. Bu preparatlar bo'lmasa xinin ishlatiladi. Chidamlilik shubhasi bo'lsa davolash samarasi qon preparatlarida parazitlar yo'qolishi bilan nazorat qilinadi [1]."
+    ]},
+    {"heading": "Dastlabki davolash", "content": [
+      "Agar laboratoriya tekshiruvini tezda o'tkazish imkoni bo'lmasa, uslubiy qo'llanmada dastlabki davolash, ya'ni bezgakka qarshi dorining birinchi dozasi, odatda xloroxin buyurilishi aytilgan. Keyin uch kunlik bezgak tasdiqlansa davolash oldin olingan dori miqdori hisobga olinib davom ettiriladi [3].",
+      "Protokolda laboratoriya natijasi 3-6 soatdan ko'p kechiksa, bezgak gumon qilingan bemorga dastlabki to'liq davolash kursini boshlash mumkinligi, natija manfiy bo'lsa kurs darhol to'xtatilishi yozilgan. Shu tariqa kechikish xavfi va keraksiz davolash orasida muvozanat saqlanadi [1]."
+    ]},
+    {"heading": "Maxsus holatlar", "content": [
+      "Emlangan, ya'ni shizontli uch kunlik va ovale bezgakda jigar hujayralarida gipnozoitlar bo'lmaydi, shu sababli primaxin tavsiya etilmaydi. Parazit tashuvchilar bezgakning tegishli shakli bilan kasallangan bemorlardagidek davolanadi [1].",
+      "Homiladorlikda primaxin tavsiya etilmaydi, bu holatda davolash shifokordan alohida diqqat talab qiladi. Radikal davolanmagan homilador ayollar va 4 yoshgacha bolalar qarshi ko'rsatma muddati o'tgach 14 kun primaxinni ambulator qabul qiladi, mavsum to'g'ri kelsa xloroxin bilan mavsumiy profilaktika olishi mumkin [1]."
+    ]},
+    {"heading": "Davolash nazorati", "content": [
+      "Protokolga ko'ra qon preparati uch marta tekshiriladi: xloroxin qabul qilishdan oldin, to'rtinchi kuni va shifoxonadan chiqish oldidan. Samarali davolashda ikkinchi kuni parazitemiya darajasi 25 foizga, uchinchi kuni 75 foizga kamayadi [1].",
+      "To'rtinchi kuni qonda parazit topilsa, bu qo'zg'atuvchining preparatga chidamliligidan dalolat beradi. Shifoxonadan chiqarish klinik sog'ayish, davolash kursining to'liq o'tkazilishi va qon preparatlarining manfiy natijasi bilan amalga oshiriladi [1]."
+    ]},
+    {"heading": "Dispanser kuzatuvi va qaytalanishning oldini olish", "content": [
+      "Uch kunlik bezgak bilan og'rigan bemorlar 3 yil davomida infeksionist va uy terapevti hisobida dispanser nazoratida turadi. Standartlarda ham uch kunlik bezgakda kuzatuv muddati 3 yil, tropik bezgakda 1 yil sifatida berilgan [4, 5].",
+      "Kasallik qaytalanishining oldini olish uchun epidemik mavsum boshlanishidan oldin bezgakka qarshi davolash o'tkaziladi. Uslubiy qo'llanma gipnozoitotrop davolashni yuqish mavsumi tugaganidan keyin, aholi punktidagi shu yil kasallangan barcha kishilarga bir vaqtda buyurishni afzal deb ko'rsatadi [3, 4]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor bemor davolanishining to'liqligini, ayniqsa primaxin kursining 14 kunga yetkazilishini va qon nazoratini tekshiradi. Bemor davolanmasa yoki kursni uzsa, u infeksiya manbai bo'lib qoladi va o'choqda yangi holatlar paydo bo'ladi [1, 3].",
+      "Shuningdek u holatni to'g'ri tasniflaydi: yangi yuqqan, qaytalangan yoki olib kelingan. Bu davolash taktikasini va o'choqda epidemiyaga qarshi tadbirlar hajmini belgilaydi. Davolash sxemasini tanlashda milliy protokol va bayonnoma matniga tayaniladi [1, 2, 4]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Milliy hujjatlar orasida farqlar bor. Bayonnomadagi birinchi xloroxin sxemasida uchinchi kun dozasi 10 mg/kg deb yozilgan, bu 1-kun 10 va 5 mg/kg bilan birgalikda 25 mg/kg dan oshadi va protokoldagi 5 mg/kg bilan mos kelmaydi. Shu sababli bayonnomaning tegishli sxemasi tasdiqlanmagan [1, 2].",
+      "Bayonnoma va standartlar nusxasi matnida tasdiqlovchi buyruq raqami va sanasi aniq o'qilmaydi, standartlar nusxasi esa 2016 yil loyiha ko'rinishida berilgan. Shu sababli ularning amaldagi kuchi sanitariya-epidemiologiya xizmatidan tekshirilishi lozim [2, 5]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Uch kunlik bezgak milliy protokolga ko'ra xloroxinning 25 mg/kg kurs dozasi bilan 3 kun davolanadi, radikal davo uchun primaxin kattalarda 14 kun beriladi, G6FDG tanqisligida esa sxema o'zgaradi. Davolash qon nazorati va 3 yillik dispanser kuzatuvi bilan to'ldiriladi [1, 2, 4]."
+    ]}
+  ],
+  "references": [
+    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+    "Parazitar kasalliklarni davolash bayonnomalari (uch kunlik bezgakning davolash bayonnomasi). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+    "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560."
+  ]
+}

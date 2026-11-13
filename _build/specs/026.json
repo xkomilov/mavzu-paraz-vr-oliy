@@ -1,0 +1,70 @@
+{
+  "number": 26,
+  "title": "26. Bezgak kasalligini boshdan kechirgan insonda retsidiv bezgak qay usulda o'tadi (qayta zararlanishgacha qanday yashirin holatda qolishi mumkin)",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Retsidiv, ya'ni qaytalanish bezgakning o'ziga xos xususiyati bo'lib, birlamchi xurujlar tugab, qonda parazit yo'qolgandan keyin oylar va yillar o'tgach kasallik belgilarining yana paydo bo'lishidir. Bunday holat odam qayta chivin chaqishidan zararlanmagan bo'lsa ham yuz berishi mumkin [1, 4].",
+      "Ushbu esseda qaytalanishning ikki mexanizmi, jigarda yashirin holatda qolish usuli, yashirin davr muddatlari, qaytalanish turlari, davolash va profilaktikaning ta'siri hamda parazitolog-shifokor uchun amaliy xulosalar milliy manbalar va JSST ma'lumotlari asosida yoritiladi [1, 2, 4, 5]."
+    ]},
+    {"heading": "Qaytalanishning asosiy mexanizmi", "content": [
+      "Uslubiy qo'llanmaga ko'ra P. vivax va P. ovale sporozoitlari jigar hujayralariga kirgach, darhol shizogoniyani boshlashi yoki jigarda uzoq muddat, bir necha oydan 2 yil va undan ortiq bradisporozoitlar shaklida mudroq holatda qolib ketishi mumkin [1].",
+      "Sporozoitlardan iborat qo'zg'atuvchilarning ma'lum qismi yoki barchasi 7 dan 14 oygacha va undan ko'p gepatotsitlarda mudroq holatda bo'ladi, shundan keyingina eritrotsitlarni zararlashga qodir merozoitlar rivojlana boshlaydi. Aynan shu rivojlanish usuli uzoq inkubatsiya va kechki retsidivlarni belgilaydi [1]."
+    ]},
+    {"heading": "Gipnozoit tushunchasi", "content": [
+      "Uslubiy qo'llanmada aksariyat bemorlar oylab, ba'zan yillab «uyquga» ketadigan gipnozoitlarga aylanuvchi bradisporozoitlarni yuqtirishi qayd etilgan. Bu shakl jigar hujayralarida saqlanadi va faol kasallik belgisi bermaydi [1].",
+      "StatPearls ma'lumotiga ko'ra P. vivax va P. ovale jigarda mudroq gipnozoit bosqichiga ega, ular oylar yoki yillar davomida uyquda qolib, qonga qayta chiqqanda qaytalanuvchi infeksiyani chaqiradi. Mavjud tashxis vositalari bilan jigardagi bu shakl aniqlanmaydi [4]."
+    ]},
+    {"heading": "Yashirin davrda organizmda nima bo'ladi", "content": [
+      "Uslubiy qo'llanmada bemor bir vaqtda taxi- va bradisporozoitlarni yuqtirsa, parazitlarning har bir yo'nalishi bir-biriga bog'liq bo'lmagan holda rivojlanishi yozilgan. Dastlab qisqa yashirin davrdan keyingi xurujlar, so'ng uzoq mudroq davr kuzatiladi [1].",
+      "Mudroq davrda qonda parazit bo'lmaydi va bemor klinik jihatdan sog'lom ko'rinadi, keyin kechki belgilar paydo bo'ladi. Shu sababli uch kunlik bezgakda qo'zg'atuvchining qondan yo'qolishi to'liq sog'ayishni bildirmaydi, to'liq sog'ayish jigar hujayralaridan ham yo'qolganda ta'minlanadi [1]."
+    ]},
+    {"heading": "Eksoeritrotsitar qaytalanish", "content": [
+      "Kechki ko'rinishlar kasallikning qaytalanishi, ya'ni retsidivi sifatida namoyon bo'ladi. Kelib chiqishi bo'yicha bu eksoeritrotsitar jarayon, chunki u parazitning eksoeritrotsitar shaklidan gipnozoitlarga o'tishi hisobiga sodir bo'ladi [1].",
+      "Eksoeritrotsitar qaytalanish muddatlari uzoq yashirin davr kabi bo'ladi va bemorning birinchi xurujidan tugashi bilan qaytalanishi orasida qonda parazit bo'lmaydi. Uning muddati makroorganizm holatiga emas, parazitning xususiyatlariga bog'liqligi alohida ta'kidlangan [1]."
+    ]},
+    {"heading": "Eritrotsitar qaytalanish", "content": [
+      "Eksoeritrotsitar qaytalanishning aksi qon shakllari hisobiga yuz beradigan eritrotsitar qaytalanishdir. Bunda birinchi xuruj oxiri bilan qaytalanish o'rtasidagi davrda parazitemiya to'xtamaydi, lekin pirogen yoki aniqlanish bo'sag'asidan past bo'ladi [1].",
+      "Eritrotsitar qaytalanish immunitet to'liq rivojlanmagani va davolash sifati pastligi natijasida yuzaga keladi. Bunday qaytalanish tropik bezgakda ham bo'lishi mumkin, ammo tropik bezgakda eksoeritrotsitar qaytalanishlar bo'lmaydi [1]."
+    ]},
+    {"heading": "Qaytalanish muddatlari va turlari", "content": [
+      "Uslubiy qo'llanmada qaytalanishlar paydo bo'lish vaqtiga qarab isitma tugagandan 3 oygacha erta va 3 oydan 2 yilgacha, juda kam hollarda undan ko'proq vaqt o'tgach kechki turlarga bo'linadi. Namoyon bo'lishiga ko'ra klinik va parazitar qaytalanishlar ham farqlanadi [1].",
+      "Klinik qaytalanishda kasallik belgilari qaytadi, parazitar qaytalanishda esa faqat parazitemiya qaytadi. StatPearls ma'lumotiga ko'ra relaps P. vivax va P. ovale uchun xos bo'lib, boshqa turlardagi rekrudessensiyadan farqlanadi; rekrudessensiya, jumladan, yetarli bo'lmagan davo yoki dorining yomon so'rilishi bilan bog'liq [1, 4]."
+    ]},
+    {"heading": "Yashirin davr muddatlari", "content": [
+      "StatPearls ma'lumotiga ko'ra relaps xurujlari dastlabki zararlanishdan oylar yoki yillar o'tgach yuz beradi. P. vivax va P. ovale uchun odatdagi inkubatsiya 12 dan 17 kungacha bo'lsa ham, retsidiv 2 yilgacha kechikib paydo bo'lishi mumkinligi keltirilgan [4].",
+      "Shuningdek, aralash infeksiyada P. falciparum davolangandan keyin P. vivax hamrohligi faqat gipnozoitlar faollashgandan keyin, ya'ni retsidiv paytida ma'lum bo'lishi mumkin. Bu hodisa tropik bezgak o'tkazgan bemorlarni kuzatishda e'tiborga olinadi [4]."
+    ]},
+    {"heading": "Davo va qaytalanish xavfi", "content": [
+      "Protokolga ko'ra gematoshizotrop preparat jigar hujayralaridagi gipnozoitlarga ta'sir qilmaydi, shuning uchun u bemorning butunlay sog'ayishiga kafolat bermaydi. Radikal davo uchun gistoshizotrop preparat primaxin qo'shimcha tayinlanadi, primaxinni 14 kundan kam qabul qilish retsidivga olib keladi [2].",
+      "JSST ham primaxin P. vivax va P. ovale qaytalanishini oldini olish uchun asosiy davoga qo'shilishini tavsiya etadi. StatPearlsga ko'ra qaytalanuvchi bezgak ikki dori talab qiladi: biri qon bosqichini, ikkinchisi jigardagi gipnozoitlarni yo'qotadi [4, 5]."
+    ]},
+    {"heading": "Kimyoviy profilaktikaning cheklovi", "content": [
+      "Protokolda kimyoviy profilaktika uchun qo'llanadigan preparatlarning birortasi ham gipnozoitlarga ta'sir qilmasligi, shuning uchun uyga qaytgandan bir necha oydan keyin uch kunlik va ovale bezgagining kech namoyon bo'lishi kuzatilishi mumkinligi aytilgan [2].",
+      "JSST ham profilaktik dorilarni oxirgi mumkin bo'lgan ta'sirdan keyin 4 hafta davom ettirishni tavsiya etadi, chunki parazitlar bu davrda jigardan chiqishi mumkin. Mavsumlararo kimyoviy profilaktika esa gipnozoitlar hisobiga uzoq yashirin davrli uch kunlik bezgakning ommaviy tarqalishini oldini olishga qaratilgan [2, 5]."
+    ]},
+    {"heading": "Qaytalanish va qayta zararlanish farqi", "content": [
+      "Qaytalanishda xuruj jigardagi gipnozoitlar faollashishidan kelib chiqadi, qayta zararlanishda esa yangi chivin chaqishi bilan yangi sporozoitlar kiradi. Shu sababli bemorning geografik anamnezi, ya'ni endemik hududlarga borganligi aniqlanadi [7].",
+      "Milliy yo'riqnomaga ko'ra xorijdan kelgan shaxslar 3 yil davomida dispanser nazoratiga olinadi. Bu muddat kechki xurujlar va qaytalanishlarni o'z vaqtida aniqlashga imkon beradi, shuningdek mahalliy tarqalish qayta tiklanishining oldini oladi [7]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Bezgak o'tkazgan odamda isitma paydo bo'lsa, retsidiv ehtimoli bor deb qaralib, qon preparati mikroskopiya bilan tekshirilishi lozim. Yashirin davrda qonda parazit bo'lmasligi sababli, bu davrda manfiy tahlil kelajakdagi xurujni inkor etmaydi [1].",
+      "Davoni to'liq o'tkazish, primaxin kursini oxirigacha qabul qilish va nazoratni davom ettirish qaytalanish xavfini kamaytiradi. Bayonnomada primaxin G-6-FDG tanqisligi bor shaxslarda va homiladorlarda cheklanishi ham qayd etilgan, bu esa shifokor qarorini murakkablashtiradi [2, 4]."
+    ]},
+    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+      "Gipnozoitlarni faollashtiruvchi aniq omillar, ya'ni qaytalanishni boshlovchi sabablar ushbu essedagi manbalarda to'liq ochilmagan. Sharhli maqolada vivaks xurujlarining ko'pi jigarda oldingi infeksiyadan beri uxlab yotgan gipnozoitlardan kelib chiqishi, ammo bu uyquning mexanizmi noma'lumligi yozilgan [6].",
+      "Milliy manbalar primaxin kursining davomiyligini turlicha keltiradi: protokolda 14 kun, 21 kun va G-6-FDG tanqisligida haftalik 8 haftalik sxema, bayonnomada esa 14 kun yoki 17 kungacha. Shu sababli doza va davomiyligi bu esseda ko'rsatilmadi, ular bayonnomadan olinishi lozim [2, 3]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Bezgak o'tkazgan odamda retsidiv P. vivax va P. ovale gipnozoitlarining jigarda oylar va yillar davomida mudroq saqlanib, keyinroq faollashishi natijasida yuz beradi, bu davrda qonda parazit bo'lmaydi, shu sababli to'liq davo, radikal primaxin kursi va uzoq kuzatuv zarur [1, 2, 4]."
+    ]}
+  ],
+  "references": [
+    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+    "Relapsing Malaria. StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/sites/books/NBK538333/",
+    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria",
+    "The Biology of Plasmodium vivax (sharhli maqola; mualliflar va jurnal ko'rsatilmadi). PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC5580510/",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523."
+  ]
+}
