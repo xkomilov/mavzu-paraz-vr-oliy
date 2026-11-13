@@ -1,0 +1,71 @@
+{
+ "number": 110,
+ "title": "110. Exinokokkoz bilan kasallanishning veterinar chora- tadbiri.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Exinokokkozda odamning kasallanishi hayvonlar orasidagi epizootik jarayonga bevosita bog'liq: qo'llanmada hayvonlarda kasallik bo'lmasa odamda ham uchramasligi yozilgan. Shu sababli veterinariya chora-tadbirlari yuqish zanjirini itlar va chorva bosqichida uzishga qaratilgan asosiy yo'nalishdir [1].",
+   "Ushbu esseda hayvonlarda nazoratning o'ziga xosligi, itlarni hisobga olish va degelmintizatsiya, daydi itlar bilan kurash, so'yish joylaridagi ekspertiza, zararlangan a'zolarni yo'qotish, emlash imkoniyatlari va tibbiyot xizmati bilan hamkorlik ko'rib chiqiladi. Oxirida manbalarda aniqlanmagan jihatlar yoziladi [1, 2, 7]."
+  ]},
+  {"heading": "Veterinariya tadbirlarining o'rni", "content": [
+   "Darslikda profilaktika veterinariya va tibbiyot xizmatlari tadbirlariga asoslanishi, veterinariya xizmati vazifasi esa xizmat va uy itlarini gelmintozga muntazam tekshirish, ularni degelmintizatsiya qilish va so'yish joylarida mol go'shtini nazorat qilish ekani yozilgan [4].",
+   "JSST kistoz exinokokkoz uy hayvonlari oxirgi va oraliq xo'jayin bo'lgani uchun oldini olish mumkin ekanini ta'kidlaydi. Itlarni prazikvantel bilan degelmintizatsiya qilish, so'yishda gigiyena va jamoatchilik ma'rifati dastur samarasini ta'minlovchi asosiy elementlar sifatida ko'rsatilgan [7]."
+  ]},
+  {"heading": "Hayvonlarda nazoratning qiyinligi", "content": [
+   "Qo'llanmada hayvonlar orasida kistoz exinokokkoz ustidan nazorat olib borish murakkab ekani, chunki uy hayvonlari va itlarda infeksiya belgisiz kechishi yozilgan. Bundan tashqari veterinariya xizmati epidemiologik nazoratning ahamiyatini doim ham tushunmaydi va unga yetarli e'tibor bermaydi [1].",
+   "JSST ham qoramol va itlarda infeksiya asemptomatik ekanini, nazorat jamoalar va mahalliy veterinariya xizmatlari tomonidan ustuvor deb tan olinmasligini ko'rsatadi. Shu sababli veterinariya tadbirlari tizimli hisobga olish va rejali tekshiruvlarga tayanishi kerak [7]."
+  ]},
+  {"heading": "Itlarni hisobga olish va tekshirish", "content": [
+   "Yo'riqnomada o'choqda xavf darajasini baholashda uy hayvonlari va chorva mollarining exinokokkoz bilan kasallanganligi haqidagi ma'lumotlar veterinariya bo'limi xodimlaridan olinishi ko'zda tutilgan. Hayvonlar orasida zararlanish bo'yicha ma'lumot bo'lmasa, aholi punkti ichidan to'liq ma'lumot yig'iladi va tahlil qilinadi [2].",
+   "Ma'lumotlar so'yish joylaridan, boshqa mollar so'yiladigan xususiy va jamoa xo'jaliklaridan, bemor yashaydigan aholi punkti va tuman markazidan, qo'shni go'sht kombinatlari hamda bozor veterinariya laboratoriyasidan olinadi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holatini nazorat qiladi [2]."
+  ]},
+  {"heading": "Itlarni degelmintizatsiya qilish", "content": [
+   "JSST kistoz exinokokkozni nazorat qilishda itlarni prazikvantel bilan yiliga kamida to'rt marta degelmintizatsiya qilishni tavsiya etadi. Darslikda xavfli joylarda itlarni har chorakda degelmintizatsiya qilish, atlasda esa uy itlarini yiliga ikki marta degelmintizatsiya qilish ko'rsatilgan [4, 6, 7].",
+   "Qo'llanmada itlarni davolash va tuxum ajraladigan vaqtda alohida saqlash kerakligi, daydi itlarni degelmintizatsiya qilish yoki yo'q qilish lozimligi yozilgan. Bayonnomada ham daydi itlarni degelmintizatsiya qilish yoki qirish profilaktikaga kiritilgan; chastotalar manbalarda farq qiladi [1, 3]."
+  ]},
+  {"heading": "Daydi va egasiz itlar bilan kurash", "content": [
+   "Qo'llanmaga ko'ra exinokokk invaziyasining asosiy manbai daydi itlar, shuningdek molxonalarni qo'riqlovchi itlardir, shuning uchun daydi itlarni yo'q qilish maxsus profilaktik chora sifatida berilgan. Yo'riqnomada daydi va egasiz itlarni yo'q qilish doimiy nazoratda turadi [1, 2].",
+   "Darslikda ham bu tadbir daydi itlar sonini nazorat qilish tarzida ko'rsatilgan. Biroq JSST alveolyar shakl bo'yicha tulkilar va egasiz erkin yuruvchi itlarni qirish juda samarasiz ko'rinishini yozadi, shu sababli bu chorani mustaqil usul deb emas, kompleksning bir qismi deb baholash kerak [5, 7]."
+  ]},
+  {"heading": "So'yish joylarida veterinariya-sanitariya nazorati", "content": [
+   "Yo'riqnomada mollarni so'yish, so'yish joylarining sanitariya holati, zararlangan a'zolarni to'liq yo'qotish ustidan doimiy nazorat belgilangan. Qo'llanmada itlarni exinokokk bilan zararlanishdan saqlash uchun mollarni so'yish joylarida veterinariya va sanitariya nazorati yaxshi yo'lga qo'yilishi kerak deyilgan [1, 2].",
+   "Bayonnomada qishloq xo'jaligi hayvonlarini so'yadigan joylarga daydi it, mushuk va yirtqich hayvonlar kirishini taqiqlash hamda uy va yovvoyi hayvonlar tanasida exinokokk larvotsistalari borligini aniqlovchi ekspertizani ta'minlash tavsiya etilgan. Bu ekspertiza zararlangan a'zolarni o'z vaqtida ajratishga imkon beradi [3]."
+  ]},
+  {"heading": "Zararlangan a'zolarni zararsizlantirish", "content": [
+   "Qo'llanmada exinokokk bilan zararlangan molni so'yganda va bo'laklaganda chiqadigan barcha chiqindilar yo'qotilishi, bunday chiqindilar bilan itlarni boqish qat'iy man etilishi aytilgan. Chunki o'ldirilgan hayvonlardan ajralgan pufakchalar it va mushuklar zararlanishining manbai hisoblanadi [1].",
+   "Atlasda zararlangan ichki a'zolarni yo'q qilish jamoat profilaktikasi sifatida keltirilgan, JSST esa zararlangan ichki a'zolarni to'g'ri yo'q qilish so'yish gigiyenasining tarkibiy qismi deb hisoblaydi. Shuningdek, o'lgan hayvonlarni ko'mib tashlash ham maxsus chora sifatida ko'rsatilgan [1, 6, 7]."
+  ]},
+  {"heading": "Go'sht va mahsulotlarga qo'yiladigan talab", "content": [
+   "Sanitariya parazitologiyasi darsligida Rossiya sanitariya qoidalari keltirilgan: go'sht, go'sht mahsulotlari va parranda go'shtida finnalar, exinokokk pufaklari va trixinella lichinkalari bo'lmasligi kerak. Bu talab Rossiya hujjatiga tegishli bo'lib, O'zbekiston me'yori emas [8].",
+   "O'zbekistondagi milliy hujjatlarda go'shtdagi exinokokk pufaklari uchun alohida me'yor ko'rilgan manbalarda topilmadi. Shu sababli veterinariya ekspertizasi bo'yicha amaldagi qoidalar bo'yicha aniq talab yozilmadi; faqat zararlangan a'zolarni yo'qotish talabi milliy yo'riqnomadan olindi [2, 8]."
+  ]},
+  {"heading": "Hayvonlarni emlash va kimyoviy davolash", "content": [
+   "JSST qo'ylarni E. granulosus rekombinant antigeni (EG95) bilan emlash istiqbolli ekanini, vaksina tijorat asosida ishlab chiqarilib, Xitoy va Argentinada ro'yxatdan o'tganini yozadi. Qo'zilarni emlash, itlarni degelmintizatsiya qilish va keksa qo'ylarni brakka chiqarish dasturi odamda kasallikni 10 yildan kam vaqtda yo'qotishi mumkin [7].",
+   "Qo'llanmada 1990-yillarda O'zbekistonda hayvonlar exinokokkoziga qarshi vaksina yaratilgani, biroq hayvonlarda erta tashxis, degelmintizatsiya va immunoprofilaktikaga asoslangan kurash usullari bo'yicha tadqiqotlar yetarli o'tkazilmagani qayd etilgan. Ushbu vaksinaning amaldagi qo'llanilishi manbalarda ko'rsatilmagan [1]."
+  ]},
+  {"heading": "Yovvoyi hayvonlar va alveolyar shakl", "content": [
+   "JSST alveolyar exinokokkozning oldini olish murakkabroq ekanini, chunki aylanishda yovvoyi hayvonlar ham oxirgi, ham oraliq xo'jayin sifatida qatnashishini yozadi. Yovvoyi rodentlar bilan aloqada bo'ladigan uy yirtqichlarini muntazam degelmintizatsiya qilish xavfni kamaytirishi kerak [7].",
+   "Yevropa va Yaponiya tadqiqotlarida yovvoyi va egasiz oxirgi xo'jayinlarga gijjaga qarshi yemlar tashlash alveolyar exinokokkoz tarqalishini sezilarli kamaytirgani yozilgan. O'zbekistonda bunday tadbirlar qo'llangani haqida ko'rilgan manbalarda ma'lumot yo'q [7]."
+  ]},
+  {"heading": "Tibbiyot xizmati bilan hamkorlik", "content": [
+   "Yo'riqnomaga ko'ra har bir exinokokkoz holatini epidemiologik tekshirishda DSENM parazitologlari bilan veterinariya xodimlari birga ishlaydi, veterinariya ishchi guruhi tekshiruvda qatnashadi va zarur chora-tadbirlarni amalga oshiradi. Natijalar epidemiologik kartaga (ф.357/u) yoziladi [2].",
+   "Qo'llanmada epidemiologik nazorat ma'lumotlarni milliy axborot xizmati, JSST va Xalqaro epizootik byuro bilan almashishni ham o'z ichiga olishi yozilgan. Hayvonlar sonining taqsimlanishi bo'yicha ma'lumotlarni yig'ish nazoratning alohida vazifasi hisoblanadi [1]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Ko'rilgan milliy hujjatlarda O'zbekistonda itlarni degelmintizatsiya qilishning rasmiy chastotasi, qo'llaniladigan preparat dozasi va veterinariya hisobotlarining shakllari ko'rsatilmagan. Shu sababli veterinariya dori dozalari yozilmadi, faqat JSST tomonidan prazikvantel qo'llanishi nomi aytildi [1, 2, 7].",
+   "Itlarni degelmintizatsiya qilish chastotasi JSSTda yiliga kamida to'rt marta, darslikda har chorak, atlasda yiliga ikki marta deb berilgan. Hayvonlarda zararlanish ulushi ham yillar va hududlarga qarab keskin farq qiladi, joriy yil ma'lumoti topilmadi [4, 6, 7]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Veterinariya chora-tadbirlari itlarni hisobga olish va muntazam degelmintizatsiya qilish, daydi itlarni nazorat qilish, so'yish joylarida ekspertiza va zararlangan a'zolarni zararsizlantirish, ularni itlarga bermaslik hamda emlash imkoniyatlaridan iborat. Ularning samarasi tibbiyot xizmati bilan ma'lumot almashinuviga bog'liq [1, 2, 7]."
+  ]}
+ ],
+ "references": [
+  "Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati: o'quv-uslubiy qo'llanma. Toshkent: Toshkent tibbiyot akademiyasi, 2021. xayrullokomilov.uz/kutubxona, material ID 1607.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari (exinokokkozni davolash bayonnomasi). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Медицинская паразитология: атлас / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "World Health Organization. Echinococcosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/echinococcosis",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598."
+ ]
+}

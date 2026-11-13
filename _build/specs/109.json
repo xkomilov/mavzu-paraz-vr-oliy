@@ -1,0 +1,78 @@
+{
+ "number": 109,
+ "title": "109. Exinokokkoz bilan kasallanishning tibbiy- sanitar chora-tadbiri.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Exinokokkozda tibbiy-sanitariya chora-tadbirlari kasallangan odamni aniqlash, hisobga olish, davolash va kuzatish hamda o'choqda yuqish omillarini sanitariya-gelmintologik jihatdan nazorat qilishni o'z ichiga oladi. Bu choralar tibbiyot xodimlari va DSENM mutaxassislari tomonidan bajariladi [2].",
+   "Ushbu esseda xabar berish va hisobga olish tartibi, xavf guruhlarini tekshirish, epidemiologik tekshiruv, o'choqdagi sanitariya-gelmintologik nazorat, dispanser kuzatuvi, laboratoriya xavfsizligi va aholi bilan tushuntirish ishlari ketma-ket yoritiladi. Veterinariya tadbirlari alohida mavzu bo'lgani uchun faqat bog'lanish nuqtalari ko'rsatiladi [1, 2, 3]."
+  ]},
+  {"heading": "Holatni aniqlash va shoshilinch xabar", "content": [
+   "Yo'riqnomaga ko'ra jarrohlar, terapevtlar, rentgenologlar va nevropatologlar exinokokkozni aniqlasa, shoshilinch xabarnoma (ф.058/u) tuzilib DSENMga yuboriladi. Har bir holat davolash-profilaktika muassasasida ф.060/u jurnaliga qayd qilinadi, DSENM esa xabarnomalar asosida o'choqni epidemiologik tekshirishni boshlaydi [2].",
+   "Qo'llanmada epidemiologik nazoratning birinchi vazifasi standartlashtirilgan hujjatlar asosida kasallanish va o'lim ma'lumotlarini tizimli yig'ish, keyingisi laboratoriya kuzatuvi va serologik tadqiqotlar ekani yozilgan. Shu sababli har bir holat xabarnomasining to'liq va o'z vaqtida yuborilishi muhim [1, 2]."
+  ]},
+  {"heading": "Hisobga olish va dispanser guruhi", "content": [
+   "Aniqlangan bemorlarning hammasi «D» hisobiga olinadi, ф. №030/u to'ldiriladi va jarroh xonasida operatsiyadan keyingi holati bo'yicha kuzatuv olib boriladi. DSENM kasalliklar hisobotida (ф. №2) exinokokkozni alohida ko'rsatadi [2].",
+   "Bayonnomada serologik musbat shaxslar yiliga 1-2 marta tekshiriladi, jarrohlik operatsiyasidan keyingi bemorlar 5 yil dispanser nazoratida turishi shart. Ko'p pufakli shaklda bemorlar har yili tekshiriladi, titr o'sishi yoki klinik belgilar paydo bo'lsa stasionarda qayta tekshiriladi [3]."
+  ]},
+  {"heading": "Bemorlar sonini aniqlash: retrospektiv tahlil", "content": [
+   "Yo'riqnomada exinokokkoz va alveokokkoz bemorlari sonini aniqlash uchun DSENM parazitologlari DPM hujjatlarini tahlil qilishi ko'rsatilgan: ambulator kartalar (ф.025/u), kasallik tarixi (ф.003/u), statistik talonlar, operatsiyalar jurnali, biopsiya va autopsiya natijalari [2].",
+   "Birinchi navbatda onkologiya va sil dispanserlari, jarrohlik, pulmonologiya, nevrologiya, urologiya va jigar kasalliklari bo'limlari hujjatlari ko'riladi. Aniqlangan holatlar operatsiyalar soniga va autopsiya natijalariga nisbatan foizda tahlil qilinadi, murojaat sanasi, birlamchi tashxis sanasi va og'ir shikoyatlar boshlangan sana solishtiriladi [2]."
+  ]},
+  {"heading": "Xavf guruhlarini serologik tekshirish", "content": [
+   "Yo'riqnomada o'lim va nogironlikni oldini olish uchun erta aniqlash va kasallanganlarni hisobga olish asosiy chora, shu maqsadda xavf ostidagi aholi har yili IFA bilan tekshirilishi zarur deyilgan. Ro'yxat DSENM nazoratida bo'lib, xizmat ko'rsatuvchi davolash muassasalari rahbarlariga beriladi [2].",
+   "Tekshiriladiganlar qatoriga cho'ponlar, ovchilar, jun tayyorlovchilar, mo'yna sexi ishchilari, ularning oilalari, avval exinokokkoz operatsiyasi o'tkazilganlar yoki dispanser hisobidagilar, veterinariya xodimlari va it egalari kiradi. Bayonnomada seropozitiv shaxslarni yiliga 1-2 marta tekshirish ko'rsatilgan [2, 3]."
+  ]},
+  {"heading": "Ommaviy tibbiy ko'riklar", "content": [
+   "Qo'llanmada endemik o'choqlarda aholini ommaviy tibbiy ko'rikdan o'tkazish kasallikni erta aniqlashga imkon berishi aytilgan. Ko'riklarni yuqori malakali tibbiyot xodimlari bilan, avtotransport va portativ diagnostik asbob-uskunalar bilan tashkil etish tavsiya qilinadi [1].",
+   "Darslikda erta shakllarni aniqlash uchun chorvachilik xodimlari va ularning oilalarini dispanserizatsiya qiluvchi ko'chma brigadalar tashkil etilishi, portativ flyuorografik qurilmalar va serologik diagnostika qo'llanishi yozilgan. Bunday ko'riklar og'ir asoratlarning oldini olishga xizmat qiladi [1, 4]."
+  ]},
+  {"heading": "Har bir holatni epidemiologik tekshirish", "content": [
+   "Yo'riqnomaga ko'ra har bir exinokokkoz holatini epidemiologik tekshirishni hududiy DSENM parazitologlari veterinariya xodimlari ishtirokida o'tkazadi. Natijalar epidemiologik tekshiruv kartasiga (ф.357/u) kiritiladi, kichik o'choqlarda kasallanishga sabab bo'lgan har bir holat alohida tekshiriladi [2].",
+   "Invaziya manbasini aniqlashda bemorning mehnat sharoiti va yashash tarzi, oilasining yashash sharoiti, itlarning borligi va ularni boqish sharoiti hisobga olinadi. Bemor oilasida sanitariya-targ'ibot va tushuntirish ishlari olib boriladi, veterinariya ishchi guruhi tekshiruvda qatnashadi [2]."
+  ]},
+  {"heading": "O'choqda sanitariya-gelmintologik tekshiruv", "content": [
+   "Yo'riqnomada o'choqda ichki muhitni ifloslantiruvchi manba, yuqish yo'llari va omillarini uzish sanitariya-gelmintologik tekshiruvning asosiy vazifasi deb berilgan. Tekshiruv rejali va epidemiologik ko'rsatma bo'yicha DSENM xodimlari tomonidan itlar boqiladigan, sanitariya holati talabga javob bermaydigan joylarda o'tkaziladi [2].",
+   "Namunalar hayvonlar turadigan joydan 10 m atrofdan olinadi, bir obyektdan 25 ta surtma hamda 4 tadan tuproq, sabzavot, ko'kat va suv namunasi olinadi. Surtma eshik tutqichi, chelak, poyabzal, oila a'zolari qo'li, it yotadigan joydan olinadi; namunalar 24 soatda tekshiriladi [2]."
+  ]},
+  {"heading": "Fasl va namunalar bilan bog'liq jihatlar", "content": [
+   "Yo'riqnomada laboratoriya tekshiruvlarini rejalashtirishda qishda itlar exinokokk onkosferalarini ajratmasligi, bahorda ularning tashqi muhitga chiqishi avj olishi hisobga olinishi kerakligi ko'rsatilgan. Tuproq namunalari 3 kun ichida +4 darajada saqlansa tekshirilishi mumkin [2].",
+   "Korxonalarda (teri zavodlari va boshqalar) surtmalar ovqatlanish, dam olish, saqlash, ishlov berish joylaridan, jun qirqish, itxonalar, qo'llar va kiyimlardan olinadi. Tuproq namunalari mayda shoxli mollar saqlanadigan otarlardan olinishi ham yozilgan [2]."
+  ]},
+  {"heading": "Ichki muhit ifloslanishini kamaytirish va kadastr", "content": [
+   "Yo'riqnomada o'choqlarning retrospektiv kadastr tahlili invaziya tarqalish chegarasini aniqlash, tekshirilmagan hududlarni topish va birinchi navbatda chora ko'riladigan hududlarni belgilashga xizmat qilishi yozilgan. Kadastr tibbiy-profilaktik choralarni maqsadli yo'naltirishga yordam beradi [2].",
+   "Qo'llanmada it saqlanadigan xonadonlarda it najasi yig'ilib, yoqilib yoki ko'milib zararsizlantirilmasligi tashqi muhit ifloslanishiga olib kelishi qayd etilgan. Shu sababli tushuntirishda itlar najasini yig'ish va zararsizlantirish ham sanitariya choralari qatorida ko'rsatiladi [1]."
+  ]},
+  {"heading": "Davolash va kuzatuv", "content": [
+   "Bayonnomada davolashning asosiy usuli jarrohlik, kimyoterapiya esa xavfli holatlarda va qaytalanishning oldini olish uchun o'tkaziladi. Albendazol kattalarga 400 mg dan kuniga ikki mahal, 28 kunlik 3-4 davr tarzida berilishi, davolash samaradorligi 50-98 foiz bo'lishi yozilgan [3].",
+   "Yo'riqnomada operatsiya qilinganlar yiliga bir-ikki marta biokimyoviy, serologik, rentgen va jigar exografiyasi bilan tekshiriladi. Klinik belgi bo'lmasa va serologik reaksiya 5 yil manfiy bo'lsa, bemor hisobdan chiqariladi, titr o'sganda esa kasalxonada tekshiriladi [2]."
+  ]},
+  {"heading": "Mehnatga layoqat va kuzatuv muddati", "content": [
+   "Bayonnomada ko'p miqdorda kistalar kesib tashlangandan keyin bemor 4-6 oy, yakka kistalarda 2-3 oy mehnatga yaroqsiz hisoblanadi, mehnatga yaroqlilik individual hal qilinadi. Yo'riqnomada solitar o'smalar olingach faol mehnatga layoqat 2-4 oydan keyin tiklanishi yozilgan [2, 3].",
+   "Dispanser kuzatuvi muddati manbalarda farq qiladi: bayonnoma va yo'riqnoma bo'yicha 5 yil, darslikda 8-10 yil, boshqa darslikda esa qulay kechganda 2 yil. Shu sababli amalda milliy hujjatdagi 5 yillik tartibga amal qilish asos qilib olinadi [2, 3, 4, 5]."
+  ]},
+  {"heading": "Laboratoriya xodimlari xavfsizligi", "content": [
+   "Sanitariya parazitologiyasi darsligida exinokokkoz va alveokokkoz bo'yicha noqulay hududlarda it, qutb tulkisi, tulki va boshqa yirtqichlar najasi tekshirilganda, namuna olingan vaqtdan qat'i nazar, alohida ehtiyotkorlik talab qilinishi aytilgan. Ish rezina qo'lqopda bajariladi [7].",
+   "Namunalarga qo'l tegizmaslik, asbob va stolni ishdan keyin spirtli doka bilan artish ham tavsiya qilingan. Bu choralar xodimning o'zi tuxum bilan zararlanishining oldini oladi, chunki yuqish tuxumning og'iz orqali tushishi bilan yuz beradi [1, 7]."
+  ]},
+  {"heading": "Aholini ma'rifiy tushuntirish", "content": [
+   "Qo'llanmada hayvonlarni parvarishlagandan keyin qo'lni sovun bilan yaxshilab yuvish, bolalar qo'llarini nazorat qilish va shaxsiy gigiena qoidalariga rioya qilish eng muhim chora sifatida ko'rsatilgan. Yo'riqnomada oilada shaxsiy gigiena bo'yicha suhbatlar va sanitariya-targ'ibot ishlari belgilangan [1, 2].",
+   "Bayonnomada mevalar, sabzavotlar, itlar, er ishlari va hayvon parvarishidan keyin qo'lni yuvish tavsiya etilgan. JSST ommaviy ta'lim kampaniyalari kasallik yukini kamaytirishini yozadi; shuning uchun tibbiyot xodimlari tushuntirish ishini rejali olib borishi lozim [3, 6]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Ko'rilgan milliy hujjatlarda ommaviy ko'riklar uchun aholining necha foizini qamrab olish me'yori, serologik tekshiruvda qaysi titrdan boshlab musbat hisoblash va o'choqni sog'lomlashtirilgan deb e'lon qilish mezoni topilmadi. Shu sababli bu ko'rsatkichlar yozilmadi [2, 3].",
+   "Yo'riqnomada serologik reaksiya sifatida IFA, bayonnomada IFT va BGAR keltirilgan, darslikda lateks-agglyutinatsiya ham bor; ularning O'zbekistondagi rasmiy qo'llanish tartibi to'liq aniqlanmadi. Dispanser muddati bo'yicha ham manbalar farqini yuqorida ko'rsatilgandek qabul qilish kerak [2, 3, 4]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Tibbiy-sanitariya chora-tadbirlari exinokokkoz holatini o'z vaqtida xabar qilish va hisobga olish, xavf guruhlarini serologik tekshirish, epidemiologik tekshiruv, o'choqda sanitariya-gelmintologik nazorat, davolash, dispanser kuzatuvi va aholi bilan ma'rifiy ishdan iborat. Ular veterinariya tadbirlari bilan birga bajarilgandagina samarali bo'ladi [1, 2, 3]."
+  ]}
+ ],
+ "references": [
+  "Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati: o'quv-uslubiy qo'llanma. Toshkent: Toshkent tibbiyot akademiyasi, 2021. xayrullokomilov.uz/kutubxona, material ID 1607.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari (exinokokkozni davolash bayonnomasi). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "World Health Organization. Echinococcosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/echinococcosis",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598."
+ ]
+}

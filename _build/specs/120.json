@@ -1,0 +1,131 @@
+{
+  "number": 120,
+  "title": "120. JSSV tomonidan tavsiya qilingan, geogelmintozlarning odatdagi nazorati uchun laborator usullar",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Geogelmintozlar, ya'ni tuproq orqali yuqadigan gelmintozlar jahonda eng keng tarqalgan infeksiyalar qatoriga kiradi, JSST ma'lumotiga ko'ra ularning soni taxminan 1,5 milliard kishiga yetadi. Shu sababli odatdagi nazoratda laborator usullar yengil, arzon, standartlashgan va miqdoriy natija beradigan bo'lishi kerak [3].",
+        "Esseda avval sarlavhadagi qisqartma izohlanadi, so'ng JSST tavsiya etgan asosiy usul Kato-Kats, uning texnikasi, shablonlar, Mini-FLOTAC, intensivlik sinflari, jamoani tasniflash va sifat nazorati ko'rib chiqiladi. Milliy yo'riqnoma bilan farqlar oxirida ko'rsatiladi [1, 2, 4]."
+      ]
+    },
+    {
+      "heading": "JSSV qisqartmasi haqida",
+      "content": [
+        "Sarlavhadagi JSSV manbadagi yozuvdir; mazmunan bu Jahon sog'liqni saqlash tashkiloti, ya'ni JSST (inglizcha WHO). Milliy yo'riqnomada tashkilot ЖССТ deb yozilgan, ya'ni o'zbek kirill imlosidagi JSST, shu sababli ikkala yozuv bir tashkilotni bildiradi [4].",
+        "Bu essedagi JSST tavsiyalari tashkilotning o'z hujjatlaridan olingan: tuproq orqali yuqadigan gelmintozlar bo'yicha ma'lumot varag'i, jamoa darajasida baholash qo'llanmasi va 2015 yildagi epidemiologik baholash qo'llanmasi. Milliy yo'riqnomadagi JSST tavsiyalari ularga solishtirib ko'riladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Geogelmintozlar guruhi va nazorat maqsadi",
+      "content": [
+        "JSST asosiy turlar sifatida askarida, qamchisimon bosh va ankilostomidlarni, ya'ni Ascaris lumbricoides, Trichuris trichiura, Necator americanus va Ancylostoma duodenale ni ko'rsatadi. Ular bir xil tashxis usullarini talab qilgani va bir xil dorilarga javob bergani uchun odatda bir guruh sifatida ko'riladi [3].",
+        "Nazoratning maqsadi infeksiyaning o'zini emas, kasallanishni kamaytirishdir: xavf guruhlarini davriy davolash va infeksiya intensivligini past ushlab turish. Kasallik og'irligi gijjalar soniga bog'liq bo'lgani uchun laboratoriya nafaqat borligini, balki darajasini ham aniqlashi kerak [3]."
+      ]
+    },
+    {
+      "heading": "Asosiy usul: Kato-Kats",
+      "content": [
+        "JSST hujjatida Kato-Kats miqdoriy usuli endemik jamoalarda tuproq orqali yuqadigan gelmintozlar va shistosomozning tarqalishi hamda intensivligini baholash uchun standart usul sifatida tavsiya etilgan. Bu usul ichak gelmintozlari va ichak shistosomozini tashxislab, tuxumlar sonini yarim miqdoriy aniqlash imkonini beradi [1].",
+        "Usulning afzalliklari qo'llanmada keltirilgan: mikroskopdan tashqari maxsus jihoz kerak emas, shablon va buyum oynalarini yaxshilab yuvib qayta ishlatish mumkin, preparat najas yig'ilgandan so'ng darhol tayyorlana boshlaydi. Shu sababli usul dala sharoitida qulay hisoblanadi [1]."
+      ]
+    },
+    {
+      "heading": "Kato-Kats texnikasi",
+      "content": [
+        "JSST hujjatiga ko'ra najas elak orqali o'tkaziladi, shablon teshigi to'ldiriladi, shablon olib tashlanadi va najas gliserin-malaxit yashili eritmasida ivitilgan gidrofil sellofan bilan yopiladi. Keyin buyum oynasi bilan bosilib, najas tekis yoyiladi va oynadan gazeta yozuvini o'qish mumkin bo'lishi kerak [2].",
+        "Preparat oddiy haroratda 30-60 daqiqadan keyin o'qiladi, chunki ortiqcha tiniqlashganda ankilostomid tuxumlari ko'rinmay qoladi. Tropik iqlimda namuna yig'ilgandan so'ng 4-6 soat ichida tayyorlanib o'qilishi kerak, o'qishda barcha tuxumlar tur bo'yicha sanaladi [2]."
+      ]
+    },
+    {
+      "heading": "Shablon hajmi va koeffitsiyent",
+      "content": [
+        "Tuxum soni preparatdagi son bilan shablon koeffitsiyentini ko'paytirib, 1 g najasga hisoblanadi. JSST hujjatida 50 mg shablon uchun koeffitsiyent 20, 41,7 mg uchun 24, 20 mg uchun 50 ekani ko'rsatilgan, shablon doim bir xil bo'lishi kerak [2].",
+        "Jamoa darajasidagi qo'llanmada JSST 41,7 mg li shablonni tavsiya qiladi, bunda koeffitsiyent 24. Milliy laboratoriya yo'riqnomasida markazida 6 mm teshigi bor plastinka va 24 koeffitsiyenti keltirilgan, ya'ni ikki hujjat bir-biriga mos [1, 5]."
+      ]
+    },
+    {
+      "heading": "Mini-FLOTAC",
+      "content": [
+        "JSST 2015 yilgi qo'llanmasida ikkita tavsiya etilgan usul nomlangan: Kato-Kats va Mini-FLOTAC. Mini-FLOTACda 2 g najas 5 foizli formalinda fiksatsiya qilinadi, shu sababli namunani dalada fiksatsiya qilib, 2 hafta ichida laboratoriyada tekshirish mumkin [2].",
+        "Kato-Kats esa yangi, fiksatsiya qilinmagan najasni tez tekshirishni talab qiladi. Qo'llanmada usulni tanlash laboratoriya tajribasiga, materiallar mavjudligiga va logistikaga bog'liq ekani, ikkala usul ham tuxumni aniqlab, intensivlikni baholay olishi aytilgan [2]."
+      ]
+    },
+    {
+      "heading": "Intensivlik sinflari",
+      "content": [
+        "JSST qo'llanmasida infeksiya intensivligi 1 g najasdagi tuxum soni bo'yicha yengil, o'rta va og'ir sinflarga bo'linadi. Askaridada 1-4999, 5000-49 999 va 50 000 dan yuqori, qamchisimon boshda 1-999, 1000-9999 va 10 000 dan yuqori tuxum/g ko'rsatilgan [1].",
+        "Ankilostomidlar uchun 1-1999, 2000-3999 va 4000 dan yuqori qiymatlar keltirilgan, biroq qo'llanma ularning og'irligi parazit soniga, yoshga, turga va temir iste'molga ham bog'liqligini qayd etadi. Milliy yo'riqnomaning ilovasida shunga o'xshash jadval bor [1, 4]."
+      ]
+    },
+    {
+      "heading": "Jamoani tasniflash",
+      "content": [
+        "Maktab tekshiruvi natijasi jamoani uchta toifaga ajratadi. I toifada og'ir intensivlik 10 foiz va undan yuqori, II toifada tarqalish 50 foiz va undan yuqori, ammo og'ir intensivlik 10 foizdan kam, III toifada tarqalish 50 foizdan kam bo'ladi [1].",
+        "Birinchi toifada butun jamoani yiliga bir marta davolash, ayollar va bolalarni esa yiliga ikki-uch marta davolash tavsiya etilgan. Ikkinchi toifada xavfli guruhlar kamida yiliga bir marta, uchinchi toifada esa topilgan holatlar individual davolanadi [1]."
+      ]
+    },
+    {
+      "heading": "Milliy yo'riqnomadagi tavsiyalar",
+      "content": [
+        "Milliy yo'riqnomada JSST tavsiya etgan standartlashtirilgan usullar sifatida flotatsiya, formalin-efir, sirka-efir, Kato-Kats va sedimentatsiya usullari ko'rsatilgan. Laboratoriya yo'riqnomasida ularning har biri alohida tavsiflangan: ishchi eritmalar, sentrifuga rejimi va mikroskopiya talablari keltirilgan [4, 5].",
+        "Bu ro'yxat JSSTning bu yerda ochilgan hujjatlaridagi tavsiyadan kengroq: ular Kato-Kats va Mini-FLOTACni nomlaydi. Ikkala yondashuv ziddiyatli emas, lekin O'zbekiston hujjatida ro'yxatning aniq manbasi ko'rsatilmaganligi uchun uni JSSTning bevosita iqtibosi deb bo'lmaydi [2, 4]."
+      ]
+    },
+    {
+      "heading": "Sifat nazorati va namuna olish",
+      "content": [
+        "JSST qo'llanmasida maktab o'quvchilari ideal nishon guruh sifatida ko'rsatilgan, chunki maktablarga yetib borish oson. Barcha namunalarni ertalab yig'ib, shu kuni ko'rish tavsiya etiladi, bu ankilostomid tuxumlaridan lichinka chiqishining oldini oladi [1].",
+        "Kato-Katsda o'qish izchilligi tekshiriladi: so'rovdan oldin 10 ta preparat laborantlar bilan jamoa rahbari o'qishi bilan taqqoslanadi, 5-10 foizgacha farq normal hisoblanadi. So'rov kunida rahbar har bir mikroskopchining 10 foiz preparatini ko'zdan kechiradi [1]."
+      ]
+    },
+    {
+      "heading": "Usullarning cheklovlari",
+      "content": [
+        "JSST 2015 yilgi qo'llanmada Kato-Kats o'rta va og'ir intensivlikda yaxshi sezgir, juda yengil infeksiyada esa sezgirligi past ekanini qayd etadi. Jamoa qo'llanmasida esa haqiqiy tarqalish Kato-Kats bilan hisoblanganidan yuqori bo'lishi, bu esa natijani baholashda hisobga olinishi kerakligi aytilgan [1, 2].",
+        "Milliy yo'riqnomalarda Kato usuli invaziyaning yuqori va o'rta intensivligida samarali, kam intensivlikda esa samarasi ancha past, yengil infeksiyada tuxumlarning bir qismi o'tib ketishi mumkin deb yozilgan. Shu sababli yengil infeksiya shubha qilinsa, natijani sedimentatsiya yoki flotatsiya bilan to'ldirish mantiqiy [4, 5]."
+      ]
+    },
+    {
+      "heading": "Strongiloidoz alohida talab qiladi",
+      "content": [
+        "JSST ma'lumot varag'ida Strongyloides stercoralis tuproq orqali yuqadigan boshqa gelmintozlardan farq qiladi, uni aniqlash uchun boshqa usullar kerak va shu sababli ko'pincha aniqlanmay qoladi. Parazit albendazol yoki mebendazolga sezgir emas [3].",
+        "2015 yilgi qo'llanmada bu parazit uchun Harada-Mori ekmasi, Baermann usuli, konsentratsiya va, qon olingan bo'lsa, serologiya nomlangan. Shuning uchun odatdagi Kato-Kats natijasi strongiloidozni inkor qilmaydi [2, 3]."
+      ]
+    },
+    {
+      "heading": "Monitoring ko'rsatkichlari",
+      "content": [
+        "JSST dastur samarasini baholash uchun har qanday STH tarqalishi va o'rta hamda og'ir intensivlik tarqalishini ko'rsatkich sifatida tavsiya etadi. Epidemiologik baholash davriy davolash 5-6 yil o'tgach, samarali davolash qamrovi kamida 75 foiz bo'lganda o'tkazilishi kerak [3].",
+        "Milliy yo'riqnoma ilovasida ham parazitologik monitoring kiritilgan, u dori qabul qilish raundidan oldin o'tkaziladi va asosiy maqsad og'ir zararlanganlar sonini kamaytirishdir. Demak, laboratoriya natijasi faqat tashxis emas, dastur qaroriga ham asos bo'ladi [1, 4]."
+      ]
+    },
+    {
+      "heading": "Parazitolog-shifokor uchun ahamiyati",
+      "content": [
+        "Shifokor ommaviy tekshiruvda foydalanilgan usulni, shablon hajmini va o'qish vaqtini hisobotga aniq yozishi kerak, aks holda tuxum/g qiymatlari boshqa hududlar bilan taqqoslanmaydi. JSST ham shablon bir xil bo'lishi taqqoslash uchun zarurligini ta'kidlaydi [2].",
+        "Laboratoriya natijasi yengil, o'rta yoki og'ir intensivlik sinfi bilan berilsa, bu davolash rejasini va nazorat choralarini tanlashda yordam beradi. Shuning uchun parazitolog faqat musbat yoki manfiy javob bilan cheklanmasligi kerak [1, 2]."
+      ]
+    },
+    {
+      "heading": "Tasdiqlanmagan ma'lumotlar",
+      "content": [
+        "Ko'rilgan manbalarda O'zbekistonda geogelmintozlar nazoratida Kato-Kats yoki Mini-FLOTAC qanchalik keng qo'llanilishi to'g'risida ma'lumot topilmadi. Milliy yo'riqnomadagi JSST tavsiyalari ro'yxati ham aniq JSST hujjatiga bog'lanmagan, shuning uchun u tasdiqlanmagan hisoblanadi [4].",
+        "Shuningdek, Kato eritmasi tarkibi manbalarda farq qiladi: JSST hujjatida gliserin, distillangan suv va malaxit yashili ishlatilsa, milliy yo'riqnomada fenol ham qo'shiladi. Yo'riqnomadagi intensivlik jadvalining ayrim ustunlari skanerlashda buzilgan, shu sababli faqat JSST qiymatlari asos qilib olindi [2, 4, 5]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "JSST geogelmintozlarning odatdagi nazorati uchun Kato-Kats usulini standart sifatida tavsiya etadi, 2015 yilgi qo'llanmada esa Mini-FLOTAC ham nomlangan. Natija tuxum/g va intensivlik sinfi bilan ifodalanishi, usul sezgirligining cheklovlari va strongiloidozning alohida talablari hisobga olinishi kerak [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "Montresor A., Crompton D.W.T., Hall A., Bundy D.A.P., Savioli L. Guidelines for the evaluation of soil-transmitted helminthiasis and schistosomiasis at community level. World Health Organization, WHO/CTD/SIP/98.1. https://iris.who.int/bitstreams/ccedcf9d-0434-4d5e-8c8f-67cddc2d4c2e/download",
+    "World Health Organization. Assessing the epidemiology of soil-transmitted helminths during a transmission assessment survey in the global programme for the elimination of lymphatic filariasis. 2015. https://iris.who.int/server/api/core/bitstreams/b3ce60a0-21c4-4345-87f8-583f4f5a98dd/content",
+    "World Health Organization. Soil-transmitted helminth infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521."
+  ]
+}

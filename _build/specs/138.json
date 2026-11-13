@@ -1,0 +1,138 @@
+{
+  "number": 138,
+  "title": "138. Atrof muhit obyektlarining sanitar- gelmintologik nazorati.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Atrof muhit obyektlarining sanitar-gelmintologik nazorati gelmint tuxumlari va lichinkalarining tuproq, suv, mahsulot va buyumlarda borligini muntazam tekshirib, odamga yuqish xavfini oldindan aniqlashga qaratilgan tizimli ishdir. U bemorlarni topish bilan birga muhitni sog'lomlashtirishni ham ta'minlaydi [2].",
+        "Esseda nazoratning tashkiliy asosi, kategoriyalar bo'yicha obyektlar, namuna olish tartibi va muddatlari, tuproq, yuvindi, mahsulot va suvni tekshirish usullari, natijalarni baholash me'yorlari hamda sog'lomlashtirish choralari ketma-ket ko'rib chiqiladi. Qaysi obyektlar tekshirilishi alohida mavzuda yoritilgan [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Nazoratning mohiyati va maqsadi",
+      "content": [
+        "Romanenko qo'llanmasida sanitar-parazitologik nazorat qo'zg'atuvchilarning manbalari, tushish yo'llari, aylanish sharoitlari, saqlanish muddatlari va yuqish omillarini kompleks dinamik kuzatish hamda baholash sifatida ta'riflangan. Maqsad muhit sifati yomonlashuvini o'z vaqtida ogohlantirish va parazitar ifloslanishni sog'lomlashtirishdir [2].",
+        "Eng ma'lumotli ko'rsatkichlar aholi va hayvonlarning zararlanganligi hamda muhit obyektlarining tuxum, lichinka va sistalar bilan ifloslanganligidir. Shuning uchun nazorat laboratoriya natijalarini epidemik jarayon bilan bog'laydi va profilaktika tadbirlari samarasini ko'rsatadi [2]."
+      ]
+    },
+    {
+      "heading": "Tashkiliy va huquqiy asos",
+      "content": [
+        "Milliy yo'riqnomada tashqi muhitni sanitariya-gelmintologik nazorat qilish DSENM mutaxassislari zimmasiga yuklangan, ular bolalar muassasalari, surunkali ruhiy kasalliklar shifoxonalari, savdo va umumiy ovqatlanish korxonalarida namuna oladi. Nazoratning natijalari veterinariya xizmati bilan ham muvofiqlashtiriladi [1].",
+        "Tuproq uchun O'zbekistonda 2026 yilda tasdiqlangan 0112-26-son SanQvaN mavjud va u gelmint tuxumlari va lichinkalarini majburiy ko'rsatkich sifatida ko'rsatadi. Hujjatga ko'ra u rasmiy e'lon qilingandan uch oy o'tgach kuchga kiradi va avvalgi bir qator SanQvaMlarni o'z kuchini yo'qotgan deb topadi [3]."
+      ]
+    },
+    {
+      "heading": "Preventiv va joriy nazorat",
+      "content": [
+        "Romanenko qo'llanmasi nazoratni ogohlantiruvchi va joriy turlarga ajratadi. Ogohlantiruvchi nazoratga aholi punktlari, turar joy, tozalash inshootlari, chorva fermalari va sug'orish tizimlari uchun yer ajratish, loyihalarni ekspertiza qilish hamda qurilishni nazorat qilish kiradi [2].",
+        "Joriy nazoratda dastlabki sanitariya-parazitologik fon baholanadi, obyektlar pasportlashtiriladi, bolalar va oziq-ovqat muassasalari nazorat qilinadi, zararsizlantirish samarasi va tozalash inshootlarining to'siq roli baholanadi. Bu bo'linish nazoratning loyihalashdan to ishlashgacha davom etishini ko'rsatadi [2]."
+      ]
+    },
+    {
+      "heading": "Obyektlarni tanlash va kategoriyalar",
+      "content": [
+        "Epidemik jihatdan muhim obyektlarni epidemiolog-parazitolog laborant-parazitologlar bilan birga aniqlaydi, namuna olish joylari esa obyektlarni sanitariya pasportlashtirishda belgilanadi. Namunalar yo'llanma bilan, javobgar shaxslarning imzosi bilan topshiriladi va qabul qilinadi [2].",
+        "Romanenko obyektlarni uch kategoriyaga ajratadi: iste'molchi ixtiyorsiz zararlanishi mumkin bo'lganlar (umumiy ovqatlanish, ichimlik suvi, bolalar oshxonalari), shaxsiy gigiyenaga rioya qilinsa xavfdan qutulish mumkin bo'lganlar (issiqxona, baliq xo'jaligi, savdo) va xavfi eng kichik bo'lganlar (kanalizatsiya inshootlari, sug'orish maydonlari). Birinchi kategoriyada nazorat eng qat'iy [2]."
+      ]
+    },
+    {
+      "heading": "Kuzatuv davrlari va tezligi",
+      "content": [
+        "Ochiq obyektlar, ya'ni tuproq va ochiq suv havzalarida to'rt davr hisobga olinadi: asosiy bahor (mart-may), joriy yoz (iyun-avgust), asosiy kuz (sentyabr-noyabr) va tasodifiy ifloslanish davri. Yopiq xonalar, basseynlar, issiqxona va oqava suv tushadigan joylarda obyekt yil bo'yi ifloslanishi mumkin [2].",
+        "Milliy tuproq qoidalari ham tuproqni yiliga ikki marta, bahor va kuz fasllarida tekshirishni belgilaydi. Interstate standart GOST 17.4.4.02-2017 esa umumiy tekshiruvlarni kamida yiliga bir marta, bolalar bog'chalari, davolash muassasalari va dam olish zonalarida bahor va kuzda ikki marta o'tkazishni ko'rsatadi [3, 4]."
+      ]
+    },
+    {
+      "heading": "Namunalar soni va namuna olish",
+      "content": [
+        "Milliy yo'riqnomada bolalar muassasalarida tashqi muhit namunalari yiliga kamida bir marta olinadi; sog'lomlashtirish choralari o'tkazilayotgan o'choqlarda 2-3 marta. Invaziya aniqlanmagan muassasada kamida 10-15 ta surtma, 10-15 ta chang va 5-6 ta tuproq yoki qum namunasi, invaziya topilgan muassasada ikki baravar ko'p olinadi [1].",
+        "Namunalar ma'lum tartibda olinadi: avval ovqat tayyorlash bloki, so'ng ovqatlanish, o'yin, yotoq va yuvinish xonalari va oxirida hojatxona. Romanenko qo'llanmasi har bir tekshiriladigan muassasada kamida 30-40 yuvindi olishni, xodimlar qo'li yuvindisini esa har biridan alohida olishni ko'rsatadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Tuproqdan namuna olish standartlari",
+      "content": [
+        "0112-26-son SanQvaN ga ko'ra tekshiriladigan hududda har 15 gektargacha maydon uchun kamida bitta namuna olish uchastkasi tashkil etiladi, uchastka 5x5 m, namuna konvert yoki diagonal usulida olinadi. Har uchastkadan 5-10 nuqtaviy namuna birlashtirilib, bitta aralash namuna hosil qilinadi [3].",
+        "Aholi punktlari va bolalar o'yin maydonchalarida namunalar 0-10 sm, qishloq xo'jaligi yerlarida 0-25 sm chuqurlikdan olinadi, parazitologik tekshiruv uchun idish steril bo'lishi kerak. GOST 17.4.4.02-2017 esa gelmintologik tahlil uchun har bir maydondan o'nta 20 g li nuqtaviy namunadan iborat 200 g aralash namuna olishni ko'rsatadi [3, 4]."
+      ]
+    },
+    {
+      "heading": "Tuproqni laboratoriyada tekshirish",
+      "content": [
+        "Romanenko qo'llanmasida Vasilkova va Gefter usuli keltirilgan: 5-10 g tuproq 5 foizli ishqor bilan aralashtirilib, natriy nitrat to'yingan eritmasi (zichligi 1,39) bilan sentrifuga qilinadi, usul samaradorligi 44,6 foiz, takomillashtirilgan variantda 60-69,2 foiz. Romanenko-Gudjabidze usulida 25 g tuproq va 3 foizli ishqor ishlatiladi [2].",
+        "Bu usulda to'yingan natriy nitrat (zichlik 1,38-1,4) ustiga buyum oynasi qo'yilib, 20-25 daqiqadan keyin ko'riladi; samaradorlik 59,6-83,1 foiz, o'rtacha 73 foiz. Haqiqiy ifloslanishni hisoblash uchun tuproq turiga qarab tuzatish koeffitsiyentlari berilgan, jumladan sierozem uchun askarida 1,39, qamchisimon bosh uchun 1,6 [2]."
+      ]
+    },
+    {
+      "heading": "Yuvindi, chang va sabzavotlarni tekshirish",
+      "content": [
+        "Yuvindi uchun zich paxta tamponlar 1 foizli o'yuvchi natriy yoki 20 foizli gliserin eritmasida ivitiladi. Milliy yo'riqnoma ham shu eritmalarni ko'rsatadi; qo'lni yuvib olish uchun 2-3 foizli soda yoki 1 foizli ishqor eritmasi bilan cho'tkada yuvish va cho'kmani mikroskopda ko'rish tavsiya etiladi [1, 2].",
+        "Sabzavot, meva va rezavorlardan 0,5-1 kg yoki 5-10 ta meva, ko'katdan 0,3-0,5 kg olinadi. Romanenko usuli bo'yicha ular suvga 12-16 soatga qo'yilib, yuvinti suvi qayta ishlanadi, cho'kma esa tuproq usuli bilan tekshiriladi. Chang uchun maxsus kamera va gliserinli buyum oynasi ishlatiladi [2]."
+      ]
+    },
+    {
+      "heading": "Suv va oqava suvni nazorat qilish",
+      "content": [
+        "Rossiya hujjati MUK 4.2.1884-04 yuza suv havzalarida gijja tuxumlari va ichak sodda hayvonlari sistalarini aniqlash usullarini beradi. Namuna filtrlanib, yuvindi sentrifuga qilinadi, so'ng zichligi kamida 1,26 bo'lgan rux sulfati yoki saxaroza flotanti bilan ko'riladi. Hujjat O'zbekiston me'yori emas [5].",
+        "Namunalar quyidagicha saqlanadi: oldindan ishlov berilmagan namuna 15-20 darajada ikki sutkadan oshmasdan, 4 darajada bir sutkagacha saqlanadi, formaldegid qo'shilsa 3-4 sutka. Milliy yo'riqnomada tozalash inshootlari samaradorligini DSENM nazorat qilishi, oqava suvdan yirik shoxli mollar ko'katini sug'orishda foydalanib bo'lmasligi ko'rsatilgan [1, 5]."
+      ]
+    },
+    {
+      "heading": "Natijalarni baholash ko'rsatkichlari",
+      "content": [
+        "Milliy tuproq qoidalarida parazitologik ifloslanish ekstensiv va intensiv ko'rsatkichlar bilan baholanadi: ekstensiv ko'rsatkich parazit topilgan namunalar sonining tekshirilgan namunalar soniga foizdagi nisbati, intensiv ko'rsatkich esa 100 g yoki 1 kg tuproqdagi tuxum, lichinka, sista va oosistalar soni [3].",
+        "Romanenko qo'llanmasi ham ekstensiv va intensiv indekslarni ishlatadi, yashovchan yoki invazion qo'zg'atuvchilar ulushini kamida 100 ta topilma ko'rilganda hisoblash kerakligini ko'rsatadi. Bunday hisob ifloslanish manbasi va sog'lomlashtirish samarasi haqida xulosa chiqarishga imkon beradi [2]."
+      ]
+    },
+    {
+      "heading": "Me'yorlar va ularning maqomi",
+      "content": [
+        "0112-26-son SanQvaN da tuproqning sanitariya-gelmintologik ko'rsatkichi sifatida yashovchan gelmint tuxumlari va lichinkalari dona/kg birligida ko'rsatilgan. 3-ilovada yuqori xavf va sanitariya-muhofaza zonalari uchun gelmint ko'rsatkichi toza tuproqda «-», ifloslangan tuproqda «+» belgisi bilan berilgan, belgilarning izohi esa matnda ochiq yozilmagan [3].",
+        "Milliy yo'riqnomada tashqi muhit namunalaridan biri musbat bo'lsa, bu sanitariya-gigiyena tartibining qo'pol buzilishi hisoblanadi va DSENM kompleks sog'lomlashtirishni tayinlaydi. Romanenko bo'yicha esa kamida ikki pastki obyektda parazit topilishi rejim buzilishini bildiradi, bu Rossiya amaliyoti [1, 2]."
+      ]
+    },
+    {
+      "heading": "Sog'lomlashtirish choralari va samarani baholash",
+      "content": [
+        "Musbat natija chiqqanda manba aniqlanadi: xodimlarni tekshirish va davolash, ko'katni yuvish, ochiq grunt o'rniga toza tuproq to'kish, hojatxonalarni obodonlashtirish, sug'orish manbasini almashtirish va zararsizlantirilmagan go'ng yoki cho'kindini o'g'it sifatida ishlatmaslik Romanenko tomonidan ko'rsatilgan [2].",
+        "Milliy yo'riqnomada sanitariya-gigiyena tartibini buzgan muassasa rahbariyati «Davlat sanitariya nazorati» qonuni bo'yicha javobgarlikka tortilishi aytilgan. Geogelmintoz o'chog'i 2 yil davomida invaziya topilmasa va tashqi muhit tahlillari manfiy bo'lsa, hisobdan chiqariladi [1]."
+      ]
+    },
+    {
+      "heading": "Veterinariya va boshqa tarmoqlar hamkorligi",
+      "content": [
+        "Romanenko ma'lumotiga ko'ra nazorat idoralararo xususiyatga ega va kommunal, qishloq xo'jaligi, melioratsiya, qurilish mutaxassislari hamda gigienist, epidemiolog, veterinar va rejalashtiruvchilarning ishtirokiga bog'liq. Hayvonlarning zararlanganligi bo'yicha ma'lumotni veterinariya xizmati beradi [2].",
+        "Milliy yo'riqnomada exinokokkoz o'choqlarida tuproq va ko'kat namunalari hayvon turadigan joydan kamida 10 m atrofdan olinishi, bir obyektdan 25 ta surtma, 4 ta tuproq, 4 ta sabzavot, 4 ta ko'kat va 4 ta suv namunasi olinishi ko'rsatilgan. Namunalar 24 soatda tekshiriladi, tuproq esa +4 darajada saqlansa 3 kun ichida [1]."
+      ]
+    },
+    {
+      "heading": "Parazitolog-shifokor uchun ahamiyati",
+      "content": [
+        "Parazitolog nazoratni rejalashtiradi, obyektlarni tanlaydi, namuna olishni nazorat qiladi va natijani epidemiologik ma'lumot bilan bog'laydi. Tekshiruvlarning izchilligi uchun namunalar standart bo'lishi va tavsiya etilgan usullar qo'llanishi kerak, aks holda dinamikani solishtirib bo'lmaydi [2].",
+        "Epidemiologik tekshiruvda tuproq va ko'katdan topilgan tuxum uchun go'ng, chorva va it bor-yo'qligi, o'g'it turi, sug'orish suvi haqida batafsil anamnez yig'iladi. Bu ma'lumot ifloslanish manbasini topish va to'g'ri sog'lomlashtirish choralarini tanlash uchun zarur [1, 2]."
+      ]
+    },
+    {
+      "heading": "Tasdiqlanmagan ma'lumotlar va farqlar",
+      "content": [
+        "Ko'rilgan manbalarda O'zbekiston uchun suv, mahsulot va yuvindi namunalari bo'yicha alohida gelmint me'yori topilmadi; MUK 4.2.1884-04 va Romanenko qo'llanmasi Rossiya hujjatlari. 0112-26 SanQvaN matnidagi sanitariya-muhofaza zonasi uchun «5 gacha» va «5 dan ortiq» qiymatlari skanerlashda noaniq joylashgan, shu sababli ular keltirilmadi [2, 3, 5].",
+        "Hujjat sanasi ham ichki bir-biriga mos kelmaydi: boshida 2026 yil 1 iyuldagi 8-son qaror ko'rsatilgan, 2-ilovada esa 17 iyuldagi 391-son qaror. GOST 17.4.4.02-2017 mamlakatlararo standart, uning O'zbekistonda qo'llanishi bu yerda tasdiqlanmadi; namuna olish talablari 0112-26 dan farq qiladi [3, 4]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Atrof muhit obyektlarining sanitar-gelmintologik nazorati obyektlarni kategoriyalash, mavsumga mos namuna olish, standart usullarda tekshirish, ekstensiv va intensiv ko'rsatkichlar bilan baholash hamda manbani yo'q qiladigan sog'lomlashtirish choralarini o'z ichiga oladi. O'zbekistonda asos sifatida milliy yo'riqnoma va SanQvaN 0112-26 qo'llanadi [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasining qaroriga 1-ilova: Tuproqning sanitariya-gigiyenik holatini baholash hamda tuproqdagi ekzogen zararli moddalarning ruxsat etilgan maksimal va taxminiy konsentratsiyalariga doir sanitariya qoidalari, normalari va gigiyena normativlari (0112-26-son SanQvaN). xayrullokomilov.uz/kutubxona, material ID 2702.",
+    "ГОСТ 17.4.4.02-2017. Охрана природы. Почвы. Методы отбора и подготовки проб для химического, бактериологического, гельминтологического анализа (межгосударственный стандарт). xayrullokomilov.uz/kutubxona, material ID 1053.",
+    "МУК 4.2.1884-04. Санитарно-микробиологический и санитарно-паразитологический анализ воды поверхностных водных объектов: методические указания (Российская Федерация, утв. Главным государственным санитарным врачом РФ 3 марта 2004 г.). Не является документом Республики Узбекистан. xayrullokomilov.uz/kutubxona, material ID 1979."
+  ]
+}

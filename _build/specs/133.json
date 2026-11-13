@@ -1,0 +1,72 @@
+{
+ "number": 133,
+ "title": "133. Toksoplazmoz bilan zararlanishning yo'llari va omili",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Toksoplazmoz bilan zararlanish yo'llari qo'zg'atuvchining uch shakli, ya'ni ooxista, endozoit va haqiqiy sista bilan bevosita bog'liq. Atlasda odam turli vaziyatlarda zararlanishi, har bir holatda invazion bosqich boshqacha bo'lishi ko'rsatilgan, shu sababli yo'llarni omillar bilan birga tahlil qilish zarur [1].",
+   "Esseda infeksiya manbalari, mushukning o'rni, alimentar, kontakt va transplasental yo'llar, suv va tuproq omillari, shuningdek xavf guruhlari ko'rib chiqiladi. Manbalar ro'yxati bir-biridan biroz farq qilgani uchun bu farqlar ham alohida ko'rsatiladi. Profilaktika alohida mavzu sifatida yoritiladi [1, 2, 3]."
+  ]},
+  {"heading": "Infeksiya manbalari", "content": [
+   "O'quv qo'llanmada infeksiya manbalari sifatida mushuklar, yovvoyi va uy hayvonlari, qushlar hamda trofozoit va sistalarni ajratuvchi odam sanalgan. Darslikda asosiy manba toksoplazmoz bilan kasallangan uy hayvonlari va parrandalar ekani, ularning go'shti xom yoki yetarlicha pishirilmay iste'mol qilinishi aytilgan [2, 3].",
+   "Bu ikki ta'rif bir-birini to'ldiradi: o'quv qo'llanma biologik manbalarni sanaydi, darslik esa odamga eng ko'p ta'sir qiladigan manbani, ya'ni go'shtni ajratadi. Atlasda ham oraliq xo'jayin sifatida sutemizuvchilar, jumladan odam, ko'p qush turlari va ba'zan sudralib yuruvchilar ko'rsatilgan [1, 2]."
+  ]},
+  {"heading": "Mushukning o'rni", "content": [
+   "Mushuklar toksoplazmaning oxirgi xo'jayini bo'lib, ichak epiteliysida jinsiy siklni o'taydi va ooxistalarni najas bilan tashqi muhitga chiqaradi. Atlasga ko'ra ooxistalar tashqi muhitda yillar davomida saqlanadi, shu sababli tuproq va o'simliklar uzoq vaqt xavfli bo'lib qoladi [1].",
+   "Darslikda odam uchun eng xavfli manba daydi mushuklar deb ko'rsatilgan. O'quv qo'llanmada mushuklar sichqonsimon kemiruvchilarni yeb zararlanishi, atlasda esa kasal hayvonlar go'shtini yeb zararlanishi aytilgan. O'quv qo'llanmada uy mushugi asosiy xo'jayinlar qatorida nomlangan [1, 2, 3]."
+  ]},
+  {"heading": "Go'sht orqali alimentar yo'l", "content": [
+   "Atlasda alimentar yo'lda zararlanish kasal hayvonlar go'shtini yetarlicha termik ishlamasdan iste'mol qilganda sodir bo'lishi, bunda invazion bosqich endozoitlar va haqiqiy sistalar ekani yozilgan. Ya'ni sistalar xom go'sht to'qimalarida saqlanadi va odamga o'tadi [1].",
+   "Darslikda ham asosiy manba sifatida xom yoki yaxshi pishirilmagan go'sht ko'rsatilgan. JSST hujjatida to'qima sistalari xom yoki yaxshi pishirilmagan go'sht orqali yuqishi tasdiqlangan. Milliy standartlarda xom qiymani tatib ko'rmaslik ham alohida ta'kidlangan. Demak, go'shtni yetarlicha termik ishlash birinchi darajali omildir [3, 4, 5]."
+  ]},
+  {"heading": "Sut va tuxum", "content": [
+   "Atlasda alimentar yo'lda kasal hayvonlarning qaynatilmagan sutini iste'mol qilish ham zararlanish omili sifatida sanalgan. Darslikda esa kasal hayvonlarning sutini qaynatish, go'shtini yaxshilab termik ishlash lozimligi aytilgan va bu omil bilan yo'l o'rtasidagi bog'lanishni ko'rsatadi [1, 3].",
+   "Atlasning umumiy bo'limida yuqish yo'llari ro'yxatida alimentar yo'l uchun go'sht bilan birga sut va tuxum ham keltirilgan. Ma'lumotlar toksoplazma shu mahsulotlar orqali ham yuqishi mumkinligini ko'rsatadi, biroq ularning aniq ulushi manbalarda berilmagan [1]."
+  ]},
+  {"heading": "Ooxistalar orqali yuqish", "content": [
+   "Atlasda zararlanishning birinchi variantida ooxistalar iflos qo'llar, yuvilmagan sabzavot va mevalar, mushuk juni orqali og'izga tushishi aytilgan. Bu holatda invazion bosqich yetilgan ooxista bo'lib, u mushuk najasi bilan ifloslangan tashqi muhitdan keladi [1].",
+   "O'quv qo'llanmada ham mushuklar bilan aloqadan keyin shaxsiy gigiena qoidalariga amal qilish profilaktika uchun zarur deb ko'rsatilgan. Milliy standartlarda homilador ayollarga xom go'sht va tuproq bilan aloqadan, jumladan bog' yoki polizdagi ishdan keyin qo'lni yuvish tavsiya etilgan [2, 5]."
+  ]},
+  {"heading": "Suv va tuproq omillari", "content": [
+   "JSST hujjatiga ko'ra T. gondii ooxistalari ifloslangan suv, oziq-ovqat, tuproq yoki atrof-muhit yuzalaridan tushishi mumkin. Hujjatda ichimlik suvi bilan bog'liq toksoplazmozning bir necha epidemik avj olishi tavsiflangani, ooxistalarning kimyoviy dezinfeksiyaga chidamliligi qayd etilgan [4].",
+   "Atlasda ooxistalar tashqi muhitda yillar davomida saqlanishi, o'quv qo'llanmada esa bir necha yil tirik qolishi aytilgan. Shu sababli ifloslangan tuproq va suv uzoq muddat xavf manbai bo'lib qoladi, lekin O'zbekiston suv manbalarida ooxistalar uchrashi haqida manbalarda ma'lumot yo'q [1, 2, 4]."
+  ]},
+  {"heading": "Kontakt yo'li va jarohat orqali zararlanish", "content": [
+   "Atlasda kasal hayvonlar go'shtini bo'laklash vaqtida shikastlangan teri orqali, shuningdek kasallar qonini laboratoriyada tekshirishda zararlanish mumkinligi yozilgan. Bu holatda invazion bosqich endozoitlar va haqiqiy sistalar bo'ladi [1].",
+   "O'quv qo'llanmada yo'llar orasida kontakt yo'li ham sanalgan, qo'zg'atuvchi so'lak, burun shilimshig'i, homila suvlari, urug' suyuqligi, najas va sut bilan tarqalishi aytilgan. Bu ro'yxat potensial ajralish yo'llarini ko'rsatadi, ularning har biri bo'yicha amaliy yuqish ulushi manbada berilmagan [2]."
+  ]},
+  {"heading": "Transplasental yo'l", "content": [
+   "Darslikda tug'ma toksoplazmoz homilaning bachadon ichida zararlanishi natijasida rivojlanishi, qo'zg'atuvchi kasal onadan yo'ldosh orqali o'tishi aytilgan. Atlasda ham transplasental yo'l alohida sanalgan va u ko'pincha homiladorlik davrida ayolning zararlanishi bilan bog'liq ekani ko'rsatilgan [1, 3].",
+   "Milliy standartlarda homilador ayol parazitni homilaga faqat shu homiladorlik davrida birinchi marta zararlangan va qonida bir muddat trofozoitlar bo'lgan taqdirdagina o'tkazishi mumkinligi yozilgan. Shu sababli yangi zararlanishning oldini olish birlamchi profilaktika maqsadi deb ko'rsatilgan [5]."
+  ]},
+  {"heading": "Homiladorlik muddatining ahamiyati", "content": [
+   "Atlasga ko'ra homiladorlikning birinchi uch oyligida zararlanish tushish yoki rivojlanish nuqsonlari, markaziy asab tizimi va ko'z og'ir zararlangan bola tug'ilishiga olib keladi. Ikkinchi uch oylikda ichki a'zolar va asab tizimi zararlanadi [1].",
+   "O'quv qo'llanmada ham dastlabki oylarda ko'pincha homila nobud bo'lishi, tushish yoki o'lik tug'ilish, keyinroq esa miya rivojlanishining buzilishi, ya'ni gidrosefaliya kuzatilishi yozilgan. Demak, zararlanish vaqti oqibatning og'irligini belgilovchi muhim omil [3]."
+  ]},
+  {"heading": "Xavf guruhlari", "content": [
+   "Darslikda veterinariya xizmati, so'yish punktlari, go'sht kombinatlari va chorvachilik fermalari xodimlari sinchiklab tekshirilishi, alohida e'tibor dispanser hisobidagi homilador ayollarga qaratilishi aytilgan. Bu guruhlarning tanlanishi ular qo'zg'atuvchi bilan tez-tez kontaktda bo'lishi yoki oqibati og'ir bo'lishi bilan izohlanadi [3].",
+   "Atlasda kattalarda o'tkir toksoplazmoz ko'pincha turli sabablarga ko'ra immun yetishmovchilik fonida rivojlanishi, VICH infeksiyasi bilan kasallanganlarning 3-15 foizida toksoplazmoz uchrashi aytilgan. Shu sababli immuniteti pasaygan odamlar ham alohida xavf guruhi hisoblanadi [1]."
+  ]},
+  {"heading": "Manbalardagi farqlar", "content": [
+   "O'quv qo'llanmada yo'llar ro'yxatiga alimentar, kontakt, havo-tomchi va transplasental yo'llar kiritilgan, atlasda esa havo-tomchi yo'li sanalmagan. Shuning uchun havo-tomchi orqali yuqish alohida tasdiqlovchi ma'lumotsiz asosiy yo'l sifatida qabul qilinmaydi va farq hisobotda ko'rsatiladi [1, 2].",
+   "Zararlanganlik darajasi ham manbalarda turlicha: darslikda ayrim mamlakatlarda 70 foizga yaqin, o'quv qo'llanmada 6 dan 90 foizgacha va o'rtacha 30 foiz berilgan. Bu farq turli hududlar va tekshiruv usullariga bog'liq bo'lishi mumkin, O'zbekiston bo'yicha aniq ko'rsatkich keltirilmagan [2, 3]."
+  ]},
+  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+   "Epidemiologik anamnez yig'ishda go'sht va sutni termik ishlash tartibi, mushuk bilan aloqa, yer ishlari, kasbiy xavf va homiladorlik holati so'ralishi kerak. Bu savollar yuqish yo'llariga to'g'ridan-to'g'ri mos keladi va tashxisni laboratoriya natijasi bilan solishtirishga yordam beradi [1, 3].",
+   "Darslikda bemorlarda antitanalar titrining ortishi va teri sinamasi ijobiy bo'lishi o'tkir toksoplazmoz tashxisiga asos bo'lishi aytilgan. Shuning uchun xavfli omillar aniqlangan bemorlarni serologik tekshiruvga o'z vaqtida yo'llash muhimdir [3]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "O'zbekiston bo'yicha toksoplazmozning yuqish yo'llari ulushi, hududiy omillar va ooxista bilan ifloslangan tuproq yoki suvning uchrash darajasi ko'rilgan manbalarda topilmadi. Shu sababli bu raqamlar yozilmaydi va tasdiqlanmagan hisoblanadi [1, 2, 4].",
+   "Havo-tomchi orqali yuqish faqat bitta o'quv qo'llanmada sanalgan va boshqa manbalar bilan tasdiqlanmagan. Go'sht, sut va tuxum orqali yuqishning aniq nisbati ham ko'rilgan manbalarda berilmagan, shu sababli ularning ahamiyati faqat sifat jihatdan baholanadi [1, 2]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Toksoplazmoz bilan zararlanishning asosiy yo'llari alimentar (go'sht, sut), ooxistalar tushgan qo'l, sabzavot, suv va tuproq, kontakt hamda transplasental yo'llardir. Asosiy omillar xom go'sht, mushuk najasi bilan ifloslangan muhit va homiladorlik davrida birlamchi zararlanish bo'lib, ularning hammasi profilaktika yo'nalishini belgilaydi [1, 3, 4, 5]."
+  ]}
+ ],
+ "references": [
+  "Бажора Ю.И. (ред.) Медицинская паразитология: атлас. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "World Health Organization. Toxoplasma gondii: background document for the WHO guidelines for drinking-water quality and the WHO guidelines on sanitation and health. 2025. https://iris.who.int/items/3a5b7e79-5ca5-4efd-ba33-5ca4ff805101",
+  "Стандарты диагностики и лечения паразитарных болезней для районных, городских, областных и республиканского уровней. Самарканд: Клиника НИИ медицинской паразитологии им. Л.М. Исаева, Министерство здравоохранения Республики Узбекистан, 2012. xayrullokomilov.uz/kutubxona, material ID 1600."
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "number": 104,
+ "title": "104. Teniidozning profilaktikasi.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Teniidozlar odamning ichagida lentasimon solityorlar parazitlik qilishidan kelib chiqadi va ikki kasallikni, ya'ni qoramol solityori qo'zg'atadigan teniarinxozni va cho'chqa solityori qo'zg'atadigan teniozni birlashtiradi. Milliy yo'riqnomada bu biogelmintozlarning oldini olish tibbiy-veterinariya kompleks chora-tadbirlaridan iborat ekani ko'rsatilgan [1, 4].",
+   "Ushbu esseda profilaktikaning yo'nalishlari, shaxsiy va jamoat choralari, go'shtni zararsizlantirish, bemorlarni aniqlash va davolash, tashqi muhitni muhofaza qilish, kimyoprofilaktika, targ'ibot va tenioz uchun qo'shimcha talablar ketma-ket ko'rib chiqiladi. Oxirida tasdiqlanmagan jihatlar yoziladi [1, 2, 3]."
+  ]},
+  {"heading": "Profilaktikaning yo'nalishlari", "content": [
+   "Darslikda teniidozlarga qarshi kompleks davolash-profilaktika, veterinariya, epidemiologik tekshiruv, sanitariya-gigiena va sanitariya-ma'rifiy yo'nalishlarni o'z ichiga oladi. Maqsad invaziya manbaini zararsizlantirish, tashqi muhitni najas bilan ifloslanishdan saqlash va yuqish yo'llarini to'sishdir [3].",
+   "Bu choralarni tibbiyot va veterinariya xizmatlari ma'muriy hamda xo'jalik tuzilmalari ishtirokida amalga oshiradi. Shu sababli teniidoz profilaktikasi faqat sog'liqni saqlash vazifasi emas, balki chorvachilik va aholi punktlarini obodonlashtirish bilan birga olib boriladi [1, 3]."
+  ]},
+  {"heading": "Shaxsiy profilaktika", "content": [
+   "Odessa atlasida teniozning shaxsiy profilaktikasi sifatida shaxsiy gigiena qoidalariga rioya qilish va cho'chqa go'shtini puxta termik ishlov berish ko'rsatilgan. Qoramol solityori uchun profilaktika teniozniki bilan bir xil deb yozilgan [4].",
+   "Davolash bayonnomasi xom go'sht, chala qovurilgan kabob va boshqa go'sht mahsulotlarini iste'mol qilishda kasallanish ehtimolini aholiga tushuntirishni asosiy shart deb hisoblaydi. Chorvadorlarda esa qo'llarni astoydil yuvish odatini shakllantirish alohida ahamiyatga ega [2, 4]."
+  ]},
+  {"heading": "Go'shtni zararsizlantirish", "content": [
+   "Yo'riqnomada finnali go'sht muzlatish orqali zararsizlantiriladi: mol go'shtida qalin joy minus 12 gradusga yetsa muzlatish to'xtatiladi, minus 6-9 gradusda kamida 24 soat saqlanadi. Cho'chqa go'shti uchun rejim qattiqroq, ya'ni mushaklar ichi minus 10 gradusda, kamera havosi minus 12 gradusda 10 sutkagacha ushlanadi [1].",
+   "Isitishda 2 kg gacha va 8 sm qalinlikdagi bo'laklar 3 soat pishiriladi, bo'lak ichida 80 gradus bo'lsa go'sht zararsizlangan hisoblanadi. Tuzlashda 2,5 kg bo'laklar og'irligining 10 foiziga teng tuz bilan tuzlanib, 24 foizli eritmada 20 kun saqlanadi [1]."
+  ]},
+  {"heading": "Go'sht ustidan jamoat nazorati", "content": [
+   "Odessa atlasida jamoat profilaktikasi sifatida cho'chqa go'shtini bozor va qushxonalarda sotishdan oldin nazorat qilish, atrof muhitning najas bilan ifloslanishini oldini olish va sanitariya-ma'rifiy ish ko'rsatilgan. Bu nazorat zararlanishning go'sht orqali yo'lini to'sadi [4].",
+   "Yo'riqnomaga ko'ra veterinariya mutaxassislari qushxonalarda go'sht finnozga ekspertizasi sifati nazoratini monitoring qiladi, DSENM esa ovqatlanish gigienasi mutaxassislari bilan go'sht do'konlari va talabga javob bermagan go'shtni yo'qotishni monitoring qiladi. Bu nazoratni tibbiyot va veterinariya birga bajaradi [1]."
+  ]},
+  {"heading": "Bemorlarni aniqlash va davolash", "content": [
+   "Yo'riqnomada invaziya manbai odam bo'lgani uchun bemorlarni faol aniqlash, hisobga olish, degelmintizatsiya qilish va to'liq gijjadan xalos bo'lgunga qadar dispanser kuzatuvi eng muhim profilaktik chora hisoblanadi. Xavf guruhlari yiliga bir marta so'rov va laboratoriya usulida tekshiriladi [1].",
+   "Teniidozlar bilan kasallanganlarning barchasi to'liq davolangan bo'lishi shart. Hech bir preparat bitta kurs bilan 100 foiz natija bermagani sababli davolangan bemor 2, 4, 6 oyda qayta tekshiriladi va uch marta manfiy natijadan keyin hisobdan chiqariladi [1]."
+  ]},
+  {"heading": "Bemor najasini zararsizlantirish", "content": [
+   "Darslikka ko'ra teniarinxozda bemor najasi degelmintizatsiya paytida ajralgan parazitlar bilan birga ikki hajm qaynoq suv bilan yopiq idishda bir soat ushlanib zararsizlantiriladi. Qoramol solityori tuxumlari dezinfektantlarga chidamli, shuning uchun bu chora jiddiy qabul qilinadi [3].",
+   "Darslikda 10-20 foizli xlorli ohakda tuxumlar 5-6 soatda, 65 foizli karbol kislotasida 10-11 soatda, 5 foizli lizolda 2 sutkada, 3-10 foizli xloraminda 4 kunda nobud bo'lishi yozilgan. Kanalizatsiyasiz hojatxonalar so'ndirilmagan ohak yoki 20 foizli xlorli ohak bilan ishlanadi [3]."
+  ]},
+  {"heading": "Tashqi muhitni muhofaza qilish", "content": [
+   "Yo'riqnomaga ko'ra atrof muhitni gijja tuxumi bilan ifloslanishdan himoya qilish uchun aholi yashash joylari obodonlashtiriladi, hojatxonalar quriladi va ta'mirlanadi, uy hayvonlari tartibli saqlanadi, daydi itlarga qarshi kurash olib boriladi. Bu choralarni sanitariya-epidemiologiya, veterinariya va obodonlashtirish xizmatlari nazorat qiladi [1].",
+   "Oqova suvlarni tuxumdan tozalash inshootlari faoliyati DSENM nazoratida bo'ladi, yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emas. Romanenko qo'llanmasi bunday o'tlarni senaj, silos va o't uniga qayta ishlash orqali zararsizlantirish mumkinligini ko'rsatadi [1, 5]."
+  ]},
+  {"heading": "Chorvachilik korxonalarida profilaktika", "content": [
+   "Barcha chorvachilik korxonalari va go'sht ishlab chiqarish korxonalari sanitariya-epidemiologiya va veterinariya xizmatlari hisobida turadi. Hayvonlar bilan aloqada bo'lganlarning shaxsiy gigiena qoidalariga rioya qilishi, maxsus kiyim bilan ta'minlanishi va gelmintozlarga o'z vaqtida tekshirilishi alohida nazoratda bo'ladi [1].",
+   "Ogohlantirmasdan yiliga 1-2 marta buyumlar, inventar va xodimlar qo'lidan surtma olinadi, tuxum topilsa manba aniqlanib, sog'lomlashtirish choralari o'tkaziladi. Tibbiy ko'rik natijalari sanitariya daftarchasiga yoziladi [1]."
+  ]},
+  {"heading": "Kimyoprofilaktika", "content": [
+   "Davolash bayonnomasida teniarinxoz keng tarqalgan hududlarda chorvadorlar va ularning oila a'zolari o'rtasida niklozamid bilan kimyoprofilaktika 2-2,5 oyda yoki 4 oyda bir marta o'tkazilishi kerakligi yozilgan. Bu chora faqat endemik hududlar uchun ko'zda tutilgan [2].",
+   "Vladivostok darsligi yuqori endemik o'choqlarda xavf guruhlarini profilaktik davolashni tavsiya qiladi, JSST esa profilaktik kimyoterapiya T. solium bo'yicha mahalliy sharoitga qarab qo'llanishini yozadi. Milliy matnda kimyoprofilaktika dozasi berilmaganligi sababli doza yozilmadi [2, 3, 6]."
+  ]},
+  {"heading": "Sanitariya-ma'rifiy ish", "content": [
+   "Yo'riqnomada sanitariya-ma'rifiy ish teniidozlarga qarshi kompleksning muhim elementlaridan biri deb ko'rsatilgan: filmlar, ma'ruzalar, radio, televideniye, gazeta maqolalari, plakatlar, bukletlar, oilalarda suhbatlar va maktablarda diktantlar. Targ'ibotda xavfli taomlar va sistitserkni zararsizlantirish yo'llari tushuntiriladi [1].",
+   "Darslikka ko'ra aholi ekspertizadan o'tmagan go'sht xavfini va sistitserkli go'shtni ishonchli zararsizlantirish usullarini bilishi kerak. Chorva fermalari xodimlari ham hayvonlarning zararlanish yo'llari va choralarini bilishi lozim, bu ish ayniqsa teniarinxoz bo'yicha noqulay hududlarda faol olib boriladi [3]."
+  ]},
+  {"heading": "Tenioz uchun qo'shimcha talablar", "content": [
+   "Davolash bayonnomasi teniozda yaqin atrofdagilarga tuxumlar o'tmasligi uchun davolashni infeksion statsionarda xavfsizlik choralariga rioya qilib o'tkazishni belgilaydi. Sababi shuki, tenioz tuxumlari odamda sistitserkozni rivojlantirishi mumkin, shu sababli aholi tenioz sistitserkoz bilan kechishi mumkinligini bilishi kerak [2].",
+   "JSST T. solium ni nazorat qilish uchun bemorlarni davolash, cho'chqalarga vaksina va gijjaga qarshi davo, sanitariya, cho'chqalarni erkin yurishdan saqlash va go'sht nazoratini yaxshilashni ko'rsatadi. Bu to'plam teniarinxozga to'g'ridan-to'g'ri tegishli emas, lekin tenioz profilaktikasi uchun mos [2, 6]."
+  ]},
+  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+   "Profilaktikaning samarali bo'lishi uchun har bir hodisa bo'yicha xabarnoma ф. 058/u va ф. №2 hisobi, epidemik tekshiruvda ф. 357/u kartasi to'ldirilishi shart. Parazitologlar kasallanishni har yili hudud, yosh, jins va ish faoliyati bo'yicha tahlil qiladi [1].",
+   "Shu tahlil asosida xavf guruhlari, tekshiruv hajmi va targ'ibot yo'nalishi belgilanadi. Parazitolog-shifokor profilaktikani tibbiyot, veterinariya va mahalliy tashkilotlar o'rtasida muvofiqlashtiruvchi mutaxassis sifatida ishlaydi [1, 3]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Ko'rilgan manbalarda O'zbekistonda teniidoz profilaktikasi natijasida kasallanish qanchaga kamaygani va teniarinxozni hududda tugatish mezonlari bo'yicha ma'lumot topilmadi. Shu sababli profilaktika samarasini raqam bilan ifodalash mumkin bo'lmadi [1].",
+   "Dispanser kuzatuv muddatlari manbalarda farq qiladi: yo'riqnomada 2, 4, 6 oy, teniarinxoz bayonnomasida 5 oy, teniozda esa 5-6 oy. Kimyoprofilaktikaning dozasi milliy hujjatda ko'rsatilmagan va shu sababli keltirilmadi [1, 2]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Teniidozning profilaktikasi bemorni topib to'liq davolash, go'shtni ekspertiza va zararsizlantirish, tashqi muhitni najas va tuxumdan muhofaza qilish, shaxsiy gigiena hamda aholini o'qitishdan iborat. Bu ishlarni tibbiyot va veterinariya xizmatlari birgalikda olib borganda zanjirning odam, chorva va go'sht bo'g'inlari uziladi [1, 2, 3]."
+  ]}
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari (teniarinxoz, tenioz va sistitserkoz bayonnomalari). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М., Костюшов В.В., Тымчишин О.Л. Медицинская паразитология: атлас / под ред. Ю.И. Бажоры. Одесса: Одесский государственный медицинский университет, 2001. ISBN 966-7733-11-4. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "World Health Organization. Taeniasis/Cysticercosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/taeniasis-cysticercosis"
+ ]
+}

@@ -1,0 +1,133 @@
+{
+  "number": 119,
+  "title": "119. Qanday gelmintlarning tashxisi uchun laborator immunologik usullar qo'llaniladi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Immunologik usullar parazitni to'g'ridan-to'g'ri topib bo'lmaydigan yoki natija noaniq bo'lgan hollarda yordam beradi, chunki ular antitelalarni yoki parazit antigenini aniqlaydi. Gelmintozlarda ular ayniqsa to'qimalarda joylashgan, tuxum ajratmaydigan yoki erta bosqichdagi invaziyalarda foydali [1, 5].",
+        "Esseda milliy yo'riqnomadagi usullar jadvali, har bir usul qaysi gelmintozlar uchun qo'llanishi, fassiolyoz, opistorxoz, exinokokkoz, sistitserkoz, trixinellyoz va boshqa invaziyalardagi o'rni hamda usullarning cheklovlari ketma-ket ko'rib chiqiladi [1, 3, 6]."
+      ]
+    },
+    {
+      "heading": "Immunologik usullarning o'rni",
+      "content": [
+        "Laboratoriya yo'riqnomasiga ko'ra serologik usul klinik amaliyotda klinik-instrumental tekshiruvlar bilan birga, exinokokkoz, sistitserkoz, toksokaroz, opistorxoz va trixinellyozni boshqa kasalliklardan farqlash uchun qo'shimcha usul sifatida qo'llanadi. Bu usul asosiy emas, balki tasdiqlovchi vosita hisoblanadi [1].",
+        "Shuningdek serologik usul gijja bilan kasallanganlarni aniqlash, davolash samarasini baholash va qaytalanishni topish uchun ishlatiladi. Darslikda ham serologik reaksiyalar erta bosqichda, invaziya intensivligi past bo'lganda va tuxum yoki lichinka tashqi muhitga ajralmaganda samarali ekani yozilgan [1, 5]."
+      ]
+    },
+    {
+      "heading": "Milliy yo'riqnomadagi usullar jadvali",
+      "content": [
+        "Yo'riqnomadagi jadvalda tekshirish materiali sifatida qon zardobi ko'rsatilgan, usullar esa IFA, RNGA, RLA va RKP deb nomlangan. Har bir usul uchun alohida kasalliklar ro'yxati berilgan, shu sababli usul tanlash gelmintoz turiga bog'liq [1].",
+        "Jadvalda RIF ham bor, lekin u bezgak, amebiaz va lyambliozga ko'rsatilgan, gelmintozlar ro'yxatiga kirmaydi. Shuning uchun gelmintozlar uchun asosiy usullar IFA, RNGA, RLA va RKP ekanini bilish kerak [1]."
+      ]
+    },
+    {
+      "heading": "IFA bilan aniqlanadigan gelmintozlar",
+      "content": [
+        "Immunoferment tahlil yo'riqnomadagi eng keng spektrli usul. Uning yordamida opistorxoz, klonorxoz, fassiolyoz, exinokokkoz, alveokokkoz, sistitserkoz, trixinellyoz va toksokaroz tashxisi qo'yiladi, shuningdek ayrim protozoozlar ham shu jadvalda keltirilgan [1].",
+        "Bunday keng ro'yxat IFA ni skrining va tasdiqlash uchun qulay qiladi. Exinokokkoz bo'yicha milliy yo'riqnomada xavf ostidagi aholini har yili IFA bilan tekshirish zarurligi ko'rsatilgan, ularga cho'ponlar, ovchilar, jun va mo'yna sexi ishchilari hamda veterinar va it egalari kiradi [1, 2]."
+      ]
+    },
+    {
+      "heading": "RNGA, RLA va RKP",
+      "content": [
+        "Bilvosita gemagglyutinatsiya reaksiyasi (RNGA) yo'riqnomada opistorxoz, exinokokkoz, alveokokkoz va trixinellyoz uchun ko'rsatilgan. Lateks-agglyutinatsiya reaksiyasi (RLA) faqat exinokokkoz va alveokokkozga, komplement bog'lanish reaksiyasi (RKP) esa sistitserkoz va trixinellyozga tegishli deb yozilgan [1].",
+        "Demak, bitta gelmintoz uchun bir necha reaksiya bo'lishi mumkin: masalan, exinokokkozda IFA, RNGA va RLA, trixinellyozda IFA, RNGA va RKP ko'rsatilgan. Bu holat natijani ikki usul bilan solishtirib tasdiqlash imkonini beradi [1]."
+      ]
+    },
+    {
+      "heading": "Fassiolyoz",
+      "content": [
+        "Fassiolyozning erta davrida najasda tuxum bo'lmaydi, shuning uchun immunologik usul asosiy hisoblanadi. Atlasda RNGA, REMA va RIF zararlanishning dastlabki 3 oyida, ya'ni yetilmagan qurtlar tuxum ajratmasdan oldin tavsiya etilgan; tuxum tekshiruvi 12-haftadan keyin qo'llanadi [3].",
+        "Milliy yo'riqnomada serologik test-tizimlar sifatida REMA, RIF va RSK nomlangan, tuxum 2,5-3 oydan keyin topiladi. Darslikda esa o'tkir fazada RNGA va RSK fassiola antigeni bilan, shuningdek ichki teri sinamasi musbat bo'lishi ko'rsatilgan [2, 4]."
+      ]
+    },
+    {
+      "heading": "Opistorxoz, klonorxoz va paragonimoz",
+      "content": [
+        "Opistorxozda tuxum zararlanishdan kamida bir oy o'tgach paydo bo'ladi, shu sababli atlasda erta bosqichda serologik reaksiyalar tavsiya etilgan. Yo'riqnomada opistorxoz va klonorxoz uchun IFA, opistorxoz uchun yana RNGA ko'rsatilgan [1, 3].",
+        "Paragonimozda ham atlas tuxum paydo bo'lgunga qadar, ya'ni zararlanishdan 1,5-2 oy o'tmasdan oldin RSK, RPGA va REMA bilan tashxis qo'yish mumkinligini yozgan. JSST bu trematodozlarda antitela aniqlash sezgir bo'lishi mumkin, ammo hozirgi, yaqin va o'tgan infeksiyani ajratmaydi deb qayd etadi [3, 6]."
+      ]
+    },
+    {
+      "heading": "Exinokokkoz va alveokokkoz",
+      "content": [
+        "Exinokokkozda atlas instrumental ma'lumotlar, ya'ni rentgen, UZI va kompyuter tomografiya bilan birga serologik reaksiyalarni keltiradi: RSK, RNGA, REMA, lateks-agglyutinatsiya va RIF. Katsoni teri sinamasi sezgirroq serologik reaksiyalar paydo bo'lgani uchun hozir kam ishlatiladi [3].",
+        "Milliy yo'riqnomada operatsiyadan keyingi bemorlar yiliga bir-ikki marta serologik reaksiya bilan tekshiriladi, serologik reaksiya 5 yil mobaynida manfiy bo'lsa va klinik belgi bo'lmasa, bemor hisobdan chiqarilishi mumkin. Alveokokkozda ham serologik reaksiyalar biopsiya bilan birga qo'llanadi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Sistitserkoz",
+      "content": [
+        "Sistitserkozning klinik ko'rinishi turli-tuman bo'lgani uchun tashxis qiyin, shu sababli atlasda rentgen, UZI, tomografiya, oftalmoskopiya va orqa miya suyuqligidagi eozinofillar bilan birga maxsus laborator tashxis sifatida serologik reaksiyalar RIF, RNGA va REMA ko'rsatilgan [3].",
+        "Milliy yo'riqnomada sistitserkoz uchun IFA va RKP nomlangan. Laboratoriya yo'riqnomasi serologik usulni klinik-instrumental tekshiruvlar bilan birga qo'llashni nazarda tutadi, atlas ham tashxisni bir necha usul kombinatsiyasi bilan qo'yishni ko'rsatadi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Trixinellyoz",
+      "content": [
+        "Trixinellyozda serologik reaksiyalar tashxisning asosiy laborator qismlaridan biri. Atlasda RSK, REMA, RNGA, RIF va IFA nomlangan va ular albatta takroran, antitela titri dinamikasini hisobga olib o'tkazilishi, larvoskopiya esa mushak biopsiyasida bajarilishi yozilgan [3].",
+        "Milliy yo'riqnomada zararlangan go'sht iste'mol qilganlar serologik usulda tekshirilishi kerakligi qayd etilgan. Laboratoriya yo'riqnomasi trixinellyoz uchun IFA, RNGA va RKP ni ko'rsatadi, shu sababli takroriy tekshiruv va titr o'zgarishi natijani talqin qilishda hal qiluvchi bo'ladi [1, 2, 3]."
+      ]
+    },
+    {
+      "heading": "Toksokaroz va askaridoz",
+      "content": [
+        "Laboratoriya yo'riqnomasida toksokaroz IFA ro'yxatiga kiritilgan va u serologik usul boshqa kasalliklardan farqlash uchun klinik-instrumental tekshiruvlar bilan birga qo'llanadigan kasalliklar qatorida nomlangan. Jadvalda toksokaroz uchun boshqa reaksiya ko'rsatilmagan [1].",
+        "Atlasda askaridoz tashxisi uchun najasda tuxum ichakda faqat erkak yoki yosh qurtlar bo'lsa topilmasligi mumkinligi, serologik reaksiyalar RSK, RNGA va REMA esa qo'shimcha usul ekani ko'rsatilgan. Shu sababli koproovoskopiya birlamchi usul bo'lib qoladi, serologiya esa uni to'ldiradi [3]."
+      ]
+    },
+    {
+      "heading": "Shistosomoz va filyariozlar",
+      "content": [
+        "Shistosomozda atlasda RNIF, REMA va ichki teri allergik sinamasi nomlangan, ammo endemik hududlarda serologik usullar kam samarali, chunki deyarli butun aholida ma'lum darajada antitela bor. Laboratoriya yo'riqnomasida shistosomoz uchun siydikni tekshirish usullari alohida keltirilgan [1, 3].",
+        "Filyariozlarda atlas RSK, RNGA va IFA kabi serologik usullarni ko'rsatadi, ularni limfa tugunlari biopsiyasida yetuk qurt topish bilan birga qo'llash kerak. O'zbekiston uchun bu gelmintozlarning ahamiyati yo'riqnomadagi jadvalda ko'rsatilmagan, shu sababli ular qo'shimcha ma'lumot sifatida berildi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Strongiloidoz",
+      "content": [
+        "JSST hujjatida Strongyloides stercoralis boshqa tuproq gelmintozlaridan farq qiladi va uni aniqlash uchun maxsus laborator usullar kerak: Harada-Mori ekmasi, Baermann usuli, konsentratsiya va, qon olingan bo'lsa, serologiya. Serologiya bu ro'yxatda qo'shimcha imkoniyat sifatida nomlangan [7].",
+        "Milliy yo'riqnomada strongiloidoz uchun serologik usul jadvalda ko'rsatilmagan, tashxis esa najas va o't suyuqligidagi lichinkalarni topishga tayanadi. Shu sababli serologik usul bu invaziyada JSST hujjatidagi qo'shimcha imkoniyat sifatida qaraladi, milliy standart sifatida emas [1, 7]."
+      ]
+    },
+    {
+      "heading": "Immunologik usullarning cheklovlari",
+      "content": [
+        "JSST antitelalarni aniqlash sezgir bo'lishi mumkinligini, lekin joriy, yaqin va o'tgan infeksiyani ajratmasligini, boshqa trematodalar antigenlari bilan o'zaro reaksiya ham bo'lishini ta'kidlaydi. Darslikda esa antitelalar sekin ko'payishi yoki titri past bo'lishi tufayli reaksiyalar yetarlicha o'ziga xos bo'lmasligi yozilgan [4, 6].",
+        "Shuning uchun natija faqat anamnez, klinika, eozinofiliya va instrumental tekshiruv bilan birga baholanadi. Laboratoriya yo'riqnomasi ham, masalan lyamblioz bo'yicha, serologik test sezgirligi pastligi sababli parazitologik tasdiq talab qilinishini alohida qayd etadi [1, 4, 6]."
+      ]
+    },
+    {
+      "heading": "Parazitolog-shifokor uchun ahamiyati",
+      "content": [
+        "Shifokor serologik tekshiruvni qachon yuborishni bilishi kerak: tuxum hali topilmaydigan erta davrda, to'qima gelmintozlarida, davolash samarasi yoki qaytalanish shubhasida va xavf guruhlarini skrining qilishda. Bunda yo'llanmada gumon qilingan kasallik yozilishi usul tanlashga yordam beradi [1].",
+        "Natija talqinida bitta antitela titriga emas, uning dinamikasiga, klinikaga va epidemiologik anamnezga tayanish kerak. Manbalarda trixinellyoz va toksoplazmoz kabi kasalliklarda takroriy tekshiruv va titr o'sishi muhim ekani ko'rsatilgan, bu qoida gelmintozlarda ham o'rinli [3, 5]."
+      ]
+    },
+    {
+      "heading": "Tasdiqlanmagan ma'lumotlar",
+      "content": [
+        "Ko'rilgan manbalarda har bir usulning sezgirligi va o'ziga xosligi bo'yicha raqamlar, O'zbekistonda qaysi test-tizimlar ishlatilishi va ularning ro'yxatdan o'tgani to'g'risida ma'lumot topilmadi. Shu sababli sezgirlik yoki aniqlik haqida miqdoriy xulosa yozilmadi [1, 3].",
+        "Usullar nomi manbalarda har xil yoziladi: yo'riqnomada RKP, RLA, atlasda RSK, REMA, RNIF, RPGA, RIF. Ba'zi qisqartmalar bir xil reaksiyani nazarda tutishi mumkin, ammo bu manbalarda tushuntirilmagan, shuning uchun ular qanday keltirilgan bo'lsa, shunday berildi [1, 3]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Gelmintozlarda immunologik usullar asosan IFA, RNGA, RLA va RKP bo'lib, ular opistorxoz, klonorxoz, fassiolyoz, exinokokkoz, alveokokkoz, sistitserkoz, trixinellyoz va toksokarozda qo'llanadi. Ular parazitologik va klinik tekshiruvlarni to'ldiradi, o'rnini bosmaydi [1, 3, 6]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
+    "World Health Organization. Assessing the epidemiology of soil-transmitted helminths during a transmission assessment survey in the global programme for the elimination of lymphatic filariasis. 2015. https://iris.who.int/server/api/core/bitstreams/b3ce60a0-21c4-4345-87f8-583f4f5a98dd/content"
+  ]
+}

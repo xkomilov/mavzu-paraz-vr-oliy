@@ -1,0 +1,70 @@
+{
+ "number": 128,
+ "title": "128. Lyamblioz profilaktikasi.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Lyamblioz profilaktikasi qo'zg'atuvchining yuqish zanjirini uzishga qaratilgan: manbani aniqlash va davolash, yuqish omillariga ta'sir etish hamda aholining gigiena madaniyatini oshirish. Milliy bayonnomada profilaktika asosini shaxsiy gigiena, sanitariya madaniyati va bemor hamda tashuvchilarni davolash tashkil etishi ko'rsatilgan [1, 2].",
+   "Esseda umumiy tamoyillar, shaxsiy gigiena, bolalar muassasalaridagi tadbirlar, dezinfeksiya, suv va oziq-ovqat xavfsizligi, hasharotlarga qarshi kurash hamda maxsus profilaktika imkoniyatlari ko'riladi. Epidemiologik nazorat tizimi alohida mavzuda yoritilgani uchun bu yerda faqat profilaktik chora-tadbirlar bayon etiladi [1, 2, 3]."
+  ]},
+  {"heading": "Profilaktika tamoyillari", "content": [
+   "Davolash bayonnomasida profilaktika tadbirlari birinchi navbatda infeksiya manbaini aniqlashga qaratilgani, bemor va parazit tashuvchilar aniqlangach ularda maxsus davolash o'tkazilishi yozilgan. Lyamblioz «kir qo'llar kasalligi» deb atalgan, shu sababli ota-onalar va muassasa xodimlari bolalarning sanitariya bilimini oshirishi zarur [2].",
+   "Atlasda profilaktika shaxsiy va jamoat guruhlariga bo'lingan: shaxsiy profilaktikada qo'l yuvish, suvni qaynatish va mahsulotlarni pashsha hamda suvaraklardan himoya qilish, jamoat profilaktikasida esa bemor va sista tashuvchilarni aniqlash va davolash ko'rsatilgan [4]."
+  ]},
+  {"heading": "Shaxsiy gigiena", "content": [
+   "Yo'riqnomada shaxsiy gigiena ko'nikmalari katta ahamiyatga ega ekani, bolalarda gigiena ko'nikmalarini shakllantirish va qoidalarga qat'iy rioya qilish zarurligi yozilgan. Barmoq, tirnoq, qalam va ruchkani og'izga solish kabi odatlar zararlanish ehtimolini oshirgani uchun ularga e'tibor qaratiladi [1].",
+   "Darslikda lyamblia bilan zararlanish darajasini kamaytirish shaxsiy gigiena qoidalariga rioya qilish orqali erishilishi mumkinligi aytilgan. Davolash bayonnomasida bolalar va xodimlar qo'llarining tozaligiga alohida e'tibor qaratish shart ekani ko'rsatilgan [2, 5]."
+  ]},
+  {"heading": "Bolalar muassasalarida profilaktika", "content": [
+   "Bayonnomada bolalar muassasalarida o'tkaziladigan sanitariya-gigiyena tadbirlari odatda 2 oydan 1 yilgacha lyamblia bilan zararlanish darajasini keskin kamaytirishi yozilgan. Bu tadbirlarga xonalarning oqilona joylashtirilishi va joriy dezinfeksiyani sinchiklab o'tkazish kiradi [2].",
+   "Darslikda bolalar muassasalarida qozonchalar, o'rindiqlar, eshik tutqichlari, jo'mraklar, cho'tka va chelaklarni qaynoq suv yoki dezinfeksiyalovchi eritmalar bilan zararsizlantirish muhim chora deb berilgan. Shu darslikda bemor va tashuvchilar izolyatsiya qilinmasligi ham ko'rsatilgan [5]."
+  ]},
+  {"heading": "Dezinfeksiya", "content": [
+   "Sistalarning xlorga chidamliligini hisobga olib, bayonnomada dezinfeksiyani 3-5 foizli lizol yoki fenol eritmasi, 2-3 foizli natriy metasilikatning suvli eritmasi bilan o'tkazish va ayrim buyumlarni qaynatish tavsiya etilgan. Bu konsentratsiyalar milliy bayonnomadan olingan [2].",
+   "Yo'riqnomada dezinfeksiya va profilaktik tadbirlarda yuvuvchi-dezinfeksiyalovchi moddalar hamda ultrabinafsha nurlanishni qo'llash maqsadga muvofiqligi aytilgan. Sistalar qaynatilganda bir zumda, 55 gradusda 5 daqiqadan keyin, havoda quritilganda esa 24 soat ichida halok bo'lishi ham yozilgan [1]."
+  ]},
+  {"heading": "Suv ta'minoti va suvni tozalash", "content": [
+   "Bayonnomada lyamblioz tarqalishiga qarshi eng samarali tadbir sifatida samarali filtr yaratish va tozalashning barcha bosqichlarini, ayniqsa cho'ktirish va tindirish jarayonlarini o'tkazish ko'rsatilgan. Markazlashgan suv ta'minoti bo'lmagan joylarda suvni qaynatish va filtrlash qurilmalaridan foydalanish tavsiya etilgan [2].",
+   "Faqat suvni xlorlash yetarli emas, chunki sistalar 1 mg/l xlor konsentratsiyasida 72 soatdan keyin halok bo'ladi. Tabiiy suv qanchalik toza ko'rinmasin, dastlabki ishlovsiz iste'mol qilinmasligi shart; JSST hujjatida filtrlash, xlorlash va UV usullarining samaradorligi hamda cheklovlari ko'rib chiqilgani aytilgan [1, 2, 7]."
+  ]},
+  {"heading": "Suv obyektlarini muhofaza qilish", "content": [
+   "Epidemiologik nazorat yo'riqnomasida suv orqali tarqaladigan parazitar kasalliklar xavfini kamaytirish suv obyektlarini ifloslanishdan muhofaza qilish va suvni laboratoriya yo'li bilan nazorat qilish orqali erishilishi aytilgan. Chiqindi suvlar va qishloq xo'jaligi hayvonlari chiqindilari bilan ifloslanishga yo'l qo'ymaslik lozim [3].",
+   "Markazlashmagan suv havzalarida, jumladan tabiiy suv havzalarida profilaktika maqsadida suvni qaynatish, filtrlash va dezinfeksiya moslamalaridan foydalanish mumkin. JSST hujjatida odam va hayvonlardan kelib chiqadigan najas ifloslanishini nazorat qilish uchun sanitariya va suv xavfsizligi rejalari muhimligi ta'kidlangan [3, 7]."
+  ]},
+  {"heading": "Oziq-ovqat xavfsizligi va hasharotlarga qarshi kurash", "content": [
+   "Atlasda shaxsiy profilaktika qo'l yuvish, suvni qaynatish va mahsulotlarni mexanik tashuvchilar, ya'ni pashsha va suvaraklardan himoya qilishni o'z ichiga olishi, jamoat profilaktikasida esa pashsha va suvaraklarni yo'q qilish hamda suv manbalarining holatini nazorat qilish keltirilgan [4].",
+   "Epidemiologik nazorat yo'riqnomasida yuqish omillariga ta'sir etish uchun pashshalar bilan kurash, ichimlik suvni qaynatish, qo'llarni yuvish va xonalarni dezinfeksiya moddalari bilan zararsizlantirish ko'rsatilgan. Bolalar muassasalari va umumiy ovqatlanish korxonalarida sanitar-parazitologik nazorat o'rnatiladi [3]."
+  ]},
+  {"heading": "Bemor va tashuvchilarni aniqlash va davolash", "content": [
+   "Yo'riqnomada bemor va parazit tashuvchilarni aniqlash hamda davolash umumiy profilaktik tadbirlar qatoriga kiritilgan. Ular davolash kursini to'liq o'tgunga va nazorat laboratoriya tekshiruvlaridan o'tgachgina ishlashga ruxsat etiladi [1].",
+   "Tashuvchilik aniqlangan alohida kasb egalari va xodimlar muassasa rahbari bilan kelishilgan holda davolanish va nazorat tekshiruvlari davrida kasallik tarqalishiga bog'liq bo'lmagan vazifalarga vaqtincha o'tkaziladi. Dozalar va davolash sxemalari bu mavzuda keltirilmaydi [1]."
+  ]},
+  {"heading": "Profilaktik tekshiruvlar va sanitariya-ma'rifiy ish", "content": [
+   "Umumiy profilaktik tadbirlar orasida bolalar muassasalari xodimlari va bolalarni, ovqatlanish, suv ta'minoti va savdo xodimlarini profilaktik tekshirish ham ko'rsatilgan. Bolalar muassasalarida ota-onalar va xodimlar o'rtasida sanitariya-oqartuv ishlari olib boriladi [1].",
+   "Alohida kasb egalari, oziq-ovqat ishlab chiqarish, tayyorlash, saqlash, sotish hamda suv tayyorlash bilan shug'ullanuvchi xodimlar hududiy sanitariya-epidemiologiya markazlari ishlab chiqqan dasturlar bo'yicha gigiyenik o'qitiladi. Tekshiruvlarni tizimli nazorat qilish keyingi mavzuda yoritiladi [1]."
+  ]},
+  {"heading": "Maxsus profilaktika va emlash", "content": [
+   "Davolash bayonnomasiga ko'ra lyamblioz profilaktikasining maxsus (spetsifik) va dori-darmonli usullari hozircha mavjud emas. Shu sababli profilaktika sanitariya-gigiyena tadbirlariga tayanadi, asosiy e'tibor manbani aniqlash va yuqish omillarini bartaraf etishga qaratiladi [2].",
+   "Yo'riqnomada lyamblioz oqsil so'rilishi va himoya immunoglobulinlari sintezini buzgani uchun lyamblioz bilan kasallanganlarda boshqa kasalliklarga qarshi profilaktik emlashlar kam samara berishi ko'rsatilgan. Bu holat bemorlarni o'z vaqtida aniqlash zarurligini kuchaytiradi [1]."
+  ]},
+  {"heading": "Davolangandan keyingi kuzatuv", "content": [
+   "Bayonnomada rekonvalessentlarda najas nazorati davolashdan 2 hafta va 1 oy o'tgach o'tkaziladi, dispanser kuzatuvi esa 12 oy davom etadi va har uch oyda nazorat tekshiruvi bilan olib boriladi. Yo'riqnomada ham dispanser kuzatuv 12 oydan kam bo'lmasligi yozilgan [1, 2].",
+   "Laboratoriya yo'riqnomasida lyamblioz bo'yicha davolashdan keyingi nazorat uchun najas 1 haftadan so'ng tekshirilishi ko'rsatilgan. Bu muddat davolash bayonnomasidagi 2 hafta va 1 oydan farq qiladi, shuning uchun amaliyotda amaldagi hujjat talabiga tayanish zarur [2, 6]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "O'zbekistonda lyamblioz profilaktikasi dasturlarining samaradorligi, ular natijasida kasallanishning kamayishi va hududiy ko'rsatkichlar ko'rilgan manbalarda keltirilmagan. Shu sababli profilaktikaning mahalliy natijalari haqida raqam yozilmaydi va taxmin qilinmaydi [1, 2].",
+   "Manbalar orasida farqlar bor: nazorat najas tekshiruvi muddati (1 hafta, 2 hafta va 1 oy) turlicha berilgan; darslikda bemor va tashuvchilar izolyatsiya qilinmasligi, yo'riqnomada esa ularni davolash va ishga ruxsat berish tartibi ko'rsatilgan [1, 2, 5, 6]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Lyamblioz profilaktikasi manbani aniqlash va davolash, shaxsiy gigiena, bolalar muassasalarida dezinfeksiya va sanitariya tartibi, suvni to'liq tozalash hamda hasharotlarga qarshi kurashni o'z ichiga oladi. Maxsus vosita yo'qligi va sistalarning xlorga chidamliligi sababli asosiy ahamiyat sanitariya-gigiyena tadbirlariga tegishli [1, 2, 7]."
+  ]}
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Бажора Ю.И. (ред.) Медицинская паразитология: атлас. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "World Health Organization. Giardia duodenalis: background document for the WHO guidelines for drinking-water quality and the WHO guidelines on sanitation and health. 2025. https://iris.who.int/items/c335c37f-fe5a-4551-b9aa-63e588586fe2"
+ ]
+}

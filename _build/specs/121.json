@@ -1,0 +1,118 @@
+{
+  "number": 121,
+  "title": "121. Sanitar-parazitologik nazorat o'tkazishda tashqi muhitning qanday obyekti tekshiradi.",
+  "sections": [
+    {
+      "heading": "Kirish",
+      "content": [
+        "Sanitar-parazitologik nazoratning vazifasi tashqi muhitda gelmint tuxumlari, lichinkalari va ichak sodda hayvonlarining sistalari qayerda to'planishini aniqlash va odam uchun yuqish omiliga aylanadigan obyektlarni topishdir. Qaysi obyektlar tekshirilishini bilish nazoratni to'g'ri rejalashtirishning birinchi bosqichi hisoblanadi [2].",
+        "Esseda tekshiriladigan obyektlar guruhlar bo'yicha ko'rib chiqiladi: tuproq va qum, suv, oqava suvlar, ko'kat va mevalar, qo'l va buyumlardan olingan yuvindilar, bolalar va oziq-ovqat muassasalari, go'sht va baliq, chorvachilik hamda it saqlanadigan joylar. Tekshiruvni tashkil etish tartibi esa alohida mavzuda yoritiladi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Nima uchun tashqi muhit tekshiriladi",
+      "content": [
+        "Romanenko rahbarligidagi qo'llanmada tuxum, lichinka va sistalarning topilishi obyektning sanitariya jihatdan nosoz ekanini, ya'ni najas bilan ifloslanganini ko'rsatadigan eng aniq belgi sifatida ta'riflangan. Shu sababli bakteriologik va kimyoviy tekshiruvlar bilan birga parazitologik tekshiruv ham majburiy hisoblanadi [2].",
+        "Invaziya manbalari kasal odamlar, uy, yovvoyi va qishloq xo'jalik hayvonlaridir, ular najasi bilan tuxum, lichinka va sistalarni tashqi muhitga chiqaradi. Shu sababli obyektlar tanlashda ularning qanday manba bilan ifloslanishi va odam bilan qanchalik aloqada bo'lishi hisobga olinadi [2]."
+      ]
+    },
+    {
+      "heading": "Tuproq",
+      "content": [
+        "Tuproq geogelmintozlar uchun asosiy obyekt: milliy sanitariya qoidalarida aholi punktlari tuprog'ining epidemik xavfi patogen mikroorganizmlar bilan birga geogelmint tuxumlari va lichinkalarining mavjudligi, miqdori va yashovchanligi bo'yicha baholanishi belgilangan. Bu ko'rsatkich tuproqning sanitariya-gelmintologik ko'rsatkichi sifatida alohida jadvalda keltirilgan [3].",
+        "Milliy qoidalarda tuproqni tekshirish birinchi navbatda maktabgacha va umumiy o'rta ta'lim tashkilotlarida, tibbiyot tashkilotlarida, turar joy va rekreatsiya hududlarida, ichimlik suvi manbalari va ularning muhofaza zonalarida hamda qishloq xo'jaligi yerlarida o'tkazilishi aytilgan. Namuna olish tartibi mamlakatlararo GOST 17.4.4.02-2017 da berilgan, u gelmintologik tahlil uchun alohida birlashtirilgan namuna olishni ko'rsatadi [3, 5, 6]."
+      ]
+    },
+    {
+      "heading": "Qum va o'yin maydonchalari",
+      "content": [
+        "Yo'riqnomada bolalar muassasalari, surunkali ruhiy kasalliklar shifoxonalari, savdo va umumiy ovqatlanish korxonalarida o'yin maydonchalaridagi tuproq va qum namunalari olinishi belgilangan. Bu obyektlar bolalar qo'li orqali og'izga tushish xavfi borligi sababli tanlanadi [1].",
+        "Romanenko qo'llanmasida ham bolalar o'yin va sport maydonchalari, qum solingan o'yin joylari va hojatxona atrofi tuprog'i nazorat obyektlari qatorida sanalgan. Epidemiologik nazorat yo'riqnomasi esa oila va bolalar jamoalarida infeksiya manbasini aniqlashda ichimlik suvi manbalari, tuproq va bolalar o'ynaydigan maydonchalar qumini ko'rsatadi [2, 6]."
+      ]
+    },
+    {
+      "heading": "Ichimlik va ochiq suv",
+      "content": [
+        "Romanenko ro'yxatiga ko'ra suv obyektlariga markazlashgan va markazlashmagan ichimlik suvi manbalari, suv tozalash inshootlari, taqsimlash tarmog'i, quduq va buloqlar, shishaga solingan suv, ochiq suv havzalari, rekreatsiya suv obyektlari, basseynlar va artezian suvlari kiradi. Bu ro'yxat qamrovi eng keng guruhlardan biri [2].",
+        "Rossiya hujjati MUK 4.2.1884-04 yuza suv obyektlarida ichimlik, maishiy va rekreatsion suv foydalanish nuqtalarida sanitar-parazitologik nazoratni qamrab oladi. U lyamblya, kriptosporidiya, dizenteriya amebasi, balantidiy sistalari va gijja tuxumlarini aniqlashga mo'ljallangan; hujjat O'zbekiston me'yori emas [4]."
+      ]
+    },
+    {
+      "heading": "Oqava suv va cho'kindilar",
+      "content": [
+        "Tozalash inshootlari kommunal obyektlar qatoriga kiradi: ularda oqava suv kirish va chiqish nuqtalarida, tozalash bosqichlarida, birlamchi va ikkilamchi cho'kma idishlardagi cho'kindi, loyqa maydonchalar va qum maydonchalari tekshiriladi. Shuningdek xodimlar qo'lidan, sanitariya xonalaridan va maxsus kiyimdan yuvindi olinadi [2].",
+        "Romanenko tasnifi yer usti oqimi, oqava suv tushiriladigan joylar, sug'orish tizimlari va hayvonchilik oqovalarini ham nazorat obyekti sifatida ko'rsatadi. Chunki bu obyektlar orqali invazion material suv va tuproqqa o'tadi, shu sababli ularni tozalash samarasi nazorat qilinadi [2]."
+      ]
+    },
+    {
+      "heading": "Sabzavot, ko'kat va mevalar",
+      "content": [
+        "Romanenko qo'llanmasida tekshiriladigan oziq-ovqat obyektlari qatorida mevasabzavot mahsulotlarini tayyorlash va qayta ishlash kombinatlari, issiqxona va uy sharoitidagi issiqxonalar, sabzavot, stol ko'katlari ko'rsatilgan. Bu mahsulotlar xom iste'mol qilinishi mumkin bo'lgani uchun yuqish omili sifatida alohida e'tibor oladi [2].",
+        "Milliy yo'riqnoma ham exinokokkoz o'chog'ida tuproq, sabzavot, ko'kat va suv namunalarini olishni, fassiolyoz o'chog'ida esa nam meva, sabzavot, yashil o'simliklar va suv havzalaridan tashqi muhit namunalarini sanitariya-gelmintologik tahlilga olishni talab qiladi [1]."
+      ]
+    },
+    {
+      "heading": "Qo'l va buyumlar yuvindilari",
+      "content": [
+        "Yo'riqnomada o'yinchoqlar, choyshablar, gilamlar, sport anjomlari, xalatlar, kiyim shkaflari, eshik tutqichlari, ovqatlanish stollari va o'rindiqlar, xo'jalik anjomlari, ovqat tarqatish stoli va tayyor mahsulot taxtasidan surtma olinishi ko'rsatilgan. Bolalar va xodimlar qo'lidan alohida surtmalar olinadi [1].",
+        "Surtmalar paxta yoki kapron tamponlar bilan olinadi, ular 1 foizli natriy ishqori yoki 20 foizli gliserin eritmasiga ivitiladi. Romanenko jadvalida yuvindilar tekshiruvning eng katta ulushini egallashi, tuzilmaning 45 foizi yuvindilarga to'g'ri kelishi ko'rsatilgan [1, 2]."
+      ]
+    },
+    {
+      "heading": "Bolalar va davolash muassasalari",
+      "content": [
+        "Romanenko ro'yxatida bolalar muassasalari alohida guruh: maktabgacha muassasalar, maktablar, maktab-internatlar, bolalar uylari, yozgi sog'lomlashtirish oromgohlari, sport maktablari va qabul-taqsimlash markazlari. Davolash muassasalarida kasalxonalar, poliklinikalar, sanatoriyalar va keksalar uylari ham kiritilgan [2].",
+        "Milliy yo'riqnomada bolalar muassasalari va surunkali ruhiy kasalliklar shifoxonalari tashqi muhit namunalari olinadigan joylar sifatida nomlangan. Namunalar ovqat tayyorlash blokidan boshlab, ovqatlanish, o'yin, yotoq va yuvinish xonalaridan va oxirida hojatxonadan olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Ovqatlanish, savdo va transport obyektlari",
+      "content": [
+        "Romanenko ro'yxatiga ko'ra oziq-ovqat obyektlariga oshxonalar, kafe, umumiy ovqatlanish korxonalari, go'sht kombinatlari, baliq kombinatlari va kolbasa sexlari kiradi. Savdo obyektlari esa oziq-ovqat va sabzavot bazalari, do'konlar, bozorlar, xususiy va fermer savdo nuqtalaridir [2].",
+        "Shuningdek vokzallar, jamoat transporti, dam olish bazalari, bog' va skverlar, plyajlar, hammom va sartaroshxonalar, teri va mo'yna ustaxonalari ro'yxatda keltirilgan. Milliy yo'riqnoma savdo va umumiy ovqatlanish korxonalarini ham tashqi muhit namunalari olinadigan joylar deb ko'rsatadi [1, 2]."
+      ]
+    },
+    {
+      "heading": "Go'sht va baliq mahsulotlari",
+      "content": [
+        "Romanenko jadvalida go'sht kombinatlari, kolbasa sexlari va bo'g'izlash joylarida qo'l, tarozi, ovqatlanish joylari va hojatxonalardan yuvindilar bilan birga go'sht va baliq mahsulotlari ham tekshirilishi ko'rsatilgan. Baliq xo'jaliklarida esa sanoat sharoitida o'stirilgan baliq tekshiriladi [2].",
+        "Milliy yo'riqnomada hududiy DSENM laboratoriyalariga xom baliqdan namunalar keltirilib, tirik gelmintlar aniqlanishi, tuxum topilsa namunalar zararsizlantirishga yuborilishi aytilgan. Go'sht bo'yicha ham veterinariya hamkorligida finnozga ekspertiza nazorati yo'lga qo'yiladi [1]."
+      ]
+    },
+    {
+      "heading": "Chorvachilik xo'jaliklari va itlar saqlanadigan joylar",
+      "content": [
+        "Romanenko ro'yxatida hayvonchilik xo'jaliklari, navoz va navoz oqovalarini yig'ish, saqlash, tozalash tizimlari, mo'ynali hayvon fermalari, shaxsiy xo'jaliklar va it saqlanadigan joylar nazorat obyektlari sifatida keltirilgan. Bu joylar hayvon najasi bilan tuxum va lichinka chiqadigan manba hisoblanadi [2].",
+        "Milliy yo'riqnoma exinokokkoz o'chog'ida it boqiladigan, sanitariya holati talabga javob bermaydigan uylar, fermerlar xonadonlari, it bilan shug'ullanuvchilar va chorvadorlar uylarini tekshirishni ko'rsatadi. Surtmalar eshik tutqichlari, chelak, kurak, poyabzal, qo'l, pol changi va it yotadigan joydan olinadi [1]."
+      ]
+    },
+    {
+      "heading": "Parazitolog-shifokor uchun ahamiyati",
+      "content": [
+        "Obyektni to'g'ri tanlash tekshiruvning mazmunini belgilaydi: geogelmintozlar uchun tuproq, qum, qo'l va suv, biogelmintozlar uchun go'sht, baliq, ko'kat va hayvon bilan aloqa nuqtalari muhim. Shuning uchun shifokor o'choqning gelmintoziga qarab namuna turini tanlashi lozim [1, 2].",
+        "Romanenko qo'llanmasida tekshiruv tuzilmasi ham beriladi: tuproq 20 foiz, mevalar 15 foiz, oqava suv va cho'kindilar 5 foiz, ichimlik va ochiq suv 15 foiz, yuvindilar 45 foiz. Bu tarkib Rossiyadagi amaliyotga tegishli va O'zbekiston uchun majburiy emas [2]."
+      ]
+    },
+    {
+      "heading": "Tasdiqlanmagan ma'lumotlar",
+      "content": [
+        "Ko'rilgan manbalarda O'zbekiston uchun tekshiriladigan obyektlarning yagona rasmiy ro'yxati topilmadi. Milliy yo'riqnoma obyektlarni bolalar muassasalari, ruhiy shifoxonalar, savdo va ovqatlanish korxonalari, o'choqlar bo'yicha alohida beradi, to'liq ro'yxat Romanenko qo'llanmasidan olingan [1, 2].",
+        "Romanenko qo'llanmasi 2000 yilgi Rossiya nashri, MUK 4.2.1884-04 esa Rossiya Federatsiyasi hujjati bo'lib, ularning me'yorlarini O'zbekiston me'yori deb bo'lmaydi. Milliy SanQvaN 0112-26 esa tuproq uchun qo'llanadi, ammo suv va boshqa obyektlar uchun alohida tasdiqlash kerak [2, 3, 4]."
+      ]
+    },
+    {
+      "heading": "Xulosa",
+      "content": [
+        "Sanitar-parazitologik nazoratda tuproq, qum, ichimlik va ochiq suv, oqava suv va cho'kindilar, sabzavot va ko'kat, qo'l va buyumlar yuvindilari, bolalar va oziq-ovqat muassasalari, go'sht va baliq mahsulotlari hamda hayvon saqlanadigan joylar tekshiriladi. Tanlov o'choqning gelmintoziga va odam bilan aloqa darajasiga bog'liq [1, 2, 3]."
+      ]
+    }
+  ],
+  "references": [
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirligi huzuridagi Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasining 2026-yil 1-iyuldagi 8-son qaroriga 1-ilova: Tuproqning sanitariya-gigiyenik holatini baholash hamda tuproqdagi ekzogen zararli moddalarning ruxsat etilgan maksimal va taxminiy konsentratsiyalariga doir sanitariya qoidalari, normalari va gigiyena normativlari (0112-26-son SanQvaN). xayrullokomilov.uz/kutubxona, material ID 2702.",
+    "МУК 4.2.1884-04. Санитарно-микробиологический и санитарно-паразитологический анализ воды поверхностных водных объектов: методические указания (Российская Федерация, утв. Главным государственным санитарным врачом РФ 3 марта 2004 г.). Не является документом Республики Узбекистан. xayrullokomilov.uz/kutubxona, material ID 1979.",
+    "ГОСТ 17.4.4.02-2017. Охрана природы. Почвы. Методы отбора и подготовки проб для химического, бактериологического, гельминтологического анализа (межгосударственный стандарт). xayrullokomilov.uz/kutubxona, material ID 1053.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
+  ]
+}

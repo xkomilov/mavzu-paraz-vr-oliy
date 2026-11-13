@@ -1,0 +1,77 @@
+{
+ "number": 135,
+ "title": "135. Sodda jonivorlar tashxisi.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Sodda jonivorlar tashxisi namunaning turiga qarab farqlanadi: ichak protozoylari asosan najasda, qon va to'qima protozoylari esa qon, punktat, biopsiya yoki serologik tekshiruvda aniqlanadi. Milliy yo'riqnomada najasdan nativ surtma, boyitilgan cho'kma, bo'yalgan surtma, qon preparatlari va serologik usullar alohida ko'rsatilgan [1].",
+   "Esseda namuna olish va saqlash, Lyugol bilan nativ surtma, konservantlar, boyitish va bo'yash usullari, qon va to'qima protozoylari preparatlari, serologiya va PCR ketma-ket ko'rib chiqiladi. Faqat manbalarda tasdiqlangan usullar keltiriladi, boshqalar tasdiqlanmagan sifatida ko'rsatiladi [1, 2, 3]."
+  ]},
+  {"heading": "Najas namunasini olish va yetkazish muddatlari", "content": [
+   "Yo'riqnomada najas ajralgan vaqtdan tekshiruvgacha qisqa vaqt, suyuq najasda ichak soddalarining vegetativ shakllari uchun 1-1,5 soatdan oshmagan muddat talab qilingan. Dizenteriya amyobasining harakatchan shakllari defekatsiyadan keyin 20 daqiqa ichida, najas 4 °C haroratda saqlansa 40 daqiqa ichida tekshirilishi kerak [1].",
+   "Bu cheklovlar amaliy ahamiyatga ega, chunki trofozoitlar tez halok bo'ladi va harakatini yo'qotadi. Balantidioz uchun najas hojatdan keyin 20 daqiqadan oshmay tekshirilishi ham ko'rsatilgan. Shu sababli kechikish kutilsa, namuna konservantga solinishi lozim [1, 2]."
+  ]},
+  {"heading": "Konservantlar", "content": [
+   "Najasni darhol tekshirib bo'lmasa, konservant ishlatiladi. Yo'riqnomada Barbagallo suyuqligi, 4 foizli formalin, uning glitserin bilan aralashmasi, sirka kislotasi va yuvish vositalarining eritmalari sanalgan. Namuna konservantsiz 0-4 darajada bir sutkadan ko'p saqlanmasligi kerak [1].",
+   "Ichak soddalarini saqlash uchun Turdiyev konservanti tavsiya etilgan: natriy nitrit eritmasi, glitserin, formalin va konsentrlangan Lyugol eritmasi aralashmasi, bir qism najasga uch qism konservant solinadi. Konservant ichidagi namuna bir necha oydan bir yilgacha saqlanishi, yana keyingi tekshiruvlarga imkon berishi aytilgan [1]."
+  ]},
+  {"heading": "Lyugol va fiziologik eritmali nativ surtma", "content": [
+   "Najasning Lyugol va fiziologik eritmali nativ surtmasi ichak protozoozlari tashxisida asosiy usul sifatida ko'rsatilgan. Buyum oynasining bir tomoniga iliq izotonik eritma, ikkinchisiga 1 foizli Lyugol tomiziladi, har biriga bir oz najas aralashtirilib, qoplov oynasi bilan yopiladi va mikroskopda avval kichik, so'ng x40 kattalashtirishda ko'riladi [1].",
+   "Usul lyamblioz, balantidioz, amyobiaz, dientamyoba infeksiyalari va blastotsistozda qo'llanadi. U vegetativ shakllar va komensallarni, ularning harakatini aniqlashga, Lyugol esa yadro, xivchin apparati va glikogenni ko'rsatib sista hamda ooxistalarni ajratishga yordam beradi. Amyobiazda defekatsiyadan 15-20 daqiqa ichida ko'rish samarali [1, 2]."
+  ]},
+  {"heading": "Metilen ko'ki va kokksidiylar uchun yod-sirka eritmasi", "content": [
+   "Dizenteriya amyobasi va patogen bo'lmagan amyobalar trofozoitlarini farqlash uchun metilen ko'ki bufer eritmasi qo'llanadi. Najasning shilliq, yiringli yoki qonli qismi bo'yoq tomchisiga solinib, 5-10 daqiqadan keyin ko'riladi; amyoba trofozoitlari ko'k tusga bo'yaladi, sistalar, xivchinlilar va kokksidiy ooxistalari bo'yalmaydi [1].",
+   "Kokksidiy ooxistalarini aniqlash uchun nativ surtmada Lyugol o'rniga yodning sirka-spirtli eritmasi ishlatiladi, bunda izospora ooxistalari yadrolari yaxshi bo'yalgani uchun ko'rinadi. Bu usullar nativ surtmani to'ldiradi va faqat yo'riqnomada keltirilgan tartibda bajariladi [1]."
+  ]},
+  {"heading": "Boyitish usullari", "content": [
+   "Formalin-efir cho'ktirish usulida najas 10 foizli formalin bilan aralashtirilib, filtrlanadi, efir qo'shilib silkitiladi va santrifugalanadi. Cho'kmada gijja tuxumlari va ichak soddalari sistalari qoladi, Lyugol tomchisida sista va ooxistalar aniqlanadi, ammo bu usulda trofozoitlarni topib bo'lmaydi [1].",
+   "Yo'riqnomada sirka-efir cho'ktirish usuli ham bor, flotatsiya esa asosan gijja tuxumlari uchun tavsiflangan. Kriptosporidioz manbalarida manfiy natijadan keyin flotatsiya, past ooxista konsentratsiyasida esa flotatsiya va konsentratsiya usullari qo'llanishi aytilgan [1, 2, 3]."
+  ]},
+  {"heading": "Konservantdan kompleks usul", "content": [
+   "Yo'riqnomada Turdiyev konservantidagi najasni ichak soddalari va gijjalarga kompleks tekshirish universal usul deb ko'rsatilgan. U konservant, formalin-efirli boyitish va Sil-Nilsen bo'yog'ining modifikatsiyasidan iborat bo'lib, diagnostik tizim sifatida bir namunadan bir necha tekshiruv o'tkazishga imkon beradi [1].",
+   "Konservantdan nam surtma tayyorlanganda ikki tomchidan biriga 1 foizli Lyugol qo'shiladi. Usul trofozoit va sistalarni, kam uchraydigan dientamyoba va izosporani, shuningdek kriptosporidiylarni aniqlashda samarali, ularni ko'rish uchun immersion obyektiv x90 yoki x100 ishlatiladi [1]."
+  ]},
+  {"heading": "Duodenal suyuqlik", "content": [
+   "Lyamblioz tashxisi uchun o'n ikki barmoqli ichak suyuqligi tekshiriladi. Yo'riqnomada A porsiyasi o'n ikki barmoqli ichakdagi lyamblialarni topish uchun tekshirilishi, suyuqlik olib kelingan zahoti nativ va santrifugalangan cho'kma mikroskopiyasi birga o'tkazilishi samarali ekani aytilgan [1].",
+   "Cho'kma mikroskopiyasi jadvalida duodenal suyuqlik lyamblioz, izosporoz va kriptosporidioz uchun ko'rsatilgan. Bu ma'lumot parazitolog uchun muhim: A porsiyasi aynan o'n ikki barmoqli ichakdagi lyamblialarni topish uchun mo'ljallangan, B va C porsiyalari esa o't yo'llari gijja tuxumlari uchun tekshiriladi [1]."
+  ]},
+  {"heading": "Kriptosporidiy va boshqa ooxistalarni bo'yash", "content": [
+   "Yo'riqnomaga ko'ra kriptosporidiyni topish uchun Romanovskiy yoki boshqa usulda bo'yalgan surtma qo'llanadi. Boshqa manbada karbol-fuksinli Sil-Nilsen, safraninli Kester va azur-eozinli Romanovskiy-Gimza usullari sanalgan, salbiy natijada flotatsiya, sezgir usul sifatida esa bilvosita immunoflyuoressensiya ko'rsatilgan [1, 2].",
+   "Darslikka ko'ra Sil-Nilsen usulida ooxistalar qizil rangga, Kester usulida och pushti rangga bo'yaladi va yashil fonda yaxshi ajraladi. Gram bilan ular kuchsiz bo'yaladi yoki xamirturush o'xshash zamburug'lardan farqlanmaydi, shu sababli oddiy bo'yash yetarli emas [3]."
+  ]},
+  {"heading": "Amyoba va balantidiyni farqlash", "content": [
+   "Balantidioz tashxisi yangi najas tomchisida kichik kattalashtirishda qo'zg'atuvchini topishga asoslanadi. Darslikda dizenteriya amyobalaridan ajratish uchun balantidiylar yirikroq, yadrolari loviyasimon, sitoplazmasida katta qisqaruvchi vakuolalar borligi aytilgan; kamdan-kam Ris va Frenkel muhitlarida ajratiladi [3].",
+   "Atlasda balantidiylar doimiy topilmagani uchun manfiy natijada tekshiruvni bir necha marta takrorlash lozimligi yozilgan. Yo'riqnomada E. histolytica va E. dispar mikroskopda farqlanmasligi, ularni faqat molekulyar-biologik usullar ajratishi ko'rsatilgan, shuning uchun oddiy mikroskopiyaning tur darajasida aniqlash imkoniyati cheklangan [2, 4]."
+  ]},
+  {"heading": "Qon preparatlari", "content": [
+   "Bezgakda asosiy usul qalin tomchi, yupqa surtma esa ba'zan plazmodiy turini aniqlash uchun qo'llanadi. Preparat tomir qonidan emas, barmoqdan olinadi, chunki antikoagulyant ta'sirida paraziti yomon bo'yaladi. Qalin tomchi diametri 20 mm bo'lishi va Romanovskiy-Gimza bo'yog'i qo'llanishi ko'rsatilgan [1].",
+   "Jadvalda yupqa bo'yalgan qon surtmasi bezgak, filyariatoz va tripanosomoz uchun, qalin tomchi esa bezgak va kanali qaytalama terlama uchun ko'rsatilgan. Orqa miya suyuqligi va suyak ko'migi mikroskopiyasi tripanosomoz hamda leyshmaniozni aniqlashda qo'llanadi [1]."
+  ]},
+  {"heading": "To'qima protozoylari: leyshmaniya va toksoplazma", "content": [
+   "Visseral leyshmaniozda punktat surtmasi etil spirti yoki Nikiforov aralashmasida, yoki metil spirtida fiksatsiya qilinib, Romanovskiy usulida 30-50 daqiqa bo'yaladi. Leyshmaniylar 3-5 mkm, yumaloq yoki oval, sitoplazmasi kulrang-ko'k, yadrosi qizil-binafsha va kinetoplastli bo'ladi [1].",
+   "Toksoplazmozda limfa tugunlari biopsiyasi, qon, suyak ko'migi va orqa miya suyuqligi surtmalari Romanovskiy-Gimza bilan bo'yaladi, shuningdek oq sichqonlar zararlanadi. Atlasda sichqon organlarida parazit 10-12 kundan keyin tekshirilishi, mikroskopiya va biologik usullar serologiya bilan birga qo'llanishi aytilgan [3, 4]."
+  ]},
+  {"heading": "Serologiya va PCR", "content": [
+   "Yo'riqnomada ELISA kriptosporidioz, pnevmotsistoz, lyamblioz va amyobiaz, RNGA esa amyobiaz uchun ko'rsatilgan. Lyamblioz uchun ELISA sezgirligi past bo'lgani sababli parazitologik tasdiq talab qilinadi, najasdagi antigen aniqlash usullari esa amaliyotda keng qo'llanmaydi [1].",
+   "Toksoplazmozda darslikda IgG zararlanish faktini, IgM esa o'tkir bosqichni ko'rsatishi, PCR va biosinov qo'llanishi yozilgan. Milliy standartlarda TORCH ELISA, PCR va IgM aniqlash ko'rsatilgan. Kriptosporidiozda ham PCR kabi molekulyar usullar tavsiya qilingan [3, 5, 6]."
+  ]},
+  {"heading": "Davolash samaradorligini nazorat qilish", "content": [
+   "Yo'riqnomada ichak protozoozlarida nazorat tekshiruvi qo'zg'atuvchiga qarab belgilangan: amyobiaz va balantidiozda davolash kursi tugagan kuni, lyamblioz esa bir haftadan keyin. Bu muddatlar milliy hujjatdan olingan va boshqa manbalar bilan solishtirilmagan [1].",
+   "Rejali tibbiy ko'riklarda perianal surtma bilan bir vaqtda biror koproskopik usul va Lyugolli nativ surtma o'tkazilishi kerak. Yo'llanmada aniq tashxis yozilmagan bo'lsa, najas konservantda kompleks usul yoki formalin-efir universal usuli bilan tekshiriladi [1]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Ko'rilgan manbalarda PCR uchun aniq primerlar, ko'rsatkichlar va sezgirlik raqamlari, shuningdek O'zbekiston laboratoriyalarida ularning qo'llanilishi haqida ma'lumot topilmadi. Shu sababli PCR faqat tavsiya qilingan usul sifatida tilga olinadi, uning protokoli keltirilmaydi [3, 5, 6].",
+   "O'zbekiston laboratoriyalarida serologik reaksiyalarning diagnostik titrlari milliy manbalarda ko'rsatilmagan. JSST va CDC tashxis qo'llanmalari bu mavzu uchun ochib tekshirilmadi, shu sababli xalqaro tavsiyalar ishlatilmadi va bo'yoqlar tarkibi faqat milliy yo'riqnomadan olindi [1, 6]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Sodda jonivorlar tashxisi namuna turiga mos usulni tanlashga tayanadi: ichak protozoylari uchun yangi najasning Lyugolli nativ surtmasi, konservant, boyitish va maxsus bo'yash, qon va to'qima protozoylari uchun Romanovskiy-Gimza bo'yoqli preparatlar, serologiya va PCR. Muddatlarga rioya qilish va usullarni birga qo'llash natijaning ishonchliligini oshiradi [1, 2, 3]."
+  ]}
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Бажора Ю.И. (ред.) Медицинская паразитология: атлас. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Стандарты диагностики и лечения паразитарных болезней для районных, городских, областных и республиканского уровней. Самарканд: Клиника НИИ медицинской паразитологии им. Л.М. Исаева, Министерство здравоохранения Республики Узбекистан, 2012. xayrullokomilov.uz/kutubxona, material ID 1600."
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "number": 107,
+ "title": "107. Exinokokkoz bilan zararlanishning yo'llari va omili.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Exinokokkozda odam parazit tuxumini og'iz orqali qabul qilganda zararlanadi, shu sababli kasallikni oldini olish uchun yuqish yo'llari va omillarini aniq bilish zarur. Yuqish zanjirida it, qo'y va boshqa chorva hayvonlari, tuproq, ko'kat va odamning o'z gigiena odatlari birga ishtirok etadi [1, 4].",
+   "Ushbu esseda invaziya manbai, yuqish mexanizmi va yo'llari, yuqish omillari, kasbiy va maishiy xavf, tuxumning tashqi muhitdagi saqlanishi hamda bemor epidemiologik kartalari asosida aniqlangan manbalar ko'rib chiqiladi. Oxirida manbalarda yetarli bo'lmagan jihatlar yoziladi [1, 2, 5]."
+  ]},
+  {"heading": "Invaziya manbai", "content": [
+   "Odam uchun asosiy invaziya manbai jinsiy yetilgan exinokokk bilan zararlangan itlardir, ayniqsa daydi va molxona qo'riqlovchi itlar. Boshqa yirtqichlar epidemiologik jihatdan kamroq ahamiyatga ega; tabiiy o'choqlarda yirtqichlar, madaniy o'choqlarda asosan itlar manba hisoblanadi [1, 4].",
+   "Qo'llanmada hayvonlar bir marta zararlanib, 2-3 yil davomida qo'zg'atuvchi manbai bo'lib qolishi mumkinligi yozilgan. Bemor odam esa epidemiologik xavf tug'dirmaydi, chunki tupik xo'jayin sifatida parazitni tashqi muhitga chiqarmaydi va kasallik odamdan odamga yuqmaydi [1, 4, 5]."
+  ]},
+  {"heading": "Yuqish mexanizmi va yo'llari", "content": [
+   "Zararlanish og'iz orqali, parazit tuxumi yoki yetilgan bo'g'imning oshqozon-ichakka tushishi bilan yuz beradi. Qo'llanmada odam zararlanishining uch yo'li ko'rsatilgan: oshqozon-ichak shilliq qavati, nafas yo'llari va o'pka shilliq qavati (asosan molxonalarda) hamda ochiq jarohat yuzasi orqali [1].",
+   "Darslikda zararlanish iflos qo'llar orqali bo'g'im yoki tuxum tushishi va xom sabzavot iste'moli bilan bog'liq deb yozilgan; chang bilan tuxum tushishi istisno qilinmaydi. Atlasda odam tuxumni ifloslangan ovqat, ichimlik yoki kasal it bilan aloqada iflos qo'l orqali yutishi ko'rsatilgan [5, 6]."
+  ]},
+  {"heading": "Itlar bilan bevosita aloqa", "content": [
+   "Bemorlar epidemiologik kartalarini tahlil qilishda zararlanish manbai sifatida eng ko'pi (53,85 foiz) itlar bo'lgan. Qo'llanmada tuxum hayvon junida bo'lishi mumkinligi va hayvonlarni parvarishlagandan keyin qo'lni sovun bilan yaxshilab yuvish zarurligi yozilgan [1].",
+   "Exinokokk tuxumining tashqi qobig'i yopishqoq bo'lib, hayvon juniga va boshqa buyumlarga oson yopishadi. Yetilgan bo'g'imlar itning anal teshigidan o'zi chiqib, tanasida o'rmalashi va tuxum sochishi darslik va atlasda tasvirlangan, shu sababli it tanasi bilan aloqa xavfli [1, 4, 6]."
+  ]},
+  {"heading": "Ifloslangan sabzavot, meva va ko'katlar", "content": [
+   "Qo'llanmada zararlanish ko'pincha exinokokk bilan zararlangan hayvonlarni parvarishlaganda yoki yuvilmagan mevalar iste'mol qilinganda yuz berishi aytilgan. Bemorlar tahlilida ko'katlar ikkinchi o'rinda (15,38 foiz) zararlanish manbai sifatida qayd etilgan [1].",
+   "Darslikda uy-bog' sabzavotlari, yuvilmagan rezavor mevalar va xom sabzavot yuqish omillari sifatida ko'rsatilgan. Qo'llanmada itlar bo'sh yuradigan hovlilarda tuproq, o't-o'lanlar, sabzavot va ko'katlar tuxum bilan ifloslanishi, it najasi zararsizlantirilmasligi sababli tashqi muhit ifloslanishi yozilgan [1, 4]."
+  ]},
+  {"heading": "Suv va tuproq omillari", "content": [
+   "Qo'llanmada tog' cho'ponlari va tog' tumanlari aholisi buloq suvini iste'mol qilishi noqulay epidemiologik omil sifatida ko'rsatilgan, chunki onkosferalar suvga ko'p miqdorda tushadi. Shu sababli tog' cho'ponlari xavf guruhiga kiritilgan [1].",
+   "Tuxumlar sovuq va nam sharoitda uzoq saqlanadi: nam tuproqda 6 darajada yarim yilgacha, 10-20 darajada bir oyga yaqin yashovchanligi qayd etilgan. Darslikda suvda 50 darajada bir soatda, 60 darajada 10 daqiqada, 100 darajada 20 soniyada nobud bo'lishi keltirilgan [1, 5]."
+  ]},
+  {"heading": "Mexanik tashuvchilar va ifloslangan buyumlar", "content": [
+   "Qo'llanmada pashsha va qo'ng'izlar yoki qushlar ham mexanik tashuvchi bo'lishi mumkinligi yozilgan. Yetilgan bo'g'imlar o'zi harakatlanib, silliq yuzada 25 sm radiusda sirg'anishi va devori yirtilib tuxum chiqarishi tufayli molxona tuprog'i, darvoza va devor ham ifloslanadi [1].",
+   "Yo'riqnomada tashqi muhit omillarini aniqlash uchun eshik tutqichlari, chelak, cho'michlar, ketmon, poyabzal, oila a'zolari qo'li, it yotadigan joy va to'shagidan surtma olish ko'zda tutilgan. Bu ro'yxat tuxum bilan ifloslanish ehtimoli eng yuqori bo'lgan buyumlarni ko'rsatadi [2]."
+  ]},
+  {"heading": "Kasbiy va faoliyat bilan bog'liq omillar", "content": [
+   "Qo'llanmada kasallik ko'proq cho'ponlar, sog'uvchilar, mol boquvchilar, fermerlar va it boquvchilarda uchragani yozilgan. Darslikda ovchilar va it bilan doimiy aloqada bo'lgan yoki mo'yna hayvonlari terisini ishlovchi aholi guruhlari orasida exinokokkoz ustun ekani ko'rsatilgan [1, 4].",
+   "Yo'riqnomada yuqish xavfi ov paytida, jun sexlarida, fermalarda, yovvoyi o'tlarni yig'ishda va uy hayvonlari bilan aloqada gigiena qoidalariga rioya qilishga bog'liqligi aytilgan. Bayonnomada yovvoyi yirtqich va itlar terisini shilish va ovdan keyin qo'lni yuvish tavsiya etilgan [2, 3]."
+  ]},
+  {"heading": "Bolalar va maishiy omillar", "content": [
+   "Qo'llanmada maktab yoshidagi o'g'il bolalarda kasallik ko'proq qayd etilgani, buning sababi ularning kattalar bilan mol-qo'y boqishi, parvarishlashi va itlar bilan muloqotda bo'lishi deb tushuntirilgan. 7-15 yoshlilarda serologik tekshiruvda antitela titri nisbatan yuqori topilgan [1].",
+   "Bolalar qo'llari va buyumlarini og'ziga soladi, bu esa tuxum yutish xavfini oshiradi. Qo'llanmada shaxsiy gigiena madaniyati past bo'lgan aholida it saqlash qoidalariga rioya qilinmasligi, it najasining yig'ilmasligi va ichki a'zolar bilan itlarni boqish xavfni oshirishi ta'kidlangan [1, 3]."
+  ]},
+  {"heading": "Epidemiologik kartalar bo'yicha manbalar", "content": [
+   "Qo'llanmadagi jadvalga ko'ra yuqish manbalari taqsimoti quyidagicha: itlardan 53,85, ko'katlardan 15,38, shaxsiy gigiena qoidalariga amal qilmaslikdan 11,55, yirik shoxli qoramollardan 7,69, mushuklardan 1,92 va aniqlanmagan 9,61 foiz. Bu ma'lumot bitta tahlil natijasi hisoblanadi [1].",
+   "Shu bilan birga, qo'llanmada endemik tumanlarda yashamaydigan, hayvonlar bilan yaqin aloqada bo'lmagan ayrim shaharliklar ham kasallanganligi qayd etilgan. Demak xavf omillarini bartaraf etish zararlanish ehtimolini keskin kamaytiradi, lekin uni to'liq yo'q qilmaydi [1]."
+  ]},
+  {"heading": "Ijtimoiy-iqtisodiy va tashkiliy omillar", "content": [
+   "Qo'llanmada chorvachilik yuqori rivojlangan, ijtimoiy-iqtisodiy darajasi past va sanitariya madaniyati past hududlarda kasallik ko'proq tarqalishi, 1990-yillardagi xususiylashtirish va shaxsiy xo'jaliklarda veterinariya-epidemiologik nazoratning susayishi vaziyatni yomonlashtirgani yozilgan [1].",
+   "Hayvonlar orasida nazorat qiyin, chunki it va uy hayvonlarida infeksiya belgisiz kechadi, veterinariya xizmati esa nazoratning ahamiyatini doim ham tushunmaydi. Yo'riqnomada daydi-egasiz itlarni yo'q qilish va zararlangan a'zolarni to'liq yo'qotish ustidan doimiy nazorat ko'zda tutilgan [1, 2]."
+  ]},
+  {"heading": "Itlarga ichki a'zolarni berish va so'yish joylari", "content": [
+   "Itlar zararlangan hayvonlarning ichki a'zolarini yeganda yuqadi: qo'llanmada o'ldirilgan hayvonlardan ajralgan exinokokk pufakchalari it va mushuklar zararlanishining manbai ekani va ular bilan itlarni boqish qat'iy man etilishi aytilgan. Shu tariqa tuxum chiqaruvchi it paydo bo'ladi [1].",
+   "Bayonnomada qishloq xo'jaligi hayvonlarini so'yish joylariga daydi it, mushuk va yirtqich hayvonlar kirishini taqiqlash va ichki a'zolarni itlarga yedirmaslik tavsiya qilingan. Bu choralar odamga yuqish zanjirini hayvonlar bosqichida uzishga qaratilgan [3, 7]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Qo'llanmada O'zbekiston bemorlari orasida har bir yo'lning ulushi kichik tanlamada berilgan, tanlama hajmi ko'rsatilmagan. Shu sababli ushbu ulushlarni respublika uchun umumiy ko'rsatkich sifatida emas, faqat taxminiy ko'rsatkich sifatida qabul qilish mumkin [1].",
+   "Havo-chang yo'li bilan zararlanishning ulushi va mexanik tashuvchilar rolining miqdoriy bahosi ko'rilgan manbalarda yo'q. Qo'llanma nafas yo'llari orqali zararlanishni (asosan molxonalarda) keltiradi, darslik esa chang bilan tuxum kirib kelishi istisno qilinmasligini yozadi [1, 5]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Exinokokkoz bilan zararlanishning asosiy yo'li itlar bilan aloqa, ifloslangan ko'kat, meva va sabzavotlarni yuvmasdan iste'mol qilish hamda iflos qo'l orqali tuxum yutishdir. Yuqish omillariga it najasi bilan ifloslangan tuproq, suv, hayvon juni va buyumlar kiradi; ularni bilish profilaktikaning asosi hisoblanadi [1, 7]."
+  ]}
+ ],
+ "references": [
+  "Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati: o'quv-uslubiy qo'llanma. Toshkent: Toshkent tibbiyot akademiyasi, 2021. xayrullokomilov.uz/kutubxona, material ID 1607.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari (exinokokkozni davolash bayonnomasi). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Медицинская паразитология: атлас / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "World Health Organization. Echinococcosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/echinococcosis"
+ ]
+}

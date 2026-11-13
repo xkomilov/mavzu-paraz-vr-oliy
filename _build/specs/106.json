@@ -1,0 +1,78 @@
+{
+ "number": 106,
+ "title": "106. Exinokokkozning klinika va tashxisi.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Exinokokkoz klinikasi kistaning joylashuvi, kattaligi va bemorning immunologik reaktivligiga bog'liq bo'lib, ko'pincha uzoq vaqt bilinmay kechadi. Shu sababli tashxis faqat shikoyatlarga emas, epidemiologik anamnez, tasviriy tekshiruvlar va serologik natijalarni birga baholashga tayanadi [3, 6].",
+   "Ushbu esseda kasallikning klinik bosqichlari, jigar va o'pka shakllari, asoratlari, alveolyar shakldan farqi, instrumental va laborator tashxis usullari hamda differensial tashxis ketma-ket yoritiladi. Davolash tafsilotlari mavzuning asosiy mazmuni emas, shu sababli qisqa tilga olinadi [3, 4, 7]."
+  ]},
+  {"heading": "Klinik bosqichlar", "content": [
+   "Darslikda kasallikning joylashuvidan qat'i nazar uch bosqichi ajratiladi: onkosfera tushganidan birinchi belgilargacha yashirin bosqich, belgilar paydo bo'ladigan bosqich va asoratlar bosqichi. Birinchi bosqichda bemorlar odatda shikoyat qilmaydi [4].",
+   "Ikkinchi bosqichda kista kattalashib atrofdagi to'qimani siqa boshlaydi va epigastriy, o'ng qovurg'a osti hamda ko'krak qafasining pastki qismida og'riq paydo bo'ladi. Uchinchi bosqich yiringlash, ohaklanish va kistaning plevra yoki qorin bo'shlig'iga yorilishi bilan xarakterlanadi [4]."
+  ]},
+  {"heading": "Inkubatsion davr va bosqichning uzoq davomiyligi", "content": [
+   "JSST ma'lumotiga ko'ra belgisiz inkubatsion davr ko'p yil davom etishi mumkin, ammo davolanishga murojaat qilgan bemorlarning taxminan yarmi zararlanishdan bir necha yil ichida murojaat qiladi. Nospetsifik belgilar sifatida ishtahaning pasayishi, ozish va holsizlik qayd etiladi [7].",
+   "Darslikda kistaning rivojlanishi 3 yildan 10 yilgacha davom etishi, kista 50 sm gacha kattalashishi, bolalarda esa o'pka va miyadagi kistalar bir yilda 5 sm va undan ko'proq o'sishi yozilgan. O'sayotgan kista odatda 6 oydan oldin o'zini namoyon qilmaydi [5]."
+  ]},
+  {"heading": "Jigar exinokokkozi klinikasi", "content": [
+   "Jigar eng ko'p zararlanadigan a'zodir: qo'llanmada qo'zg'atuvchi 85 foiz hollarda jigar va o'pkani shikastlashi, boshqa darslikda esa bemorlarning uchdan ikki qismida jigar zararlanishi yozilgan. Bemorlarda o'ng qovurg'a ostida og'riq va og'irlik va jigar kattalashishi qayd etiladi [1, 4, 5].",
+   "JSST jigarda kistalar paydo bo'lganda qorin og'rig'i, ko'ngil aynishi va qusish uchrashini ko'rsatadi. Darslikda dispeptik holatlar, jigarning sekin kattalashishi va qotishi, vaqti-vaqti bilan toshma hamda eozinofiliya bo'lishi mumkinligi, asemptomatik kechish ham mumkinligi bayon qilingan [4, 7]."
+  ]},
+  {"heading": "O'pka exinokokkozi klinikasi", "content": [
+   "O'pka exinokokkozida darslikka ko'ra qaysar quruq yo'tal, balg'amda qon aralashishi va ko'krak qafasida og'riq kuzatiladi. Kista uzoq vaqt faqat toshma bilan o'tishi, katta bo'lganda esa og'riq, yo'tal va kamroq hansirash paydo bo'lishi yozilgan [4, 5].",
+   "JSST o'pka zararlanganda surunkali yo'tal, ko'krak og'rig'i va nafas qisilishini asosiy belgilar deb ko'rsatadi. Qo'llanmada issiq iqlimda va yuqori haroratda o'pka joylashuvi nisbatan ko'proq uchrashi aytilgan; bolalarda o'ng o'pka bo'lagi tez-tez zararlanishi darslikda keltirilgan [1, 5, 7]."
+  ]},
+  {"heading": "Boshqa a'zolar zararlanishi", "content": [
+   "JSST kistalar jigar va o'pkadan tashqari suyak, buyrak, taloq, mushak va markaziy asab tizimida ham bo'lishi mumkinligini yozadi. Boshqa belgilar kistaning joylashuvi va atrofdagi to'qimaga bosimiga bog'liq bo'ladi [7].",
+   "Darslikda qorin pardasi, miya, yurak, suyak va jinsiy a'zolar zararlanganda o'sma kabi simptomlar paydo bo'lishi ko'rsatilgan. Atlasda jigar va o'pka hollarning 75 foizini tashkil etishi, qolganlari mushak, naysimon suyaklar va miyaga to'g'ri kelishi yozilgan; bu ulush boshqa manbalardan farq qiladi [5, 6]."
+  ]},
+  {"heading": "Asoratlar", "content": [
+   "Eng muhim asoratlar kistaning yiringlashi, yorilishi va yorilganda anafilaktik shok rivojlanishidir. Bayonnomada kasallik og'irligi hayotiy a'zolar faoliyatiga ta'siri hamda kista yorilishi va anafilaktik shok bilan baholanishi ko'rsatilgan; yorilishda skolekslar atrofga tarqalib ikkilamchi kistalar hosil qiladi [3, 5].",
+   "Jigar kistalarida o't yo'llarining siqilishi natijasida obturatsion sariqlik, abssess hosil bo'lishi va uning qorin bo'shlig'iga yorilishi mumkin; o'pkada reaktiv plevrit va kistaning bronxga yorilishi uchraydi. Yorilganda balg'amda skolekslar va kista pardalari topiladi [4, 5]."
+  ]},
+  {"heading": "Alveolyar shaklning farqi", "content": [
+   "JSST alveolyar exinokokkozda belgisiz inkubatsion davr 5-15 yil davom etishini, jigarda o'smaga o'xshash o'choq sekin rivojlanishini va ozish, qorin og'rig'i, umumiy holsizlik, jigar yetishmovchiligi belgilari paydo bo'lishini yozadi. Davolanmasa kasallik zo'rayib o'limga olib keladi [7].",
+   "Qo'llanmada alveokokk infiltrativ o'sishi va amalda kista hosil qilmasligi bilan farq qilishi, atlasda esa klinik jihatdan xavfli o'smaga o'xshashi ta'kidlangan. Metastazlar jigar atrofidagi a'zolarga va o'pka yoki miyaga tarqalishi mumkin [1, 6, 7]."
+  ]},
+  {"heading": "Epidemiologik anamnez va klinik tashxis", "content": [
+   "Tashxis anamnez, jumladan epidemiologik anamnez, klinik manzara va kompleks tekshiruv natijalariga asoslanadi. Atlasda epidemiologik anamnez, a'zodagi mahalliy o'zgarish bilan allergiya belgilarining uyg'unligi va instrumental ma'lumotlar klinik tashxis mezonlari sifatida ko'rsatilgan [4, 6].",
+   "Milliy bayonnomada klinik-epidemiologik belgilar tashxis mezonlarining birinchi qatorida turadi. Itlar bilan aloqa, chorvachilik, qishloq sharoitida yashash va ko'katlarni yuvmasdan iste'mol qilish so'rab aniqlanishi kerak. Yo'riqnomada cho'ponlar, ovchilar, veterinariya xodimlari va it egalari kabi xavf guruhlari har yili IFA bilan serologik tekshirilishi belgilangan [1, 2, 3]."
+  ]},
+  {"heading": "Instrumental tashxis", "content": [
+   "JSST ultratovush tekshiruvini ham kistoz, ham alveolyar exinokokkozda tanlov usuli deb belgilaydi; u odatda kompyuter tomografiya yoki magnit-rezonans tomografiya bilan to'ldiriladi. Rentgenografiyada kistalar tasodifan ham topilishi mumkin [7].",
+   "Milliy bayonnomada rentgenologik belgi sifatida jigar va o'pkada aniq shaklli yumaloq soyalar ko'rsatilgan, UTT, KT va MRT da kistaning aniqlanishi dastlabki tashxis asosi hisoblanadi. Darslikda kista devori ohaklansa yumaloq soya, o'pkada esa bir tekis chegarali yumaloq yoki oval soya ko'rinadi [3, 4]."
+  ]},
+  {"heading": "Serologik va laborator tashxis", "content": [
+   "Umumiy qon tahlilida eozinofiliya va EChT ning tezlashishi qayd etiladi. Serologik tashxisda exinokokk pufagi suyuqligidan olingan antigen bilan IFT va BGAR o'tkaziladi; bayonnomada serologik musbat natija UTT, KT va rentgen bilan birga yakuniy tashxisni tasdiqlashi aytilgan [3].",
+   "Darslikda lateks-agglyutinatsiya va BGAR (RNGA) ishlatilishi yozilgan, atlasda RSK, RNGA, REMA, lateks-agglyutinatsiya va RIF ko'rsatilgan, Katsoni reaksiyasi esa sezgirroq reaksiyalar paydo bo'lgani uchun kam ishlatiladi. JSST antitanalarni aniqlash tashxisni qo'llab-quvvatlashini ta'kidlaydi [4, 6, 7]."
+  ]},
+  {"heading": "Parazitologik tekshiruv va xavfsizlik", "content": [
+   "Bayonnomada parazitologik tashxis (surtma mikroskopiyasi) operatsiya paytida yoki kista yorilib suyuqlik chiqqanda o'tkazilishi qayd etilgan. Bunday hollarda balg'am, o'n ikki barmoqli ichak suyuqligi va siydikdan skolekslar, alohida bo'g'imchalar va «bolalagan pufaklar» topilishi mumkin [3].",
+   "Atlasda tashxis maqsadida kistani teshib suyuqligini mikroskopiya qilish imkoniyati bor, ammo qiz pufaklar bilan obsemenatsiya xavfi sababli keng qo'llanilmaydi. Shu sababli bunday punksiya tashxis uchun odatiy usul emas [6]."
+  ]},
+  {"heading": "Differensial tashxis", "content": [
+   "Bayonnomaga ko'ra jigar exinokokkozi o'smalar, polikistoz va boshqa o'choqli kasalliklar, gepatit, jigar sirrozi va gepatoxolesistitlardan farqlanadi. O'pka va boshqa a'zolar exinokokkozi esa sil, o'smalar va tizimli mikozlar bilan solishtiriladi [3].",
+   "Boshqa milliy bayonnomalarda jigar amyobali abssessi, sistitserkoz va toksokaroz tashxisida ham exinokokkoz bilan farqlash kerakligi ko'rsatilgan. Bu fikr exinokokkozni gumon qilganda boshqa gelmintozlar va parazitar o'choqlarni ham inobatga olish zarurligini bildiradi [3]."
+  ]},
+  {"heading": "Davolash va kuzatuv tamoyillari", "content": [
+   "Milliy bayonnomada davolashning asosiy usuli jarrohlik, kimyoterapiya esa operatsiya xavfli bo'lganda, a'zolar kistalar bilan qoplanganda va qaytalanishning oldini olish uchun belgilanadi. Albendazol kattalarga 400 mg dan kuniga ikki mahal, 28 kunlik 3-4 davr tarzida berilishi yozilgan [3].",
+   "JSST kistoz shakl uchun PAIR, jarrohlik, dori terapiyasi va kuzatish usullarini sanaydi, tanlov ultratovush tasviri va mavjud imkoniyatlarga asoslanishini ta'kidlaydi. Operatsiyadan keyin bemor 5 yil dispanser nazoratida turadi, yangi belgilar yoki serologik titr o'sishida qayta tekshiriladi [3, 7]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Manbalar kistaning kasallik davomida uchrash ulushini turlicha beradi: jigar va o'pka 85 foiz, 75 foiz yoki jigar uchdan ikki qism deb yozilgan. Qaysi raqam O'zbekiston bemorlari uchun to'g'ri ekani ko'rilgan manbalarda aniqlanmadi, shu sababli yagona raqam tanlanmadi [1, 5, 6].",
+   "Yana, bir darslikda tashxis faqat epidemiologik anamnezga asoslanadi deb yozilgan, boshqa manbalar esa kompleks tekshiruvni talab qiladi. Serologik testlarning O'zbekistondagi sezgirligi va o'ziga xosligi bo'yicha raqamlar topilmadi, shuning uchun ular keltirilmadi [4, 5]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Exinokokkoz uzoq yashirin kechadi va o'sayotgan kistaning joyiga qarab turli belgilar beradi, shuning uchun tashxis epidemiologik anamnez, ultratovush, KT yoki MRT, rentgen va serologik natijalarning kombinatsiyasiga tayanadi. Asoratlar, ayniqsa kistaning yorilishi, xavfli bo'lgani uchun parazitolog-shifokor erta aniqlash va kuzatuvni ta'minlashi kerak [3, 7]."
+  ]}
+ ],
+ "references": [
+  "Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati: o'quv-uslubiy qo'llanma. Toshkent: Toshkent tibbiyot akademiyasi, 2021. xayrullokomilov.uz/kutubxona, material ID 1607.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari (exinokokkozni, amyobiazni, sistitserkozni va toksokarozni davolash bayonnomalari). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Медицинская паразитология: атлас / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "World Health Organization. Echinococcosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/echinococcosis"
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "number": 132,
+ "title": "132. Toksoplazmozning etiologiyasi.",
+ "sections": [
+  {"heading": "Kirish", "content": [
+   "Toksoplazmoz Toxoplasma gondii qo'zg'atadigan protozoy kasallik bo'lib, darslikda keng tarqalgan zooantroponoz sifatida ta'riflanadi. Ayrim mamlakatlarda aholining taxminan 70 foizigacha zararlanishi mumkinligi aytilgan, shu sababli qo'zg'atuvchining biologiyasini bilish parazitolog-shifokor uchun muhim [1, 3].",
+   "Ushbu esseda qo'zg'atuvchining tasnifi va nomlanishi, morfologik shakllari, xo'jayinlari, hayot sikli, tashqi muhitdagi chidamliligi va immunitetga ta'siri ko'rib chiqiladi. Yuqish yo'llari va profilaktika alohida mavzularda yoritilgani uchun bu yerda faqat etiologik jihatlar beriladi [1, 2, 5]."
+  ]},
+  {"heading": "Qo'zg'atuvchi va uning tasnifi", "content": [
+   "Darslikka ko'ra toksoplazmoz qo'zg'atuvchisi Toxoplasma gondii Sporozoea sinfi, Coccidiida turkumi va Eimeriina kenja turkumiga mansub. Boshqa bobda toksoplazmalar va bezgak plazmodiylari hujayralar to'plamini hosil qiluvchi Apicomplexa tipiga kiritilgani aytilgan [1].",
+   "Atlasda toksoplazma oddiylar (Protozoa) tipining sporalilar (Sporozoa) sinfiga kiritilgan. Uning hayot sikli murakkab bo'lib, xo'jayinlar almashinuvi hamda jinsiy va jinssiz ko'payishning galma-galligi bilan kechadi, shu sababli etiologiyani tushunishda xo'jayinlarni ajratish zarur [2]."
+  ]},
+  {"heading": "Nomlanishi va kashf etilishi", "content": [
+   "Darslikda turning nomi 1908 yilda Sh. Nikol va L. Manso tomonidan Ctenodactylus gundi kemiruvchisi organizmidan ajratilganiga bog'langani aytilgan. Avlod nomi esa parazitning o'ziga xos yarim oy shaklidan olingan: toxon yunoncha yoy, plasma esa tana ma'nosini bildiradi [1].",
+   "Bu izoh amaliy jihatdan foydali, chunki mikroskopda bo'yalgan surtmada yarim oy shaklidagi hujayra ko'rinsa, toksoplazmani gumon qilish mumkin. Nomning kelib chiqishi parazitning ham kashf etilgan manbasini, ham morfologik xususiyatini bir vaqtda eslatadi va talabalar uchun qulay mnemonik vosita bo'ladi [1]."
+  ]},
+  {"heading": "Endozoit (tezkor ko'payuvchi shakl) morfologiyasi", "content": [
+   "Darslikda toksoplazmalarning uzunligi 4-7, eni 2-4 mkm ekani yozilgan. Romanovskiy-Gimza usulida sitoplazma ko'k, yadro esa qizil tusga bo'yaladi. Parazit hujayradan tashqarida ham, hujayra ichida ham joylashishi mumkin [1].",
+   "Atlasda odam organizmidagi vegetativ shakl endozoit deb nomlanadi: bir uchi o'tkir, ikkinchisi yumaloq, o'tkir uchida konoid va fermentlarga boy roptriyalar joylashgan. Bu apikal kompleks xo'jayin hujayrasining membranasini eritib, parazitning ichkariga kirishini ta'minlaydi, yadro esa bitta [2, 6]."
+  ]},
+  {"heading": "Psevdosista va haqiqiy sista", "content": [
+   "Darslikka ko'ra o'tkir kechishda hujayra sitoplazmasida toksoplazmalar oddiy to'plam, ya'ni psevdosista hosil qiladi. Surunkali jarayonda esa psevdosista zich qobiq oladi va 100 mkm atrofidagi haqiqiy sistaga aylanadi, uning ichida yuzdan ortiq yarim oysimon parazit bo'ladi [1].",
+   "Atlasda haqiqiy sistaning o'lchami 50-200 mkm, psevdosistada esa 12-32 qiz hujayra hosil bo'lishi yozilgan. Sistalar miya, ko'z to'r pardasi, yurak va skelet muskullari, limfa tugunlari, jigar va o'pkada joylashib, xo'jayin hayoti davomida saqlanadi hamda immunitet pasayganda kasallikni qo'zg'atishi mumkin [1, 2]."
+  ]},
+  {"heading": "Ooxista", "content": [
+   "Jinsiy siklda mushuk ichagida zigota hosil bo'ladi, u ooxista deb ataladi va darslikka ko'ra diametri 9-14 mkm. Ooxistaning yakuniy yetilishi tashqi muhitda, ya'ni mushuk najasi bilan chiqqandan keyin sodir bo'ladi [1].",
+   "Atlasga ko'ra tuproqda bir necha kundan keyin ooxista ichida ikkita spora shakllanadi va har birida to'rttadan sporozoit bo'ladi. O'quv qo'llanmada bu jarayon 1-5 kunda yuz berishi, sporozoitlar invazion bo'lib, tashqi muhitda bir necha yil tirik qolishi aytilgan [2, 3]."
+  ]},
+  {"heading": "Xo'jayinlar", "content": [
+   "Asosiy, ya'ni oxirgi xo'jayinlar mushuklar oilasi vakillari: o'quv qo'llanmada uy mushugi va silovsin sanalgan. Oraliq xo'jayin bo'lib barcha sutemizuvchilar, jumladan odam, qushlar, hatto sudralib yuruvchilar xizmat qilishi mumkin. Mushuk esa bir vaqtda ham asosiy, ham oraliq xo'jayin hisoblanadi [2, 3].",
+   "Darslikda odam, hayvonlar va qushlar toksoplazma uchun oraliq xo'jayin ekani, ularda jinssiz ko'payish kechishi qayd etilgan. Mushuklar infeksiyalangan hayvon va qush go'shtini yeganda zararlanadi, o'quv qo'llanmada esa asosiy xo'jayin mushuklar sichqonsimon kemiruvchilarni yeb zararlanishi ko'rsatilgan [1, 3]."
+  ]},
+  {"heading": "Asosiy xo'jayindagi rivojlanish", "content": [
+   "Mushuk ichagiga tushgan parazitlar enterotsitlarda trofozoitga aylanib, jinssiz ko'payadi, shilliq osti qavatda esa mikro- va makrogametalarga o'zgaradi. Ularning qo'shilishidan zigota-ooxista hosil bo'ladi va najas bilan tashqi muhitga chiqariladi [1].",
+   "Atlasda ingichka ichak epiteliysida avval shizogoniya, so'ng gametogoniya kechishi, makro- va mikrogametotsitlardan gametalar paydo bo'lishi tasvirlangan. Zigota qalin qobiq bilan o'ralib, ooxistaga aylanadi; ooxista tashqi muhitda yillar davomida saqlanadi [2]."
+  ]},
+  {"heading": "Oraliq xo'jayindagi rivojlanish", "content": [
+   "Oraliq xo'jayin organizmida endozoitlar ichakdan limfa tizimiga, so'ng ichki a'zolar hujayralariga o'tadi va ikkiga bo'linish yoki ichki kurtaklanish bilan ko'payadi. Hujayra membranasi yorilganda ular qo'shni hujayralarga kiradi, shu davrda parazit so'lak, sut va ko'z yoshi bilan ajraladi [2].",
+   "Ma'ruza materialida tezkor ko'payuvchi shakllar eritrotsitlardan tashqari barcha hujayra turlarini zararlashi, to'qimalarda esa sekin ko'payuvchi shakllardan iborat sistalar hosil bo'lishi ko'rsatilgan. Immun javob kuchaygan sari toksoplazmalar haqiqiy sistalar hosil qiladi va surunkali bosqich boshlanadi [2, 4]."
+  ]},
+  {"heading": "Tashqi muhitdagi chidamlilik", "content": [
+   "Atlasda ooxistalar tashqi muhitda yillar davomida saqlanishi, o'quv qo'llanmada esa bir necha yil tirik qolishi aytilgan. Ma'ruza materialida sporalar tashqi muhitda bir yil va undan ortiq saqlanishi yozilgan, bu manbalar bir-birini to'ldiradi [2, 3, 4].",
+   "JSST hujjatida ooxistalarning atrof-muhitda uzoq saqlanishi va kimyoviy dezinfeksiyalovchi moddalarga yuqori chidamliligi, ammo ultrabinafsha nurlanishga sezgirligi qayd etilgan. Shuningdek ooxistalar suv, oziq-ovqat va tuproq orqali tushishi hamda xom go'shtdagi to'qima sistalari ham zararlantirishi aytilgan [5]."
+  ]},
+  {"heading": "Patogen ta'sir mexanizmi", "content": [
+   "Atlasda patogen ta'sir o'tkir davrda toksoplazmalar ko'payishi natijasida xo'jayin hujayralarining buzilishidan iborat ekani aytilgan. Surunkali davrda miya to'qimasi va ko'z to'r pardasidagi ohaklangan sistalar ko'rlik hamda asab tizimi zararlanishiga olib kelishi mumkin [2].",
+   "O'quv qo'llanmada tezkor shakllar jigar, taloq, asab tizimi, ko'z, skelet muskullari va miokard hujayralariga kirib, ularning sitoplazmasini deyarli to'ldirishi tasvirlangan. Og'ir hollarda kamqonlik, seroz qavatlarga qon quyilishi va pnevmoniya o'choqlari kuzatilishi qayd etilgan [3]."
+  ]},
+  {"heading": "Immunitet", "content": [
+   "Darslikda toksoplazmozda immunitet nosteril, allergik xarakterga ega ekani aytilgan. Maxsus antitanalar kasallikning birinchi haftasi oxirida, ko'pincha 2-3-haftada paydo bo'ladi, eng yuqori titrga 2-3 oyda yetadi va 6-12 oyga kelib minimumgacha kamayadi [1].",
+   "Atlasga ko'ra immunitet pasayganda sistalardagi parazitlar kasallikni qayta qo'zg'atishi mumkin, o'tkir toksoplazmoz esa JSST tomonidan OITS bilan bog'liq kasalliklar qatoriga kiritilgan. Shu sababli etiologik bilimlar immun tanqisligi bor bemorlarni kuzatishda ham zarur [2]."
+  ]},
+  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+   "Qo'zg'atuvchining shakllari laboratoriya usulini belgilaydi: darslikda biopsiya, qon, suyak ko'migi va orqa miya suyuqligi surtmalari Romanovskiy-Gimza bo'yog'i bilan bo'yalishi, oq sichqonlarni zararlash va serologik reaksiyalar qo'llanishi bayon etilgan [1].",
+   "O'quv qo'llanmada IgG antitanalari zararlanish faktini, ko'rsatkichdan kamida ikki marta oshgan IgM esa o'tkir bosqichni bildirishi, PCR va oq sichqonlarda biosinov ham qo'llanishi aytilgan. Ularning o'zi alohida mavzu bo'lgani uchun bu yerda faqat etiologiya bilan bog'liqligi ko'rsatildi [3]."
+  ]},
+  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
+   "Aholining toksoplazma bilan zararlanish darajasi manbalarda turlicha berilgan: darslikda ayrim mamlakatlarda 70 foizgacha, o'quv qo'llanmada 6 dan 90 foizgacha va o'rtacha 30 foiz, ma'ruza materialida taxminan 35 foiz. Bu farqlar turli hududlar va hisoblash usullariga bog'liq bo'lishi mumkin [1, 3, 4].",
+   "O'zbekiston aholisining zararlanish darajasi va hududiy ko'rsatkichlari ko'rilgan manbalarda topilmadi, shu sababli raqam keltirilmaydi. Haqiqiy sistaning o'lchami darslikning ikki joyida 100 mkm va 50-200 mkm ko'rinishida berilgan, bu farq ham hisobotda alohida ko'rsatiladi [1, 2]."
+  ]},
+  {"heading": "Xulosa", "content": [
+   "Toksoplazmozning etiologiyasi Toxoplasma gondii ning murakkab sikli bilan belgilanadi: mushuklarda jinsiy, oraliq xo'jayinlarda jinssiz ko'payish, uch asosiy shakl (endozoit, sista, ooxista) va ooxistalarning tashqi muhitdagi chidamliligi. Bu bilimlar tashxis, epidemiologiya va profilaktikani to'g'ri tushunish asosi bo'ladi [1, 2, 5]."
+  ]}
+ ],
+ "references": [
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Бажора Ю.И. (ред.) Медицинская паразитология: атлас. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Паразиты простейшие: ma'ruza materiali. xayrullokomilov.uz/kutubxona, material ID 1563.",
+  "World Health Organization. Toxoplasma gondii: background document for the WHO guidelines for drinking-water quality and the WHO guidelines on sanitation and health. 2025. https://iris.who.int/items/3a5b7e79-5ca5-4efd-ba33-5ca4ff805101",
+  "Макеев О.Г., Кабонина О.И., Ошурков П.А., Кодолова Г.И., Костюкова С.В. Атлас по медицинской паразитологии. Екатеринбург, 2010. xayrullokomilov.uz/kutubxona, material ID 2738."
+ ]
+}
