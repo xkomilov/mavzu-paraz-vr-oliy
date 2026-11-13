@@ -1,121 +1,112 @@
 {
-  "number": 48,
-  "title": "48. O'zbekiston Respublikasida zoonoz teri leyshmaniozining manbai va tashuvchilariga qarshi kurashda qanday chora- tadbirlar o'tkaziladi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Zoonoz teri leyshmaniozining manbai yovvoyi kemiruvchilar, tashuvchisi iskabtopar chivinlardir, shuning uchun kurash ikki yo'nalishda olib boriladi: kemiruvchilarni va ularning inlarini yo'qotish hamda iskabtoparlarni dala va aholi punktlarida qirish. Bu choralar milliy yo'riqnomada kompleks tarzda belgilangan [1, 2].",
-        "Mavzuda avval kompleks yondashuv va deratizatsiyani tashkil etish, so'ng uning muddati, usullari va xavfsizlik talablari ko'rib chiqiladi. Keyin iskabtoparlarga qarshi dezinseksiya, sanitar va tashkiliy choralar, samara nazorati va manbalardagi farqlar yoritiladi, tasdiqlanmagan jihatlar ochiq yoziladi [1, 3]."
-      ]
-    },
-    {
-      "heading": "Kompleks yondashuv",
-      "content": [
-        "Yo'riqnomada teri leyshmanioziga qarshi kompleks choralar sifatida qum sichqonlariga qarshi kurash, iskabtoparlarga qarshi kurash, individual himoya, kasallarni erta aniqlash, maxsus profilaktika, aholi punktlarini obodonlashtirish va sanitariya-ma'rifat ishlari sanab o'tilgan. Manba va tashuvchiga qaratilgan choralar shu majmuaning asosiy qismini tashkil qiladi [1].",
-        "Respublika markazi taqdimotida tashuvchilarga qarshi kurash kompleks yondashuv asosida qurilishi, bir tashuvchi bir necha infeksiyani tarqatishi mumkinligi va usullar mahalliy ekologiya hamda epidemiologiya bilimlariga tayanishi kerakligi ta'kidlangan. Shu bois choralar o'choqning xususiyatiga qarab tanlanadi [2]."
-      ]
-    },
-    {
-      "heading": "Deratizatsiyani tashkil etish",
-      "content": [
-        "Dala deratizatsiyasi zoolog, entomolog yoki entomolog yordamchisi rahbarligida dezinfektorlar guruhi tomonidan bajariladi. Ish boshlashdan oldin taktik reja tuziladi, hajm, muddat, vositalar, ishchi kuchi va transport hisoblanadi, aholi va korxona rahbarlari ogohlantiriladi, deratizatsiya maydonida hayvon va parranda boqish taqiqlanadi [1].",
-        "Maydon zoologik tekshiriladi va asosiy hujjat sifatida 1:10000 yoki 1:25000 masshtabli kontur xaritasi tuziladi. Xaritada yashaydigan va yashamaydigan to'dalar «+» va «0» belgilari bilan ko'rsatiladi. Qirish aholi punktlaridan boshlab ekin maydonlari tomon olib boriladi, o'choqlar esa sug'orish kanallari va kollektorlar bilan ajralib turadi [1, 5]."
-      ]
-    },
-    {
-      "heading": "Deratizatsiya muddati va masofasi",
-      "content": [
-        "Deratizatsiya aholi punktlari va dala shiyponlaridan 3-5 km radiusli maydonlarda yiliga 3 marta o'tkaziladi: yanvar-mart, may va sentyabr-dekabr. Zaharli yem yog'ingarchiliksiz kunlarda qo'llanadi, ammo asosan erta bahorda (ko'kat chiqmasdan oldin) va kech kuzda o'tkazilishi ma'qul [1, 5].",
-        "Kuzatuvlarga ko'ra muntazam kurash natijasida bir yoz davomida qum sichqonlari tozalangan maydon ichiga 2-2,5 km masofagacha kirib borishi mumkin. Yo'riqnomaga ko'ra 6 km kenglikda deratizatsiya qilinganda hosil bo'lgan himoya maydonida sichqonlar to'dasining aholi punktlariga qochib o'tgan masofasi 3-4 km ga yetadi. Iskabtopar 1,8 km dan ortiq uchmagani uchun bu masofa chivin bilan aloqani uzadi, kasallik yuqishi kamayadi [1]."
-      ]
-    },
-    {
-      "heading": "Zaharli yem usuli",
-      "content": [
-        "Qirishning bir necha usuli bor: xlorpikrin yoki tsianplav gazi bilan zaharlash, o'simlik zaharli preparatlarini purkash, yashil va donli yemlar. Eng ko'p ishlatiladigani rux fosfidi, zookumarin va brodifakumdan tayyorlangan bug'doyli yem bo'lib, uning afzalligi yuqori samara va tayyorlash soddaligidadir [1].",
-        "Yo'riqnomaga ko'ra 1 kg bug'doyga 40 g paxta yog'i va 200 g rux fosfidi qo'shiladi. Rux fosfidi barcha issiq qonli hayvon va odam uchun ham zaharli, shuning uchun yem alohida xonali maxsus laboratoriyada, «Zahar» belgisi qo'yilgan idishlarda, tayyorlangach 2-3 kun ichida ishlatiladi [1]."
-      ]
-    },
-    {
-      "heading": "Mexanik usul",
-      "content": [
-        "Mexanik usulda qum sichqonlari to'dalari traktor yordamida buziladi, bunda zaharli kimyoviy vositalar ishlatilmaydi. Usul bir vaqtning o'zida manbani, tashuvchining yashash joyini va qo'zg'atuvchini yo'qotadi, lekin ariq, kanal bo'ylarida, temir yo'l atrofida va qabristonlarda qo'llanmaydi, u yerda faqat zaharli yem ishlatiladi [1].",
-        "Maydon 100-300 gektarli uchastkalarga bo'linadi, traktor to'dani soat strelkasi bo'yicha 1,5-2 metr radiusda haydaydi, 1 soatda 5-6, kuniga 40-60 to'da. Erta bahorda haydash chuqurligi 50-60 sm, yozda 40-45 sm; 1,5-2 oydan keyin maydon qayta tekshirilib, qolgan to'dalar yana haydaladi [1]."
-      ]
-    },
-    {
-      "heading": "Aholi punktlarida iskabtoparlarga qarshi kurash",
-      "content": [
-        "Iskabtoparlarga qarshi kurash ikki turda o'tkaziladi: birinchisi aprel o'rtasidan may boshigacha, ikkinchisi iyul davomida. Aholi punktida yashaydigan va yashamaydigan har bir xonadondagi iskabtopar ko'payadigan joylar, ya'ni binoning ichki va tashqi devorlari, ayvon, hojatxona, chiqindixona va atrofdagi kemiruvchi inlari zararsizlantiriladi [1].",
-        "Yashash xonalari ichki devorlari uchun xlorofosning 2 foizli suvli eritmasi 100 ml/m2 yoki dilorning 2 foizli suspenziyasi tavsiya etilgan. Ipak qurti boqiladigan tut maydonlarida birinchi tur may oxiri va iyun boshida o'tkaziladi. Zararsizlantirishda inson salomatligiga ta'sir qilmaydigan insektitsidlar tanlanishi kerak [1]."
-      ]
-    },
-    {
-      "heading": "Kemiruvchilar inlarini dezinseksiya qilish",
-      "content": [
-        "Tabiiy o'choqlarda aholi punktidan 3 km radiusdagi barcha kemiruvchilar inlari iskabtoparga qarshi zararsizlantiriladi. Bu ish ikki turda: birinchisi aprelda, iskabtoparlarning birinchi avlodidan oldin, ikkinchisi iyun o'rtasidan iyul o'rtasigacha, ya'ni L. major ni tashishda hal qiluvchi ikkinchi avlodning oldini olish uchun [1].",
-        "Yo'riqnomada inlarni zararsizlantirishni shu hududda deratizatsiya qilgan dezinfektorga topshirish maqsadga muvofiq deyilgan. Tabiiy inlarni dezinseksiya aholi xonadonlariga nisbatan oson va qisqa muddatda o'tadi, shuning uchun kurashni inlardan boshlash afzal, chunki ipak qurti davri aholi punktidagi ishni kechiktirishi mumkin [1]."
-      ]
-    },
-    {
-      "heading": "Sanitar va shaxsiy himoya choralari",
-      "content": [
-        "Sanitar-obodonlashtirish axlat va go'ngdan tozalash, kemiruvchi inlarini buzish, tashlandiq bostirmalarni buzish, qabristonlarni obodonlashtirish kabi ishlarni o'z ichiga oladi va 3-5 km radiusda xo'jalik tashkilotlari tomonidan bajariladi. U iskabtoparlarning ko'payish joylarini yo'qotib, kimyoviy ishlov bosimini kamaytiradi [1].",
-        "Shaxsiy himoya iskabtopar hujumidan repellentlar, himoya vositalari va to'rlar bilan ta'minlanadi. Qurilish loyihalashtirilganda DSENM xodimlari tabiiy o'choq yaqinida 3-5 km radiusda yerni haydash va tekislashni taklif qiladi. Aholi targ'iboti bu choralarning bajarilishini yengillashtiradi. Aholi punktlarini loyihalash bosqichida ham profilaktika choralari nazarda tutiladi [1, 3]."
-      ]
-    },
-    {
-      "heading": "Tashkiliy choralar",
-      "content": [
-        "121-son buyruq Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan, Samarqand viloyatlari va Qoraqalpog'iston DSENMlaridagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirish va moddiy-texnik bazasini mustahkamlashni belgilagan. Bu otryadlar kemiruvchilar va iskabtoparlarga qarshi ishlarni amalda bajaradi. Shu tariqa kurash amaliy tashkiliy tuzilmaga ega bo'ladi [4].",
-        "Taqdimotda viloyat hokimliklariga zaharli kimyoviy moddalar, yem tayyorlash mahsulotlari, transport va yoqilg'i ajratish, otryadlarni jihozlash hamda ishlov rejalari, muddatlari va hajmlarini qayta ko'rib chiqish, ularning samaradorligini tekshirish bo'yicha takliflar tayyorlash vazifalari sanab o'tilgan. Bu takliflar choralarni moliyaviy va texnik jihatdan ta'minlashga qaratilgan [2]."
-      ]
-    },
-    {
-      "heading": "Samarani nazorat qilish",
-      "content": [
-        "Deratizatsiya o'tkazilgandan keyin albatta uning samarasi tekshiriladi. Har bir dezinfektorga ma'lum maydon beriladi va u oyiga 2 marta natijani tekshirib, tirik uyalar qolgan bo'lsa ularni dorilaydi. Viloyat va tuman DSENMlarida tajribali mutaxassis rahbarligida nazorat guruhlari tashkil etiladi [1, 5].",
-        "Iskabtoparlarga qarshi ishlov samarasi dorilashdan oldingi va keyingi sonni solishtirish orqali baholanadi. Lebedevaning taqdimotida xonalardagi ishlov samarasi 24 soatdan keyin, so'ng har 3-5 sutkada preparat kamida 80 foiz artropodlar nobud bo'lishini ta'minlaguncha tekshirilishi aytilgan. Batafsilroq usullar keyingi mavzuda ko'riladi [1, 6]."
-      ]
-    },
-    {
-      "heading": "Cheklovlar va manbalardagi farqlar",
-      "content": [
-        "JSST tavsiyasiga ko'ra kemiruvchilar ustidan nazorat yuqori natija beradi, ammo bu usullar qimmat. Darslikda esa moliyaviy cheklovlar sabab hozir qum sichqonlarini yo'qotish o'tkazilmasligi, uy-joy va inlarga insektitsid purkash kam samarali ekani aytilgan, shu sababli manbalar samara baholarida farq qiladi [2, 7].",
-        "Yo'riqnoma esa dezinseksiya va deratizatsiyani zarur kompleks deb belgilaydi. Bu ziddiyat har ikki yondashuv har xil davr va sharoitga tegishli bo'lishi mumkinligini ko'rsatadi. Parazitolog amaldagi hududiy plan va resurslarga qarab, tadbirlar samarasini o'zi baholaydi [1, 7]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Parazitolog-shifokor choralarning rejasi, hajmi, muddati va hisobotini bilishi kerak. Hisobotda qum sichqonlari to'dalari xaritasi, deratizatsiyadan oldingi va keyingi soni, iskabtoparlar soni, ish sifati hamda ishlatilgan kimyoviy vositalar dozasi aks etishi shart. Shu hujjatlar asosida o'tkazilgan ishlarning sifati va hajmi baholanadi [1].",
-        "Jarayonda xavfsizlik ham muhim: zaharli yem alohida xonalarda tayyorlanadi, mutaxassis maxsus tayyorgarlikdan o'tgan bo'lishi kerak, idishlarda «Zahar» belgisi bo'ladi. Bu talablar aholi, uy hayvonlari va suv manbalarini himoya qilish uchun mo'ljallangan. Xavfsizlik qoidalariga amal qilish zaharli vositalar bilan ishlashda majburiy [1]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Yo'riqnomada iskabtoparlarga qarshi DDT va geksoxloran kabi xlorli uglevodorodlar tilga olingan, ammo ularning qo'llanishi cheklanganligi ham aytilgan. Bu preparatlar bugungi amaliyot uchun tavsiya qilinmadi va ularning dozalari keltirilmadi; amaldagi ruxsat etilgan vositalar va me'yorlar alohida tekshirilishi kerak [1].",
-        "Lebedeva tomonidan tayyorlangan deratizatsiya usullari va rodentitsidlar sarfini hisoblash taqdimotlarining matni olinmadi, chunki ular rasmli slaydlardan iborat. Shu sababli rodentitsid sarfi hisob-kitoblari va hududlar bo'yicha hozirgi deratizatsiya hajmi to'g'risida raqam keltirilmadi. Hududiy hisobotlar bilan solishtirish uchun parazitologiya bo'limlaridagi joriy ma'lumotlar kerak bo'ladi [8, 9]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "O'zbekistonda zoonoz teri leyshmaniozining manbai (katta va qizil dumli qum sichqonlari) ga qarshi dala deratizatsiyasi va in-to'dalarni mexanik buzish, tashuvchi iskabtoparlarga qarshi esa aholi punktlarida hamda kemiruvchilar inlarida dezinseksiya, sanitar-obodonlashtirish va shaxsiy himoya o'tkaziladi. Natija otryadlar ishi va samara nazoratiga bog'liq [1, 4]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432.",
-    "Xamiraev A.I. Kemiruvchilarni hisoblash va deratizatsiya samaradorligini nazorat qilishda qo'llaniladigan usullari (taqdimot). Surxondaryo viloyat SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1583.",
-    "Методики обследования и учета москитов и контроля дезинсекции (Лебедева, taqdimot). xayrullokomilov.uz/kutubxona, material ID 1572.",
-    "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Методы и средства дератизации (Лебедева, 2021, taqdimot). xayrullokomilov.uz/kutubxona, material ID 1571.",
-    "Родентициды. Расчеты по потребностям и по расходу (Лебедева, 2021, taqdimot). xayrullokomilov.uz/kutubxona, material ID 1567."
-  ]
+ "number": 48,
+ "title": "48. O'zbekiston Respublikasida zoonoz teri leyshmaniozining manbai va tashuvchilariga qarshi kurashda qanday chora- tadbirlar o'tkaziladi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Zoonoz teri leyshmaniozining manbai yovvoyi kemiruvchilar, tashuvchisi iskabtopar chivinlardir, shuning uchun kurash ikki yo'nalishda olib boriladi: kemiruvchilarni va ularning inlarini yo'qotish hamda iskabtoparlarni dala va aholi punktlarida qirish. Bu choralar milliy yo'riqnomada kompleks tarzda belgilangan [1, 2].",
+    "Mavzuda avval kompleks yondashuv va deratizatsiyani tashkil etish, so'ng uning muddati, usullari va xavfsizlik talablari ko'rib chiqiladi. Keyin iskabtoparlarga qarshi dezinseksiya, sanitar va tashkiliy choralar, samara nazorati va manbalardagi farqlar yoritiladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Kompleks yondashuv",
+   "content": [
+    "Yo'riqnomada teri leyshmanioziga qarshi kompleks choralar sifatida qum sichqonlariga qarshi kurash, iskabtoparlarga qarshi kurash, individual himoya, kasallarni erta aniqlash, maxsus profilaktika, aholi punktlarini obodonlashtirish va sanitariya-ma'rifat ishlari sanab o'tilgan. Manba va tashuvchiga qaratilgan choralar shu majmuaning asosiy qismini tashkil qiladi [1].",
+    "Respublika markazi taqdimotida tashuvchilarga qarshi kurash kompleks yondashuv asosida qurilishi, bir tashuvchi bir necha infeksiyani tarqatishi mumkinligi va usullar mahalliy ekologiya hamda epidemiologiya bilimlariga tayanishi kerakligi ta'kidlangan. Shu bois choralar o'choqning xususiyatiga qarab tanlanadi [2]."
+   ]
+  },
+  {
+   "heading": "Deratizatsiyani tashkil etish",
+   "content": [
+    "Dala deratizatsiyasi zoolog, entomolog yoki entomolog yordamchisi rahbarligida dezinfektorlar guruhi tomonidan bajariladi. Ish boshlashdan oldin taktik reja tuziladi, hajm, muddat, vositalar, ishchi kuchi va transport hisoblanadi, aholi va korxona rahbarlari ogohlantiriladi, deratizatsiya maydonida hayvon va parranda boqish taqiqlanadi [1].",
+    "Maydon zoologik tekshiriladi va asosiy hujjat sifatida 1:10000 yoki 1:25000 masshtabli kontur xaritasi tuziladi. Xaritada yashaydigan va yashamaydigan to'dalar «+» va «0» belgilari bilan ko'rsatiladi. Qirish aholi punktlaridan boshlab ekin maydonlari tomon olib boriladi, o'choqlar esa sug'orish kanallari va kollektorlar bilan ajralib turadi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Deratizatsiya muddati va masofasi",
+   "content": [
+    "Deratizatsiya aholi punktlari va dala shiyponlaridan 3-5 km radiusli maydonlarda yiliga 3 marta o'tkaziladi: yanvar-mart, may va sentyabr-dekabr. Zaharli yem yog'ingarchiliksiz kunlarda qo'llanadi, ammo asosan erta bahorda (ko'kat chiqmasdan oldin) va kech kuzda o'tkazilishi ma'qul [1, 5].",
+    "Kuzatuvlarga ko'ra muntazam kurash natijasida bir yoz davomida qum sichqonlari tozalangan maydon ichiga 2-2,5 km masofagacha kirib borishi mumkin. Yo'riqnomaga ko'ra 6 km kenglikda deratizatsiya qilinganda hosil bo'lgan himoya maydonida sichqonlar to'dasining aholi punktlariga qochib o'tgan masofasi 3-4 km ga yetadi. Iskabtopar 1,8 km dan ortiq uchmagani uchun bu masofa chivin bilan aloqani uzadi, kasallik yuqishi kamayadi [1]."
+   ]
+  },
+  {
+   "heading": "Zaharli yem usuli",
+   "content": [
+    "Qirishning bir necha usuli bor: xlorpikrin yoki tsianplav gazi bilan zaharlash, o'simlik zaharli preparatlarini purkash, yashil va donli yemlar. Eng ko'p ishlatiladigani rux fosfidi, zookumarin va brodifakumdan tayyorlangan bug'doyli yem bo'lib, uning afzalligi yuqori samara va tayyorlash soddaligidadir [1].",
+    "Yo'riqnomaga ko'ra 1 kg bug'doyga 40 g paxta yog'i va 200 g rux fosfidi qo'shiladi. Rux fosfidi barcha issiq qonli hayvon va odam uchun ham zaharli, shuning uchun yem alohida xonali maxsus laboratoriyada, «Zahar» belgisi qo'yilgan idishlarda, tayyorlangach 2-3 kun ichida ishlatiladi [1]."
+   ]
+  },
+  {
+   "heading": "Mexanik usul",
+   "content": [
+    "Mexanik usulda qum sichqonlari to'dalari traktor yordamida buziladi, bunda zaharli kimyoviy vositalar ishlatilmaydi. Usul bir vaqtning o'zida manbani, tashuvchining yashash joyini va qo'zg'atuvchini yo'qotadi, lekin ariq, kanal bo'ylarida, temir yo'l atrofida va qabristonlarda qo'llanmaydi, u yerda faqat zaharli yem ishlatiladi [1].",
+    "Maydon 100-300 gektarli uchastkalarga bo'linadi, traktor to'dani soat strelkasi bo'yicha 1,5-2 metr radiusda haydaydi, 1 soatda 5-6, kuniga 40-60 to'da. Erta bahorda haydash chuqurligi 50-60 sm, yozda 40-45 sm; 1,5-2 oydan keyin maydon qayta tekshirilib, qolgan to'dalar yana haydaladi [1]."
+   ]
+  },
+  {
+   "heading": "Aholi punktlarida iskabtoparlarga qarshi kurash",
+   "content": [
+    "Iskabtoparlarga qarshi kurash ikki turda o'tkaziladi: birinchisi aprel o'rtasidan may boshigacha, ikkinchisi iyul davomida. Aholi punktida yashaydigan va yashamaydigan har bir xonadondagi iskabtopar ko'payadigan joylar, ya'ni binoning ichki va tashqi devorlari, ayvon, hojatxona, chiqindixona va atrofdagi kemiruvchi inlari zararsizlantiriladi [1].",
+    "Yashash xonalari ichki devorlari uchun xlorofosning 2 foizli suvli eritmasi 100 ml/m2 yoki dilorning 2 foizli suspenziyasi tavsiya etilgan. Ipak qurti boqiladigan tut maydonlarida birinchi tur may oxiri va iyun boshida o'tkaziladi. Zararsizlantirishda inson salomatligiga ta'sir qilmaydigan insektitsidlar tanlanishi kerak [1]."
+   ]
+  },
+  {
+   "heading": "Kemiruvchilar inlarini dezinseksiya qilish",
+   "content": [
+    "Tabiiy o'choqlarda aholi punktidan 3 km radiusdagi barcha kemiruvchilar inlari iskabtoparga qarshi zararsizlantiriladi. Bu ish ikki turda: birinchisi aprelda, iskabtoparlarning birinchi avlodidan oldin, ikkinchisi iyun o'rtasidan iyul o'rtasigacha, ya'ni L. major ni tashishda hal qiluvchi ikkinchi avlodning oldini olish uchun [1].",
+    "Yo'riqnomada inlarni zararsizlantirishni shu hududda deratizatsiya qilgan dezinfektorga topshirish maqsadga muvofiq deyilgan. Tabiiy inlarni dezinseksiya aholi xonadonlariga nisbatan oson va qisqa muddatda o'tadi, shuning uchun kurashni inlardan boshlash afzal, chunki ipak qurti davri aholi punktidagi ishni kechiktirishi mumkin [1]."
+   ]
+  },
+  {
+   "heading": "Sanitar va shaxsiy himoya choralari",
+   "content": [
+    "Sanitar-obodonlashtirish axlat va go'ngdan tozalash, kemiruvchi inlarini buzish, tashlandiq bostirmalarni buzish, qabristonlarni obodonlashtirish kabi ishlarni o'z ichiga oladi va 3-5 km radiusda xo'jalik tashkilotlari tomonidan bajariladi. U iskabtoparlarning ko'payish joylarini yo'qotib, kimyoviy ishlov bosimini kamaytiradi [1].",
+    "Shaxsiy himoya iskabtopar hujumidan repellentlar, himoya vositalari va to'rlar bilan ta'minlanadi. Qurilish loyihalashtirilganda DSENM xodimlari tabiiy o'choq yaqinida 3-5 km radiusda yerni haydash va tekislashni taklif qiladi. Aholi targ'iboti bu choralarning bajarilishini yengillashtiradi. Aholi punktlarini loyihalash bosqichida ham profilaktika choralari nazarda tutiladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Tashkiliy choralar",
+   "content": [
+    "121-son buyruq Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan, Samarqand viloyatlari va Qoraqalpog'iston DSENMlaridagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirish va moddiy-texnik bazasini mustahkamlashni belgilagan. Bu otryadlar kemiruvchilar va iskabtoparlarga qarshi ishlarni amalda bajaradi. Shu tariqa kurash amaliy tashkiliy tuzilmaga ega bo'ladi [4].",
+    "Taqdimotda viloyat hokimliklariga zaharli kimyoviy moddalar, yem tayyorlash mahsulotlari, transport va yoqilg'i ajratish, otryadlarni jihozlash hamda ishlov rejalari, muddatlari va hajmlarini qayta ko'rib chiqish, ularning samaradorligini tekshirish bo'yicha takliflar tayyorlash vazifalari sanab o'tilgan. Bu takliflar choralarni moliyaviy va texnik jihatdan ta'minlashga qaratilgan [2]."
+   ]
+  },
+  {
+   "heading": "Samarani nazorat qilish",
+   "content": [
+    "Deratizatsiya o'tkazilgandan keyin albatta uning samarasi tekshiriladi. Har bir dezinfektorga ma'lum maydon beriladi va u oyiga 2 marta natijani tekshirib, tirik uyalar qolgan bo'lsa ularni dorilaydi. Viloyat va tuman DSENMlarida tajribali mutaxassis rahbarligida nazorat guruhlari tashkil etiladi [1, 5].",
+    "Iskabtoparlarga qarshi ishlov samarasi dorilashdan oldingi va keyingi sonni solishtirish orqali baholanadi. Lebedevaning taqdimotida xonalardagi ishlov samarasi 24 soatdan keyin, so'ng har 3-5 sutkada preparat kamida 80 foiz artropodlar nobud bo'lishini ta'minlaguncha tekshirilishi aytilgan. Batafsilroq usullar keyingi mavzuda ko'riladi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Cheklovlar va manbalardagi farqlar",
+   "content": [
+    "JSST tavsiyasiga ko'ra kemiruvchilar ustidan nazorat yuqori natija beradi, ammo bu usullar qimmat. Darslikda esa moliyaviy cheklovlar sabab hozir qum sichqonlarini yo'qotish o'tkazilmasligi, uy-joy va inlarga insektitsid purkash kam samarali ekani aytilgan, shu sababli manbalar samara baholarida farq qiladi [2, 7].",
+    "Yo'riqnoma esa dezinseksiya va deratizatsiyani zarur kompleks deb belgilaydi. Bu ziddiyat har ikki yondashuv har xil davr va sharoitga tegishli bo'lishi mumkinligini ko'rsatadi. Parazitolog amaldagi hududiy plan va resurslarga qarab, tadbirlar samarasini o'zi baholaydi [1, 7]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor choralarning rejasi, hajmi, muddati va hisobotini bilishi kerak. Hisobotda qum sichqonlari to'dalari xaritasi, deratizatsiyadan oldingi va keyingi soni, iskabtoparlar soni, ish sifati hamda ishlatilgan kimyoviy vositalar dozasi aks etishi shart. Shu hujjatlar asosida o'tkazilgan ishlarning sifati va hajmi baholanadi [1].",
+    "Jarayonda xavfsizlik ham muhim: zaharli yem alohida xonalarda tayyorlanadi, mutaxassis maxsus tayyorgarlikdan o'tgan bo'lishi kerak, idishlarda «Zahar» belgisi bo'ladi. Bu talablar aholi, uy hayvonlari va suv manbalarini himoya qilish uchun mo'ljallangan. Xavfsizlik qoidalariga amal qilish zaharli vositalar bilan ishlashda majburiy [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda zoonoz teri leyshmaniozining manbai (katta va qizil dumli qum sichqonlari) ga qarshi dala deratizatsiyasi va in-to'dalarni mexanik buzish, tashuvchi iskabtoparlarga qarshi esa aholi punktlarida hamda kemiruvchilar inlarida dezinseksiya, sanitar-obodonlashtirish va shaxsiy himoya o'tkaziladi. Natija otryadlar ishi va samara nazoratiga bog'liq [1, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432.",
+  "Xamiraev A.I. Kemiruvchilarni hisoblash va deratizatsiya samaradorligini nazorat qilishda qo'llaniladigan usullari (taqdimot). Surxondaryo viloyat SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1583.",
+  "Методики обследования и учета москитов и контроля дезинсекции (Лебедева, taqdimot). xayrullokomilov.uz/kutubxona, material ID 1572.",
+  "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737."
+ ]
 }

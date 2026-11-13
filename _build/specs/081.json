@@ -1,73 +1,111 @@
 {
-  "number": 81,
-  "title": "81. Gimenolepidozning klinikasi va tashxisi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Gimenolepidoz kontagioz antroponoz ichak gelmintozi bo'lib, oshqozon-ichak faoliyatining buzilishi, umumiy zaharlanish, allergik reaksiya va dispeptik belgilar bilan o'tadi. Klinik manzarasi nomaxsus bo'lgani uchun tashxis faqat klinik va epidemiologik ma'lumotlarga emas, parazitologik tasdiqqa tayanadi [1].",
-      "Mavzuda kasallikning klinik davrlari, asosiy va kam uchraydigan belgilari, umumiy qon tahlili o'zgarishlari, parazitologik tashxis usullari, najas olish qoidalari, differensial tashxis va davolashdan keyingi nazorat ketma-ket ko'riladi. Har bir bo'limda milliy bayonnoma va yo'riqnomalar asos qilib olindi [1, 4, 5]."
-    ]},
-    {"heading": "Kasallikning tasnifi va og'irlik mezonlari", "content": [
-      "Davolash bayonnomasida gimenolepidozning rasmiy tasnifi yo'qligi qayd etilgan. Og'irlik darajasi zaharlanish sindromining yaqqolligi va kasallik jarayoniga asab tizimining jalb qilinishi bilan baholanadi [1].",
-      "Demak, shifokor ichak belgilari bilan birga zaharlanish va asab tizimi ko'rinishlarini alohida baholashi kerak. Tashxis qo'yishda faqat shikoyatlarga ishonish noto'g'ri, chunki ular boshqa ichak gelmintozlariga ham xosdir [1]."
-    ]},
-    {"heading": "Dastlabki davr va tuxum ajralishi", "content": [
-      "Darslikdagi klinik-diagnostik jadvalda gimenolepidozning inkubatsion davri aniqlanmagan deb ko'rsatilgan. Zararlanish paytidan najasda tuxum paydo bo'lguncha taxminan 2 hafta o'tadi, ya'ni undan oldin koprologik tekshiruv manfiy bo'lishi mumkin [2].",
-      "Bu muddat tashxisni tanlashda ahamiyatlidir: yaqinda zararlangan bolada bir marta manfiy natija kasallikni inkor etmaydi. Shu bois bayonnoma va yo'riqnoma tekshiruvni bir necha marta takrorlashni talab qiladi [1, 5]."
-    ]},
-    {"heading": "Asosiy klinik belgilar", "content": [
-      "Eng ko'p uchraydigan shikoyatlar qorin og'rig'i, ishtaha pasayishi, beqaror axlat, bosh og'rig'i, umumiy holsizlik, tez charchash va asabiylashishdir. Jadvalda dispeptik buzilishlar, ba'zan tez-tez axlat, og'riq xurujlari va jigar o'lchamining kattalashishi ham keltirilgan [2].",
-      "Boshqa darslikda ko'ngil aynishi, kekirish, beqaror axlat va ko'proq kindik atrofidagi qorin og'rig'i yozilgan. Kichik ichak devorining yetuk gijjalar va lichinkalar tomonidan mexanik shikastlanishi bu belgilarning asosiy sababi hisoblanadi [3]."
-    ]},
-    {"heading": "Alomatsiz va qisqa kechish", "content": [
-      "Zararlanishning taxminan uchdan bir qismida kasallik klinik jihatdan namoyon bo'lmaydi. Boshqa manbada ham gimenolepidoz alomatsiz yoki subklinik kechishi mumkinligi ta'kidlangan [2, 3].",
-      "Kasallik odatda qisqa, 1-3 oy davom etadi, chunki qayta zararlanishga to'sqinlik qiluvchi immunitet rivojlanadi. Biroq alomatsiz bolalar najasga tuxum ajratib jamoa uchun manba bo'lib qoladi, shuning uchun faqat shikoyat bor bolalarni tekshirish yetarli emas [3]."
-    ]},
-    {"heading": "Asab va boshqa tizimlar o'zgarishi", "content": [
-      "Darslikda bolalarda epileptiform tutqanoqlar mumkin bo'lgan asorat sifatida keltirilgan, shuningdek bosh og'rig'i va asabiylashish qayd etilgan. Bayonnomada ham og'irlik mezoni sifatida asab tizimining jarayonga qo'shilish darajasi ko'rsatilgan [1, 2].",
-      "Allergik reaksiyalar va intoksikatsiya belgilari davolash tanlovida inobatga olinadi: bayonnomada degelmintizatsiya oldidan polivitaminlar va antigistamin vositalar tavsiya etiladi. Bu kasallikni faqat ichak jarayoni deb emas, umumiy organizm reaksiyasi sifatida baholashni talab qiladi [1]."
-    ]},
-    {"heading": "Umumiy qon va biokimyoviy o'zgarishlar", "content": [
-      "Umumiy qon tahlilida eozinofiliya, EChT oshishi va kamqonlik, biokimyoda aminotransferazalar ko'payishi kuzatilishi mumkin. Bayonnomada bu o'zgarishlar nomaxsus ekani alohida ta'kidlangan [1].",
-      "Klinik va epidemiologik belgilar hamda parazitologik tekshiruvsiz bu o'zgarishlar asosida tashxis qo'yish mumkin emas. Ular faqat bemorning umumiy holatini baholashga, kamqonlik yoki allergiyani aniqlashga yordam beradi [1]."
-    ]},
-    {"heading": "Parazitologik tashxis usullari", "content": [
-      "Bayonnomada parazitologik tashxis uchun Kato va Kalantaryan boyitish usullari, Gogol-Lerner usuli hamda nativ surtma ko'rsatilgan. Laboratoriya yo'riqnomasida gimenolepidozda nativ surtma, sedimentatsiya va flotatsiya usullari qo'llanadigan kasalliklar qatoriga kiritilgan [1, 4].",
-      "Darslikda Kalantaryan va Fyulleborn flotatsiya usullari ko'rsatilgan. Bu usullar najasdan tuxumlarni boyitib ajratishga asoslangan, nativ surtma esa ularni bevosita ko'rishga imkon beradi [3, 4]."
-    ]},
-    {"heading": "Najas namunasini olish va tekshirish qoidalari", "content": [
-      "Pakana gijja tuxumlari tez nobud bo'ladi, shu sababli najas ajralgandan keyingi dastlabki 2 soatda tekshirilishi kerak. Tekshiruv 5-7 kun oralatib 3 marta o'tkaziladi, yo'riqnomada ham shu tartib ko'rsatilgan [1, 5].",
-      "Darslikda o'choqlarda 15-20 kun oralig'ida Kalantaryan usuli bilan uch martalik tekshiruv tavsiya etilgan. Bu farq tuxum ajralishining davriyligiga asoslanadi, biroq milliy me'yor sifatida 5-7 kunlik oraliq qabul qilingan [2, 5]."
-    ]},
-    {"heading": "Tuxumning mikroskopik belgilari", "content": [
-      "Najasda gijja tuxumi yupqa rangsiz po'stli bo'lib, ichida ilmoqli onkosfera joylashadi, onkosfera po'stidan buralgan iplar chiqadi. Tuxum diametri 40-50 mkm [2].",
-      "Laboratoriya yo'riqnomasida Kato usulida tayyorlangan preparatlarni uzoq saqlash mumkinligi aytilgan, lekin ankilostomid va pakana gijja tuxumlari bundan mustasno. Shu sababli bunday preparat darhol ko'rib chiqilishi kerak [4]."
-    ]},
-    {"heading": "Differensial tashxis", "content": [
-      "Bayonnomaga ko'ra gimenolepidoz boshqa ichak parazitozlari, ya'ni difillobotrioz, teniooz, enterobioz va lyamblioz bilan farqlanadi. Ularning ko'pchiligida dispeptik belgilar o'xshash bo'lgani uchun laboratoriya natijasi hal qiluvchi [1].",
-      "Kalamush tasmasimon gijjasi H. diminuta keltirib chiqargan holat alomatlari bo'yicha pakana gijjadan farq qilmaydi. Ularni gijja uzunligi, bo'g'imlari va tuxum shakli bo'yicha farqlash mumkin [2, 4]."
-    ]},
-    {"heading": "Davolash va nazorat", "content": [
-      "Bayonnomada tashxis qo'yilgach bemorni tezda statsionar yoki kunduzgi statsionarda davolash tavsiya etilgan. Praziquantel bir marta 25 mg/kg dozada beriladi, zarur bo'lsa 10 kundan keyin takrorlanadi, niklozamid bir necha sxemada qo'llanadi [1].",
-      "Nazorat muddatlari hujjatlarda farq qiladi: bayonnomada davolash tugagach 3 haftadan keyin 3 marta tekshirish va 6 oy dispanser kuzatuvi, yo'riqnomada 1, 3, 6 oyda tekshirish, standartda esa 24 kundan keyin manfiy koproskopiya ko'rsatilgan [1, 5, 6]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog uchun asosiy qoida nomaxsus belgilar va qon o'zgarishlariga emas, tuxumni topishga tayanishdir. Namunaning yangiligi, takroriy tekshiruv va to'g'ri usul tanlash natijaning ishonchliligini belgilaydi [1, 4].",
-      "Alomatsiz bolalarni ham tekshirish jamoadagi manbalarni aniqlash uchun zarur. Shu sababli klinik tashxis bilan birga rejali profilaktik tekshiruvlar tizimi kasallikni o'z vaqtida topishning asosiy sharti hisoblanadi [3, 5]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Manbalarda gimenolepidozning inkubatsion davri aniq berilmagan, darslik jadvalida u aniqlanmagan deb ko'rsatilgan. Tuxum ajralishining taxminiy 2 haftalik muddati ham faqat bitta darslikdan olindi, milliy hujjatlarda uni tasdiqlovchi ma'lumot topilmadi [2].",
-      "Nazorat tekshiruvlarining muddati va davomiyligi to'rt manbada turlicha: 3 hafta, 24 kun, 1-3-6 oy va 6 oy davomida to'rt tekshiruv. Praziquantel dozasi faqat bayonnomadan olindi, uni yosh va vaznga qarab qo'llashdan oldin amaldagi hujjat bilan solishtirish kerak [1, 2, 5, 6]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Gimenolepidozning klinikasi nomaxsus va ko'pincha yengil yoki alomatsiz o'tadi, shuning uchun tashxis najasda tuxum yoki gijja topishga asoslanadi. Namunani yangi holda, 5-7 kun oralatib 3 marta tekshirish, flotatsiya yoki Kato usulidan foydalanish va davolashdan keyin nazoratni tashkil etish kasallikni to'g'ri aniqlashning asosiy shartlaridir [1, 4, 5]."
-    ]}
-  ],
-  "references": [
-    "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560."
-  ]
+ "number": 81,
+ "title": "81. Gimenolepidozning klinikasi va tashxisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Gimenolepidoz kontagioz antroponoz ichak gelmintozi bo'lib, oshqozon-ichak faoliyatining buzilishi, umumiy zaharlanish, allergik reaksiya va dispeptik belgilar bilan o'tadi. Klinik manzarasi nomaxsus bo'lgani uchun tashxis faqat klinik va epidemiologik ma'lumotlarga emas, parazitologik tasdiqqa tayanadi [1].",
+    "Mavzuda kasallikning klinik davrlari, asosiy va kam uchraydigan belgilari, umumiy qon tahlili o'zgarishlari, parazitologik tashxis usullari, najas olish qoidalari, differensial tashxis va davolashdan keyingi nazorat ketma-ket ko'riladi. Har bir bo'limda milliy bayonnoma va yo'riqnomalar asos qilib olindi [1, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Kasallikning tasnifi va og'irlik mezonlari",
+   "content": [
+    "Davolash bayonnomasida gimenolepidozning rasmiy tasnifi yo'qligi qayd etilgan. Og'irlik darajasi zaharlanish sindromining yaqqolligi va kasallik jarayoniga asab tizimining jalb qilinishi bilan baholanadi [1].",
+    "Demak, shifokor ichak belgilari bilan birga zaharlanish va asab tizimi ko'rinishlarini alohida baholashi kerak. Tashxis qo'yishda faqat shikoyatlarga ishonish noto'g'ri, chunki ular boshqa ichak gelmintozlariga ham xosdir [1]."
+   ]
+  },
+  {
+   "heading": "Dastlabki davr va tuxum ajralishi",
+   "content": [
+    "Darslikdagi klinik-diagnostik jadvalda gimenolepidozning inkubatsion davri aniqlanmagan deb ko'rsatilgan. Zararlanish paytidan najasda tuxum paydo bo'lguncha taxminan 2 hafta o'tadi, ya'ni undan oldin koprologik tekshiruv manfiy bo'lishi mumkin [2].",
+    "Bu muddat tashxisni tanlashda ahamiyatlidir: yaqinda zararlangan bolada bir marta manfiy natija kasallikni inkor etmaydi. Shu bois bayonnoma va yo'riqnoma tekshiruvni bir necha marta takrorlashni talab qiladi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Asosiy klinik belgilar",
+   "content": [
+    "Eng ko'p uchraydigan shikoyatlar qorin og'rig'i, ishtaha pasayishi, beqaror axlat, bosh og'rig'i, umumiy holsizlik, tez charchash va asabiylashishdir. Jadvalda dispeptik buzilishlar, ba'zan tez-tez axlat, og'riq xurujlari va jigar o'lchamining kattalashishi ham keltirilgan [2].",
+    "Boshqa darslikda ko'ngil aynishi, kekirish, beqaror axlat va ko'proq kindik atrofidagi qorin og'rig'i yozilgan. Kichik ichak devorining yetuk gijjalar va lichinkalar tomonidan mexanik shikastlanishi bu belgilarning asosiy sababi hisoblanadi [3]."
+   ]
+  },
+  {
+   "heading": "Alomatsiz va qisqa kechish",
+   "content": [
+    "Zararlanishning taxminan uchdan bir qismida kasallik klinik jihatdan namoyon bo'lmaydi. Boshqa manbada ham gimenolepidoz alomatsiz yoki subklinik kechishi mumkinligi ta'kidlangan [2, 3].",
+    "Kasallik odatda qisqa, 1-3 oy davom etadi, chunki qayta zararlanishga to'sqinlik qiluvchi immunitet rivojlanadi. Biroq alomatsiz bolalar najasga tuxum ajratib jamoa uchun manba bo'lib qoladi, shuning uchun faqat shikoyat bor bolalarni tekshirish yetarli emas [3]."
+   ]
+  },
+  {
+   "heading": "Asab va boshqa tizimlar o'zgarishi",
+   "content": [
+    "Darslikda bolalarda epileptiform tutqanoqlar mumkin bo'lgan asorat sifatida keltirilgan, shuningdek bosh og'rig'i va asabiylashish qayd etilgan. Bayonnomada ham og'irlik mezoni sifatida asab tizimining jarayonga qo'shilish darajasi ko'rsatilgan [1, 2].",
+    "Allergik reaksiyalar va intoksikatsiya belgilari davolash tanlovida inobatga olinadi: bayonnomada degelmintizatsiya oldidan polivitaminlar va antigistamin vositalar tavsiya etiladi. Bu kasallikni faqat ichak jarayoni deb emas, umumiy organizm reaksiyasi sifatida baholashni talab qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Umumiy qon va biokimyoviy o'zgarishlar",
+   "content": [
+    "Umumiy qon tahlilida eozinofiliya, EChT oshishi va kamqonlik, biokimyoda aminotransferazalar ko'payishi kuzatilishi mumkin. Bayonnomada bu o'zgarishlar nomaxsus ekani alohida ta'kidlangan [1].",
+    "Klinik va epidemiologik belgilar hamda parazitologik tekshiruvsiz bu o'zgarishlar asosida tashxis qo'yish mumkin emas. Ular faqat bemorning umumiy holatini baholashga, kamqonlik yoki allergiyani aniqlashga yordam beradi [1]."
+   ]
+  },
+  {
+   "heading": "Parazitologik tashxis usullari",
+   "content": [
+    "Bayonnomada parazitologik tashxis uchun Kato va Kalantaryan boyitish usullari, Gogol-Lerner usuli hamda nativ surtma ko'rsatilgan. Laboratoriya yo'riqnomasida gimenolepidozda nativ surtma, sedimentatsiya va flotatsiya usullari qo'llanadigan kasalliklar qatoriga kiritilgan [1, 4].",
+    "Darslikda Kalantaryan va Fyulleborn flotatsiya usullari ko'rsatilgan. Bu usullar najasdan tuxumlarni boyitib ajratishga asoslangan, nativ surtma esa ularni bevosita ko'rishga imkon beradi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Najas namunasini olish va tekshirish qoidalari",
+   "content": [
+    "Pakana gijja tuxumlari tez nobud bo'ladi, shu sababli najas ajralgandan keyingi dastlabki 2 soatda tekshirilishi kerak. Tekshiruv 5-7 kun oralatib 3 marta o'tkaziladi, yo'riqnomada ham shu tartib ko'rsatilgan [1, 5].",
+    "Darslikda o'choqlarda 15-20 kun oralig'ida Kalantaryan usuli bilan uch martalik tekshiruv tavsiya etilgan. Bu farq tuxum ajralishining davriyligiga asoslanadi, biroq milliy me'yor sifatida 5-7 kunlik oraliq qabul qilingan [2, 5]."
+   ]
+  },
+  {
+   "heading": "Tuxumning mikroskopik belgilari",
+   "content": [
+    "Najasda gijja tuxumi yupqa rangsiz po'stli bo'lib, ichida ilmoqli onkosfera joylashadi, onkosfera po'stidan buralgan iplar chiqadi. Tuxum diametri 40-50 mkm [2].",
+    "Laboratoriya yo'riqnomasida Kato usulida tayyorlangan preparatlarni uzoq saqlash mumkinligi aytilgan, lekin ankilostomid va pakana gijja tuxumlari bundan mustasno. Shu sababli bunday preparat darhol ko'rib chiqilishi kerak [4]."
+   ]
+  },
+  {
+   "heading": "Differensial tashxis",
+   "content": [
+    "Bayonnomaga ko'ra gimenolepidoz boshqa ichak parazitozlari, ya'ni difillobotrioz, teniooz, enterobioz va lyamblioz bilan farqlanadi. Ularning ko'pchiligida dispeptik belgilar o'xshash bo'lgani uchun laboratoriya natijasi hal qiluvchi [1].",
+    "Kalamush tasmasimon gijjasi H. diminuta keltirib chiqargan holat alomatlari bo'yicha pakana gijjadan farq qilmaydi. Ularni gijja uzunligi, bo'g'imlari va tuxum shakli bo'yicha farqlash mumkin [2, 4]."
+   ]
+  },
+  {
+   "heading": "Davolash va nazorat",
+   "content": [
+    "Bayonnomada tashxis qo'yilgach bemorni tezda statsionar yoki kunduzgi statsionarda davolash tavsiya etilgan. Praziquantel bir marta 25 mg/kg dozada beriladi, zarur bo'lsa 10 kundan keyin takrorlanadi, niklozamid bir necha sxemada qo'llanadi [1].",
+    "Nazorat muddatlari hujjatlarda farq qiladi: bayonnomada davolash tugagach 3 haftadan keyin 3 marta tekshirish va 6 oy dispanser kuzatuvi, yo'riqnomada 1, 3, 6 oyda tekshirish, standartda esa 24 kundan keyin manfiy koproskopiya ko'rsatilgan [1, 5, 6]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog uchun asosiy qoida nomaxsus belgilar va qon o'zgarishlariga emas, tuxumni topishga tayanishdir. Namunaning yangiligi, takroriy tekshiruv va to'g'ri usul tanlash natijaning ishonchliligini belgilaydi [1, 4].",
+    "Alomatsiz bolalarni ham tekshirish jamoadagi manbalarni aniqlash uchun zarur. Shu sababli klinik tashxis bilan birga rejali profilaktik tekshiruvlar tizimi kasallikni o'z vaqtida topishning asosiy sharti hisoblanadi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Gimenolepidozning klinikasi nomaxsus va ko'pincha yengil yoki alomatsiz o'tadi, shuning uchun tashxis najasda tuxum yoki gijja topishga asoslanadi. Namunani yangi holda, 5-7 kun oralatib 3 marta tekshirish, flotatsiya yoki Kato usulidan foydalanish va davolashdan keyin nazoratni tashkil etish kasallikni to'g'ri aniqlashning asosiy shartlaridir [1, 4, 5]."
+   ]
+  }
+ ],
+ "references": [
+  "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560."
+ ]
 }

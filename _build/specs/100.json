@@ -2,65 +2,103 @@
  "number": 100,
  "title": "100. Teniarinxoz bilan kasallanishning tibbiy- sanitar chora-tadbiri.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Teniarinxozga qarshi tibbiy-sanitariya choralari sog'liqni saqlash tizimi bajaradigan qism bo'lib, u bemorni topish, davolash, kuzatish va atrof muhitni ifloslanishdan himoya qilishni qamrab oladi. Milliy yo'riqnomada invaziya manbai qoramol va cho'chqa solityorining definitiv xo'jayini bo'lgan odam deb ko'rsatilgan [1].",
-   "Ushbu mavzuda veterinariya qismi alohida mavzu bo'lgani uchun faqat tibbiy va sanitariya choralari ko'rib chiqiladi: faol aniqlash, tashxis, hisobga olish, davolash, dispanser kuzatuvi, sanitariya nazorati va targ'ibot. Dori dozalari faqat milliy bayonnoma va JSST manbasidan keltiriladi [1, 2, 5]."
-  ]},
-  {"heading": "Tibbiy-sanitariya choralarining tarkibi", "content": [
-   "Yo'riqnoma tibbiy choralar qatoriga aholini tekshirish, invaziyalanganlarni hisobga olish va degelmintizatsiya qilish, davolanganlar ustidan to'liq gijjadan xalos bo'lgunga qadar dispanser kuzatuvini kiritadi. Shuningdek aholi punktlari, chorvador xo'jaliklar va umumiy ovqatlanish korxonalarining sanitariya holati nazorati va sanitariya-targ'ibot ishlari belgilangan [1].",
-   "Darslik ham ushbu kompleksni davolash-profilaktika, epidemiologik tekshiruv, sanitariya-gigiena va sanitariya-ma'rifiy ish yo'nalishlariga bo'ladi. Shu sababli tibbiy-sanitariya qismi bemorni ham, uning atrofini ham nazoratga oladigan ikki tomonlama ishdir [1, 6]."
-  ]},
-  {"heading": "Faol aniqlash va tekshirish", "content": [
-   "Xavfli guruhlar rejali profilaktik tekshiriladi, qolgan aholi esa epidemiologik ko'rsatma bo'yicha. Qishloq vrachlik punktlarida so'rov va laboratoriya usullarida sog'uvchilar, cho'ponlar, ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta tekshiriladi [1].",
-   "Poliklinikalarda teniidozlar ambulator bemorlar birinchi marta murojaat qilganda va uyma-uy yurib tekshirishda so'rov usulida faol aniqlanadi. Bunday so'rov oddiy bo'lsa ham samarali: bemor bo'g'imlarning chiqishini o'zi payqashi mumkin [1, 4]."
-  ]},
-  {"heading": "Tashxisni tasdiqlash", "content": [
-   "Davolash bayonnomasiga ko'ra tashxis klinik-epidemiologik belgilar va parazitologik usullarga asoslanadi, yakuniy tashxis esa so'rov, perianal qirma va Kato usulidan keyin qo'yiladi. Minimal ro'yxatga bemor so'rovi va perianal qirma kiritilgan [2].",
-   "Laboratoriya yo'riqnomasiga ko'ra perianal qirma teniarinxoz va teniozda yakka yoki ommaviy tekshiruvlarda qo'llanadi, usullar Graham, Torgushin va Kevorkov nomlari bilan keltirilgan. Qoramol va cho'chqa solityorini farqlashda asosiy usul bo'g'imlarni makroskopik ko'rishdir [4]."
-  ]},
-  {"heading": "Hisobga olish va xabar berish", "content": [
-   "Teniarinxozning har bir holati bo'yicha shoshilinch xabarnoma ф. 058/u to'ldirilib DSENMga yuboriladi. Aniqlash usulidan qat'i nazar har bir holat ф. №2 shaklga kiritiladi, tibbiy tomondan bu kasallikning rasmiy hisobini ta'minlaydi [1].",
-   "Hududiy DSENM har bir holatni hududiy veterinariya bo'limlariga xabar qiladi. Tibbiy tashkilot bemorni hisobga olish bilan cheklanmaydi, balki chorvadagi manbani aniqlash zanjirini ham ishga tushiradi [1]."
-  ]},
-  {"heading": "Gospitalizatsiya va bazis davo", "content": [
-   "Bayonnomaga ko'ra kasallikning o'tkir shakli bilan og'rigan bemorlar shifoxonaga yotqizilishi shart. Bazis davo oqsil va vitaminlarga boy parhezli taomlardan iborat, patogenetik davo esa desensibilizatsiya, dezintoksikatsiya, og'riq qoldiruvchi vositalar va kuchaytirilgan ovqatlanishni qamrab oladi [2].",
-   "Davolash standartida stasionar davo antigelmint vositalar, simptomatik terapiya, ya'ni anemiyaga qarshi, fermentli, probiotik va xolinolitik vositalar, shuningdek fitoterapiya va shaxsiy gigiena bilan ko'rsatilgan. Bu davo kamqonlik va ichak buzilishlari bilan kechgan bemorlar uchun muhim [2, 3]."
-  ]},
-  {"heading": "Etiotrop davo", "content": [
-   "Bayonnomada prazikvantel kunlik 20-25 mg/kg bir marta ichiladi; kasallik bir yildan ortiq davom etsa, davo 10-12 kundan keyin takrorlanadi. Niklozamid kattalarga kunlik 2-3 g bir marta, albendazol 2 yoshdan katta bolalar va kattalarga 400 mg kuniga bir marta uch kun beriladi [2].",
-   "Niklozamid bolalar uchun yoshga qarab 2 yoshgacha 0,5 g, 2-5 yoshda 1,0 g va 6-12 yoshda 1,5 g belgilangan. Standartlar ushbu uch guruh vositalarini ko'rsatadi, shu sababli tanlov bemorning yoshi va homiladorlik holatiga qarab shifokor tomonidan amalga oshiriladi [2, 3]."
-  ]},
-  {"heading": "Dozalardagi farqlar", "content": [
-   "JSST ma'lumotnomasida taeniaz prazikvantelning bir martalik 10 mg/kg dozasi bilan davolanishi, niklozamid esa kattalar va 6 yoshdan katta bolalarga 2 g, 2-6 yoshdagi bolalarga 1 g bo'lishi yozilgan. Albendazol 400 mg uch kun ketma-ket ishlatilgani ham qayd etilgan [5].",
-   "Milliy bayonnomada prazikvantel dozasi 20-25 mg/kg, Odessa atlasida esa 20 mg/kg bir martalik deb berilgan. Demak, prazikvantel dozasi manbalar bo'yicha farq qiladi, shuning uchun amalda milliy bayonnoma va amaldagi ko'rsatmalar asos bo'ladi [2, 5, 7]."
-  ]},
-  {"heading": "Homilador va emizikli ayollar", "content": [
-   "Bayonnomada antigelmint vositalar homilador va emizikli ayollarga taqiqlangani yozilgan. Bunday bemorlar uchun tibbiy xodim qovoq urug'ini tavsiya etishi mumkin: xom yoki havoda quritilgan urug'lar po'stidan tozalanib, ichki yashil qatlami bilan ishlatiladi [2].",
-   "Qovoq urug'i miqdori yoshga qarab belgilangan; kattalarga 300 g tozalangan urug' beriladi. Urug' aralashmasi och qoringa qabul qilinadi va uch soatdan keyin surgi vosita ichiladi, shundan so'ng tozalovchi huqna qo'yiladi [2]."
-  ]},
-  {"heading": "Dispanser kuzatuvi", "content": [
-   "Yo'riqnomada davolanganlar KIZ xonasi yoki oila shifokori dispanser kuzatuviga olinadi, 2, 4 va 6 oyda nazoratli tekshiruvga chaqiriladi, uch marta manfiy natijadan keyin hisobdan chiqariladi. Bunga sabab shuki, hech bir preparat bitta kurs bilan 100 foiz natija bermaydi [1].",
-   "Davolash bayonnomasida esa teniarinxozda 5 oy davomida har oy tekshirish, ya'ni so'rov va perianal qirma, bo'g'imlar chiqmasa kuzatuvdan chiqarish belgilangan. Manbalar muddatda farq qiladi, shuning uchun hududiy tartibni DSENM parazitologi aniqlashtirishi kerak [1, 2]."
-  ]},
-  {"heading": "Aholi punktlarida sanitariya nazorati", "content": [
-   "Atrof muhitni gijja tuxumi bilan ifloslanishdan himoya qilish uchun aholi yashash joylari kommunal jihatdan obodonlashtiriladi, hojatxonalar quriladi va ta'mirlanadi, uy hayvonlari tartibli saqlanadi, daydi itlarga qarshi kurash olib boriladi. Bu choralar nazoratini sanitariya-epidemiologiya, veterinariya va obodonlashtirish bo'limlari birga amalga oshiradi [1].",
-   "Oqova suvlarni tuxumdan zararsizlantirish tozalash inshootlarining ishi DSENM nazoratida bo'ladi. Yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emas, ya'ni suv sanitariyasi tibbiy xizmat uchun ham muhim yo'nalishdir [1]."
-  ]},
-  {"heading": "Korxonalar va ovqatlanish obyektlari nazorati", "content": [
-   "Chorvadorlik va go'sht ishlab chiqarish korxonalari xodimlarining shaxsiy gigiena qoidalariga rioyasi, maxsus kiyim bilan ta'minlanishi va o'z vaqtida tekshirilishi alohida e'tiborda turadi. Tibbiy ko'rik natijalari sanitariya daftarchasiga yoziladi [1].",
-   "Ogohlantirmasdan yiliga 1-2 marta buyum va inventardan hamda xodimlar qo'lidan surtma olinadi; tuxum topilsa, xo'jalikda manba aniqlanadi. DSENM ovqatlanish gigienasi mutaxassislari bilan go'sht do'konlarini va talabga javob bermagan go'shtni yo'qotishni monitoring qiladi [1]."
-  ]},
-  {"heading": "Sanitariya-ma'rifiy ish", "content": [
-   "Davolash bayonnomasi aholi orasida zararlanish yo'llari, oldini olish choralari, xom va chala qovurilgan kabob hamda boshqa go'sht mahsulotlarini iste'mol qilishda kasallanish ehtimoli haqida tushuntirish ishini katta ahamiyatli deb hisoblaydi. Chorvadorlarda qo'llarni astoydil yuvish odatini singdirish ham alohida ta'kidlangan [2].",
-   "Yo'riqnomada filmlar, ma'ruzalar, radio, televideniye, gazetalar, plakatlar, bukletlar, oilalarda suhbatlar va maktablarda diktantlar targ'ibot vositalari sifatida sanalgan. Targ'ibot tibbiy xodimlar va mahalla yig'inlari bilan birga olib boriladi [1]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan manbalarda O'zbekistonda tibbiy-sanitariya choralari natijasida teniarinxoz kasallanishi qanchaga kamayganligi haqida ma'lumot topilmadi, shu sababli bunday raqam yozilmadi. Bayonnomalarda dispanser tartibi va doza ko'rsatilgan, ammo samaradorlikni son bilan baholovchi mezonlar teniarinxoz uchun berilmagan [1, 2].",
-   "Prazikvantel dozasi (20-25 mg/kg va 10 mg/kg) hamda dispanser kuzatuvi muddati (5 oy va 2, 4, 6 oy) manbalar orasida farq qiladi. Qaysi variant joriy amaliyotda ustun ekani ko'rilgan matnlardan aniqlanmadi, shuning uchun ikkalasi ham keltirildi [1, 2, 5]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Teniarinxozning tibbiy-sanitariya choralari bemorlarni faol aniqlash, tashxisni tasdiqlash, hisobga olish va xabar berish, to'liq davolash va dispanser kuzatuvidan iborat bo'lib, ularni aholi punktlari sanitariyasi, korxonalar nazorati va targ'ibot bilan birga olib borish zarur. Dozalar va muddatlardagi farqlar hududiy parazitolog tomonidan aniqlashtirilishi kerak [1, 2, 5]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Teniarinxozga qarshi tibbiy-sanitariya choralari sog'liqni saqlash tizimi bajaradigan qism bo'lib, u bemorni topish, davolash, kuzatish va atrof muhitni ifloslanishdan himoya qilishni qamrab oladi. Milliy yo'riqnomada invaziya manbai qoramol va cho'chqa solityorining definitiv xo'jayini bo'lgan odam deb ko'rsatilgan [1].",
+    "Ushbu mavzuda veterinariya qismi alohida mavzu bo'lgani uchun faqat tibbiy va sanitariya choralari ko'rib chiqiladi: faol aniqlash, tashxis, hisobga olish, davolash, dispanser kuzatuvi, sanitariya nazorati va targ'ibot. Dori dozalari faqat milliy bayonnoma va JSST manbasidan keltiriladi [1, 2, 5]."
+   ]
+  },
+  {
+   "heading": "Tibbiy-sanitariya choralarining tarkibi",
+   "content": [
+    "Yo'riqnoma tibbiy choralar qatoriga aholini tekshirish, invaziyalanganlarni hisobga olish va degelmintizatsiya qilish, davolanganlar ustidan to'liq gijjadan xalos bo'lgunga qadar dispanser kuzatuvini kiritadi. Shuningdek aholi punktlari, chorvador xo'jaliklar va umumiy ovqatlanish korxonalarining sanitariya holati nazorati va sanitariya-targ'ibot ishlari belgilangan [1].",
+    "Darslik ham ushbu kompleksni davolash-profilaktika, epidemiologik tekshiruv, sanitariya-gigiena va sanitariya-ma'rifiy ish yo'nalishlariga bo'ladi. Shu sababli tibbiy-sanitariya qismi bemorni ham, uning atrofini ham nazoratga oladigan ikki tomonlama ishdir [1, 6]."
+   ]
+  },
+  {
+   "heading": "Faol aniqlash va tekshirish",
+   "content": [
+    "Xavfli guruhlar rejali profilaktik tekshiriladi, qolgan aholi esa epidemiologik ko'rsatma bo'yicha. Qishloq vrachlik punktlarida so'rov va laboratoriya usullarida sog'uvchilar, cho'ponlar, ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta tekshiriladi [1].",
+    "Poliklinikalarda teniidozlar ambulator bemorlar birinchi marta murojaat qilganda va uyma-uy yurib tekshirishda so'rov usulida faol aniqlanadi. Bunday so'rov oddiy bo'lsa ham samarali: bemor bo'g'imlarning chiqishini o'zi payqashi mumkin [1, 4]."
+   ]
+  },
+  {
+   "heading": "Tashxisni tasdiqlash",
+   "content": [
+    "Davolash bayonnomasiga ko'ra tashxis klinik-epidemiologik belgilar va parazitologik usullarga asoslanadi, yakuniy tashxis esa so'rov, perianal qirma va Kato usulidan keyin qo'yiladi. Minimal ro'yxatga bemor so'rovi va perianal qirma kiritilgan [2].",
+    "Laboratoriya yo'riqnomasiga ko'ra perianal qirma teniarinxoz va teniozda yakka yoki ommaviy tekshiruvlarda qo'llanadi, usullar Graham, Torgushin va Kevorkov nomlari bilan keltirilgan. Qoramol va cho'chqa solityorini farqlashda asosiy usul bo'g'imlarni makroskopik ko'rishdir [4]."
+   ]
+  },
+  {
+   "heading": "Hisobga olish va xabar berish",
+   "content": [
+    "Teniarinxozning har bir holati bo'yicha shoshilinch xabarnoma ф. 058/u to'ldirilib DSENMga yuboriladi. Aniqlash usulidan qat'i nazar har bir holat ф. №2 shaklga kiritiladi, tibbiy tomondan bu kasallikning rasmiy hisobini ta'minlaydi [1].",
+    "Hududiy DSENM har bir holatni hududiy veterinariya bo'limlariga xabar qiladi. Tibbiy tashkilot bemorni hisobga olish bilan cheklanmaydi, balki chorvadagi manbani aniqlash zanjirini ham ishga tushiradi [1]."
+   ]
+  },
+  {
+   "heading": "Gospitalizatsiya va bazis davo",
+   "content": [
+    "Bayonnomaga ko'ra kasallikning o'tkir shakli bilan og'rigan bemorlar shifoxonaga yotqizilishi shart. Bazis davo oqsil va vitaminlarga boy parhezli taomlardan iborat, patogenetik davo esa desensibilizatsiya, dezintoksikatsiya, og'riq qoldiruvchi vositalar va kuchaytirilgan ovqatlanishni qamrab oladi [2].",
+    "Davolash standartida stasionar davo antigelmint vositalar, simptomatik terapiya, ya'ni anemiyaga qarshi, fermentli, probiotik va xolinolitik vositalar, shuningdek fitoterapiya va shaxsiy gigiena bilan ko'rsatilgan. Bu davo kamqonlik va ichak buzilishlari bilan kechgan bemorlar uchun muhim [2, 3]."
+   ]
+  },
+  {
+   "heading": "Etiotrop davo",
+   "content": [
+    "Bayonnomada prazikvantel kunlik 20-25 mg/kg bir marta ichiladi; kasallik bir yildan ortiq davom etsa, davo 10-12 kundan keyin takrorlanadi. Niklozamid kattalarga kunlik 2-3 g bir marta, albendazol 2 yoshdan katta bolalar va kattalarga 400 mg kuniga bir marta uch kun beriladi [2].",
+    "Niklozamid bolalar uchun yoshga qarab 2 yoshgacha 0,5 g, 2-5 yoshda 1,0 g va 6-12 yoshda 1,5 g belgilangan. Standartlar ushbu uch guruh vositalarini ko'rsatadi, shu sababli tanlov bemorning yoshi va homiladorlik holatiga qarab shifokor tomonidan amalga oshiriladi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Dozalardagi farqlar",
+   "content": [
+    "JSST ma'lumotnomasida taeniaz prazikvantelning bir martalik 10 mg/kg dozasi bilan davolanishi, niklozamid esa kattalar va 6 yoshdan katta bolalarga 2 g, 2-6 yoshdagi bolalarga 1 g bo'lishi yozilgan. Albendazol 400 mg uch kun ketma-ket ishlatilgani ham qayd etilgan [5].",
+    "Milliy bayonnomada prazikvantel dozasi 20-25 mg/kg, Odessa atlasida esa 20 mg/kg bir martalik deb berilgan. Demak, prazikvantel dozasi manbalar bo'yicha farq qiladi, shuning uchun amalda milliy bayonnoma va amaldagi ko'rsatmalar asos bo'ladi [2, 5, 7]."
+   ]
+  },
+  {
+   "heading": "Homilador va emizikli ayollar",
+   "content": [
+    "Bayonnomada antigelmint vositalar homilador va emizikli ayollarga taqiqlangani yozilgan. Bunday bemorlar uchun tibbiy xodim qovoq urug'ini tavsiya etishi mumkin: xom yoki havoda quritilgan urug'lar po'stidan tozalanib, ichki yashil qatlami bilan ishlatiladi [2].",
+    "Qovoq urug'i miqdori yoshga qarab belgilangan; kattalarga 300 g tozalangan urug' beriladi. Urug' aralashmasi och qoringa qabul qilinadi va uch soatdan keyin surgi vosita ichiladi, shundan so'ng tozalovchi huqna qo'yiladi [2]."
+   ]
+  },
+  {
+   "heading": "Dispanser kuzatuvi",
+   "content": [
+    "Yo'riqnomada davolanganlar KIZ xonasi yoki oila shifokori dispanser kuzatuviga olinadi, 2, 4 va 6 oyda nazoratli tekshiruvga chaqiriladi, uch marta manfiy natijadan keyin hisobdan chiqariladi. Bunga sabab shuki, hech bir preparat bitta kurs bilan 100 foiz natija bermaydi [1].",
+    "Davolash bayonnomasida esa teniarinxozda 5 oy davomida har oy tekshirish, ya'ni so'rov va perianal qirma, bo'g'imlar chiqmasa kuzatuvdan chiqarish belgilangan. Manbalar muddatda farq qiladi, shuning uchun hududiy tartibni DSENM parazitologi aniqlashtirishi kerak [1, 2]."
+   ]
+  },
+  {
+   "heading": "Aholi punktlarida sanitariya nazorati",
+   "content": [
+    "Atrof muhitni gijja tuxumi bilan ifloslanishdan himoya qilish uchun aholi yashash joylari kommunal jihatdan obodonlashtiriladi, hojatxonalar quriladi va ta'mirlanadi, uy hayvonlari tartibli saqlanadi, daydi itlarga qarshi kurash olib boriladi. Bu choralar nazoratini sanitariya-epidemiologiya, veterinariya va obodonlashtirish bo'limlari birga amalga oshiradi [1].",
+    "Oqova suvlarni tuxumdan zararsizlantirish tozalash inshootlarining ishi DSENM nazoratida bo'ladi. Yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emas, ya'ni suv sanitariyasi tibbiy xizmat uchun ham muhim yo'nalishdir [1]."
+   ]
+  },
+  {
+   "heading": "Korxonalar va ovqatlanish obyektlari nazorati",
+   "content": [
+    "Chorvadorlik va go'sht ishlab chiqarish korxonalari xodimlarining shaxsiy gigiena qoidalariga rioyasi, maxsus kiyim bilan ta'minlanishi va o'z vaqtida tekshirilishi alohida e'tiborda turadi. Tibbiy ko'rik natijalari sanitariya daftarchasiga yoziladi [1].",
+    "Ogohlantirmasdan yiliga 1-2 marta buyum va inventardan hamda xodimlar qo'lidan surtma olinadi; tuxum topilsa, xo'jalikda manba aniqlanadi. DSENM ovqatlanish gigienasi mutaxassislari bilan go'sht do'konlarini va talabga javob bermagan go'shtni yo'qotishni monitoring qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-ma'rifiy ish",
+   "content": [
+    "Davolash bayonnomasi aholi orasida zararlanish yo'llari, oldini olish choralari, xom va chala qovurilgan kabob hamda boshqa go'sht mahsulotlarini iste'mol qilishda kasallanish ehtimoli haqida tushuntirish ishini katta ahamiyatli deb hisoblaydi. Chorvadorlarda qo'llarni astoydil yuvish odatini singdirish ham alohida ta'kidlangan [2].",
+    "Yo'riqnomada filmlar, ma'ruzalar, radio, televideniye, gazetalar, plakatlar, bukletlar, oilalarda suhbatlar va maktablarda diktantlar targ'ibot vositalari sifatida sanalgan. Targ'ibot tibbiy xodimlar va mahalla yig'inlari bilan birga olib boriladi [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Teniarinxozning tibbiy-sanitariya choralari bemorlarni faol aniqlash, tashxisni tasdiqlash, hisobga olish va xabar berish, to'liq davolash va dispanser kuzatuvidan iborat bo'lib, ularni aholi punktlari sanitariyasi, korxonalar nazorati va targ'ibot bilan birga olib borish zarur. Dozalar va muddatlardagi farqlar hududiy parazitolog tomonidan aniqlashtirilishi kerak [1, 2, 5]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

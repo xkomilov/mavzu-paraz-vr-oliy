@@ -1,76 +1,117 @@
 {
-  "number": 17,
-  "title": "17. Sprogoniya nima.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Sporogoniya bezgak plazmodiylarining Anopheles chivini organizmidagi jinsiy ko'payish va rivojlanish jarayonidir. Aynan shu jarayon natijasida zararlangan chivin tanasida odam uchun yuqumli sporozoitlar hosil bo'ladi. Shu bois sporogoniya bezgakning yuqish imkoniyatini va mavsumini belgilovchi asosiy omillardan biridir [1, 5].",
-      "Mavzuda sporogoniyaning ta'rifi, bosqichlari, haroratga bog'liqligi va issiqlik yig'indisi, turlar bo'yicha farqlar ko'rib chiqiladi. So'ng uning chivinga ta'siri, gonotrofik sikl bilan nisbati va bezgak yuqish mavsumini hisoblashdagi amaliy ahamiyati yoritiladi [1, 2]."
-    ]},
-    {"heading": "Ta'rifi va parazit hayot siklidagi o'rni", "content": [
-      "Uslubiy qo'llanmada plazmodiylarning chivin organizmidagi butun rivojlanish jarayoni sporogoniya deb ataladi. Plazmodiylar geteroksen parazitlar bo'lib, ularning rivojlanishi ketma-ket Anopheles chivini va odam organizmida kechadi. Biologik jihatdan chivin asosiy, odam esa oraliq xo'jayin hisoblanadi [1].",
-      "Pavlovich va Andreev darsligida bezgak plazmodiylarining murakkab rivojlanish tsikli ikki qismdan iborat ekani yozilgan: shizogoniya, ya'ni jinssiz tsikl odam organizmida, sporogoniya, ya'ni jinsiy rivojlanish esa Anopheles urg'ochisi organizmida o'tadi [5]."
-    ]},
-    {"heading": "Gametogoniya", "content": [
-      "Jinsiy rivojlanish urg'ochi chivin zararlangan odam qoni bilan oziqlangan zahoti boshlanadi. Chivin oshqozoniga tushgan zararlanmagan eritrotsitlar va parazitning jinssiz shakllari tutgan eritrotsitlar halok bo'ladi va hazm qilinadi. Gametotsitlarning taqdiri esa boshqacha kechadi [1].",
-      "Eritrotsitlardan chiqqan erkak gametotsitlar yetiladi va 4-8 ta xivchin hosil qiladi, bu eksflagellyatsiya deb ataladi. Xivchinlar, ya'ni yetuk erkak gametalar yetilgan urg'ochi gametalarni urug'lantiradi. Sporogoniyaning bu bosqichi gametogoniya deb ataladi [1]."
-    ]},
-    {"heading": "Ookineta va oosista hosil bo'lishi", "content": [
-      "Urug'lanish natijasida harakatchan zigota, ya'ni ookineta hosil bo'ladi. U chivin organizmida faol harakatlanib oshqozon devoriga yaqinlashadi, devor hujayralari orasiga kiradi va oshqozonning tashqi qavati ostida yumaloq sistalarga, ya'ni oosistalarga aylanadi [1].",
-      "Kuliyeva darsligida oosista o'lchami 6-8 mkm deb ko'rsatilgan. Oosista yetilgach yoriladi va sporozoitlar chivin bo'shlig'iga tushadi. Pavlovich darsligida ham ookinetaning oshqozon devori orqali o'tib, tashqi qobiq ostida oosistaga aylanishi bayon etilgan [4, 5]."
-    ]},
-    {"heading": "Sporozoitlarning hosil bo'lishi", "content": [
-      "Oosistalar ko'p marta bo'linib, sporozoitlarni hosil qiladi. Bitta oosistada sporozoitlar soni minglab bo'lishi mumkin. Oshqozon devoridagi oosistalar soni o'nlab, hatto yuzlab ekanini hisobga olsak, chivin organizmidagi sporozoitlar soni bir necha yuz ming bo'lishi mumkin [1].",
-      "Yetilgan oosistalar yorilib, sporozoitlar gemolimfa bilan chivinning barcha a'zolariga, jumladan so'lak bezlarigacha yetib boradi. Kuliyeva ma'lumotiga ko'ra so'lak bezlaridagi sporozoitlar soni yuz minglarga yetishi va ular u yerda 1-1,5 oygacha saqlanishi mumkin [1, 4]."
-    ]},
-    {"heading": "Sporozoitlarning yuqtirishi", "content": [
-      "Chivin qon so'rish jarayonida so'lak bilan sporozoitlarning faqat ma'lum bir qismi ajraladi. Shu sababli chivinning keyingi oziqlanishi ham kasallik yuqtirishga olib keladi. Demak, yetilgan zararlangan chivin umri davomida bir necha odamga bezgak yuqtirishi mumkin [1].",
-      "Shuning uchun sporogoniya tugamaguncha chivin xavfsiz hisoblanadi: sporozoitlar so'lak bezlariga yetmagan bo'lsa, chaqish yuqtirmaydi. Bu qoida bezgak mavsumi va yuqish muddatlarini hisoblash uchun asos bo'lib, harorat va chivin umrining uzunligiga bevosita bog'liqdir [1, 2]."
-    ]},
-    {"heading": "Haroratga bog'liqligi", "content": [
-      "Sporogoniya havo harorati 16-18 darajadan yuqori bo'lgan sharoitda amalga oshadi, eng qulay harorat 25-28 daraja. Kuliyeva darsligida sporogoniyaning eng qisqa muddati 28-30 darajada kuzatilishi, 30 dan yuqori haroratda esa parazit rivojlanishi yomonlashishi yozilgan [1, 4].",
-      "Past haroratda sporozoitlar rivojlanishi to'xtaydi. Kuliyevaga ko'ra 0 darajadan past haroratda sporozoitlar chivinda halok bo'ladi, 4-10 darajada esa hayotchanligi saqlanadi. Shuning uchun kuzgi sovuqlar yaqinida zararlangan chivinlarning sporozoitlari odamga yetmasdan nobud bo'lishi mumkin [2, 4]."
-    ]},
-    {"heading": "Issiqlik yig'indisi", "content": [
-      "Bezgak mavsumi bo'yicha materialda sporogoniya uchun rivojlanish bo'sag'a harorati P. vivax uchun 16, P. falciparum uchun 18 daraja deb ko'rsatilgan. Hisoblash bo'sag'asi esa P. vivax uchun 14,5 va P. falciparum uchun 16 daraja. Sporozoitlar yetilishi uchun kerakli issiqlik yig'indisi 105 va 111 daraja-kunga teng [2].",
-      "Hisoblashda har kunlik o'rtacha haroratdan hisoblash bo'sag'asi ayirib, samarali harorat topiladi va kunlar bo'yicha qo'shiladi. Yig'indi 105 ga yetgan kun P. vivax sporogoniyasi tugagan, ya'ni odamning zararlanish ehtimoli boshlangan kun sifatida qaraladi. Uslubiy qo'llanmada ham xuddi shu 105 daraja-kun keltirilgan [1, 2]."
-    ]},
-    {"heading": "Sporogoniya muddatlari", "content": [
-      "Kuliyeva darsligida P. vivax ning Anopheles tanasida sporogoniyasi +16 darajada 45 kun, +20 darajada 19 kun, +28 darajada 7 kun davom etishi yozilgan. Haroratning oshishi muddatni keskin qisqartiradi. Bu raqamlar sporogoniya tezligi issiqlikka kuchli bog'liqligini ko'rsatadi [4].",
-      "Jahongirov qo'llanmasida esa sporozoitlarning zararlangan chivin tanasida rivojlanish muddati kamida 10-12 kun deb berilgan. Kuliyevada +28 darajada 7 kun, Jahongirov qo'llanmasida kamida 10-12 kun ko'rsatilgani sababli manbalar o'rtasida farq bor. Ikkala raqam ham keltirildi, chunki ularning o'lchash sharoiti ko'rsatilmagan [3, 4]."
-    ]},
-    {"heading": "Turlar o'rtasidagi farqlar", "content": [
-      "Barcha plazmodiy turlarida chivin organizmidagi jinsiy ko'payish bir xil tarzda kechadi. Farqlar asosan minimal harorat bo'sag'asi va rivojlanish tezligi, oosista hajmi va undagi bezgak pigmenti shakli, shuningdek hosil bo'ladigan sporozoitlar xususiyatlaridan iborat [1].",
-      "Qo'llanmada P. vivax ning keng tarqalishi sabablari qatorida uning chivin organizmida nisbatan past haroratda rivojlana olishi va sporogoniyaning tez yakunlanishi ko'rsatilgan. P. malariae va P. ovale tizimlari faolligining cheklanishida chivin organizmida sporogoniyaning uzoq davom etishi ham sanalgan [1]."
-    ]},
-    {"heading": "Sporogoniyaning chivinga ta'siri", "content": [
-      "Qo'zg'atuvchining jinsiy rivojlanishi chivin organizmiga patogen ta'sir ko'rsatadi: chivinning hayot davomiyligi va uchish qobiliyati pasayadi. Shu bilan birga chivinning qon so'rish muddati uzayadi, bu esa uning epidemiologik samaradorligini oshiradi [1].",
-      "Jinsiy rivojlanish davomida erkak va urg'ochi hujayralar o'rtasida genetik ma'lumot almashinadi. Bu parazitning xo'jayin organizmiga moslashish xususiyatlarini belgilaydi. Demak, sporogoniya faqat ko'payish bosqichi emas, parazit xilma-xilligini ham ta'minlaydi [1]."
-    ]},
-    {"heading": "Gonotrofik sikl bilan nisbati", "content": [
-      "Sporogoniya gonotrofik jarayondan ancha sekin kechadi. Shu sababli chivinning fiziologik yoshi uning plazmodiylarni yuqtirish ahamiyatining ishonchli ko'rsatkichi hisoblanadi. Muayyan Anopheles populyatsiyasidagi fiziologik keksa chivinlar ulushi muhim epidemiologik ko'rsatkichdir [1].",
-      "Jahongirov qo'llanmasiga ko'ra zararlangan chivin sporozoitlar yetilguncha bir necha marta, to'rt martagacha gonotrofik davrni o'tkazishi mumkin. Bu vaqtda u zararlangan joyidan bir necha kilometr uzoqqa uchib ketishi ham mumkin [3]."
-    ]},
-    {"heading": "Bezgak yuqish mavsumi va sporogoniya", "content": [
-      "Bezgakning yuqish mavsumi sporogoniya imkoniyati bilan chambarchas bog'liq. Yuqish mavsumidan oldin tabiatda faol chivinlar bo'lishi va chivinda sporogoniya uchun kerakli o'rtacha sutkalik barqaror harorat, uch kunlik bezgakda 16 darajadan yuqori, shakllanishi lozim. Bu davr chivinlarning samarali zararlanish davri deyiladi [1].",
-      "Kuz oxirida zararlangan chivinlarda sporozoitlar bir muddat rivojlansa ham, kuzgi sovuqdan nobud bo'ladi, shu sababli samarali zararlanish mavsumi issiqlik mavsumidan oldinroq tugaydi. Sporogoniya tugash sanasiga qisqa yashirin davr qo'shib, yangi holatlar paydo bo'lishining eng erta muddati topiladi [1, 2]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog sporogoniya hisobi yordamida mavsumda birinchi mahalliy bezgak holati qachon kutilishini, ikkita epidemiologik bog'langan holatdan birinchisi ikkinchisining manbai bo'la oladimi va uch kunlik bezgak joriy mavsumda yuqqanmi yo'qmi degan savollarga javob oladi. Bu hisob meteorologik ma'lumotlarga asoslanadi [2].",
-      "Masalan, infeksiya manbai 9 avgustda paydo bo'lgan, ikkinchi holat esa 30 avgustda boshlangan bo'lsa, zararlanish sanasi 20 avgustdan kech bo'lmaydi. Bu oraliqda yig'ilgan issiqlik 71,2 daraja-kun, ya'ni 105 dan kam, demak birinchi holat manba bo'la olmaydi. Shuning uchun sporogoniya tushunchasini bilish o'choqni epidemiologik tekshirishda amaliy ahamiyat kasb etadi [2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar va farqlar", "content": [
-      "Sporogoniya uchun boshlang'ich harorat manbalarda turlicha ifodalangan: uslubiy qo'llanmada jarayon 16-18 darajadan yuqorida kechadi, bezgak mavsumi materialida P. vivax uchun 16, P. falciparum uchun 18 daraja. O'zbekistonning har bir viloyati bo'yicha hisobiy sanalar kutubxona materiallarida topilmadi [1, 2].",
-      "Sporogoniya muddati bo'yicha Kuliyeva (+28 darajada 7 kun) va Jahongirov (kamida 10-12 kun) ma'lumotlari ham mos kelmaydi. Issiqlik yig'indisi qiymatlari (105 va 111) hisoblash usulining parametrlari bo'lib, ularni O'zbekiston chivinlari uchun alohida o'lchash natijasi manbada ko'rsatilmagan [2, 3, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Sporogoniya plazmodiylarning urg'ochi Anopheles organizmida kechadigan jinsiy rivojlanishi bo'lib, gametogoniya, ookineta, oosista va sporozoitlar hosil bo'lishidan iborat. U haroratga bog'liq, odam zararlanishi uchun sporozoitlar so'lak bezlariga yetishi shart. Sporogoniya muddati bezgak yuqish mavsumi va mahalliy yuqish imkoniyatini belgilaydi [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Безгак мавсуми. Безгак мавсумининг элементлари. xayrullokomilov.uz/kutubxona, material ID 1544.",
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736."
-  ]
+ "number": 17,
+ "title": "17. Sprogoniya nima.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Sporogoniya bezgak plazmodiylarining Anopheles chivini organizmidagi jinsiy ko'payish va rivojlanish jarayonidir. Aynan shu jarayon natijasida zararlangan chivin tanasida odam uchun yuqumli sporozoitlar hosil bo'ladi. Shu bois sporogoniya bezgakning yuqish imkoniyatini va mavsumini belgilovchi asosiy omillardan biridir [1, 5].",
+    "Mavzuda sporogoniyaning ta'rifi, bosqichlari, haroratga bog'liqligi va issiqlik yig'indisi, turlar bo'yicha farqlar ko'rib chiqiladi. So'ng uning chivinga ta'siri, gonotrofik sikl bilan nisbati va bezgak yuqish mavsumini hisoblashdagi amaliy ahamiyati yoritiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Ta'rifi va parazit hayot siklidagi o'rni",
+   "content": [
+    "Uslubiy qo'llanmada plazmodiylarning chivin organizmidagi butun rivojlanish jarayoni sporogoniya deb ataladi. Plazmodiylar geteroksen parazitlar bo'lib, ularning rivojlanishi ketma-ket Anopheles chivini va odam organizmida kechadi. Biologik jihatdan chivin asosiy, odam esa oraliq xo'jayin hisoblanadi [1].",
+    "Pavlovich va Andreev darsligida bezgak plazmodiylarining murakkab rivojlanish tsikli ikki qismdan iborat ekani yozilgan: shizogoniya, ya'ni jinssiz tsikl odam organizmida, sporogoniya, ya'ni jinsiy rivojlanish esa Anopheles urg'ochisi organizmida o'tadi [5]."
+   ]
+  },
+  {
+   "heading": "Gametogoniya",
+   "content": [
+    "Jinsiy rivojlanish urg'ochi chivin zararlangan odam qoni bilan oziqlangan zahoti boshlanadi. Chivin oshqozoniga tushgan zararlanmagan eritrotsitlar va parazitning jinssiz shakllari tutgan eritrotsitlar halok bo'ladi va hazm qilinadi. Gametotsitlarning taqdiri esa boshqacha kechadi [1].",
+    "Eritrotsitlardan chiqqan erkak gametotsitlar yetiladi va 4-8 ta xivchin hosil qiladi, bu eksflagellyatsiya deb ataladi. Xivchinlar, ya'ni yetuk erkak gametalar yetilgan urg'ochi gametalarni urug'lantiradi. Sporogoniyaning bu bosqichi gametogoniya deb ataladi [1]."
+   ]
+  },
+  {
+   "heading": "Ookineta va oosista hosil bo'lishi",
+   "content": [
+    "Urug'lanish natijasida harakatchan zigota, ya'ni ookineta hosil bo'ladi. U chivin organizmida faol harakatlanib oshqozon devoriga yaqinlashadi, devor hujayralari orasiga kiradi va oshqozonning tashqi qavati ostida yumaloq sistalarga, ya'ni oosistalarga aylanadi [1].",
+    "Kuliyeva darsligida oosista o'lchami 6-8 mkm deb ko'rsatilgan. Oosista yetilgach yoriladi va sporozoitlar chivin bo'shlig'iga tushadi. Pavlovich darsligida ham ookinetaning oshqozon devori orqali o'tib, tashqi qobiq ostida oosistaga aylanishi bayon etilgan [4, 5]."
+   ]
+  },
+  {
+   "heading": "Sporozoitlarning hosil bo'lishi",
+   "content": [
+    "Oosistalar ko'p marta bo'linib, sporozoitlarni hosil qiladi. Bitta oosistada sporozoitlar soni minglab bo'lishi mumkin. Oshqozon devoridagi oosistalar soni o'nlab, hatto yuzlab ekanini hisobga olsak, chivin organizmidagi sporozoitlar soni bir necha yuz ming bo'lishi mumkin [1].",
+    "Yetilgan oosistalar yorilib, sporozoitlar gemolimfa bilan chivinning barcha a'zolariga, jumladan so'lak bezlarigacha yetib boradi. Kuliyeva ma'lumotiga ko'ra so'lak bezlaridagi sporozoitlar soni yuz minglarga yetishi va ular u yerda 1-1,5 oygacha saqlanishi mumkin [1, 4]."
+   ]
+  },
+  {
+   "heading": "Sporozoitlarning yuqtirishi",
+   "content": [
+    "Chivin qon so'rish jarayonida so'lak bilan sporozoitlarning faqat ma'lum bir qismi ajraladi. Shu sababli chivinning keyingi oziqlanishi ham kasallik yuqtirishga olib keladi. Demak, yetilgan zararlangan chivin umri davomida bir necha odamga bezgak yuqtirishi mumkin [1].",
+    "Shuning uchun sporogoniya tugamaguncha chivin xavfsiz hisoblanadi: sporozoitlar so'lak bezlariga yetmagan bo'lsa, chaqish yuqtirmaydi. Bu qoida bezgak mavsumi va yuqish muddatlarini hisoblash uchun asos bo'lib, harorat va chivin umrining uzunligiga bevosita bog'liqdir [1, 2]."
+   ]
+  },
+  {
+   "heading": "Haroratga bog'liqligi",
+   "content": [
+    "Sporogoniya havo harorati 16-18 darajadan yuqori bo'lgan sharoitda amalga oshadi, eng qulay harorat 25-28 daraja. Kuliyeva darsligida sporogoniyaning eng qisqa muddati 28-30 darajada kuzatilishi, 30 dan yuqori haroratda esa parazit rivojlanishi yomonlashishi yozilgan [1, 4].",
+    "Past haroratda sporozoitlar rivojlanishi to'xtaydi. Kuliyevaga ko'ra 0 darajadan past haroratda sporozoitlar chivinda halok bo'ladi, 4-10 darajada esa hayotchanligi saqlanadi. Shuning uchun kuzgi sovuqlar yaqinida zararlangan chivinlarning sporozoitlari odamga yetmasdan nobud bo'lishi mumkin [2, 4]."
+   ]
+  },
+  {
+   "heading": "Issiqlik yig'indisi",
+   "content": [
+    "Bezgak mavsumi bo'yicha materialda sporogoniya uchun rivojlanish bo'sag'a harorati P. vivax uchun 16, P. falciparum uchun 18 daraja deb ko'rsatilgan. Hisoblash bo'sag'asi esa P. vivax uchun 14,5 va P. falciparum uchun 16 daraja. Sporozoitlar yetilishi uchun kerakli issiqlik yig'indisi 105 va 111 daraja-kunga teng [2].",
+    "Hisoblashda har kunlik o'rtacha haroratdan hisoblash bo'sag'asi ayirib, samarali harorat topiladi va kunlar bo'yicha qo'shiladi. Yig'indi 105 ga yetgan kun P. vivax sporogoniyasi tugagan, ya'ni odamning zararlanish ehtimoli boshlangan kun sifatida qaraladi. Uslubiy qo'llanmada ham xuddi shu 105 daraja-kun keltirilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Sporogoniya muddatlari",
+   "content": [
+    "Kuliyeva darsligida P. vivax ning Anopheles tanasida sporogoniyasi +16 darajada 45 kun, +20 darajada 19 kun, +28 darajada 7 kun davom etishi yozilgan. Haroratning oshishi muddatni keskin qisqartiradi. Bu raqamlar sporogoniya tezligi issiqlikka kuchli bog'liqligini ko'rsatadi [4].",
+    "Jahongirov qo'llanmasida esa sporozoitlarning zararlangan chivin tanasida rivojlanish muddati kamida 10-12 kun deb berilgan. Kuliyevada +28 darajada 7 kun, Jahongirov qo'llanmasida kamida 10-12 kun ko'rsatilgani sababli manbalar o'rtasida farq bor. Ikkala raqam ham keltirildi, chunki ularning o'lchash sharoiti ko'rsatilmagan [3, 4]."
+   ]
+  },
+  {
+   "heading": "Turlar o'rtasidagi farqlar",
+   "content": [
+    "Barcha plazmodiy turlarida chivin organizmidagi jinsiy ko'payish bir xil tarzda kechadi. Farqlar asosan minimal harorat bo'sag'asi va rivojlanish tezligi, oosista hajmi va undagi bezgak pigmenti shakli, shuningdek hosil bo'ladigan sporozoitlar xususiyatlaridan iborat [1].",
+    "Qo'llanmada P. vivax ning keng tarqalishi sabablari qatorida uning chivin organizmida nisbatan past haroratda rivojlana olishi va sporogoniyaning tez yakunlanishi ko'rsatilgan. P. malariae va P. ovale tizimlari faolligining cheklanishida chivin organizmida sporogoniyaning uzoq davom etishi ham sanalgan [1]."
+   ]
+  },
+  {
+   "heading": "Sporogoniyaning chivinga ta'siri",
+   "content": [
+    "Qo'zg'atuvchining jinsiy rivojlanishi chivin organizmiga patogen ta'sir ko'rsatadi: chivinning hayot davomiyligi va uchish qobiliyati pasayadi. Shu bilan birga chivinning qon so'rish muddati uzayadi, bu esa uning epidemiologik samaradorligini oshiradi [1].",
+    "Jinsiy rivojlanish davomida erkak va urg'ochi hujayralar o'rtasida genetik ma'lumot almashinadi. Bu parazitning xo'jayin organizmiga moslashish xususiyatlarini belgilaydi. Demak, sporogoniya faqat ko'payish bosqichi emas, parazit xilma-xilligini ham ta'minlaydi [1]."
+   ]
+  },
+  {
+   "heading": "Gonotrofik sikl bilan nisbati",
+   "content": [
+    "Sporogoniya gonotrofik jarayondan ancha sekin kechadi. Shu sababli chivinning fiziologik yoshi uning plazmodiylarni yuqtirish ahamiyatining ishonchli ko'rsatkichi hisoblanadi. Muayyan Anopheles populyatsiyasidagi fiziologik keksa chivinlar ulushi muhim epidemiologik ko'rsatkichdir [1].",
+    "Jahongirov qo'llanmasiga ko'ra zararlangan chivin sporozoitlar yetilguncha bir necha marta, to'rt martagacha gonotrofik davrni o'tkazishi mumkin. Bu vaqtda u zararlangan joyidan bir necha kilometr uzoqqa uchib ketishi ham mumkin [3]."
+   ]
+  },
+  {
+   "heading": "Bezgak yuqish mavsumi va sporogoniya",
+   "content": [
+    "Bezgakning yuqish mavsumi sporogoniya imkoniyati bilan chambarchas bog'liq. Yuqish mavsumidan oldin tabiatda faol chivinlar bo'lishi va chivinda sporogoniya uchun kerakli o'rtacha sutkalik barqaror harorat, uch kunlik bezgakda 16 darajadan yuqori, shakllanishi lozim. Bu davr chivinlarning samarali zararlanish davri deyiladi [1].",
+    "Kuz oxirida zararlangan chivinlarda sporozoitlar bir muddat rivojlansa ham, kuzgi sovuqdan nobud bo'ladi, shu sababli samarali zararlanish mavsumi issiqlik mavsumidan oldinroq tugaydi. Sporogoniya tugash sanasiga qisqa yashirin davr qo'shib, yangi holatlar paydo bo'lishining eng erta muddati topiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog sporogoniya hisobi yordamida mavsumda birinchi mahalliy bezgak holati qachon kutilishini, ikkita epidemiologik bog'langan holatdan birinchisi ikkinchisining manbai bo'la oladimi va uch kunlik bezgak joriy mavsumda yuqqanmi yo'qmi degan savollarga javob oladi. Bu hisob meteorologik ma'lumotlarga asoslanadi [2].",
+    "Masalan, infeksiya manbai 9 avgustda paydo bo'lgan, ikkinchi holat esa 30 avgustda boshlangan bo'lsa, zararlanish sanasi 20 avgustdan kech bo'lmaydi. Bu oraliqda yig'ilgan issiqlik 71,2 daraja-kun, ya'ni 105 dan kam, demak birinchi holat manba bo'la olmaydi. Shuning uchun sporogoniya tushunchasini bilish o'choqni epidemiologik tekshirishda amaliy ahamiyat kasb etadi [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Sporogoniya plazmodiylarning urg'ochi Anopheles organizmida kechadigan jinsiy rivojlanishi bo'lib, gametogoniya, ookineta, oosista va sporozoitlar hosil bo'lishidan iborat. U haroratga bog'liq, odam zararlanishi uchun sporozoitlar so'lak bezlariga yetishi shart. Sporogoniya muddati bezgak yuqish mavsumi va mahalliy yuqish imkoniyatini belgilaydi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Безгак мавсуми. Безгак мавсумининг элементлари. xayrullokomilov.uz/kutubxona, material ID 1544.",
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736."
+ ]
 }

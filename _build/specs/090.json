@@ -1,77 +1,115 @@
 {
-  "number": 90,
-  "title": "90. Trixotsefalyozning klinikasi va tashxisi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Trixotsefalyozning klinikasi qilbosh gijjalar soniga, ularning ichakda turish muddatiga va organizm reaktivligiga bog'liq. Milliy bayonnomada kasallik asosan dispeptik va nevrologik belgilar bilan surunkali, kam hollarda subklinik shaklda kechadigan ichak geogelmintozi deb ta'riflangan, kasallikning faqat ichak shakli bor [1].",
-      "Ushbu mavzuda ichak va nevrologik belgilar, kamqonlik, og'ir shakllar va asoratlar, so'ng klinik-epidemiologik, laboratoriya va endoskopik tashxis, differensial tashxis hamda davolashdan keyingi nazorat ko'rib chiqiladi. Dorilar dozalari bu mavzuga kiritilmagan [1, 2]."
-    ]},
-    {"heading": "Intensivlik va klinik ko'rinish", "content": [
-      "Klinik belgilar invaziya intensivligiga kuchli bog'liq. Yakka gijjalar bilan zararlanganda sezilarli og'riqli belgilar bo'lmaydi, JSST ham yengil intensivlikda odam odatda kasallikdan aziyat chekmasligini, og'ir invaziyada esa ichak, ozuqa va o'sish buzilishlari paydo bo'lishini ta'kidlaydi [3, 4, 10].",
-      "Bolalar haqidagi taqdimotda belgilar parazitlar soniga va ularning ichakda mavjud bo'lish davomiyligiga bog'liq ekani aytilgan: hatto o'nlab gijja bo'lganda ham alomatlar paydo bo'lishi uchun vaqt kerak. Ko'rsatilgan belgilar majburiy emas va ular boshqa ichak gelmintozlariga ham xos [6]."
-    ]},
-    {"heading": "Ichak belgilari", "content": [
-      "Bemorlar ishtaha pasayishi, so'lak ko'payishi, ko'ngil aynishi, qorin dam bo'lishi, o'ng yarim qorinda va epigastriyda xurujsimon og'riqlardan shikoyat qiladi. Atlasda ham epigastriy va o'ng yonbosh sohasidagi og'riq, qusish va beqaror axlat tasvirlangan [2, 4].",
-      "O'ng yonbosh sohasidagi og'riq appenditsit og'rig'iga o'xshashi, epigastriydagi xurujsimon og'riq esa gastrit yoki yara kasalligini taqlid qilishi mumkin. Kolit manzarasida ich ketishi yoki qabziyat bo'ladi, najasda ko'rinadigan shilimshiq va qon kam uchraydi [5, 3]."
-    ]},
-    {"heading": "Nerv tizimi va umumiy belgilar", "content": [
-      "Trixotsefalyoz ovqat hazm qilish tizimi va nerv tizimi buzilishi bilan ta'riflanadi. Bemorlarda bosh og'rig'i, bosh aylanishi, jizzakilik, uyqu buzilishi, kamroq hollarda hushdan ketish va tutqanoq xurujlari qayd etilgan; atlasda uyqusizlik ham ko'rsatilgan [3, 4, 5].",
-      "Bolalar taqdimotida bu o'zgarishlar miyada modda almashinuvi va qondagi elektrolitlar muvozanati buzilishi bilan bog'langan. Boshqa taqdimotda ileotsekal sohadagi asab tugunlarining tirnalishi oshqozon sekretsiyasi va harakat funksiyasini buzishi, shu sababli epigastriy og'riqlari bo'lishi aytilgan [5, 6]."
-    ]},
-    {"heading": "Kamqonlik va qon yo'qotilishi", "content": [
-      "Qilbosh gijjalar fakultativ gematofag bo'lib, har biri sutkasiga 0,005 ml gacha qon yutadi; juda intensiv invaziyada, tropiklarda 5000 tagacha parazit uchraganda, bolalarda kamqonlik tasvirlangan. Kamqonlikda holsizlik, bosh aylanishi, nafas qisilishi, yurak urishi, taxikardiya va teri oqarishi paydo bo'ladi [2, 5].",
-      "Darslik jadvalida giponormoxrom kamqonlik, laboratoriya taqdimotida esa umumiy qon tahlilida eozinofiliya va gipoxrom kamqonlik ko'rsatilgan. Boshqa taqdimotda ko'p hollarda klinik ko'rinishlar va eozinofiliya bo'lmasligi aytilgan, ya'ni qon o'zgarishlari doimiy emas [3, 5, 7]."
-    ]},
-    {"heading": "Og'ir shakllar va bolalardagi xususiyatlar", "content": [
-      "Og'ir invaziyada qorin og'rig'i, ishtaha yo'qolishi hamda shilimshiq yoki qon aralash ich ketish kuzatiladi; bu manzara nospetsifik yarali kolit va Kron kasalligini eslatadi. O'rta og'irlikdagi invaziya bolalarda o'sishning orqada qolishiga olib kelishi mumkin [5, 10].",
-      "Kam ovqatlanuvchi va surunkali ich ketishi bor bolalarda og'ir trixotsefalyoz to'g'ri ichak prolapsiga sabab bo'lishi mumkin. Og'ir shaklning klinik ko'rsatkichi sifatida «nog'ora tayoqchasi» barmoqlari, ya'ni tirnoq plastinkasi yaqinida oxirgi falanga yo'g'onlashuvi tasvirlangan [5]."
-    ]},
-    {"heading": "Asoratlar", "content": [
-      "Darslikdagi jadvalda trixotsefalyoz asoratlari sifatida appenditsit, intensiv invaziyada kolit, to'g'ri ichak prolapsi va tutqanoqsimon xurujlar sanalgan. Ularning chastotasi manbada ko'rsatilmagan, shu sababli raqamli baho berilmaydi [3].",
-      "Ichak devori shikastlanishi mikrob florasining kirishiga yordam beradi. Taqdimotda I.I. Mechnikovning 1901 yildagi fikri keltirilgan: qilbosh gijja appenditsit va tiflit rivojlanishida muhim rol o'ynaydi. Bayonnomada davolash kasalxonada og'ir va asoratli shakllarda o'tkazilishi ko'rsatilgan [5, 1]."
-    ]},
-    {"heading": "Klinik-epidemiologik tashxis", "content": [
-      "Milliy bayonnomada tashxis mezonlari sifatida klinik-epidemiologik belgilar va parazitologik usullar ko'rsatilgan. Atlasda klinik tashxis dispeptik buzilishlarning allergik ko'rinishlar bilan birikmasiga asoslanishi aytilgan, qat'iy tasdiq esa najas ovoskopiyasi bilan olinadi [1, 4].",
-      "Epidemiologik anamnezda sabzavot, rezavor va mevalarni yuvmasdan iste'mol qilish, najasli o'g'it solingan tuproqda ishlash va tuproq bilan kasbiy aloqa aniqlanadi. Xavf guruhi sifatida bolalar, dalachilar va tomorqa egalari qayd etilgan; klinik belgilar o'zi tashxis uchun yetarli emas [2, 7]."
-    ]},
-    {"heading": "Koproovoskopiya va tuxum morfologiyasi", "content": [
-      "Najasda qilbosh gijja tuxumi topilishi trixotsefalyoz tashxisini tasdiqlovchi omil hisoblanadi. Tuxumlar bochkasimon, qutblarida tiqinchali; o'lchami 50-54 x 22-23 mkm, boshqa manbalarda 50-54 x 23-26 mkm va taxminan 50 x 20 mkm deb berilgan [1, 3, 4, 5].",
-      "Davolash standartlarida koproovoskopiya Kato usulida va nativ surtma bilan, umumiy qon va najas tahlili bilan birga ko'rsatilgan. Laboratoriya yo'riqnomasiga ko'ra Kato-Miura usuli intensivlik yuqori va o'rta bo'lganda samarali, intensivlik kam bo'lsa samarasi ancha past [8, 9]."
-    ]},
-    {"heading": "Boyitish usullarining ahamiyati", "content": [
-      "Bayonnomada boyitish usullari bilan koproovoskopiya, ya'ni Kato, Kalantaryan, Fyulleborn va efir-formalin usullari tavsiya etilgan. Boyitish zarurati qilbosh gijja urg'ochisi askaridaga nisbatan yuz baravar kam tuxum qo'yishi bilan izohlangan [1].",
-      "Laboratoriya yo'riqnomasi flotatsiya usullarini yumaloq va lentasimon gijja tuxumlari uchun samarali deb ataydi. Kalantaryan usuli zichligi 1,38-1,43 bo'lgan natriy nitrat, Fyulleborn usuli esa zichligi 1,18-1,23 bo'lgan to'yingan osh tuzi eritmasidan foydalanadi [9]."
-    ]},
-    {"heading": "Endoskopik va qo'shimcha usullar", "content": [
-      "Ichak endoskopiyasida devorda yetuk qilbosh gijjani ko'rish klinik tashxisni tasdiqlaydi. Rektoromanoskopiyada 3-5 sm uzunlikdagi gijjalar ba'zan ko'rinadi, kolonoskopiyada urg'ochi gijjalarning orqa uchlari tasvirlangan; rentgenoskopiyada ba'zan shilliq qavatga yopishgan gijjalar topiladi [1, 3, 5].",
-      "Axlat mikroskopiyasida Sharko-Leyden kristallari va ko'p eozinofillar topilishi trixotsefalyozga shubha tug'dirishi mumkin, lekin parazit mavjudligini tasdiqlamaydi. Immunodiagnostik usullar darslikda ishlab chiqilmagan deb ko'rsatilgan [1, 3]."
-    ]},
-    {"heading": "Differensial tashxis va minimal tekshiruvlar", "content": [
-      "Bayonnomada differensial tashxis boshqa ichak gelmintozlari hamda bakterial va amyobali ichburug' kabi o'tkir ichak infeksiyalari bilan o'tkaziladi. Taqdimotda shilimshiq va qon aralash ich ketishi nospetsifik yarali kolit va Kron kasalligiga o'xshashligi ham qayd etilgan [1, 5].",
-      "Minimal ro'yxatga umumiy qon va najas tahlili, boyitish usullaridan biri bilan parazitologik tekshiruv hamda ichak endoskopiyasi kiritilgan. Kasalxonaga o'rta og'ir va asoratli shakldagi, shuningdek yosh bolalar va noqulay moddiy sharoitdagi bemorlar yotqiziladi [1]."
-    ]},
-    {"heading": "Davolashdan keyingi nazorat", "content": [
-      "Darslikda davolashdan 2-3 hafta o'tgach nazorat najas tahlili o'tkazish lozimligi ko'rsatilgan, atlas ham nazorat tekshiruvini 2-3 haftadan keyin belgilaydi. Bayonnomada dispanser kuzatuvi 3 oygacha davom etadi [1, 2, 4].",
-      "Bayonnomaga ko'ra takroriy najas tahlili davolashdan 1 oy o'tgach, 10-15 kunlik tanaffus bilan ikki marta o'tkaziladi. Rossiya taqdimotida dehelmintizatsiyadan 14 kun o'tgach samaradorlik nazorati, uch marta 7-10 kun oralatib o'tkazilishi ko'rsatilgan, bu milliy tartibdan farq qiladi [1, 7]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "O'zbekistonda trixotsefalyozning klinik shakllari, asoratlari va kamqonlik chastotasi bo'yicha mahalliy statistik ma'lumot tekshirilgan manbalarda topilmadi, shuning uchun bu mavzuda raqamli baho berilmaydi. Barcha klinik tavsiflar darslik, atlas va taqdimotlarga asoslangan [2, 3, 4].",
-      "Qon o'zgarishlari bo'yicha manbalar bir-biridan farq qiladi: ayrimlari eozinofiliya va kamqonlikni aytadi, boshqasi eozinofiliya ko'pincha bo'lmasligini ta'kidlaydi. Bayonnomadagi mebendazol sxemasi matnda ikki xil o'qilishi mumkin, atlasdagi sxema esa undan farq qiladi, shuning uchun dozalar keltirilmadi [1, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Trixotsefalyoz tashxisi epidemiologik anamnez, ichak va nevrologik belgilar hamda najasda qilbosh gijja tuxumini boyitish usullari bilan topishga asoslanadi. Yengil invaziya belgisiz kechishi mumkin, og'ir shakllarda kamqonlik va ichak asoratlari rivojlanadi, shu sababli nazorat tahlillari majburiy [1, 3, 10]."
-    ]}
-  ],
-  "references": [
-    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
-    "Трихоцефалёз (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1592.",
-    "Трихоцефалёз у детей (taqdimot, talaba ishi). xayrullokomilov.uz/kutubxona, material ID 1591.",
-    "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections"
-  ]
+ "number": 90,
+ "title": "90. Trixotsefalyozning klinikasi va tashxisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Trixotsefalyozning klinikasi qilbosh gijjalar soniga, ularning ichakda turish muddatiga va organizm reaktivligiga bog'liq. Milliy bayonnomada kasallik asosan dispeptik va nevrologik belgilar bilan surunkali, kam hollarda subklinik shaklda kechadigan ichak geogelmintozi deb ta'riflangan, kasallikning faqat ichak shakli bor [1].",
+    "Ushbu mavzuda ichak va nevrologik belgilar, kamqonlik, og'ir shakllar va asoratlar, so'ng klinik-epidemiologik, laboratoriya va endoskopik tashxis, differensial tashxis hamda davolashdan keyingi nazorat ko'rib chiqiladi. Dorilar dozalari bu mavzuga kiritilmagan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Intensivlik va klinik ko'rinish",
+   "content": [
+    "Klinik belgilar invaziya intensivligiga kuchli bog'liq. Yakka gijjalar bilan zararlanganda sezilarli og'riqli belgilar bo'lmaydi, JSST ham yengil intensivlikda odam odatda kasallikdan aziyat chekmasligini, og'ir invaziyada esa ichak, ozuqa va o'sish buzilishlari paydo bo'lishini ta'kidlaydi [3, 4, 10].",
+    "Bolalar haqidagi taqdimotda belgilar parazitlar soniga va ularning ichakda mavjud bo'lish davomiyligiga bog'liq ekani aytilgan: hatto o'nlab gijja bo'lganda ham alomatlar paydo bo'lishi uchun vaqt kerak. Ko'rsatilgan belgilar majburiy emas va ular boshqa ichak gelmintozlariga ham xos [6]."
+   ]
+  },
+  {
+   "heading": "Ichak belgilari",
+   "content": [
+    "Bemorlar ishtaha pasayishi, so'lak ko'payishi, ko'ngil aynishi, qorin dam bo'lishi, o'ng yarim qorinda va epigastriyda xurujsimon og'riqlardan shikoyat qiladi. Atlasda ham epigastriy va o'ng yonbosh sohasidagi og'riq, qusish va beqaror axlat tasvirlangan [2, 4].",
+    "O'ng yonbosh sohasidagi og'riq appenditsit og'rig'iga o'xshashi, epigastriydagi xurujsimon og'riq esa gastrit yoki yara kasalligini taqlid qilishi mumkin. Kolit manzarasida ich ketishi yoki qabziyat bo'ladi, najasda ko'rinadigan shilimshiq va qon kam uchraydi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Nerv tizimi va umumiy belgilar",
+   "content": [
+    "Trixotsefalyoz ovqat hazm qilish tizimi va nerv tizimi buzilishi bilan ta'riflanadi. Bemorlarda bosh og'rig'i, bosh aylanishi, jizzakilik, uyqu buzilishi, kamroq hollarda hushdan ketish va tutqanoq xurujlari qayd etilgan; atlasda uyqusizlik ham ko'rsatilgan [3, 4, 5].",
+    "Bolalar taqdimotida bu o'zgarishlar miyada modda almashinuvi va qondagi elektrolitlar muvozanati buzilishi bilan bog'langan. Boshqa taqdimotda ileotsekal sohadagi asab tugunlarining tirnalishi oshqozon sekretsiyasi va harakat funksiyasini buzishi, shu sababli epigastriy og'riqlari bo'lishi aytilgan [5, 6]."
+   ]
+  },
+  {
+   "heading": "Kamqonlik va qon yo'qotilishi",
+   "content": [
+    "Qilbosh gijjalar fakultativ gematofag bo'lib, har biri sutkasiga 0,005 ml gacha qon yutadi; juda intensiv invaziyada, tropiklarda 5000 tagacha parazit uchraganda, bolalarda kamqonlik tasvirlangan. Kamqonlikda holsizlik, bosh aylanishi, nafas qisilishi, yurak urishi, taxikardiya va teri oqarishi paydo bo'ladi [2, 5].",
+    "Darslik jadvalida giponormoxrom kamqonlik, laboratoriya taqdimotida esa umumiy qon tahlilida eozinofiliya va gipoxrom kamqonlik ko'rsatilgan. Boshqa taqdimotda ko'p hollarda klinik ko'rinishlar va eozinofiliya bo'lmasligi aytilgan, ya'ni qon o'zgarishlari doimiy emas [3, 5, 7]."
+   ]
+  },
+  {
+   "heading": "Og'ir shakllar va bolalardagi xususiyatlar",
+   "content": [
+    "Og'ir invaziyada qorin og'rig'i, ishtaha yo'qolishi hamda shilimshiq yoki qon aralash ich ketish kuzatiladi; bu manzara nospetsifik yarali kolit va Kron kasalligini eslatadi. O'rta og'irlikdagi invaziya bolalarda o'sishning orqada qolishiga olib kelishi mumkin [5, 10].",
+    "Kam ovqatlanuvchi va surunkali ich ketishi bor bolalarda og'ir trixotsefalyoz to'g'ri ichak prolapsiga sabab bo'lishi mumkin. Og'ir shaklning klinik ko'rsatkichi sifatida «nog'ora tayoqchasi» barmoqlari, ya'ni tirnoq plastinkasi yaqinida oxirgi falanga yo'g'onlashuvi tasvirlangan [5]."
+   ]
+  },
+  {
+   "heading": "Asoratlar",
+   "content": [
+    "Darslikdagi jadvalda trixotsefalyoz asoratlari sifatida appenditsit, intensiv invaziyada kolit, to'g'ri ichak prolapsi va tutqanoqsimon xurujlar sanalgan. Ularning chastotasi manbada ko'rsatilmagan, shu sababli raqamli baho berilmaydi [3].",
+    "Ichak devori shikastlanishi mikrob florasining kirishiga yordam beradi. Taqdimotda I.I. Mechnikovning 1901 yildagi fikri keltirilgan: qilbosh gijja appenditsit va tiflit rivojlanishida muhim rol o'ynaydi. Bayonnomada davolash kasalxonada og'ir va asoratli shakllarda o'tkazilishi ko'rsatilgan [1, 5]."
+   ]
+  },
+  {
+   "heading": "Klinik-epidemiologik tashxis",
+   "content": [
+    "Milliy bayonnomada tashxis mezonlari sifatida klinik-epidemiologik belgilar va parazitologik usullar ko'rsatilgan. Atlasda klinik tashxis dispeptik buzilishlarning allergik ko'rinishlar bilan birikmasiga asoslanishi aytilgan, qat'iy tasdiq esa najas ovoskopiyasi bilan olinadi [1, 4].",
+    "Epidemiologik anamnezda sabzavot, rezavor va mevalarni yuvmasdan iste'mol qilish, najasli o'g'it solingan tuproqda ishlash va tuproq bilan kasbiy aloqa aniqlanadi. Xavf guruhi sifatida bolalar, dalachilar va tomorqa egalari qayd etilgan; klinik belgilar o'zi tashxis uchun yetarli emas [2, 7]."
+   ]
+  },
+  {
+   "heading": "Koproovoskopiya va tuxum morfologiyasi",
+   "content": [
+    "Najasda qilbosh gijja tuxumi topilishi trixotsefalyoz tashxisini tasdiqlovchi omil hisoblanadi. Tuxumlar bochkasimon, qutblarida tiqinchali; o'lchami 50-54 x 22-23 mkm, boshqa manbalarda 50-54 x 23-26 mkm va taxminan 50 x 20 mkm deb berilgan [1, 3, 4, 5].",
+    "Davolash standartlarida koproovoskopiya Kato usulida va nativ surtma bilan, umumiy qon va najas tahlili bilan birga ko'rsatilgan. Laboratoriya yo'riqnomasiga ko'ra Kato-Miura usuli intensivlik yuqori va o'rta bo'lganda samarali, intensivlik kam bo'lsa samarasi ancha past [8, 9]."
+   ]
+  },
+  {
+   "heading": "Boyitish usullarining ahamiyati",
+   "content": [
+    "Bayonnomada boyitish usullari bilan koproovoskopiya, ya'ni Kato, Kalantaryan, Fyulleborn va efir-formalin usullari tavsiya etilgan. Boyitish zarurati qilbosh gijja urg'ochisi askaridaga nisbatan yuz baravar kam tuxum qo'yishi bilan izohlangan [1].",
+    "Laboratoriya yo'riqnomasi flotatsiya usullarini yumaloq va lentasimon gijja tuxumlari uchun samarali deb ataydi. Kalantaryan usuli zichligi 1,38-1,43 bo'lgan natriy nitrat, Fyulleborn usuli esa zichligi 1,18-1,23 bo'lgan to'yingan osh tuzi eritmasidan foydalanadi [9]."
+   ]
+  },
+  {
+   "heading": "Endoskopik va qo'shimcha usullar",
+   "content": [
+    "Ichak endoskopiyasida devorda yetuk qilbosh gijjani ko'rish klinik tashxisni tasdiqlaydi. Rektoromanoskopiyada 3-5 sm uzunlikdagi gijjalar ba'zan ko'rinadi, kolonoskopiyada urg'ochi gijjalarning orqa uchlari tasvirlangan; rentgenoskopiyada ba'zan shilliq qavatga yopishgan gijjalar topiladi [1, 3, 5].",
+    "Axlat mikroskopiyasida Sharko-Leyden kristallari va ko'p eozinofillar topilishi trixotsefalyozga shubha tug'dirishi mumkin, lekin parazit mavjudligini tasdiqlamaydi. Immunodiagnostik usullar darslikda ishlab chiqilmagan deb ko'rsatilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Differensial tashxis va minimal tekshiruvlar",
+   "content": [
+    "Bayonnomada differensial tashxis boshqa ichak gelmintozlari hamda bakterial va amyobali ichburug' kabi o'tkir ichak infeksiyalari bilan o'tkaziladi. Taqdimotda shilimshiq va qon aralash ich ketishi nospetsifik yarali kolit va Kron kasalligiga o'xshashligi ham qayd etilgan [1, 5].",
+    "Minimal ro'yxatga umumiy qon va najas tahlili, boyitish usullaridan biri bilan parazitologik tekshiruv hamda ichak endoskopiyasi kiritilgan. Kasalxonaga o'rta og'ir va asoratli shakldagi, shuningdek yosh bolalar va noqulay moddiy sharoitdagi bemorlar yotqiziladi [1]."
+   ]
+  },
+  {
+   "heading": "Davolashdan keyingi nazorat",
+   "content": [
+    "Darslikda davolashdan 2-3 hafta o'tgach nazorat najas tahlili o'tkazish lozimligi ko'rsatilgan, atlas ham nazorat tekshiruvini 2-3 haftadan keyin belgilaydi. Bayonnomada dispanser kuzatuvi 3 oygacha davom etadi [1, 2, 4].",
+    "Bayonnomaga ko'ra takroriy najas tahlili davolashdan 1 oy o'tgach, 10-15 kunlik tanaffus bilan ikki marta o'tkaziladi. Rossiya taqdimotida dehelmintizatsiyadan 14 kun o'tgach samaradorlik nazorati, uch marta 7-10 kun oralatib o'tkazilishi ko'rsatilgan, bu milliy tartibdan farq qiladi [1, 7]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Trixotsefalyoz tashxisi epidemiologik anamnez, ichak va nevrologik belgilar hamda najasda qilbosh gijja tuxumini boyitish usullari bilan topishga asoslanadi. Yengil invaziya belgisiz kechishi mumkin, og'ir shakllarda kamqonlik va ichak asoratlari rivojlanadi, shu sababli nazorat tahlillari majburiy [1, 3, 10]."
+   ]
+  }
+ ],
+ "references": [
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Трихоцефалёз (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1592.",
+  "Трихоцефалёз у детей (taqdimot, talaba ishi). xayrullokomilov.uz/kutubxona, material ID 1591.",
+  "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections"
+ ]
 }

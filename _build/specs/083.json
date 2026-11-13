@@ -1,78 +1,119 @@
 {
-  "number": 83,
-  "title": "83. Uyushgan guruhlarda bolalar orasida muloqotdagi gelmintozlar bilan zararlanishni pasaytirish uchun o'tkazilgan chora-tadbirlar.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Uyushgan bolalar guruhlarida muloqot orqali yuqadigan gelmintozlar, ya'ni enterobioz va gimenolepidoz, bolalar bir-biri bilan yaqin aloqada bo'lgani sababli uzoq saqlanadi. Zararlanishni pasaytirish uchun alohida holatlarga javob berishdan tashqari, oldindan rejalashtirilgan profilaktik tadbirlar tizimi zarur [1, 6].",
-      "Mavzuda aynan rejali, ya'ni profilaktik yo'nalishdagi tadbirlar ko'rib chiqiladi: dastur asoslari, tekshiriladigan guruhlar va davriylik, ommaviy degelmintizatsiya, qabul va xodimlar nazorati, atrof-muhit monitoringi, gigiena ta'limi va samaradorlikni baholash. Aniqlangan holatdagi o'choq tadbirlari bu mavzuga kirmaydi [1, 2]."
-    ]},
-    {"heading": "Rejali tadbirlarning mantiqi", "content": [
-      "Rejali profilaktika kasallik aniqlanishini kutmaydi: guruhlar oldindan belgilangan jadval bo'yicha tekshiriladi, zararlanish ko'rsatkichi esa jamoani davolash qarorini belgilaydi. Yo'riqnomada tekshiruvlar tibbiyot muassasalari bilan kelishilgan reja-jadvallarga yoki epidemik ko'rsatmalarga asoslanishi ko'rsatilgan [1].",
-      "Bunday yondashuvning afzalligi shundaki, alomatsiz tuxum ajratuvchi bolalar ham aniqlanadi. Ular kasallik belgisi bermasa ham manba bo'lib qoladi, shu sababli faqat shikoyat bilan murojaat qilganlarni tekshirish jamoada zararlanishni pasaytirmaydi [1, 6]."
-    ]},
-    {"heading": "Dasturiy-huquqiy asos", "content": [
-      "Vazirlar Mahkamasining 2015 yil 23 yanvardagi 9-son qarori 2015-2018 yillarda bolalardagi gelmintozlarni profilaktika qilish va davolash chora-tadbirlarini belgilagan. Sog'liqni saqlash vazirligining 43-son buyrug'i bu yo'nalishdagi chora-tadbirlar rejasini tasdiqlagan, 166-son buyruq ularning ijrosini ta'minlashga yo'naltirilgan [4].",
-      "Hududiy darajada ham reja qabul qilingan: taqdimot materialiga ko'ra Farg'ona viloyat sog'liqni saqlash boshqarmasi 2015 yil 5 fevraldagi 24-son buyrug'i bilan 2015-2018 yillarga mo'ljallangan reja va ishchi guruhni tasdiqlagan. Bu rejali ishning hududiy ijrosiga misoldir [5]."
-    ]},
-    {"heading": "Tekshiriladigan guruhlar", "content": [
-      "Yo'riqnomada enterobioz va gimenolepidozga bolalar muassasalari bolalari va xodimlari, 1-4 sinf o'quvchilari, dispanser va chuqurlashtirilgan ko'riklardagi bolalar, dekret kontingentlari tekshirilishi belgilangan. Shuningdek muassasalarga yangi joylashuvchi bolalar, kasalxonaga yotqiziladiganlar va basseynga qatnaydiganlar ham kiradi [1].",
-      "Epidemik ko'rsatmalarga ko'ra tez-tez kasallanadigan va antisanitariya sharoitlarida yashaydigan bolalar ham tekshiriladi. Shu tarzda tekshiruv faqat tashkil etilgan guruhlar bilan cheklanmaydi, xavf yuqori bo'lgan bolalarni ham qamrab oladi [1]."
-    ]},
-    {"heading": "Tekshiruv davriyligi va qamrovi", "content": [
-      "Rejali profilaktik tekshiruvlarda bolalar muassasalari bolalari va maktablarning boshlang'ich sinf o'quvchilari bir yilda 1 marta gelmintozlarga tekshiriladi. JSST ko'rsatmasiga asosan tanlab tekshiruvga qamrab olinadigan bolalar jamoalari 5 foizdan kam bo'lmasligi belgilangan [1].",
-      "Davolash bayonnomasida muassasa kontingenti, maktab va litseylar hamda tashqi muhit ob'ektlarini enterobiozga yiliga ikki marta tekshirish tavsiya etilgan. Yo'riqnoma va bayonnoma o'rtasidagi bu farq tekshiruv davriyligini mahalliy vaziyatga qarab aniqlashni talab qiladi [1, 2]."
-    ]},
-    {"heading": "Laboratoriya tekshiruvi usullari", "content": [
-      "Rejali va profilaktik ko'riklarda perianal surtma usuli bilan bir vaqtda biror koprologik usul va Lyugol eritmali nativ usul qo'llanishi zarur. Perianal qirindi enterobioz tashxisi uchun yakka holda yoki bolalarni ommaviy tekshirish uchun qo'llanadi [3].",
-      "Yo'riqnomada JSST tavsiya etgan standartlashtirilgan flotatsiya, formalin-efir, sirkali-efir, Kato-Katts va sedimentatsiya usullarini qo'llash maqsadga muvofiq deyilgan. Namunalar tayyorlangan tibbiyot xodimlari orqali yig'ilib, DPM va DSENM laboratoriyalarida tahlil qilinadi [1, 3]."
-    ]},
-    {"heading": "Rejali degelmintizatsiya", "content": [
-      "Bolalar jamoasi bir marta tekshirilganda enterobioz bilan zararlanganlar 15 foiz va undan ko'p bo'lsa, jamoa 100 foiz davolanadi va sog'lomlashtirish samarasi laboratoriyada qayta tahlil qilinadi. Muassasadagi bolalar va xodimlarga 1-2 kurs degelmintizatsiya o'tkaziladi [1].",
-      "Yopiq turdagi muassasalarda oldindan tekshiruvsiz yiliga 2 marta 1 kurs profilaktik davolash o'tkaziladi. Bayonnomada MTM va maktab kontingentiga yiliga ikki marta ommaviy degelmintizatsiya tavsiyasi bor; davolash dam olish kunlari o'tkazilsa, atrofning ifloslanishi kamayadi [1, 2]."
-    ]},
-    {"heading": "Qabul va xodimlar nazorati", "content": [
-      "Gelmintozlarga tekshirilmagan bolalarni bolalar muassasalariga qabul qilish, shuningdek bir oy va undan ortiq uzilishdan keyin qaytganlarni tekshiruvsiz qabul qilish man etiladi. Kattalarning bolalar muassasalari, maktab, bolalar uyi, internat, oziq-ovqat korxonalari va basseynlarga ishga kirishi ham tekshiruvdan keyin ruxsat etiladi [1].",
-      "Bolalar muassasasi xodimlari, boshlang'ich sinf o'quvchilari va ishga yoki o'qishga kirayotgan shaxslar yiliga bir marta gimenolepidozga tekshiriladi. Bu choralar jamoaga yangi manba kirishini va xodimlar orqali tarqalishni kamaytirishga qaratilgan [1, 2]."
-    ]},
-    {"heading": "Sanitariya holatini nazorat qilish", "content": [
-      "DSENM mutaxassislari bolalar muassasalari va maktablarning sanitariya holati hamda obodonlashtirilishi bo'yicha nazorat natijalarini rahbarlar bilan muhokama qiladi. Sanitariya-gigiena tartibini buzgan muassasa rahbariyati davlat sanitariya nazorati qonuni asosida javobgarlikka tortiladi [1].",
-      "Bu talab profilaktikani tibbiyot xodimlarining ishidan muassasa rahbarining majburiyatiga aylantiradi. Tuvaklar, o'rindiqlar, idish-tovoq, sochiq va xonalarni tozalash tartibi rejali nazorat ob'ekti hisoblanadi [1]."
-    ]},
-    {"heading": "Atrof-muhitdan rejali namuna olish", "content": [
-      "Muassasalarda o'yinchoq, choyshab, gilam, qo'l, eshik tutqichi, ovqatlanish stoli, o'yin maydonchasidagi tuproq va qumdan surtma olinadi. Namuna yiliga kamida bir marta olinadi, invaziya aniqlanmagan muassasada kamida 10-15 surtma, 10-15 chang va 5-6 tuproq yoki qum namunasi talab qilinadi [1].",
-      "Kasallik topilgan muassasalarda namunalar soni ikki baravar ko'paytiriladi, birorta musbat natija sanitariya tartibining qo'pol buzilishi hisoblanadi. Shunda kompleks sog'lomlashtirish tayinlanadi va yiliga 2-3 marta takroriy namuna olinadi [1]."
-    ]},
-    {"heading": "Gigiena ta'limi va oila bilan ishlash", "content": [
-      "Bolalar va xodimlarning shaxsiy gigiena darajasini oshirish enterobiozning tarqalishini oldini olishdagi asosiy chora hisoblanadi: qo'llarni sovunlab yuvish, ichki kiyim almashtirish, tirnoqni qisqa olish. Oila a'zolari orasida sanitariya-targ'ibot kuchaytiriladi [1].",
-      "Bayonnoma bolalar, ota-onalar va muassasa xodimlarini sanitariya-gigiena amaliyotiga o'rgatishni profilaktikaning ajralmas qismi sifatida ko'rsatadi. Darslikda ham guruh bolalari va kontakt shaxslar vaqti-vaqti bilan tekshirilib, so'ng degelmintizatsiya qilinishi lozimligi aytilgan [2, 7]."
-    ]},
-    {"heading": "Gimenolepidozga xos qo'shimcha tadbirlar", "content": [
-      "Gimenolepidozda profilaktika erta aniqlash va o'z vaqtida davolashdan tashqari kemiruvchilar, pashshalar, tarakanlar, burgalar va un qo'ng'iziga qarshi kurashga asoslanadi. Davolash tezda boshlanadi, chunki bu gelmintoz qiyin davolanadiganlar qatoriga kiradi [2, 6].",
-      "Bayonnomada bemor yotgan xona, tuvak, kursi va eshik dastalarini kundalik dezinfeksiya qilish ko'rsatilgan. Shunday qilib, enterobiozga qaratilgan gigiena tadbirlari gimenolepidoz uchun hasharot va kemiruvchilarga qarshi choralar bilan to'ldiriladi [2, 6]."
-    ]},
-    {"heading": "Samaradorlikni baholash", "content": [
-      "Klinik-diagnostik laboratoriyalarda enterobiozni aniqlash samaradorligini DSENM asosan 3-12 yoshdagilar, MTM va maktab xodimlari hamda oziq-ovqat korxonalari xodimlari orasida tanlab nazorat tahlillari bilan tekshiradi. Bu laboratoriya ishining sifatini baholaydi [1].",
-      "Jamoani davolagandan keyin laboratoriya orqali qayta tahlil qilish sog'lomlashtirish natijasini ko'rsatadi. Atrof-muhitdan takroriy namuna olish esa o'choqdagi sanitariya holatining yaxshilanganini baholashga imkon beradi [1]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog rejali tadbirlarda tekshiruv jadvali, qamrov, laboratoriya usuli va degelmintizatsiya qarorini muvofiqlashtiradi. 15 foizlik mezon uni jamoani davolash zarurligini obyektiv aniqlashga yo'naltiradi [1].",
-      "Muassasa rahbarlari, tarbiyachilar va ota-onalarning faol ishtirokisiz bu choralar samarasiz qoladi. Shu sababli parazitolog tibbiy tadbirlar bilan birga gigiena ta'limini ham tashkil etadi [1, 2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Taqdimotdagi slaydlarda Farg'ona viloyatida 2012 yil dekabrda 300 nafar bola va 2014 yilgi tekshiruv natijalari berilgan, biroq jadvallar buzilgan holda o'qiladi, muallif va nashr ma'lumotlari yo'q. Shu bois ulardagi raqamlar bu mavzuda fakt sifatida ishlatilmadi [5].",
-      "Dasturning joriy holati, qamrov ko'rsatkichlari va natijalari hamda tekshiruv davriyligi bo'yicha yo'riqnoma (yiliga 1 marta) va bayonnoma (yiliga 2 marta) o'rtasidagi farqning rasmiy izohi manbalarda topilmadi. Bu masalalar amaldagi hujjatlar bilan aniqlanishi kerak [1, 2, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Uyushgan bolalar guruhlarida muloqotdagi gelmintozlar bilan zararlanishni pasaytirish rejali tekshiruv, 15 foiz mezonidagi ommaviy degelmintizatsiya, qabul va xodimlar nazorati, atrof-muhit monitoringi, gigiena ta'limi hamda samaradorlikni baholash orqali amalga oshiriladi. Bu tadbirlar dasturiy asosda va muntazam o'tkazilgandagina manbalar kamayadi [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 05.04.2016 yildagi 166-son buyrug'i «Parazitar kasalliklarni tashhisoti va davolash standartlari hamda davolash bayonnomalarini tasdiqlash to'g'risida» (ilovalari bilan). xayrullokomilov.uz/kutubxona, material ID 398.",
-    "Gijja: taqdimot (Презентация. Гижжа.ppt). xayrullokomilov.uz/kutubxona, material ID 1581.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737."
-  ]
+ "number": 83,
+ "title": "83. Uyushgan guruhlarda bolalar orasida muloqotdagi gelmintozlar bilan zararlanishni pasaytirish uchun o'tkazilgan chora-tadbirlar.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Uyushgan bolalar guruhlarida muloqot orqali yuqadigan gelmintozlar, ya'ni enterobioz va gimenolepidoz, bolalar bir-biri bilan yaqin aloqada bo'lgani sababli uzoq saqlanadi. Zararlanishni pasaytirish uchun alohida holatlarga javob berishdan tashqari, oldindan rejalashtirilgan profilaktik tadbirlar tizimi zarur [1, 6].",
+    "Mavzuda aynan rejali, ya'ni profilaktik yo'nalishdagi tadbirlar ko'rib chiqiladi: dastur asoslari, tekshiriladigan guruhlar va davriylik, ommaviy degelmintizatsiya, qabul va xodimlar nazorati, atrof-muhit monitoringi, gigiena ta'limi va samaradorlikni baholash. Aniqlangan holatdagi o'choq tadbirlari bu mavzuga kirmaydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Rejali tadbirlarning mantiqi",
+   "content": [
+    "Rejali profilaktika kasallik aniqlanishini kutmaydi: guruhlar oldindan belgilangan jadval bo'yicha tekshiriladi, zararlanish ko'rsatkichi esa jamoani davolash qarorini belgilaydi. Yo'riqnomada tekshiruvlar tibbiyot muassasalari bilan kelishilgan reja-jadvallarga yoki epidemik ko'rsatmalarga asoslanishi ko'rsatilgan [1].",
+    "Bunday yondashuvning afzalligi shundaki, alomatsiz tuxum ajratuvchi bolalar ham aniqlanadi. Ular kasallik belgisi bermasa ham manba bo'lib qoladi, shu sababli faqat shikoyat bilan murojaat qilganlarni tekshirish jamoada zararlanishni pasaytirmaydi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Dasturiy-huquqiy asos",
+   "content": [
+    "Vazirlar Mahkamasining 2015 yil 23 yanvardagi 9-son qarori 2015-2018 yillarda bolalardagi gelmintozlarni profilaktika qilish va davolash chora-tadbirlarini belgilagan. Sog'liqni saqlash vazirligining 43-son buyrug'i bu yo'nalishdagi chora-tadbirlar rejasini tasdiqlagan, 166-son buyruq ularning ijrosini ta'minlashga yo'naltirilgan [4].",
+    "Hududiy darajada ham reja qabul qilingan: taqdimot materialiga ko'ra Farg'ona viloyat sog'liqni saqlash boshqarmasi 2015 yil 5 fevraldagi 24-son buyrug'i bilan 2015-2018 yillarga mo'ljallangan reja va ishchi guruhni tasdiqlagan. Bu rejali ishning hududiy ijrosiga misoldir [5]."
+   ]
+  },
+  {
+   "heading": "Tekshiriladigan guruhlar",
+   "content": [
+    "Yo'riqnomada enterobioz va gimenolepidozga bolalar muassasalari bolalari va xodimlari, 1-4 sinf o'quvchilari, dispanser va chuqurlashtirilgan ko'riklardagi bolalar, dekret kontingentlari tekshirilishi belgilangan. Shuningdek muassasalarga yangi joylashuvchi bolalar, kasalxonaga yotqiziladiganlar va basseynga qatnaydiganlar ham kiradi [1].",
+    "Epidemik ko'rsatmalarga ko'ra tez-tez kasallanadigan va antisanitariya sharoitlarida yashaydigan bolalar ham tekshiriladi. Shu tarzda tekshiruv faqat tashkil etilgan guruhlar bilan cheklanmaydi, xavf yuqori bo'lgan bolalarni ham qamrab oladi [1]."
+   ]
+  },
+  {
+   "heading": "Tekshiruv davriyligi va qamrovi",
+   "content": [
+    "Rejali profilaktik tekshiruvlarda bolalar muassasalari bolalari va maktablarning boshlang'ich sinf o'quvchilari bir yilda 1 marta gelmintozlarga tekshiriladi. JSST ko'rsatmasiga asosan tanlab tekshiruvga qamrab olinadigan bolalar jamoalari 5 foizdan kam bo'lmasligi belgilangan [1].",
+    "Davolash bayonnomasida muassasa kontingenti, maktab va litseylar hamda tashqi muhit ob'ektlarini enterobiozga yiliga ikki marta tekshirish tavsiya etilgan. Yo'riqnoma va bayonnoma o'rtasidagi bu farq tekshiruv davriyligini mahalliy vaziyatga qarab aniqlashni talab qiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya tekshiruvi usullari",
+   "content": [
+    "Rejali va profilaktik ko'riklarda perianal surtma usuli bilan bir vaqtda biror koprologik usul va Lyugol eritmali nativ usul qo'llanishi zarur. Perianal qirindi enterobioz tashxisi uchun yakka holda yoki bolalarni ommaviy tekshirish uchun qo'llanadi [3].",
+    "Yo'riqnomada JSST tavsiya etgan standartlashtirilgan flotatsiya, formalin-efir, sirkali-efir, Kato-Katts va sedimentatsiya usullarini qo'llash maqsadga muvofiq deyilgan. Namunalar tayyorlangan tibbiyot xodimlari orqali yig'ilib, DPM va DSENM laboratoriyalarida tahlil qilinadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Rejali degelmintizatsiya",
+   "content": [
+    "Bolalar jamoasi bir marta tekshirilganda enterobioz bilan zararlanganlar 15 foiz va undan ko'p bo'lsa, jamoa 100 foiz davolanadi va sog'lomlashtirish samarasi laboratoriyada qayta tahlil qilinadi. Muassasadagi bolalar va xodimlarga 1-2 kurs degelmintizatsiya o'tkaziladi [1].",
+    "Yopiq turdagi muassasalarda oldindan tekshiruvsiz yiliga 2 marta 1 kurs profilaktik davolash o'tkaziladi. Bayonnomada MTM va maktab kontingentiga yiliga ikki marta ommaviy degelmintizatsiya tavsiyasi bor; davolash dam olish kunlari o'tkazilsa, atrofning ifloslanishi kamayadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qabul va xodimlar nazorati",
+   "content": [
+    "Gelmintozlarga tekshirilmagan bolalarni bolalar muassasalariga qabul qilish, shuningdek bir oy va undan ortiq uzilishdan keyin qaytganlarni tekshiruvsiz qabul qilish man etiladi. Kattalarning bolalar muassasalari, maktab, bolalar uyi, internat, oziq-ovqat korxonalari va basseynlarga ishga kirishi ham tekshiruvdan keyin ruxsat etiladi [1].",
+    "Bolalar muassasasi xodimlari, boshlang'ich sinf o'quvchilari va ishga yoki o'qishga kirayotgan shaxslar yiliga bir marta gimenolepidozga tekshiriladi. Bu choralar jamoaga yangi manba kirishini va xodimlar orqali tarqalishni kamaytirishga qaratilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Sanitariya holatini nazorat qilish",
+   "content": [
+    "DSENM mutaxassislari bolalar muassasalari va maktablarning sanitariya holati hamda obodonlashtirilishi bo'yicha nazorat natijalarini rahbarlar bilan muhokama qiladi. Sanitariya-gigiena tartibini buzgan muassasa rahbariyati davlat sanitariya nazorati qonuni asosida javobgarlikka tortiladi [1].",
+    "Bu talab profilaktikani tibbiyot xodimlarining ishidan muassasa rahbarining majburiyatiga aylantiradi. Tuvaklar, o'rindiqlar, idish-tovoq, sochiq va xonalarni tozalash tartibi rejali nazorat ob'ekti hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Atrof-muhitdan rejali namuna olish",
+   "content": [
+    "Muassasalarda o'yinchoq, choyshab, gilam, qo'l, eshik tutqichi, ovqatlanish stoli, o'yin maydonchasidagi tuproq va qumdan surtma olinadi. Namuna yiliga kamida bir marta olinadi, invaziya aniqlanmagan muassasada kamida 10-15 surtma, 10-15 chang va 5-6 tuproq yoki qum namunasi talab qilinadi [1].",
+    "Kasallik topilgan muassasalarda namunalar soni ikki baravar ko'paytiriladi, birorta musbat natija sanitariya tartibining qo'pol buzilishi hisoblanadi. Shunda kompleks sog'lomlashtirish tayinlanadi va yiliga 2-3 marta takroriy namuna olinadi [1]."
+   ]
+  },
+  {
+   "heading": "Gigiena ta'limi va oila bilan ishlash",
+   "content": [
+    "Bolalar va xodimlarning shaxsiy gigiena darajasini oshirish enterobiozning tarqalishini oldini olishdagi asosiy chora hisoblanadi: qo'llarni sovunlab yuvish, ichki kiyim almashtirish, tirnoqni qisqa olish. Oila a'zolari orasida sanitariya-targ'ibot kuchaytiriladi [1].",
+    "Bayonnoma bolalar, ota-onalar va muassasa xodimlarini sanitariya-gigiena amaliyotiga o'rgatishni profilaktikaning ajralmas qismi sifatida ko'rsatadi. Darslikda ham guruh bolalari va kontakt shaxslar vaqti-vaqti bilan tekshirilib, so'ng degelmintizatsiya qilinishi lozimligi aytilgan [2, 7]."
+   ]
+  },
+  {
+   "heading": "Gimenolepidozga xos qo'shimcha tadbirlar",
+   "content": [
+    "Gimenolepidozda profilaktika erta aniqlash va o'z vaqtida davolashdan tashqari kemiruvchilar, pashshalar, tarakanlar, burgalar va un qo'ng'iziga qarshi kurashga asoslanadi. Davolash tezda boshlanadi, chunki bu gelmintoz qiyin davolanadiganlar qatoriga kiradi [2, 6].",
+    "Bayonnomada bemor yotgan xona, tuvak, kursi va eshik dastalarini kundalik dezinfeksiya qilish ko'rsatilgan. Shunday qilib, enterobiozga qaratilgan gigiena tadbirlari gimenolepidoz uchun hasharot va kemiruvchilarga qarshi choralar bilan to'ldiriladi [2, 6]."
+   ]
+  },
+  {
+   "heading": "Samaradorlikni baholash",
+   "content": [
+    "Klinik-diagnostik laboratoriyalarda enterobiozni aniqlash samaradorligini DSENM asosan 3-12 yoshdagilar, MTM va maktab xodimlari hamda oziq-ovqat korxonalari xodimlari orasida tanlab nazorat tahlillari bilan tekshiradi. Bu laboratoriya ishining sifatini baholaydi [1].",
+    "Jamoani davolagandan keyin laboratoriya orqali qayta tahlil qilish sog'lomlashtirish natijasini ko'rsatadi. Atrof-muhitdan takroriy namuna olish esa o'choqdagi sanitariya holatining yaxshilanganini baholashga imkon beradi [1]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog rejali tadbirlarda tekshiruv jadvali, qamrov, laboratoriya usuli va degelmintizatsiya qarorini muvofiqlashtiradi. 15 foizlik mezon uni jamoani davolash zarurligini obyektiv aniqlashga yo'naltiradi [1].",
+    "Muassasa rahbarlari, tarbiyachilar va ota-onalarning faol ishtirokisiz bu choralar samarasiz qoladi. Shu sababli parazitolog tibbiy tadbirlar bilan birga gigiena ta'limini ham tashkil etadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Uyushgan bolalar guruhlarida muloqotdagi gelmintozlar bilan zararlanishni pasaytirish rejali tekshiruv, 15 foiz mezonidagi ommaviy degelmintizatsiya, qabul va xodimlar nazorati, atrof-muhit monitoringi, gigiena ta'limi hamda samaradorlikni baholash orqali amalga oshiriladi. Bu tadbirlar dasturiy asosda va muntazam o'tkazilgandagina manbalar kamayadi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 05.04.2016 yildagi 166-son buyrug'i «Parazitar kasalliklarni tashhisoti va davolash standartlari hamda davolash bayonnomalarini tasdiqlash to'g'risida» (ilovalari bilan). xayrullokomilov.uz/kutubxona, material ID 398.",
+  "Gijja: taqdimot (Презентация. Гижжа.ppt). xayrullokomilov.uz/kutubxona, material ID 1581.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737."
+ ]
 }

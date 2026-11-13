@@ -1,77 +1,115 @@
 {
-  "number": 39,
-  "title": "39. O'tkazilgan dezinseksiyaning samarasi qanday aniqlanadi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Dezinseksiya samarasi ishlovdan oldin va keyin tashuvchi chivinlar yoki ularning lichinkalari sonini solishtirish, ba'zan nazorat obyektlari bilan taqqoslash orqali aniqlanadi. Bezgakda bu tadbir sifatini baholash va qayta ishlov kerak yoki kerak emasligini hal qilish uchun zarur [1, 2].",
-      "Mavzuda baholash mezoni, hisoblash formulasi, muddatlar, imago va lichinkani hisobga olish usullari, qamrovning ahamiyati, laboratoriya biotesti hamda samara past bo'lgandagi sabablar yoritiladi. Manbalar o'rtasidagi farqlar ham ochiq ko'rsatiladi [1, 2, 3]."
-    ]},
-    {"heading": "Baholash maqsadi va asosiy mezon", "content": [
-      "Milliy yo'riqnomaga ko'ra chivinlarga qarshi tadbirlar sifati va samaradorligi kimyoviy ishlovdan 1 sutka o'tgach entomolog tomonidan baholanadi. Anopheles lichinkalari va imagolarining ishlovdan oldingi va keyingi miqdori solishtiriladi [1].",
-      "Sonning kamayishi 95 foizdan yuqori bo'lsa, o'tkazilgan tadbir samarali hisoblanadi. Xuddi shu qoida Surxondaryo entomologining taqdimotida ham keltirilgan, ya'ni yo'riqnoma va amaliy taqdimot o'zaro mos keladi [1, 3]."
-    ]},
-    {"heading": "Nazorat obyektlari va hisoblash formulasi", "content": [
-      "Fargona ma'ruzasiga ko'ra ishlovdan oldin aholi punktida joyga xos 10 ta xona yoki suv havzasi tanlanadi, imago yoki lichinkalar soni ishlovdan oldin va 1 sutka o'tgach sanaladi. Xuddi shuncha o'xshash nazorat obyekti ham shu muddatda hisoblanadi [2].",
-      "Samaradorlik formulasi: E = 100 - (N2 × n1) / (N1 × n2) × 100, bunda N1 va N2 ishlov berilgan obyektlarda ishlovdan oldingi va keyingi soni, n1 va n2 nazorat obyektlarida shu vaqtlardagi soni. Nazorat tabiiy o'zgarishni hisobga olishga imkon beradi [2]."
-    ]},
-    {"heading": "Takroriy hisoblash muddatlari", "content": [
-      "Dastlabki 1 sutkalik hisobdan keyin ishlov berilgan xonalarda chivinlar 7 dan 10 kungacha bir marta, suv havzalarida lichinkalar 5 sutkada bir marta chivinlar faolligi tugaguncha yoki soni dastlabki darajaga yaqinlashguncha sanaladi [2].",
-      "Moskitlarga qarshi dezinseksiya bo'yicha taqdimotda esa xonalarda birinchi hisob 24 soatdan keyin, so'ng har 3 dan 5 sutkada preparat artropodlarning kamida 80 foizini o'ldirishda davom etguncha o'tkazilishi aytilgan. Bu boshqa hasharotlar uchun berilgan taqqoslash uchun keltirildi [4]."
-    ]},
-    {"heading": "Imagolarni hisobga olish usullari", "content": [
-      "Endofil chivinlar uchun oldindan nazorat kunlari, ya'ni xonalar tanlanadi, o'rtacha qishloqda ularning soni kamida 10 ta bo'lishi lozim. Son chivin o'tirgan yuzaning 1 kv. m ga nisbatan beriladi, ekzofil chivinlarda esa ko'rsatkich soatiga bir xodim yig'gan chivin sonidir [3].",
-      "Chivinlar ko'p bo'lsa, xona kerosindagi 0,2 dan 0,3 foizgacha piretrin eritmasi bilan purkaladi va tushgan chivinlar 10 dan 15 daqiqadan keyin, ba'zan 1 dan 1,5 soatdan keyin yig'iladi. Yig'ish uchun deraza va eshiklar yopiladi, pol esa mato bilan qoplanadi [3]."
-    ]},
-    {"heading": "Hisoblash vaqti va qon hazm bosqichlari", "content": [
-      "Ishlov berilgan xonalarni tekshirish kunduzi tavsiya etiladi, chunki ertalab topilgan chivin har doim yomon ishlovni bildirmaydi. U ertalabki soatlarda, insektitsid hali ta'sir qilmasdan uchib kirgan bo'lishi mumkin, ayniqsa yaqinda katta anofelogen havzalar bo'lsa [2].",
-      "Samaraning ishonchli ko'rsatkichi urg'ochilarning Sella bosqichlari. Ishlov ishlayotgan xonalarda yig'ilganlarning 80 dan 90 foizi I-III bosqichda bo'lishi kerak, sokin o'tirgan urg'ochilarning yarmidan ko'pi IV va undan keyingi bosqichda bo'lsa, insektitsid faolligi pasaygan yoki yo'qolgan [2]."
-    ]},
-    {"heading": "Qamrov va samara", "content": [
-      "Samaraga ishlov berilgan xonalar ulushi ta'sir qiladi. Tez ta'sir qiluvchi sintetik piretroidlar bilan 85 dan 100 foizgacha xonaga ishlov berilsa, qishloqda chivinlar 1 sutkada yo'qoladi, yakka chivinlar esa yana taxminan 2 hafta uchrashi mumkin [2].",
-      "Qamrov 50 dan 60 foizgacha bo'lsa kamayish 20 dan 30 kungacha, 30 dan 40 foizda esa chivinlar 2 oygacha uchraydi. Milliy yo'riqnoma xonadonlar qamrovi kamida 90 dan 95 foizgacha bo'lishini va yashaydigan xonalar yashamaydiganlar hisobiga to'ldirilmasligini talab qiladi [1, 2]."
-    ]},
-    {"heading": "Lichinkaga qarshi ishlov samarasi", "content": [
-      "Bakterial preparat bilan ishlangan suv havzalarida lichinka va g'umbaklar 1 sutkadan keyin, so'ng 5 dan 7 sutkada bir marta sanaladi. Fosfororganik temefos qo'llanganda hisob xuddi shunday, II yoshli lichinkalar paydo bo'lgunga qadar, III yoshli lichinka topilsa keyingi ishlov belgilanadi [2].",
-      "Rivojlanish regulyatorlarida lichinka metamorfoz paytida nobud bo'lgani uchun 5 sutkada bir marta 3 dan 4 haftagacha sanaladi. Gambuziya qo'yilgan havzalarda katta yoshdagi lichinka va g'umbak bo'lmasligi kerak, bo'lsa sabab, odatda suv o'tlarining haddan tashqari o'sishi, aniqlanadi [2]."
-    ]},
-    {"heading": "Populyatsiya tarkibi va mavsumiy dinamika", "content": [
-      "Faqat son emas, populyatsiya yoshi ham baholanadi: tadbir muvaffaqiyati nafaqat chivinlar sonining kamayishi, balki qari urg'ochilar nobud bo'lishi hisobiga tarkibning keskin yosharishi bilan ko'rinadi. Potensial xavfli urg'ochilar ulushi imagoga qarshi kurash samarasini aniqlashda ham ishlatiladi [1, 7].",
-      "Mavsum davomida chivinlar soni bahordagi maksimumdan oshmasa kurash nisbatan muvaffaqiyatli. Har bir ko'tarilish to'liq ishlov berilmagan havzalar, yashirin ko'payish joylari, kech ishlov yoki qo'shni hududdan uchib kirish haqida signal bo'lib, sabab darhol aniqlanadi [2]."
-    ]},
-    {"heading": "Laboratoriya biotesti", "content": [
-      "JSST qo'llanmasi ishlov berilgan devordagi qoldiq ta'sir samarasini biotest bilan, ya'ni haftalar yoki oylar o'tgach nishon chivinlarning o'limini tekshirib aniqlashni ko'rsatadi. Usul ishlov sifatini baholashga yordam beradi, ammo devordagi preparat miqdorini o'lchamaydi va kampaniya davomidagi umumiy o'limni ko'rsatmaydi [6].",
-      "O'lim nazorat o'limiga tuzatiladi: (sinov o'limi - nazorat o'limi) / (100 - nazorat o'limi) × 100. Kuzatuv o'lim 70 foizgacha tushguncha davom ettiriladi, shundan so'ng qayta ishlov kerak bo'lishi mumkin, derazaga o'rnatilgan tuzoq kabi usullar qo'shiladi [6]."
-    ]},
-    {"heading": "Samara past bo'lishining sabablari", "content": [
-      "Ishlovdan keyin xonalarda tirik chivinlar yoki bir necha gonotrofik davrni o'tkazgan urg'ochilar topilsa, ishlov sifatini, apparatlar ishini va dezinfektorlarning tayyorgarligini tahlil qilish kerak. Taqdimotda qo'l apparatida ishchi bosim 55 psi (3,8 bar) ga yetkazilishi ko'rsatilgan [5, 10].",
-      "Past samara chidamlilik va bezovtalanish bilan ham bog'liq: chivinlar ishlov berilgan joydan uchib chiqib ishlov berilmagan xonaga o'tadi. Tirik qolganlar ulushi 50 foizga yetsa, dasturga o'zgartirish kiritiladi, insektitsidga sezgirlik ishlovdan oldin aniqlanadi [5]."
-    ]},
-    {"heading": "Hujjatlashtirish", "content": [
-      "Entomologiya yillik hisobotida imagoga qarshi xonadonlar ishlovi va suv havzalarida lichinkaga qarshi ishlov choraklik jadvallarda yuritiladi, anofelogen suv havzalari maydoni esa yarim yillik va yillik. Ishlovdan keyingi son o'zgarishi shu ma'lumotlarga asos bo'ladi [9].",
-      "Ishlov olingan joylar, preparat nomi, sana, konsentratsiya va maydon epidemiologik tekshiruv kartasida ham qayd etilib, ishlovdan keyingi bo'g'imoyoqlilar sonini ko'rsatish talab qilinadi. Ishlov samarasini baholash alohida bo'lim sifatida taqdimotlarda ham keltirilgan [8, 10]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor entomolog natijalarini o'choqdagi epidemiologik holat bilan bog'laydi. Samara yetarli bo'lmasa, qayta ishlov, qamrovni oshirish yoki preparat almashtirish zarurligi bo'yicha qaror tayyorlanadi, chunki bezgak o'chog'ida tadbirlar o'z vaqtida va to'liq o'tkazilishi kerak [1, 2].",
-      "Natijalar profilaktika va epidemiyaga qarshi tadbirlar sifatini baholashning bir qismidir. Epidemiologik nazorat yo'riqnomasi tahlilda o'tkazilgan profilaktik va epidemiyaga qarshi tadbirlar sifati va samaradorligiga baho berishni nazarda tutadi [8]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Samaradorlik me'yori manbalarda farq qiladi: 121-son buyruq 1-ilovasi va Surxondaryo taqdimotida 95 foizdan yuqori kamayish, Fargona ma'ruzasida esa sifatli ishlovda 97 foizdan kam bo'lmagan ko'rsatkich keltirilgan. Qaysi me'yor amaldagi buyruqda ustuvor ekani bu yerda tasdiqlanmadi [1, 2, 3].",
-      "Moskit uchun 80 foiz qoidasi va JSST biotestidagi 70 foiz chegarasi boshqa hasharot yoki laboratoriya sharoiti uchun berilgan, ularni O'zbekistondagi bezgak ishlovining rasmiy me'yori deb bo'lmaydi. Shuningdek muayyan viloyatlar bo'yicha haqiqiy samara ko'rsatkichlari keltirilmadi [4, 6]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "O'tkazilgan dezinseksiya samarasi ishlovdan oldin va keyin, nazorat bilan birga imago va lichinka sonini solishtirib, formula bo'yicha hisoblanadi, muddatli takroriy hisoblar, qamrov, Sella bosqichlari, populyatsiya yoshi va kerak bo'lsa biotest bilan to'ldiriladi. Milliy mezon 1 sutkadan keyin 95 foizdan yuqori kamayishdir [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ: презентация. ОблЦГСЭН Ферганской области, Фергана, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
-    "Xamiraev A.I. Suv havzalari va binolarni entomologik tekshirishni o'tkazish usullari: taqdimot. Surxondaryo viloyati SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1590.",
-    "Методы обследования и учета москитов и контроля дезинсекции: презентация. xayrullokomilov.uz/kutubxona, material ID 1572.",
-    "Жахонгиров Ш.М. Chivinlarni insektitsidlarga bo'lgan chidamliligi va bezovtalanishi: taqdimot. L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1595.",
-    "World Health Organization. Malaria entomology and vector control: guide for participants (Training module on malaria control). Geneva: WHO, 2013. ISBN 978 92 4 150581 9. https://afro.who.int/sites/default/files/2017-06/9789241505819_eng.pdf",
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "Лебедева Н.И. Отчетные и учетные формы: презентация. Служба санитарно-эпидемиологического благополучия и общественного здоровья МЗ РУз, Ташкент, 2021. xayrullokomilov.uz/kutubxona, material ID 1568.",
-    "Методика проведения внутридомовых обработок: презентация. xayrullokomilov.uz/kutubxona, material ID 1588."
-  ]
+ "number": 39,
+ "title": "39. O'tkazilgan dezinseksiyaning samarasi qanday aniqlanadi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Dezinseksiya samarasi ishlovdan oldin va keyin tashuvchi chivinlar yoki ularning lichinkalari sonini solishtirish, ba'zan nazorat obyektlari bilan taqqoslash orqali aniqlanadi. Bezgakda bu tadbir sifatini baholash va qayta ishlov kerak yoki kerak emasligini hal qilish uchun zarur [1, 2].",
+    "Mavzuda baholash mezoni, hisoblash formulasi, muddatlar, imago va lichinkani hisobga olish usullari, qamrovning ahamiyati, laboratoriya biotesti hamda samara past bo'lgandagi sabablar yoritiladi. Manbalar o'rtasidagi farqlar ham ochiq ko'rsatiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Baholash maqsadi va asosiy mezon",
+   "content": [
+    "Milliy yo'riqnomaga ko'ra chivinlarga qarshi tadbirlar sifati va samaradorligi kimyoviy ishlovdan 1 sutka o'tgach entomolog tomonidan baholanadi. Anopheles lichinkalari va imagolarining ishlovdan oldingi va keyingi miqdori solishtiriladi [1].",
+    "Sonning kamayishi 95 foizdan yuqori bo'lsa, o'tkazilgan tadbir samarali hisoblanadi. Xuddi shu qoida Surxondaryo entomologining taqdimotida ham keltirilgan, ya'ni yo'riqnoma va amaliy taqdimot o'zaro mos keladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Nazorat obyektlari va hisoblash formulasi",
+   "content": [
+    "Fargona ma'ruzasiga ko'ra ishlovdan oldin aholi punktida joyga xos 10 ta xona yoki suv havzasi tanlanadi, imago yoki lichinkalar soni ishlovdan oldin va 1 sutka o'tgach sanaladi. Xuddi shuncha o'xshash nazorat obyekti ham shu muddatda hisoblanadi [2].",
+    "Samaradorlik formulasi: E = 100 - (N2 × n1) / (N1 × n2) × 100, bunda N1 va N2 ishlov berilgan obyektlarda ishlovdan oldingi va keyingi soni, n1 va n2 nazorat obyektlarida shu vaqtlardagi soni. Nazorat tabiiy o'zgarishni hisobga olishga imkon beradi [2]."
+   ]
+  },
+  {
+   "heading": "Takroriy hisoblash muddatlari",
+   "content": [
+    "Dastlabki 1 sutkalik hisobdan keyin ishlov berilgan xonalarda chivinlar 7 dan 10 kungacha bir marta, suv havzalarida lichinkalar 5 sutkada bir marta chivinlar faolligi tugaguncha yoki soni dastlabki darajaga yaqinlashguncha sanaladi [2].",
+    "Moskitlarga qarshi dezinseksiya bo'yicha taqdimotda esa xonalarda birinchi hisob 24 soatdan keyin, so'ng har 3 dan 5 sutkada preparat artropodlarning kamida 80 foizini o'ldirishda davom etguncha o'tkazilishi aytilgan. Bu boshqa hasharotlar uchun berilgan taqqoslash uchun keltirildi [4]."
+   ]
+  },
+  {
+   "heading": "Imagolarni hisobga olish usullari",
+   "content": [
+    "Endofil chivinlar uchun oldindan nazorat kunlari, ya'ni xonalar tanlanadi, o'rtacha qishloqda ularning soni kamida 10 ta bo'lishi lozim. Son chivin o'tirgan yuzaning 1 kv. m ga nisbatan beriladi, ekzofil chivinlarda esa ko'rsatkich soatiga bir xodim yig'gan chivin sonidir [3].",
+    "Chivinlar ko'p bo'lsa, xona kerosindagi 0,2 dan 0,3 foizgacha piretrin eritmasi bilan purkaladi va tushgan chivinlar 10 dan 15 daqiqadan keyin, ba'zan 1 dan 1,5 soatdan keyin yig'iladi. Yig'ish uchun deraza va eshiklar yopiladi, pol esa mato bilan qoplanadi [3]."
+   ]
+  },
+  {
+   "heading": "Hisoblash vaqti va qon hazm bosqichlari",
+   "content": [
+    "Ishlov berilgan xonalarni tekshirish kunduzi tavsiya etiladi, chunki ertalab topilgan chivin har doim yomon ishlovni bildirmaydi. U ertalabki soatlarda, insektitsid hali ta'sir qilmasdan uchib kirgan bo'lishi mumkin, ayniqsa yaqinda katta anofelogen havzalar bo'lsa [2].",
+    "Samaraning ishonchli ko'rsatkichi urg'ochilarning Sella bosqichlari. Ishlov ishlayotgan xonalarda yig'ilganlarning 80 dan 90 foizi I-III bosqichda bo'lishi kerak, sokin o'tirgan urg'ochilarning yarmidan ko'pi IV va undan keyingi bosqichda bo'lsa, insektitsid faolligi pasaygan yoki yo'qolgan [2]."
+   ]
+  },
+  {
+   "heading": "Qamrov va samara",
+   "content": [
+    "Samaraga ishlov berilgan xonalar ulushi ta'sir qiladi. Tez ta'sir qiluvchi sintetik piretroidlar bilan 85 dan 100 foizgacha xonaga ishlov berilsa, qishloqda chivinlar 1 sutkada yo'qoladi, yakka chivinlar esa yana taxminan 2 hafta uchrashi mumkin [2].",
+    "Qamrov 50 dan 60 foizgacha bo'lsa kamayish 20 dan 30 kungacha, 30 dan 40 foizda esa chivinlar 2 oygacha uchraydi. Milliy yo'riqnoma xonadonlar qamrovi kamida 90 dan 95 foizgacha bo'lishini va yashaydigan xonalar yashamaydiganlar hisobiga to'ldirilmasligini talab qiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Lichinkaga qarshi ishlov samarasi",
+   "content": [
+    "Bakterial preparat bilan ishlangan suv havzalarida lichinka va g'umbaklar 1 sutkadan keyin, so'ng 5 dan 7 sutkada bir marta sanaladi. Fosfororganik temefos qo'llanganda hisob xuddi shunday, II yoshli lichinkalar paydo bo'lgunga qadar, III yoshli lichinka topilsa keyingi ishlov belgilanadi [2].",
+    "Rivojlanish regulyatorlarida lichinka metamorfoz paytida nobud bo'lgani uchun 5 sutkada bir marta 3 dan 4 haftagacha sanaladi. Gambuziya qo'yilgan havzalarda katta yoshdagi lichinka va g'umbak bo'lmasligi kerak, bo'lsa sabab, odatda suv o'tlarining haddan tashqari o'sishi, aniqlanadi [2]."
+   ]
+  },
+  {
+   "heading": "Populyatsiya tarkibi va mavsumiy dinamika",
+   "content": [
+    "Faqat son emas, populyatsiya yoshi ham baholanadi: tadbir muvaffaqiyati nafaqat chivinlar sonining kamayishi, balki qari urg'ochilar nobud bo'lishi hisobiga tarkibning keskin yosharishi bilan ko'rinadi. Potensial xavfli urg'ochilar ulushi imagoga qarshi kurash samarasini aniqlashda ham ishlatiladi [1, 7].",
+    "Mavsum davomida chivinlar soni bahordagi maksimumdan oshmasa kurash nisbatan muvaffaqiyatli. Har bir ko'tarilish to'liq ishlov berilmagan havzalar, yashirin ko'payish joylari, kech ishlov yoki qo'shni hududdan uchib kirish haqida signal bo'lib, sabab darhol aniqlanadi [2]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya biotesti",
+   "content": [
+    "JSST qo'llanmasi ishlov berilgan devordagi qoldiq ta'sir samarasini biotest bilan, ya'ni haftalar yoki oylar o'tgach nishon chivinlarning o'limini tekshirib aniqlashni ko'rsatadi. Usul ishlov sifatini baholashga yordam beradi, ammo devordagi preparat miqdorini o'lchamaydi va kampaniya davomidagi umumiy o'limni ko'rsatmaydi [6].",
+    "O'lim nazorat o'limiga tuzatiladi: (sinov o'limi - nazorat o'limi) / (100 - nazorat o'limi) × 100. Kuzatuv o'lim 70 foizgacha tushguncha davom ettiriladi, shundan so'ng qayta ishlov kerak bo'lishi mumkin, derazaga o'rnatilgan tuzoq kabi usullar qo'shiladi [6]."
+   ]
+  },
+  {
+   "heading": "Samara past bo'lishining sabablari",
+   "content": [
+    "Ishlovdan keyin xonalarda tirik chivinlar yoki bir necha gonotrofik davrni o'tkazgan urg'ochilar topilsa, ishlov sifatini, apparatlar ishini va dezinfektorlarning tayyorgarligini tahlil qilish kerak. Taqdimotda qo'l apparatida ishchi bosim 55 psi (3,8 bar) ga yetkazilishi ko'rsatilgan [5, 10].",
+    "Past samara chidamlilik va bezovtalanish bilan ham bog'liq: chivinlar ishlov berilgan joydan uchib chiqib ishlov berilmagan xonaga o'tadi. Tirik qolganlar ulushi 50 foizga yetsa, dasturga o'zgartirish kiritiladi, insektitsidga sezgirlik ishlovdan oldin aniqlanadi [5]."
+   ]
+  },
+  {
+   "heading": "Hujjatlashtirish",
+   "content": [
+    "Entomologiya yillik hisobotida imagoga qarshi xonadonlar ishlovi va suv havzalarida lichinkaga qarshi ishlov choraklik jadvallarda yuritiladi, anofelogen suv havzalari maydoni esa yarim yillik va yillik. Ishlovdan keyingi son o'zgarishi shu ma'lumotlarga asos bo'ladi [9].",
+    "Ishlov olingan joylar, preparat nomi, sana, konsentratsiya va maydon epidemiologik tekshiruv kartasida ham qayd etilib, ishlovdan keyingi bo'g'imoyoqlilar sonini ko'rsatish talab qilinadi. Ishlov samarasini baholash alohida bo'lim sifatida taqdimotlarda ham keltirilgan [8, 10]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor entomolog natijalarini o'choqdagi epidemiologik holat bilan bog'laydi. Samara yetarli bo'lmasa, qayta ishlov, qamrovni oshirish yoki preparat almashtirish zarurligi bo'yicha qaror tayyorlanadi, chunki bezgak o'chog'ida tadbirlar o'z vaqtida va to'liq o'tkazilishi kerak [1, 2].",
+    "Natijalar profilaktika va epidemiyaga qarshi tadbirlar sifatini baholashning bir qismidir. Epidemiologik nazorat yo'riqnomasi tahlilda o'tkazilgan profilaktik va epidemiyaga qarshi tadbirlar sifati va samaradorligiga baho berishni nazarda tutadi [8]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'tkazilgan dezinseksiya samarasi ishlovdan oldin va keyin, nazorat bilan birga imago va lichinka sonini solishtirib, formula bo'yicha hisoblanadi, muddatli takroriy hisoblar, qamrov, Sella bosqichlari, populyatsiya yoshi va kerak bo'lsa biotest bilan to'ldiriladi. Milliy mezon 1 sutkadan keyin 95 foizdan yuqori kamayishdir [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ: презентация. ОблЦГСЭН Ферганской области, Фергана, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
+  "Xamiraev A.I. Suv havzalari va binolarni entomologik tekshirishni o'tkazish usullari: taqdimot. Surxondaryo viloyati SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1590.",
+  "Методы обследования и учета москитов и контроля дезинсекции: презентация. xayrullokomilov.uz/kutubxona, material ID 1572.",
+  "Жахонгиров Ш.М. Chivinlarni insektitsidlarga bo'lgan chidamliligi va bezovtalanishi: taqdimot. L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1595.",
+  "World Health Organization. Malaria entomology and vector control: guide for participants (Training module on malaria control). Geneva: WHO, 2013. ISBN 978 92 4 150581 9. https://afro.who.int/sites/default/files/2017-06/9789241505819_eng.pdf",
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Лебедева Н.И. Отчетные и учетные формы: презентация. Служба санитарно-эпидемиологического благополучия и общественного здоровья МЗ РУз, Ташкент, 2021. xayrullokomilov.uz/kutubxona, material ID 1568.",
+  "Методика проведения внутридомовых обработок: презентация. xayrullokomilov.uz/kutubxona, material ID 1588."
+ ]
 }

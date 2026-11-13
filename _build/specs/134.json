@@ -2,61 +2,96 @@
  "number": 134,
  "title": "134. Toksoplazmoz profilaktikasi.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Toksoplazmoz profilaktikasi qo'zg'atuvchining tabiiy aylanishini uzishga, ya'ni mushuk ooxistalari va kasal hayvonlar go'shti orqali odamga o'tishni to'xtatishga qaratilgan. Alohida e'tibor tug'ma toksoplazmozning oldini olishga beriladi, chunki homilaning zararlanishi eng og'ir oqibat beradi [1, 2].",
-   "Mavzuda go'sht, sut va qo'l gigienasi, mushuklar bilan munosabat, hayvonlar ustidan veterinariya nazorati, homilador ayollar uchun qoidalar, suv va sanitariya choralari hamda laboratoriya nazorati ketma-ket ko'rib chiqiladi. Muammoli jihatlar oxirida ochiq ko'rsatiladi [1, 3, 4, 5]."
-  ]},
-  {"heading": "Profilaktikaning asosiy yo'nalishlari", "content": [
-   "Atlasda profilaktika shaxsiy va jamoat choralariga bo'lingan. Shaxsiy choralar sutni qaynatish, go'shtni termik ishlash va gigiena qoidalariga amal qilishdan iborat, jamoat choralari esa homiladorlarni serologik tekshirish va zarur bo'lsa davolashni o'z ichiga oladi [2].",
-   "Darslikda bu yo'nalishlar kengaytirilgan: tabiiy o'choqlarda deratizatsiya, kasal hayvonlarni ajratish, go'sht va sutni zararsizlantirish, kasbiy guruhlarni tekshirish ko'rsatilgan. Demak, tadbirlar manbani, yuqish omillarini va moyil guruhlarni bir vaqtda qamrab olishi kerak [1, 2]."
-  ]},
-  {"heading": "Go'shtni termik ishlash", "content": [
-   "Darslikda kasal hayvonlar go'shti sinchiklab termik ishlanishi kerakligi aytilgan, chunki odam asosan xom yoki yetarlicha pishirilmagan go'sht orqali zararlanadi. O'quv qo'llanmada ham faqat yaxshi termik ishlangan hayvon va parranda go'shtini iste'mol qilish profilaktika qoidasi sifatida ko'rsatilgan [1, 3].",
-   "Milliy standartlarda homilador ayollar uchun xom va yaxshi pishirilmagan go'shtni ovqatdan chiqarish, xom qiymani tatib ko'rmaslik talablari berilgan. Bu choralarning mantiqi oddiy: haqiqiy sistalar go'sht to'qimalarida saqlanadi va termik ishlov bilan yo'qotilmasa, odamga o'tadi [2, 4]."
-  ]},
-  {"heading": "Sutni qaynatish", "content": [
-   "Atlasda shaxsiy profilaktika choralari orasida sutni qaynatish birinchi o'rinlarda ko'rsatilgan. Darslikda ham kasal uy hayvonlarining sutini qaynatish zarurligi aytilgan va bu jarayon go'sht bilan bir qatorda alimentar yo'lni to'sadi [1, 2].",
-   "Atlasda kasal hayvonlarning qaynatilmagan sutini iste'mol qilish zararlanish omillari qatorida berilgan, qaynatish esa shu omilni bartaraf etadi. Qaynatish muddati va harorati ko'rilgan manbalarda ko'rsatilmagan, shu sababli matnda aniq raqam keltirilmaydi [2]."
-  ]},
-  {"heading": "Shaxsiy gigiena va ooxistalardan himoya", "content": [
-   "O'quv qo'llanmada profilaktika mushuklar bilan aloqadan keyin shaxsiy gigiena qoidalariga rioya qilishdan boshlanishi aytilgan. Atlasga ko'ra ooxistalar iflos qo'llar, yuvilmagan sabzavot va mevalar hamda mushuk juni orqali og'izga tushadi, shuning uchun qo'l va oziq-ovqat gigienasi muhim [2, 3].",
-   "Milliy standartlarda homilador ayollarga xom go'sht bilan, shuningdek bog' va polizdagi tuproq bilan aloqadan keyin qo'lni yuvish tavsiya etilgan. Bu tavsiya ooxista tushgan tuproq bilan yuqish xavfini kamaytirishga qaratilgan oddiy va samarali chora hisoblanadi [4]."
-  ]},
-  {"heading": "Mushuklar bilan bog'liq choralar", "content": [
-   "Darslikda odam uchun eng katta xavf daydi mushuklardan keladi, shuning uchun ularga alohida e'tibor beriladi. Atlasda homilador ayollarga uyda mushuk saqlash tavsiya etilmasligi aytilgan, chunki mushuk jinsiy siklning asosiy xo'jayini bo'lib, ooxistalarni najas bilan chiqaradi [1, 2].",
-   "Milliy standartlarda ham mushuk saqlashga oid cheklov qo'yilgan, ammo matn to'liq ko'rinmaydi: veterinar bilan aniqlashtirish talabi keltirilgan bo'lib, davomi o'qilmagan. Shu sababli bu band bo'yicha mushuklarni qanday tekshirish kerakligi aniq ko'rsatilmaydi [4]."
-  ]},
-  {"heading": "Tabiiy o'choqlarda deratizatsiya va hayvonlar nazorati", "content": [
-   "Darslikda toksoplazmozning tabiiy o'choqlarida muntazam deratizatsiya o'tkazilishi aytilgan. O'quv qo'llanmaga ko'ra mushuklar sichqonsimon kemiruvchilarni yeb zararlanadi, shu sababli kemiruvchilar sonini kamaytirish zanjirning bu bo'g'inini uzishga yordam beradi [1, 3].",
-   "Kasal uy va chorva hayvonlari ajratib qo'yilib, davolanadi, ularning go'shti termik ishlanadi, sut esa qaynatiladi. Toksoplazmozdan nobud bo'lgan hayvonlar murdasi maxsus chorva qabristonlariga ko'miladi. Bu choralar ooxista va to'qima sistalarining tashqi muhitga tarqalishini kamaytiradi [1]."
-  ]},
-  {"heading": "Kasbiy guruhlarni tekshirish", "content": [
-   "Darslikda veterinariya xizmati, so'yish punktlari, go'sht kombinatlari va chorvachilik fermalari xodimlari sinchiklab tekshirilishi aytilgan. Atlasda kasal hayvonlar go'shtini bo'laklashda shikastlangan teri orqali zararlanish mumkinligi ko'rsatilgan, shu sababli bu guruhlar uchun teri jarohatlaridan saqlanish muhim [1, 2].",
-   "Atlasda kasallar qonini laboratoriyada tekshirishda ham zararlanish mumkinligi yozilgan. Demak, laboratoriya xodimlari qon bilan ishlaganda ham himoya choralarini ko'rishi kerak. Bu yo'nalish bo'yicha aniq texnik tartiblar ko'rilgan manbalarda berilmagan, shu sababli ular bu yerda keltirilmaydi [2]."
-  ]},
-  {"heading": "Homilador ayollarni himoya qilish", "content": [
-   "Milliy standartlarda homilador ayol parazitni homilaga faqat shu homiladorlikda birinchi marta zararlangan bo'lsa o'tkazishi mumkinligi, shuning uchun birlamchi profilaktika yangi zararlanishni istisno qilishga qaratilishi lozimligi aytilgan. Shu maqsadda xom go'sht va tuproq bilan aloqa cheklanadi [4].",
-   "Atlasda tug'ma toksoplazmoz profilaktikasi uchun homiladorlarni serologik tekshirish va kerak bo'lsa davolash jamoat chorasi sifatida ko'rsatilgan. Darslikda dispanser hisobidagi homilador ayollarga alohida e'tibor berilishi aytilgan. Bu yo'nalish tug'ma kasallikning oldini olishning asosiy halqasi hisoblanadi [1, 2]."
-  ]},
-  {"heading": "Suv va sanitariya choralari", "content": [
-   "JSST hujjatida sanitariya xavfsizligi rejalari va suv xavfsizligi rejalarining ahamiyati ta'kidlangan. Ularga mushuk najasi bilan ifloslanishning oldini olish, manbani muhofaza qilish, filtrlash va samarali tozalash jarayonlari kiritilgan [5].",
-   "Hujjatda ooxistalarning kimyoviy dezinfeksiyaga yuqori chidamliligi, ammo ultrabinafsha nurlanishga sezgirligi ta'kidlangan. Shu sababli faqat kimyoviy dezinfeksiyaga tayanib suv xavfsizligini ta'minlab bo'lmaydi; O'zbekiston suv ta'minoti tizimiga bu talabni moslashtirish bo'yicha ma'lumot manbalarda yo'q [5]."
-  ]},
-  {"heading": "Laboratoriya nazorati", "content": [
-   "Darslikda antitanalar titrining ortishi va toksoplazmin bilan ijobiy teri sinamasi o'tkir toksoplazmoz tashxisini qo'yishga imkon berishi aytilgan. Shu sababli xavf guruhlarida serologik nazorat profilaktikaning bir qismi hisoblanadi, chunki o'z vaqtida aniqlash davolashni boshlashga yordam beradi [1].",
-   "Milliy standartlarda toksoplazmoz uchun laboratoriya tekshiruvlari qatorida TORCH infeksiyasiga ELISA, RSK, PCR va maxsus IgM aniqlash ko'rsatilgan. Atlasda esa serologik reaksiyalar 7-10 kun oraliqda 2-3 marta o'tkazilishi, antitanalar nafaqat o'tkir kasallikda, sog'lom odamlarning 20-30 foizida ham ijobiy bo'lishi yozilgan [2, 4]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Parazitolog-shifokor aholiga tushuntirish ishida asosiy qoidalarni aniq aytishi kerak: go'sht yaxshi pishirilishi, sut qaynatilishi, mushuk va tuproq bilan aloqadan keyin qo'l yuvilishi. Homilador ayollar uchun bu qoidalar akusher-ginekolog bilan hamkorlikda qo'llanadi [1, 2, 4].",
-   "Shuningdek, kasbiy xavf guruhlari va immuniteti pasaygan odamlar e'tibordan chetda qolmasligi lozim. Atlasda OITS bilan kasallanganlarning bir qismida toksoplazmoz rivojlanishi aytilgan, shu sababli bunday bemorlarda tashxis va nazorat alohida e'tiborni talab qiladi [2]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Toksoplazmozga qarshi vaksina yoki maxsus profilaktika ko'rilgan manbalarda ko'rsatilmagan, shuning uchun bu mavzuda maxsus profilaktika vositalari haqida ma'lumot berilmaydi. O'zbekistonda homiladorlarni toksoplazmozga majburiy skrining qilish tartibi ham manbalarda aniq berilmagan [1, 2, 4].",
-   "Milliy standartlarda mushuk saqlash bo'yicha matn to'liq ko'rinmaydi, shu sababli uning to'liq mazmuni ochilmagan. Suvni dezinfeksiyalashning O'zbekistonga xos me'yorlari, kasal hayvonlarni davolash sxemalari va ularning dozalari ham tekshirilmagan, matnda keltirilmaydi [4, 5]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Toksoplazmoz profilaktikasi go'sht va sutni to'g'ri ishlash, qo'l va oziq-ovqat gigienasi, mushuk najasi bilan ifloslanishni cheklash, hayvonlar ustidan veterinariya nazorati va homilador ayollarni himoya qilishdan iborat. Maxsus profilaktika manbalarda ko'rsatilmagan, shu sababli asosiy yuk gigiena va sanitariya choralari zimmasida [1, 2, 4, 5]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Toksoplazmoz profilaktikasi qo'zg'atuvchining tabiiy aylanishini uzishga, ya'ni mushuk ooxistalari va kasal hayvonlar go'shti orqali odamga o'tishni to'xtatishga qaratilgan. Alohida e'tibor tug'ma toksoplazmozning oldini olishga beriladi, chunki homilaning zararlanishi eng og'ir oqibat beradi [1, 2].",
+    "Mavzuda go'sht, sut va qo'l gigienasi, mushuklar bilan munosabat, hayvonlar ustidan veterinariya nazorati, homilador ayollar uchun qoidalar, suv va sanitariya choralari hamda laboratoriya nazorati ketma-ket ko'rib chiqiladi [1, 3, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Profilaktikaning asosiy yo'nalishlari",
+   "content": [
+    "Atlasda profilaktika shaxsiy va jamoat choralariga bo'lingan. Shaxsiy choralar sutni qaynatish, go'shtni termik ishlash va gigiena qoidalariga amal qilishdan iborat, jamoat choralari esa homiladorlarni serologik tekshirish va zarur bo'lsa davolashni o'z ichiga oladi [2].",
+    "Darslikda bu yo'nalishlar kengaytirilgan: tabiiy o'choqlarda deratizatsiya, kasal hayvonlarni ajratish, go'sht va sutni zararsizlantirish, kasbiy guruhlarni tekshirish ko'rsatilgan. Demak, tadbirlar manbani, yuqish omillarini va moyil guruhlarni bir vaqtda qamrab olishi kerak [1, 2]."
+   ]
+  },
+  {
+   "heading": "Go'shtni termik ishlash",
+   "content": [
+    "Darslikda kasal hayvonlar go'shti sinchiklab termik ishlanishi kerakligi aytilgan, chunki odam asosan xom yoki yetarlicha pishirilmagan go'sht orqali zararlanadi. O'quv qo'llanmada ham faqat yaxshi termik ishlangan hayvon va parranda go'shtini iste'mol qilish profilaktika qoidasi sifatida ko'rsatilgan [1, 3].",
+    "Milliy standartlarda homilador ayollar uchun xom va yaxshi pishirilmagan go'shtni ovqatdan chiqarish, xom qiymani tatib ko'rmaslik talablari berilgan. Bu choralarning mantiqi oddiy: haqiqiy sistalar go'sht to'qimalarida saqlanadi va termik ishlov bilan yo'qotilmasa, odamga o'tadi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Sutni qaynatish",
+   "content": [
+    "Atlasda shaxsiy profilaktika choralari orasida sutni qaynatish birinchi o'rinlarda ko'rsatilgan. Darslikda ham kasal uy hayvonlarining sutini qaynatish zarurligi aytilgan va bu jarayon go'sht bilan bir qatorda alimentar yo'lni to'sadi [1, 2].",
+    "Atlasda kasal hayvonlarning qaynatilmagan sutini iste'mol qilish zararlanish omillari qatorida berilgan, qaynatish esa shu omilni bartaraf etadi. Qaynatish muddati va harorati ko'rilgan manbalarda ko'rsatilmagan, shu sababli matnda aniq raqam keltirilmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Shaxsiy gigiena va ooxistalardan himoya",
+   "content": [
+    "O'quv qo'llanmada profilaktika mushuklar bilan aloqadan keyin shaxsiy gigiena qoidalariga rioya qilishdan boshlanishi aytilgan. Atlasga ko'ra ooxistalar iflos qo'llar, yuvilmagan sabzavot va mevalar hamda mushuk juni orqali og'izga tushadi, shuning uchun qo'l va oziq-ovqat gigienasi muhim [2, 3].",
+    "Milliy standartlarda homilador ayollarga xom go'sht bilan, shuningdek bog' va polizdagi tuproq bilan aloqadan keyin qo'lni yuvish tavsiya etilgan. Bu tavsiya ooxista tushgan tuproq bilan yuqish xavfini kamaytirishga qaratilgan oddiy va samarali chora hisoblanadi [4]."
+   ]
+  },
+  {
+   "heading": "Mushuklar bilan bog'liq choralar",
+   "content": [
+    "Darslikda odam uchun eng katta xavf daydi mushuklardan keladi, shuning uchun ularga alohida e'tibor beriladi. Atlasda homilador ayollarga uyda mushuk saqlash tavsiya etilmasligi aytilgan, chunki mushuk jinsiy siklning asosiy xo'jayini bo'lib, ooxistalarni najas bilan chiqaradi [1, 2].",
+    "Milliy standartlarda ham mushuk saqlashga oid cheklov qo'yilgan, ammo matn to'liq ko'rinmaydi: veterinar bilan aniqlashtirish talabi keltirilgan bo'lib, davomi o'qilmagan. Shu sababli bu band bo'yicha mushuklarni qanday tekshirish kerakligi aniq ko'rsatilmaydi [4]."
+   ]
+  },
+  {
+   "heading": "Tabiiy o'choqlarda deratizatsiya va hayvonlar nazorati",
+   "content": [
+    "Darslikda toksoplazmozning tabiiy o'choqlarida muntazam deratizatsiya o'tkazilishi aytilgan. O'quv qo'llanmaga ko'ra mushuklar sichqonsimon kemiruvchilarni yeb zararlanadi, shu sababli kemiruvchilar sonini kamaytirish zanjirning bu bo'g'inini uzishga yordam beradi [1, 3].",
+    "Kasal uy va chorva hayvonlari ajratib qo'yilib, davolanadi, ularning go'shti termik ishlanadi, sut esa qaynatiladi. Toksoplazmozdan nobud bo'lgan hayvonlar murdasi maxsus chorva qabristonlariga ko'miladi. Bu choralar ooxista va to'qima sistalarining tashqi muhitga tarqalishini kamaytiradi [1]."
+   ]
+  },
+  {
+   "heading": "Kasbiy guruhlarni tekshirish",
+   "content": [
+    "Darslikda veterinariya xizmati, so'yish punktlari, go'sht kombinatlari va chorvachilik fermalari xodimlari sinchiklab tekshirilishi aytilgan. Atlasda kasal hayvonlar go'shtini bo'laklashda shikastlangan teri orqali zararlanish mumkinligi ko'rsatilgan, shu sababli bu guruhlar uchun teri jarohatlaridan saqlanish muhim [1, 2].",
+    "Atlasda kasallar qonini laboratoriyada tekshirishda ham zararlanish mumkinligi yozilgan. Demak, laboratoriya xodimlari qon bilan ishlaganda ham himoya choralarini ko'rishi kerak. Bu yo'nalish bo'yicha aniq texnik tartiblar ko'rilgan manbalarda berilmagan, shu sababli ular bu yerda keltirilmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Homilador ayollarni himoya qilish",
+   "content": [
+    "Milliy standartlarda homilador ayol parazitni homilaga faqat shu homiladorlikda birinchi marta zararlangan bo'lsa o'tkazishi mumkinligi, shuning uchun birlamchi profilaktika yangi zararlanishni istisno qilishga qaratilishi lozimligi aytilgan. Shu maqsadda xom go'sht va tuproq bilan aloqa cheklanadi [4].",
+    "Atlasda tug'ma toksoplazmoz profilaktikasi uchun homiladorlarni serologik tekshirish va kerak bo'lsa davolash jamoat chorasi sifatida ko'rsatilgan. Darslikda dispanser hisobidagi homilador ayollarga alohida e'tibor berilishi aytilgan. Bu yo'nalish tug'ma kasallikning oldini olishning asosiy halqasi hisoblanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Suv va sanitariya choralari",
+   "content": [
+    "JSST hujjatida sanitariya xavfsizligi rejalari va suv xavfsizligi rejalarining ahamiyati ta'kidlangan. Ularga mushuk najasi bilan ifloslanishning oldini olish, manbani muhofaza qilish, filtrlash va samarali tozalash jarayonlari kiritilgan [5].",
+    "Hujjatda ooxistalarning kimyoviy dezinfeksiyaga yuqori chidamliligi, ammo ultrabinafsha nurlanishga sezgirligi ta'kidlangan. Shu sababli faqat kimyoviy dezinfeksiyaga tayanib suv xavfsizligini ta'minlab bo'lmaydi; O'zbekiston suv ta'minoti tizimiga bu talabni moslashtirish bo'yicha ma'lumot manbalarda yo'q [5]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya nazorati",
+   "content": [
+    "Darslikda antitanalar titrining ortishi va toksoplazmin bilan ijobiy teri sinamasi o'tkir toksoplazmoz tashxisini qo'yishga imkon berishi aytilgan. Shu sababli xavf guruhlarida serologik nazorat profilaktikaning bir qismi hisoblanadi, chunki o'z vaqtida aniqlash davolashni boshlashga yordam beradi [1].",
+    "Milliy standartlarda toksoplazmoz uchun laboratoriya tekshiruvlari qatorida TORCH infeksiyasiga ELISA, RSK, PCR va maxsus IgM aniqlash ko'rsatilgan. Atlasda esa serologik reaksiyalar 7-10 kun oraliqda 2-3 marta o'tkazilishi, antitanalar nafaqat o'tkir kasallikda, sog'lom odamlarning 20-30 foizida ham ijobiy bo'lishi yozilgan [2, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor aholiga tushuntirish ishida asosiy qoidalarni aniq aytishi kerak: go'sht yaxshi pishirilishi, sut qaynatilishi, mushuk va tuproq bilan aloqadan keyin qo'l yuvilishi. Homilador ayollar uchun bu qoidalar akusher-ginekolog bilan hamkorlikda qo'llanadi [1, 2, 4].",
+    "Shuningdek, kasbiy xavf guruhlari va immuniteti pasaygan odamlar e'tibordan chetda qolmasligi lozim. Atlasda OITS bilan kasallanganlarning bir qismida toksoplazmoz rivojlanishi aytilgan, shu sababli bunday bemorlarda tashxis va nazorat alohida e'tiborni talab qiladi [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Toksoplazmoz profilaktikasi go'sht va sutni to'g'ri ishlash, qo'l va oziq-ovqat gigienasi, mushuk najasi bilan ifloslanishni cheklash, hayvonlar ustidan veterinariya nazorati va homilador ayollarni himoya qilishdan iborat. Maxsus profilaktika manbalarda ko'rsatilmagan, shu sababli asosiy yuk gigiena va sanitariya choralari zimmasida [1, 2, 4, 5]."
+   ]
+  }
  ],
  "references": [
   "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",

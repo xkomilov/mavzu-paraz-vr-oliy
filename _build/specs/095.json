@@ -2,61 +2,96 @@
  "number": 95,
  "title": "95. Teniarinxozning etiologiyasi va epidemiologiyasi.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Teniarinxoz odamning ingichka ichagida qoramol solityori parazitlik qilishidan kelib chiqadigan surunkali biogelmintozdir. Kasallikning o'ziga xos belgisi to'g'ri ichak teshigidan bo'g'imlarning faol chiqishi bo'lib, shu belgi uni boshqa sestodozlardan ajratishga yordam beradi [2].",
-   "Ushbu mavzuda qo'zg'atuvchining taksonomiyasi, tuzilishi va rivojlanish sikli, so'ng invaziya manbai, yuqish yo'li, jahon va mintaqaviy tarqalish, xavf guruhlari hamda tashqi muhitning o'rni ketma-ket ko'rib chiqiladi. Oxirida hisobga olish tartibi va tasdiqlanmagan jihatlar ochiq yoziladi [1, 2, 4]."
-  ]},
-  {"heading": "Qo'zg'atuvchining taksonomiyasi", "content": [
-   "Teniarinxozning qo'zg'atuvchisi qoramol yoki qurolsiz solityor bo'lib, lotincha nomi Taeniarhynchus saginatus. Darslikda nom taenia (lenta), rhynchus (xartumcha) va saginatus (semiz) so'zlaridan hosil bo'lgani tushuntirilgan. JSST hujjatlarida bu tur Taenia saginata nomi bilan yoziladi [1, 7].",
-   "Parazit lentasimon chuvalchanglar sinfining haqiqiy sestodalar kenja sinfiga kiradi. Odam qoramol solityori uchun yagona definitiv xo'jayin hisoblanadi. JSST ma'lumotiga ko'ra, odam ichagida taeniazni uch tur, ya'ni T. solium, T. saginata va T. asiatica keltirib chiqaradi [2, 7]."
-  ]},
-  {"heading": "Morfologiyasi", "content": [
-   "Voyaga yetgan solityor skoleks, bo'yin va stroboladan iborat. Skoleksning diametri 1,5-2 mm bo'lib, to'rtta mushakli so'rg'ichi bor, ilgaklari esa yo'q, shu sababli parazit qurolsiz deyiladi. Strobila ming va undan ortiq bo'g'imdan tuzilgan [2, 3].",
-   "Strobila uzunligi manbalarda turlicha berilgan: milliy laboratoriya yo'riqnomasida 6-7 m, Pavlovich darsligida 4-10 m, Odessa atlasida o'rtacha 5-6 m. Yetuk bo'g'imdagi bachadon markaziy tanadan chiqqan ko'plab yon shoxchalarga ega, tashqariga ochilmaydi va tuxum bilan to'la bo'ladi [1, 3, 5]."
-  ]},
-  {"heading": "Tuxum va onkosfera", "content": [
-   "Tuxumning yupqa shaffof po'sti tashqi muhitda tez yemiriladi va qalin, radial chiziqli, sarg'ish-qo'ng'ir po'stli onkosfera ajralib qoladi. Onkosfera ichida uch juft ilgakli murtak joylashgan. Milliy yo'riqnomada onkosfera o'lchami 28-44 x 28-38 mkm deb berilgan [1, 2, 5].",
-   "Onkosferalar tashqi muhitda harorat, namlik va quyosh nuriga qarab 2 haftadan 8 oygacha hayotchanligini saqlaydi. Qoramol va cho'chqa solityori tuxumlari mikroskopda bir-biridan farqlanmaydi, shu sababli faqat tuxum topilishi turni aniqlash uchun yetarli emas [2, 5, 8]."
-  ]},
-  {"heading": "Rivojlanish sikli", "content": [
-   "Rivojlanish ikki xo'jayin bilan kechadi: odam definitiv, qoramol esa oraliq xo'jayin hisoblanadi. Mol tuxum yoki bo'g'im bilan ifloslangan ozuqani yeydi, onkosfera ichak devoridan o'tib, qon oqimi bilan mushaklarga, yurak mushagiga va tilga yetadi hamda sistitserkka aylanadi [2, 3].",
-   "Mollarda finna taxminan 4 oyda yuqumli bo'lishi darslikda yozilgan, Odessa atlasida esa bu muddat 7 oy deb ko'rsatilgan. Odam yaxshi pishirilmagan finnali go'shtni iste'mol qilsa, skoleks ichakda ag'dariladi va taxminan 3 oyda parazit jinsiy yetiladi [2, 3]."
-  ]},
-  {"heading": "Invaziya manbai va rezervuar", "content": [
-   "Milliy yo'riqnomada invaziya manbai sifatida qoramol va cho'chqa solityorining definitiv xo'jayini bo'lgan odam ko'rsatilgan. Davolash bayonnomasi teniarinxozni antroponoz biogelmintoz deb ta'riflaydi, darslik esa qoramol va bug'ularni rezervuar xo'jayin deb hisoblaydi [2, 4, 8].",
-   "Bemor o'rtacha 8 tagacha yetuk bo'g'imni najas bilan yoki o'z-o'zidan chiqaradi va atrofni ifloslantiradi. Oxirgi bo'g'imlarda 145 mingtagacha tuxum bo'lishi mumkin. Parazitning odamda yashash muddati bir manbada bir necha o'n yil, boshqasida taxminan 10 yil deb berilgan [2, 3]."
-  ]},
-  {"heading": "Yuqish mexanizmi va yo'li", "content": [
-   "Odam teniarinxozga go'sht orqali, ya'ni alimentar yo'l bilan yuqadi, mexanizm esa najas-og'iz mexanizmi deb ko'rsatiladi. Zararlanishga xom, yetarlicha pishmagan, kuchsiz tuzlangan yoki qoqlangan finnali mol go'shti sabab bo'ladi [2].",
-   "Milliy yo'riqnomada kabob, chuchvara, somsa, manti va ijjan taomlari xavfli ovqatlar sifatida sanalgan. Darslikda Zakavkaz va O'rta Osiyodagi shashlik an'anasi hamda xom qiyma iste'moli ijtimoiy-maishiy omil deb izohlangan [2, 4]."
-  ]},
-  {"heading": "Jahon epidemiologiyasi", "content": [
-   "Teniarinxoz dunyoda keng tarqalgan. Darslikda turli baholarga ko'ra jahonda 39-77 million bemor borligi, ularning uchdan biri Afrika mamlakatlariga to'g'ri kelishi yozilgan. Kasallik Avstraliya, Janubiy Amerika va Osiyoda, ayniqsa Mo'g'uliston va Xitoyda keng uchraydi [2].",
-   "JSST ma'lumotnomasi T. saginata va T. asiatica keltirib chiqaradigan taeniazni odam salomatligiga katta ta'sir ko'rsatmaydigan holat deb hisoblaydi va asosiy e'tiborni T. solium ga qaratadi. Shu sababli qoramol solityori bo'yicha global raqamlar uchun darslik baholari tayanch bo'ladi [2, 7]."
-  ]},
-  {"heading": "O'zbekistondagi holat", "content": [
-   "MDH mamlakatlaridan teniarinxoz O'zbekiston, Tojikiston va Ozarbayjonda uchraydi. Pavlovich darsligi O'zbekistonni kasallik ayniqsa keng tarqalgan hududlar qatorida sanaydi, milliy yo'riqnomada esa teniarinxoz respublikada qayd etilayotgan ichak gelmintozlari orasida ko'rsatilgan [1, 2, 4].",
-   "Yo'riqnomaga ko'ra, gelmintozlar respublikada eng ko'p tarqalgan parazitozlar bo'lib, barcha parazitar kasalliklarning 90 foizini tashkil qiladi. Teniarinxozning o'zi bo'yicha viloyatlar kesimidagi aniq kasallanish ko'rsatkichlari ko'rilgan manbalarda topilmadi, shu sababli ular keltirilmaydi [4]."
-  ]},
-  {"heading": "Xavf guruhlari va ijtimoiy omillar", "content": [
-   "Cho'ponlar, so'yish punktlari va go'sht kombinatlari xodimlari kasbiy xavf guruhi hisoblanadi, kasallik chorvachilik rivojlangan qishloq hududlarida va katta yoshlilar orasida ko'proq uchraydi. Milliy yo'riqnomada sog'uvchilar, cho'ponlar, ularning oila a'zolari, qassoblar va oshpazlar yiliga bir marta tekshirilishi belgilangan [2, 4].",
-   "Demak, xavf guruhini aniqlash faqat kasbga emas, xom go'sht iste'mol qilish odatiga ham tayanadi. Davolash bayonnomasida qassoblar, oshxona oshpazlari va xom go'sht iste'mol qiluvchi shaxslarga alohida e'tibor berish zarurligi ko'rsatilgan [8]."
-  ]},
-  {"heading": "Tashqi muhit va chorvaning zararlanishi", "content": [
-   "Mollar onkosfera bilan ifloslangan o'tni yeb zararlanadi, shuning uchun bemor najasining tashqi muhitga tushishi epidemik zanjirning asosiy bo'g'inidir. Sanitariya parazitologiyasi darsligida go'ng qo'ng'izlari onkosferalarni mexanik olib yurishi va ularni ko'p metrga tarqatishi yozilgan [6].",
-   "Teniidlar onkosferasi bor oqova suv bilan sug'orilgan o'tlar mollarni finnozga chalintirishi mumkin. Milliy yo'riqnomada yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emasligi qat'iy ko'rsatilgan [4, 6]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Teniarinxozning har bir holati bo'yicha shoshilinch xabarnoma (ф. 058/u) to'ldirilib hududiy DSENMga yuboriladi va aniqlash usulidan qat'i nazar ф. №2 shaklga kiritiladi. Hududiy DSENM har bir holatni hududiy veterinariya bo'limiga ham xabar qiladi [4].",
-   "Epidemik tekshiruv natijalari epidemiologik kartaga (ф. 357/u) yoziladi, parazitologlar esa kasallanishni har yili yoshi, jinsi, yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Shu tariqa etiologik bilimlar amaliy nazoratga bog'lanadi [4]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Manbalar o'rtasida farq bor: strobila uzunligi (6-7 m, 4-10 m, o'rtacha 5-6 m), mollarda finnaning yuqumli bo'lish muddati (4 va 7 oy) hamda yetuk bo'g'imdagi bachadon shoxchalari soni. Laboratoriya yo'riqnomasida bu son qoramol solityori uchun 7-12 deb berilgan, darsliklarda esa 17-35 (Odessa atlasi) yoki 18-35 (Pavlovich) atrofida, Vladivostok darsligida 18-32 [1, 2, 3, 5].",
-   "O'zbekiston bo'yicha teniarinxozning viloyatlar kesimidagi kasallanish ko'rsatkichlari, mavsumiyligi va qoramol finnozining tarqalishi to'g'risida tekshiriladigan raqamli manba topilmadi, shu sababli ular yozilmadi. Bu masalalar hududiy DSENM va veterinariya hisobotlaridan aniqlanishi lozim [4]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Teniarinxozning etiologiyasi qurolsiz solityor Taeniarhynchus saginatus bilan bog'liq bo'lib, uning epidemiologiyasi odam, qoramol, ifloslangan tashqi muhit va yetarlicha pishirilmagan go'sht zanjiri orqali belgilanadi. Xavf guruhlarini aniqlash va hisobga olish milliy yo'riqnoma talablariga muvofiq olib borilishi kerak [2, 4, 7]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Teniarinxoz odamning ingichka ichagida qoramol solityori parazitlik qilishidan kelib chiqadigan surunkali biogelmintozdir. Kasallikning o'ziga xos belgisi to'g'ri ichak teshigidan bo'g'imlarning faol chiqishi bo'lib, shu belgi uni boshqa sestodozlardan ajratishga yordam beradi [2].",
+    "Ushbu mavzuda qo'zg'atuvchining taksonomiyasi, tuzilishi va rivojlanish sikli, so'ng invaziya manbai, yuqish yo'li, jahon va mintaqaviy tarqalish, xavf guruhlari hamda tashqi muhitning o'rni ketma-ket ko'rib chiqiladi. Oxirida hisobga olish tartibi yoritiladi [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining taksonomiyasi",
+   "content": [
+    "Teniarinxozning qo'zg'atuvchisi qoramol yoki qurolsiz solityor bo'lib, lotincha nomi Taeniarhynchus saginatus. Darslikda nom taenia (lenta), rhynchus (xartumcha) va saginatus (semiz) so'zlaridan hosil bo'lgani tushuntirilgan. JSST hujjatlarida bu tur Taenia saginata nomi bilan yoziladi [1, 7].",
+    "Parazit lentasimon chuvalchanglar sinfining haqiqiy sestodalar kenja sinfiga kiradi. Odam qoramol solityori uchun yagona definitiv xo'jayin hisoblanadi. JSST ma'lumotiga ko'ra, odam ichagida taeniazni uch tur, ya'ni T. solium, T. saginata va T. asiatica keltirib chiqaradi [2, 7]."
+   ]
+  },
+  {
+   "heading": "Morfologiyasi",
+   "content": [
+    "Voyaga yetgan solityor skoleks, bo'yin va stroboladan iborat. Skoleksning diametri 1,5-2 mm bo'lib, to'rtta mushakli so'rg'ichi bor, ilgaklari esa yo'q, shu sababli parazit qurolsiz deyiladi. Strobila ming va undan ortiq bo'g'imdan tuzilgan [2, 3].",
+    "Strobila uzunligi manbalarda turlicha berilgan: milliy laboratoriya yo'riqnomasida 6-7 m, Pavlovich darsligida 4-10 m, Odessa atlasida o'rtacha 5-6 m. Yetuk bo'g'imdagi bachadon markaziy tanadan chiqqan ko'plab yon shoxchalarga ega, tashqariga ochilmaydi va tuxum bilan to'la bo'ladi [1, 3, 5]."
+   ]
+  },
+  {
+   "heading": "Tuxum va onkosfera",
+   "content": [
+    "Tuxumning yupqa shaffof po'sti tashqi muhitda tez yemiriladi va qalin, radial chiziqli, sarg'ish-qo'ng'ir po'stli onkosfera ajralib qoladi. Onkosfera ichida uch juft ilgakli murtak joylashgan. Milliy yo'riqnomada onkosfera o'lchami 28-44 x 28-38 mkm deb berilgan [1, 2, 5].",
+    "Onkosferalar tashqi muhitda harorat, namlik va quyosh nuriga qarab 2 haftadan 8 oygacha hayotchanligini saqlaydi. Qoramol va cho'chqa solityori tuxumlari mikroskopda bir-biridan farqlanmaydi, shu sababli faqat tuxum topilishi turni aniqlash uchun yetarli emas [2, 5, 8]."
+   ]
+  },
+  {
+   "heading": "Rivojlanish sikli",
+   "content": [
+    "Rivojlanish ikki xo'jayin bilan kechadi: odam definitiv, qoramol esa oraliq xo'jayin hisoblanadi. Mol tuxum yoki bo'g'im bilan ifloslangan ozuqani yeydi, onkosfera ichak devoridan o'tib, qon oqimi bilan mushaklarga, yurak mushagiga va tilga yetadi hamda sistitserkka aylanadi [2, 3].",
+    "Mollarda finna taxminan 4 oyda yuqumli bo'lishi darslikda yozilgan, Odessa atlasida esa bu muddat 7 oy deb ko'rsatilgan. Odam yaxshi pishirilmagan finnali go'shtni iste'mol qilsa, skoleks ichakda ag'dariladi va taxminan 3 oyda parazit jinsiy yetiladi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Invaziya manbai va rezervuar",
+   "content": [
+    "Milliy yo'riqnomada invaziya manbai sifatida qoramol va cho'chqa solityorining definitiv xo'jayini bo'lgan odam ko'rsatilgan. Davolash bayonnomasi teniarinxozni antroponoz biogelmintoz deb ta'riflaydi, darslik esa qoramol va bug'ularni rezervuar xo'jayin deb hisoblaydi [2, 4, 8].",
+    "Bemor o'rtacha 8 tagacha yetuk bo'g'imni najas bilan yoki o'z-o'zidan chiqaradi va atrofni ifloslantiradi. Oxirgi bo'g'imlarda 145 mingtagacha tuxum bo'lishi mumkin. Parazitning odamda yashash muddati bir manbada bir necha o'n yil, boshqasida taxminan 10 yil deb berilgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Yuqish mexanizmi va yo'li",
+   "content": [
+    "Odam teniarinxozga go'sht orqali, ya'ni alimentar yo'l bilan yuqadi, mexanizm esa najas-og'iz mexanizmi deb ko'rsatiladi. Zararlanishga xom, yetarlicha pishmagan, kuchsiz tuzlangan yoki qoqlangan finnali mol go'shti sabab bo'ladi [2].",
+    "Milliy yo'riqnomada kabob, chuchvara, somsa, manti va ijjan taomlari xavfli ovqatlar sifatida sanalgan. Darslikda Zakavkaz va O'rta Osiyodagi shashlik an'anasi hamda xom qiyma iste'moli ijtimoiy-maishiy omil deb izohlangan [2, 4]."
+   ]
+  },
+  {
+   "heading": "Jahon epidemiologiyasi",
+   "content": [
+    "Teniarinxoz dunyoda keng tarqalgan. Darslikda turli baholarga ko'ra jahonda 39-77 million bemor borligi, ularning uchdan biri Afrika mamlakatlariga to'g'ri kelishi yozilgan. Kasallik Avstraliya, Janubiy Amerika va Osiyoda, ayniqsa Mo'g'uliston va Xitoyda keng uchraydi [2].",
+    "JSST ma'lumotnomasi T. saginata va T. asiatica keltirib chiqaradigan taeniazni odam salomatligiga katta ta'sir ko'rsatmaydigan holat deb hisoblaydi va asosiy e'tiborni T. solium ga qaratadi. Shu sababli qoramol solityori bo'yicha global raqamlar uchun darslik baholari tayanch bo'ladi [2, 7]."
+   ]
+  },
+  {
+   "heading": "O'zbekistondagi holat",
+   "content": [
+    "MDH mamlakatlaridan teniarinxoz O'zbekiston, Tojikiston va Ozarbayjonda uchraydi. Pavlovich darsligi O'zbekistonni kasallik ayniqsa keng tarqalgan hududlar qatorida sanaydi, milliy yo'riqnomada esa teniarinxoz respublikada qayd etilayotgan ichak gelmintozlari orasida ko'rsatilgan [1, 2, 4].",
+    "Yo'riqnomaga ko'ra, gelmintozlar respublikada eng ko'p tarqalgan parazitozlar bo'lib, barcha parazitar kasalliklarning 90 foizini tashkil qiladi. Teniarinxozning o'zi bo'yicha viloyatlar kesimidagi aniq kasallanish ko'rsatkichlari ko'rilgan manbalarda topilmadi, shu sababli ular keltirilmaydi [4]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari va ijtimoiy omillar",
+   "content": [
+    "Cho'ponlar, so'yish punktlari va go'sht kombinatlari xodimlari kasbiy xavf guruhi hisoblanadi, kasallik chorvachilik rivojlangan qishloq hududlarida va katta yoshlilar orasida ko'proq uchraydi. Milliy yo'riqnomada sog'uvchilar, cho'ponlar, ularning oila a'zolari, qassoblar va oshpazlar yiliga bir marta tekshirilishi belgilangan [2, 4].",
+    "Demak, xavf guruhini aniqlash faqat kasbga emas, xom go'sht iste'mol qilish odatiga ham tayanadi. Davolash bayonnomasida qassoblar, oshxona oshpazlari va xom go'sht iste'mol qiluvchi shaxslarga alohida e'tibor berish zarurligi ko'rsatilgan [8]."
+   ]
+  },
+  {
+   "heading": "Tashqi muhit va chorvaning zararlanishi",
+   "content": [
+    "Mollar onkosfera bilan ifloslangan o'tni yeb zararlanadi, shuning uchun bemor najasining tashqi muhitga tushishi epidemik zanjirning asosiy bo'g'inidir. Sanitariya parazitologiyasi darsligida go'ng qo'ng'izlari onkosferalarni mexanik olib yurishi va ularni ko'p metrga tarqatishi yozilgan [6].",
+    "Teniidlar onkosferasi bor oqova suv bilan sug'orilgan o'tlar mollarni finnozga chalintirishi mumkin. Milliy yo'riqnomada yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emasligi qat'iy ko'rsatilgan [4, 6]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Teniarinxozning har bir holati bo'yicha shoshilinch xabarnoma (ф. 058/u) to'ldirilib hududiy DSENMga yuboriladi va aniqlash usulidan qat'i nazar ф. №2 shaklga kiritiladi. Hududiy DSENM har bir holatni hududiy veterinariya bo'limiga ham xabar qiladi [4].",
+    "Epidemik tekshiruv natijalari epidemiologik kartaga (ф. 357/u) yoziladi, parazitologlar esa kasallanishni har yili yoshi, jinsi, yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Shu tariqa etiologik bilimlar amaliy nazoratga bog'lanadi [4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Teniarinxozning etiologiyasi qurolsiz solityor Taeniarhynchus saginatus bilan bog'liq bo'lib, uning epidemiologiyasi odam, qoramol, ifloslangan tashqi muhit va yetarlicha pishirilmagan go'sht zanjiri orqali belgilanadi. Xavf guruhlarini aniqlash va hisobga olish milliy yo'riqnoma talablariga muvofiq olib borilishi kerak [2, 4, 7]."
+   ]
+  }
  ],
  "references": [
   "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",

@@ -1,60 +1,89 @@
 {
-  "number": 66,
-  "title": "66. O'zbekistonda kanali qaytalama terlamaning (KQT) zararlanish manbai va tashuvchilari.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Kanali qaytalama terlama faqat Ornithodoros turkumi kanalari tarqalgan joylarda uchraydi, shuning uchun zararlanish manbai va tashuvchi masalasi kana, uning oziqlantiruvchilari va odam yashash joylari bilan bevosita bog'liq. Odam kasallik uchun majburiy bo'g'in emas, u o'choqqa kirganda zararlangan kana chaqishi bilan kasallanadi [1].",
-      "Ushbu mavzuda kasallik manbalari, tabiiy va mahalliy o'choqlar, O'zbekistonda uchraydigan kana turlari, ularning yashash joylari, hududiy tarqalishi va tarqatuvchi omillar ko'rib chiqiladi. Manbalar orasidagi farq va tasdiqlanmagan ma'lumotlar oxirida ko'rsatiladi [1, 2, 3]."
-    ]},
-    {"heading": "Zararlanish manbai", "content": [
-      "Uslubiy qo'llanmaga ko'ra kasallik manbai spiroxetoz bilan kasallangan umurtqali hayvonlar, asosan spiroxetalarni umri davomida tashib yuruvchi kanalarning o'zi va ularni boquvchi kemiruvchilardir. Kanalar uchun birlamchi manba kasallangan umurtqali hayvonlar hisoblanadi [1].",
-      "Odam uchun esa shifoxona ichi zararlanishidan tashqari yagona manba Ornithodoros turkumi kanalari bo'lib, ular tashuvchi bo'lish bilan birga qo'zg'atuvchini saqlovchi va tabiiy hamda mahalliy o'choqlarda asosiy rezervuardir. Kanalar kasallikni tuxumlari orqali keyingi avlodga ham o'tkazadi [1]."
-    ]},
-    {"heading": "Tabiiy o'choq hayvonlari", "content": [
-      "Tabiatda qum sichqon, yumronqoziq, kalamush, jayra, qunduz, tulki, chiyabo'ri va boshqa yovvoyi hayvonlar KQT bilan kasallanadi. Tabiiy o'choqlarda qo'zg'atuvchi doimo kasallangan hayvonlardan kanalarga va kanalardan sog'lom hayvonlarga o'tib aylanib turadi [1].",
-      "Tabiiy o'choqlar hayvon inlari, uyalari, g'orlar, tog' etagidagi tirqishlar va katta toshlar tagidagi chuqurliklarda joylashadi. Bunday o'choqlar kelib chiqishiga ko'ra odamga bog'liq emas, odam esa faqat zararlangan kana chaqqanda o'choqda kasallanadi [1]."
-    ]},
-    {"heading": "Mahalliy o'choqlar", "content": [
-      "KQT ning mahalliy antropurgik o'chog'i O. papillipes kanalari tarqalgan aholi yashash joylari, mikro o'choqlar esa kanalar mavjud xonalar, alohida qurilish binolari va kasallik qayd etilgan joylardir. Kanalar bor, ammo kasallik qayd etilmagan xo'jalik va uylar xavfli hudud hisoblanadi [1].",
-      "Odamlardan tashqari uy kemiruvchilari, mushuk va itlar ham KQT bilan kasallanadi. Farg'ona viloyati DSENM taqdimotida ham mahalliy o'choqdagi O. papillipes odamlar yashaydigan joylardagi o'choq sifatida va odamlar uchun eng xavfli deb ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Asosiy tashuvchi O. papillipes", "content": [
-      "O'zbekistonda KQT ning asosiy tashuvchisi mahalliy O. papillipes kanasidir, respublikada ro'yxatga olinayotgan kasallik holatlarining barchasi asosan shu kananing chaqishi bilan bog'liq. Kuliyeva darsligida bu tur aholi punkti (poselok) kanasi deb atalib, endemik spiroxetoz tashuvchilari qatoriga kiritilgan [1, 3].",
-      "O. papillipes tanasi bosh, ko'krak va qoringa bo'linmaydi, ranglari jigarrang yoki kulrang, yangi qon so'rganlari to'q ko'k bo'ladi. Qorin tomonida anamarginal va anal oldi ko'ndalang egatchalar kesishib, krest hosil qiladi, bu belgi bilan boshqa argas kanalaridan ajratiladi [1]."
-    ]},
-    {"heading": "Boshqa kana turlari", "content": [
-      "In kanasi Ornithodoros tartakovskyi cho'l tekisliklari va tog' oldi mintaqasida, janubdan Orol dengizi va Qozog'istongacha keng tarqalgan, kichik hayvonlar uyalarida yashaydi, ammo epidemiologik jarayonda deyarli qatnashmaydi. G'or kanasi O. cholodkovskyi faqat Qashqadaryo viloyati G'uzor tumani Qizilcha mahallasi atrofida topilgan [1].",
-      "Odamlar binolarida O. papillipes bilan birga mushuk kanasi O. lahorensis va Argas persicus ham uchraydi; ular asosan chorva va parrandalarga hujum qiladi, ayniqsa O. lahorensis qo'ylar turadigan xonalarda ko'p. Qo'llanmada ular bilan kurash insektitsid ishlovi orqali olib borilishi aytilgan [1]."
-    ]},
-    {"heading": "Yashash joylari va biologik xususiyatlar", "content": [
-      "O. papillipes tabiiy yashash joylari g'orlar, yoriqlar, tosh ostidagi chuqurliklar, yovvoyi hayvon uyalari, sun'iy joylari esa loy, tosh va g'ishtdan qurilgan xo'jalik va yashash binolari, kesakli devorlar, yertola, tovuqxona, it uyalari, omborxona hisoblanadi. Eski mahallalarda kanalar ko'proq tarqaladi [1].",
-      "Kanalar kunduzi yashirinib, tunda, ayniqsa quyosh botgandan keyin oziqlanishga hujum qiladi, chaqishi seziladi. Ular uzoq ochlikka chidaydi: lichinkalar 15 oygacha, yetuk kana va keksa nimfalar 10-14 yilgacha ochlikda qolishi mumkin, taqdimotda esa 10-15 yil ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Hududiy tarqalish", "content": [
-      "Qo'llanmaga ko'ra KQT tog' va tog' oldi hududlarida, dengiz sathidan 400-1500 metr balandlikda, to'lib oqadigan tog' daryolari o'tadigan vodiylarda O. papillipes ko'p tarqalgan joylarda uchraydi. Tog' va tog' oldi mintaqalarda kasallik turli darajada tarqalgan 7000 ga yaqin aholi yashash joyi mavjud [1].",
-      "Respublika bo'yicha KQT bilan kasallanishning 80 foizi Namangan va Farg'ona viloyatlariga to'g'ri keladi. Andijon, Samarqand, Toshkent, Surxondaryo, Jizzax va Navoiy viloyatlarida O. papillipes kam tarqalgan; Qashqadaryoda kanalar ko'p bo'lsa-da, oxirgi 20 yil davomida kasallik ro'yxatga olinmagan [1]."
-    ]},
-    {"heading": "Tarqalishda xavf omillari", "content": [
-      "O. papillipes bir inshootdan boshqasiga, bir hovlidan boshqasiga sekin tarqaladi; uni kemiruvchilar, itlar, ayniqsa daydi itlar va qishloqlarda tipratikanlar ham tarqatadi. Aholi yashash joylari qanchalik eski bo'lsa, kanalar shunchalik ko'p tarqaladi, yorug' va tez-tez tozalanadigan xonalarda kanalar yo'q yoki yakka bo'ladi [1].",
-      "Kanalarni yig'ish bo'yicha uslubiy materiallarda aholi punktlaridagi va tabiatdagi kanalar yashash joylari hamda tirik namunani olish, alohida idishlarga joylashtirish, ularning tirik holda tekshiruvga yetkazilishi alohida ko'rsatilgan. Bu uslublar o'choqni aniqlash uchun zarur [4, 5]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor KQT bemori aniqlanganda mikro o'choq va qo'shni hovlilarda O. papillipes mavjudligini, kanalar sonini va tabiiy yashirinish joylarini tekshiradi. Hozirgi vaqtda ko'p joyda kanalar soni kam, shu sababli ularni eski kesak devorlar orasidan ham qidirish lozim [1].",
-      "Farg'ona viloyati DSENM taqdimotida (2014 yil aprel) hisobot yilida 140 holat qayd etilgan, ularning 36,4 foizi 14 yoshgacha bolalar, barcha holatlar mahalliy aholida uchragan. Bu mahalliy o'choqning faolligini va bolalar orasida kasallanish ulushi yuqoriligini ko'rsatadi [2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Farg'ona viloyati taqdimotida kasallanish Farg'ona (96 foiz) va Namangan (4 foiz) tumanlarida deyiladi, bu 121-son qo'llanmadagi Namangan va Farg'ona birgalikda 80 foiz ma'lumotidan farq qiladi. Taqdimotda tabiiy o'choq kanasi sifatida Alectorobius tholozani yozilgan, qo'llanmada esa O. tartakovskyi [1, 2].",
-      "Kuliyeva darsligi Ozarbayjon sharoitiga yozilgan, shuning uchun undagi turlar ro'yxati O'zbekiston uchun faqat umumiy fon sifatida olindi. O'zbekiston viloyatlari bo'yicha so'nggi yillardagi aniq kasallanish soni bu manbalarda topilmadi [2, 3]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "O'zbekistonda KQT zararlanish manbai spiroxeta tashuvchi kasallangan hayvonlar va asosan odam uchun yagona manba bo'lgan Ornithodoros kanalaridir; asosiy tashuvchi mahalliy O. papillipes bo'lib, O. tartakovskyi va O. cholodkovskyi epidemiologik ahamiyatga ega emas, kasallik asosan Namangan va Farg'ona tog' oldi hududlarida qayd etiladi [1, 2]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
-    "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
-    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "Kanalar transportirovkasi (kanalarni yig'ish va yuborish bo'yicha taqdimot). xayrullokomilov.uz/kutubxona, material ID 1582.",
-    "Биология и экология клещей. Методики обследования и учета клещей (taqdimot). xayrullokomilov.uz/kutubxona, material ID 1574."
-  ]
+ "number": 66,
+ "title": "66. O'zbekistonda kanali qaytalama terlamaning (KQT) zararlanish manbai va tashuvchilari.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Kanali qaytalama terlama faqat Ornithodoros turkumi kanalari tarqalgan joylarda uchraydi, shuning uchun zararlanish manbai va tashuvchi masalasi kana, uning oziqlantiruvchilari va odam yashash joylari bilan bevosita bog'liq. Odam kasallik uchun majburiy bo'g'in emas, u o'choqqa kirganda zararlangan kana chaqishi bilan kasallanadi [1].",
+    "Ushbu mavzuda kasallik manbalari, tabiiy va mahalliy o'choqlar, O'zbekistonda uchraydigan kana turlari, ularning yashash joylari, hududiy tarqalishi va tarqatuvchi omillar ko'rib chiqiladi. Manbalar orasidagi farqlar ham ko'rsatiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Zararlanish manbai",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra kasallik manbai spiroxetoz bilan kasallangan umurtqali hayvonlar, asosan spiroxetalarni umri davomida tashib yuruvchi kanalarning o'zi va ularni boquvchi kemiruvchilardir. Kanalar uchun birlamchi manba kasallangan umurtqali hayvonlar hisoblanadi [1].",
+    "Odam uchun esa shifoxona ichi zararlanishidan tashqari yagona manba Ornithodoros turkumi kanalari bo'lib, ular tashuvchi bo'lish bilan birga qo'zg'atuvchini saqlovchi va tabiiy hamda mahalliy o'choqlarda asosiy rezervuardir. Kanalar kasallikni tuxumlari orqali keyingi avlodga ham o'tkazadi [1]."
+   ]
+  },
+  {
+   "heading": "Tabiiy o'choq hayvonlari",
+   "content": [
+    "Tabiatda qum sichqon, yumronqoziq, kalamush, jayra, qunduz, tulki, chiyabo'ri va boshqa yovvoyi hayvonlar KQT bilan kasallanadi. Tabiiy o'choqlarda qo'zg'atuvchi doimo kasallangan hayvonlardan kanalarga va kanalardan sog'lom hayvonlarga o'tib aylanib turadi [1].",
+    "Tabiiy o'choqlar hayvon inlari, uyalari, g'orlar, tog' etagidagi tirqishlar va katta toshlar tagidagi chuqurliklarda joylashadi. Bunday o'choqlar kelib chiqishiga ko'ra odamga bog'liq emas, odam esa faqat zararlangan kana chaqqanda o'choqda kasallanadi [1]."
+   ]
+  },
+  {
+   "heading": "Mahalliy o'choqlar",
+   "content": [
+    "KQT ning mahalliy antropurgik o'chog'i O. papillipes kanalari tarqalgan aholi yashash joylari, mikro o'choqlar esa kanalar mavjud xonalar, alohida qurilish binolari va kasallik qayd etilgan joylardir. Kanalar bor, ammo kasallik qayd etilmagan xo'jalik va uylar xavfli hudud hisoblanadi [1].",
+    "Odamlardan tashqari uy kemiruvchilari, mushuk va itlar ham KQT bilan kasallanadi. Farg'ona viloyati DSENM taqdimotida ham mahalliy o'choqdagi O. papillipes odamlar yashaydigan joylardagi o'choq sifatida va odamlar uchun eng xavfli deb ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Asosiy tashuvchi O. papillipes",
+   "content": [
+    "O'zbekistonda KQT ning asosiy tashuvchisi mahalliy O. papillipes kanasidir, respublikada ro'yxatga olinayotgan kasallik holatlarining barchasi asosan shu kananing chaqishi bilan bog'liq. Kuliyeva darsligida bu tur aholi punkti (poselok) kanasi deb atalib, endemik spiroxetoz tashuvchilari qatoriga kiritilgan [1, 3].",
+    "O. papillipes tanasi bosh, ko'krak va qoringa bo'linmaydi, ranglari jigarrang yoki kulrang, yangi qon so'rganlari to'q ko'k bo'ladi. Qorin tomonida anamarginal va anal oldi ko'ndalang egatchalar kesishib, krest hosil qiladi, bu belgi bilan boshqa argas kanalaridan ajratiladi [1]."
+   ]
+  },
+  {
+   "heading": "Boshqa kana turlari",
+   "content": [
+    "In kanasi Ornithodoros tartakovskyi cho'l tekisliklari va tog' oldi mintaqasida, janubdan Orol dengizi va Qozog'istongacha keng tarqalgan, kichik hayvonlar uyalarida yashaydi, ammo epidemiologik jarayonda deyarli qatnashmaydi. G'or kanasi O. cholodkovskyi faqat Qashqadaryo viloyati G'uzor tumani Qizilcha mahallasi atrofida topilgan [1].",
+    "Odamlar binolarida O. papillipes bilan birga mushuk kanasi O. lahorensis va Argas persicus ham uchraydi; ular asosan chorva va parrandalarga hujum qiladi, ayniqsa O. lahorensis qo'ylar turadigan xonalarda ko'p. Qo'llanmada ular bilan kurash insektitsid ishlovi orqali olib borilishi aytilgan [1]."
+   ]
+  },
+  {
+   "heading": "Yashash joylari va biologik xususiyatlar",
+   "content": [
+    "O. papillipes tabiiy yashash joylari g'orlar, yoriqlar, tosh ostidagi chuqurliklar, yovvoyi hayvon uyalari, sun'iy joylari esa loy, tosh va g'ishtdan qurilgan xo'jalik va yashash binolari, kesakli devorlar, yertola, tovuqxona, it uyalari, omborxona hisoblanadi. Eski mahallalarda kanalar ko'proq tarqaladi [1].",
+    "Kanalar kunduzi yashirinib, tunda, ayniqsa quyosh botgandan keyin oziqlanishga hujum qiladi, chaqishi seziladi. Ular uzoq ochlikka chidaydi: lichinkalar 15 oygacha, yetuk kana va keksa nimfalar 10-14 yilgacha ochlikda qolishi mumkin, taqdimotda esa 10-15 yil ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Hududiy tarqalish",
+   "content": [
+    "Qo'llanmaga ko'ra KQT tog' va tog' oldi hududlarida, dengiz sathidan 400-1500 metr balandlikda, to'lib oqadigan tog' daryolari o'tadigan vodiylarda O. papillipes ko'p tarqalgan joylarda uchraydi. Tog' va tog' oldi mintaqalarda kasallik turli darajada tarqalgan 7000 ga yaqin aholi yashash joyi mavjud [1].",
+    "Respublika bo'yicha KQT bilan kasallanishning 80 foizi Namangan va Farg'ona viloyatlariga to'g'ri keladi. Andijon, Samarqand, Toshkent, Surxondaryo, Jizzax va Navoiy viloyatlarida O. papillipes kam tarqalgan; Qashqadaryoda kanalar ko'p bo'lsa-da, oxirgi 20 yil davomida kasallik ro'yxatga olinmagan [1]."
+   ]
+  },
+  {
+   "heading": "Tarqalishda xavf omillari",
+   "content": [
+    "O. papillipes bir inshootdan boshqasiga, bir hovlidan boshqasiga sekin tarqaladi; uni kemiruvchilar, itlar, ayniqsa daydi itlar va qishloqlarda tipratikanlar ham tarqatadi. Aholi yashash joylari qanchalik eski bo'lsa, kanalar shunchalik ko'p tarqaladi, yorug' va tez-tez tozalanadigan xonalarda kanalar yo'q yoki yakka bo'ladi [1].",
+    "Kanalarni yig'ish bo'yicha uslubiy materiallarda aholi punktlaridagi va tabiatdagi kanalar yashash joylari hamda tirik namunani olish, alohida idishlarga joylashtirish, ularning tirik holda tekshiruvga yetkazilishi alohida ko'rsatilgan. Bu uslublar o'choqni aniqlash uchun zarur [4, 5]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor KQT bemori aniqlanganda mikro o'choq va qo'shni hovlilarda O. papillipes mavjudligini, kanalar sonini va tabiiy yashirinish joylarini tekshiradi. Hozirgi vaqtda ko'p joyda kanalar soni kam, shu sababli ularni eski kesak devorlar orasidan ham qidirish lozim [1].",
+    "Farg'ona viloyati DSENM taqdimotida (2014 yil aprel) hisobot yilida 140 holat qayd etilgan, ularning 36,4 foizi 14 yoshgacha bolalar, barcha holatlar mahalliy aholida uchragan. Bu mahalliy o'choqning faolligini va bolalar orasida kasallanish ulushi yuqoriligini ko'rsatadi [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda KQT zararlanish manbai spiroxeta tashuvchi kasallangan hayvonlar va asosan odam uchun yagona manba bo'lgan Ornithodoros kanalaridir; asosiy tashuvchi mahalliy O. papillipes bo'lib, O. tartakovskyi va O. cholodkovskyi epidemiologik ahamiyatga ega emas, kasallik asosan Namangan va Farg'ona tog' oldi hududlarida qayd etiladi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
+  "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
+  "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "Kanalar transportirovkasi (kanalarni yig'ish va yuborish bo'yicha taqdimot). xayrullokomilov.uz/kutubxona, material ID 1582.",
+  "Биология и экология клещей. Методики обследования и учета клещей (taqdimot). xayrullokomilov.uz/kutubxona, material ID 1574."
+ ]
 }

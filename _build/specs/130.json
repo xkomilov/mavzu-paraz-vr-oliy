@@ -2,57 +2,90 @@
  "number": 130,
  "title": "130. Amyobiaz bilan zararlanishning yo'llari va omili.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Amyobiazda yuqish yo'li qo'zg'atuvchi sistalarning xo'jayin ichagiga qanday kirishini, omil esa sistalarni tashuvchi suv, oziq-ovqat, qo'l va hasharotlarni bildiradi. Yo'riqnomada kasallik og'iz-najas yo'li bilan, ya'ni amyoba sistalari bilan ifloslangan suv va oziq-ovqat orqali yuqishi ko'rsatilgan [1, 3].",
-   "Mavzuda zararlovchi shakl, suv, oziq-ovqat va kontakt-maishiy yo'llar, mexanik tashuvchilar, sistalarning omil sifatida saqlanishi, endemik hududlarga sayohat va sanitar omillar ko'riladi. Manba va epidemiologik ko'rsatkichlar alohida mavzuda yoritilgani uchun bu yerda yo'llar va omillarga e'tibor qaratiladi [1, 3, 6]."
-  ]},
-  {"heading": "Zararlovchi shakl va yuqish mexanizmi", "content": [
-   "Yo'riqnomada zararlanish ichak yo'liga amyoba sistalari tushganda sodir bo'lishi, yetilgan sistaning zararlashi mumkinligi va kasallik og'iz-najas yo'li bilan yuqishi aytilgan. Atlasda invazion shakl sista ekani, mexanizm esa fekal-oral ekani yozilgan [1, 5].",
-   "Darslikda katta vegetativ shakllar tashqi muhitda tez halok bo'lgani uchun bemorlar epidemiologik jihatdan katta ahamiyatga ega emasligi, sistalarni ajratuvchi sog'lom tashuvchilar esa asosiy manba ekani qayd etilgan. Shu sababli yuqish sista orqali amalga oshadi [3]."
-  ]},
-  {"heading": "Suv yo'li", "content": [
-   "Darslikda yuqish yo'llari suv, alimentar va kontakt-maishiy deb berilgan; ochiq suv havzalaridan najas bilan ifloslangan suv muhim yuqish omili sifatida ko'rsatilgan. Epidemik avj olishlar asosan suv yo'li bilan bog'liq ekani ham yozilgan [3].",
-   "Davolash bayonnomasida profilaktika uchun ichimlik suv ta'minotini yaxshilash va suv havzalari ustidan doimiy sanitar nazorat olib borish ko'rsatilgan. Sistalar suv tozalash inshootlarida qo'llanadigan xlor va ozon konsentratsiyalarida tirik qolishi mumkinligi ham darslikda aytilgan [2, 3]."
-  ]},
-  {"heading": "Oziq-ovqat yo'li", "content": [
-   "Darslikda termik ishlov berilmay iste'mol qilinadigan sabzavotlar ayniqsa muhim yuqish omili ekani yozilgan. Atlasda zararlanish sistalar bilan ifloslangan oziq-ovqat, suv va iflos qo'llar orqali sodir bo'lishi ko'rsatilgan [3, 5].",
-   "Davolash bayonnomasida meva va sabzavotlarni suvda yaxshilab yuvib hamda termik ishlov berib iste'mol qilish ko'zda tutilgan. Oziq-ovqat tayyorlash, tashish, saqlash va tarqatish qoidalariga rioya qilish ham talab etilgan, bu esa oziq-ovqat omilining ahamiyatini bildiradi [2]."
-  ]},
-  {"heading": "Kontakt-maishiy yo'l", "content": [
-   "Darslikda amyobiaz bilan tashuvchi bilan bevosita aloqa orqali, ifloslangan qo'llar va maishiy buyumlar vositasida ham zararlanish mumkinligi aytilgan. Atlasda iflos qo'llar zararlanish yo'llaridan biri sifatida ko'rsatilgan [3, 5].",
-   "Yo'riqnomada bemor najasini 5 foizli lizol eritmasi bilan zararsizlantirish, ichki kiyimlarini 3 foizli lizol eritmasida ivitish tartibi berilgan, bu maishiy ifloslanish xavfini aks ettiradi. Sog'lom parazit tashuvchilar umumiy ovqatlanish korxonalariga ishga qo'yilmasligi ham ko'rsatilgan [1]."
-  ]},
-  {"heading": "Mexanik tashuvchilar", "content": [
-   "Atlasda amyoba sistalarining mexanik tashuvchilari sifatida pashsha va suvaraklar ko'rsatilgan. Darslikda ham amyobiaz tarqalishida pashshalar katta rol o'ynashi yozilgan, shu sababli hasharotlar yuqish omillari qatoriga kiritiladi [4, 5].",
-   "Epidemiologik nazorat yo'riqnomasida yuqish omillariga ta'sir etish choralari qatorida pashshalar bilan kurash, ichimlik suvni qaynatish va qo'llarni yuvish keltirilgan. Bu choralar yuqish zanjirining mexanik bo'g'inlariga qaratilgan [6]."
-  ]},
-  {"heading": "Sistalarning omil sifatida saqlanishi", "content": [
-   "Yo'riqnomada 1 g najasda 6 mln gacha sista bo'lishi mumkinligi aytilgan; shuning uchun sista ajratuvchi odam tashqi muhitni ko'p miqdordagi sista bilan ifloslantiradi. Darslikda ham manba mavjud bo'lganda atrof-muhitning sistalar bilan intensiv ifloslanishi qayd etilgan [1, 3].",
-   "Sistalar tuproqda taxminan 30 sutka, najasda 15-20 gradusda ikki hafta saqlanadi, quritilganda va 55 gradusgacha qizdirilganda tez halok bo'ladi. Bu ularning suv, tuproq va oziq-ovqat orqali yuqish omili bo'la olishini ko'rsatadi [3, 4]."
-  ]},
-  {"heading": "Endemik hududlarga sayohat", "content": [
-   "Yo'riqnomada amyobiaz bilan og'riganlarning yarmi endemik bo'lgan mamlakatlarga borgan vaqtidan keyin bir yarim yil ichida kasallanishi ko'rsatilgan. Kasallik tropik va subtropik mamlakatlarda, ya'ni Afrika, Janubiy Osiyo, Markaziy va Janubiy Amerikada ayniqsa ko'p uchraydi [1].",
-   "Darslikda profilaktika endemikligi yuqori zonalardan kelgan yoki qaytganlar orasida bemorlarni aniqlash va davolashga tayanishi aytilgan. Yo'riqnomada ham endemik mamlakatlarga borgan bemorlar tashxisda asosiy ko'rsatkich ekani yozilgan [1, 3]."
-  ]},
-  {"heading": "Sanitar-gigiyenik omillar", "content": [
-   "Epidemiologik nazorat yo'riqnomasida sanitar-epidemiologik fonni baholashda ichimlik suvi sifati, oziq-ovqat sifati hamda suv tozalash inshootlari va sut zavodlaridagi avariyalar hisobga olinishi ko'rsatilgan. Bu omillar ichak parazitozlari yuqishiga ta'sir qiladi [6].",
-   "Yo'riqnomada ichak parazitar kasalliklarining oldini olishda epidemiologik ahamiyatga ega obyektlarning sanitar-gigiyenik barqarorligini oshirish asosiy o'rin egallashi aytilgan. Bunday obyektlarga umumiy ovqatlanish, suv ta'minoti, kanalizatsiya va bolalar muassasalari kiradi [6]."
-  ]},
-  {"heading": "Moyillik va omillarni baholashdagi cheklovlar", "content": [
-   "Yo'riqnomada amyobiaz asosan o'rta yoshdagilarda uchrashi va yoz-kuz mavsumiyligi ko'rsatilgan. Davolash bayonnomasida chaqaloqlar va yashash sharoiti yaxshi bo'lmagan bemorlarga alohida e'tibor berilishi aytilgan, bu moyillik omillarini hisobga olishni bildiradi [1, 2].",
-   "JSST ma'lumotiga ko'ra asemptomatik tashuvchilarning tarqalishi, ularning invaziv kasallikka o'tish ehtimoli va yangi odamlarga yuqish chastotasi bo'yicha ma'lumotlar yetarli emas. Shu sababli yuqish omillarini miqdoriy baholash cheklangan [7]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Yuqish omillarini aniqlash o'choqdagi epidemiologik tekshiruvning asosiy vazifasi hisoblanadi. Yo'riqnomada kasallanish o'sishi sabablari va yuqish omillarini aniqlash uchun o'choqlarda epidemiologik tekshiruv va tahlil o'tkazilishi, oilaviy o'choqlar esa alohida tahlil qilinishi ko'rsatilgan [6].",
-   "Davolash bayonnomasida faqat bo'shliq shakli va sistalar topilishi yakuniy tashxis uchun asos bo'lmasligi, shunday natija tashuvchilarda ham olinishi aytilgan. JSST ham sistalarni E. histolytica/E. dispar deb qayd etishni tavsiya qilgan, shu sababli yuqish xavfini baholashda tur aniqligi muhim [2, 7]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "O'zbekistonda amyobiaz yuqishining qaysi yo'li ustun ekani, hududlar bo'yicha suv yoki oziq-ovqat omillarining ulushi va endemik o'choqlar ko'rilgan manbalarda keltirilmagan. Yo'riqnomada O'rta Osiyo davlatlari sifatida Turkmaniston va Qirg'iziston ko'rsatilgan, O'zbekiston nomi yo'q [1].",
-   "Manbalar orasida farqlar bor: yo'riqnomada kasallik manbai bemor yoki tashuvchi deyilgan, darslikda esa bemorlar katta ahamiyatga ega emasligi aytilgan. Darslik matnida 1 g najasda 610 gacha sista deb bosilgan, yo'riqnomada 6 mln; bu farq tasdiqlanmagan [1, 3]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Amyobiaz sistalar orqali fekal-oral mexanizm bilan yuqadi; yo'llar suv, alimentar va kontakt-maishiy, omillar esa ifloslangan suv, termik ishlov berilmagan sabzavot, qo'l, pashsha va suvaraklardir. Sista chiqaruvchi tashuvchilar, endemik hududlardan kelganlar va sanitar sharoit yomonligi muhim xavf omillari hisoblanadi [1, 3, 6]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Amyobiazda yuqish yo'li qo'zg'atuvchi sistalarning xo'jayin ichagiga qanday kirishini, omil esa sistalarni tashuvchi suv, oziq-ovqat, qo'l va hasharotlarni bildiradi. Yo'riqnomada kasallik og'iz-najas yo'li bilan, ya'ni amyoba sistalari bilan ifloslangan suv va oziq-ovqat orqali yuqishi ko'rsatilgan [1, 3].",
+    "Mavzuda zararlovchi shakl, suv, oziq-ovqat va kontakt-maishiy yo'llar, mexanik tashuvchilar, sistalarning omil sifatida saqlanishi, endemik hududlarga sayohat va sanitar omillar ko'riladi. Manba va epidemiologik ko'rsatkichlar alohida mavzuda yoritilgani uchun bu yerda yo'llar va omillarga e'tibor qaratiladi [1, 3, 6]."
+   ]
+  },
+  {
+   "heading": "Zararlovchi shakl va yuqish mexanizmi",
+   "content": [
+    "Yo'riqnomada zararlanish ichak yo'liga amyoba sistalari tushganda sodir bo'lishi, yetilgan sistaning zararlashi mumkinligi va kasallik og'iz-najas yo'li bilan yuqishi aytilgan. Atlasda invazion shakl sista ekani, mexanizm esa fekal-oral ekani yozilgan [1, 5].",
+    "Darslikda katta vegetativ shakllar tashqi muhitda tez halok bo'lgani uchun bemorlar epidemiologik jihatdan katta ahamiyatga ega emasligi, sistalarni ajratuvchi sog'lom tashuvchilar esa asosiy manba ekani qayd etilgan. Shu sababli yuqish sista orqali amalga oshadi [3]."
+   ]
+  },
+  {
+   "heading": "Suv yo'li",
+   "content": [
+    "Darslikda yuqish yo'llari suv, alimentar va kontakt-maishiy deb berilgan; ochiq suv havzalaridan najas bilan ifloslangan suv muhim yuqish omili sifatida ko'rsatilgan. Epidemik avj olishlar asosan suv yo'li bilan bog'liq ekani ham yozilgan [3].",
+    "Davolash bayonnomasida profilaktika uchun ichimlik suv ta'minotini yaxshilash va suv havzalari ustidan doimiy sanitar nazorat olib borish ko'rsatilgan. Sistalar suv tozalash inshootlarida qo'llanadigan xlor va ozon konsentratsiyalarida tirik qolishi mumkinligi ham darslikda aytilgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Oziq-ovqat yo'li",
+   "content": [
+    "Darslikda termik ishlov berilmay iste'mol qilinadigan sabzavotlar ayniqsa muhim yuqish omili ekani yozilgan. Atlasda zararlanish sistalar bilan ifloslangan oziq-ovqat, suv va iflos qo'llar orqali sodir bo'lishi ko'rsatilgan [3, 5].",
+    "Davolash bayonnomasida meva va sabzavotlarni suvda yaxshilab yuvib hamda termik ishlov berib iste'mol qilish ko'zda tutilgan. Oziq-ovqat tayyorlash, tashish, saqlash va tarqatish qoidalariga rioya qilish ham talab etilgan, bu esa oziq-ovqat omilining ahamiyatini bildiradi [2]."
+   ]
+  },
+  {
+   "heading": "Kontakt-maishiy yo'l",
+   "content": [
+    "Darslikda amyobiaz bilan tashuvchi bilan bevosita aloqa orqali, ifloslangan qo'llar va maishiy buyumlar vositasida ham zararlanish mumkinligi aytilgan. Atlasda iflos qo'llar zararlanish yo'llaridan biri sifatida ko'rsatilgan [3, 5].",
+    "Yo'riqnomada bemor najasini 5 foizli lizol eritmasi bilan zararsizlantirish, ichki kiyimlarini 3 foizli lizol eritmasida ivitish tartibi berilgan, bu maishiy ifloslanish xavfini aks ettiradi. Sog'lom parazit tashuvchilar umumiy ovqatlanish korxonalariga ishga qo'yilmasligi ham ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Mexanik tashuvchilar",
+   "content": [
+    "Atlasda amyoba sistalarining mexanik tashuvchilari sifatida pashsha va suvaraklar ko'rsatilgan. Darslikda ham amyobiaz tarqalishida pashshalar katta rol o'ynashi yozilgan, shu sababli hasharotlar yuqish omillari qatoriga kiritiladi [4, 5].",
+    "Epidemiologik nazorat yo'riqnomasida yuqish omillariga ta'sir etish choralari qatorida pashshalar bilan kurash, ichimlik suvni qaynatish va qo'llarni yuvish keltirilgan. Bu choralar yuqish zanjirining mexanik bo'g'inlariga qaratilgan [6]."
+   ]
+  },
+  {
+   "heading": "Sistalarning omil sifatida saqlanishi",
+   "content": [
+    "Yo'riqnomada 1 g najasda 6 mln gacha sista bo'lishi mumkinligi aytilgan; shuning uchun sista ajratuvchi odam tashqi muhitni ko'p miqdordagi sista bilan ifloslantiradi. Darslikda ham manba mavjud bo'lganda atrof-muhitning sistalar bilan intensiv ifloslanishi qayd etilgan [1, 3].",
+    "Sistalar tuproqda taxminan 30 sutka, najasda 15-20 gradusda ikki hafta saqlanadi, quritilganda va 55 gradusgacha qizdirilganda tez halok bo'ladi. Bu ularning suv, tuproq va oziq-ovqat orqali yuqish omili bo'la olishini ko'rsatadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Endemik hududlarga sayohat",
+   "content": [
+    "Yo'riqnomada amyobiaz bilan og'riganlarning yarmi endemik bo'lgan mamlakatlarga borgan vaqtidan keyin bir yarim yil ichida kasallanishi ko'rsatilgan. Kasallik tropik va subtropik mamlakatlarda, ya'ni Afrika, Janubiy Osiyo, Markaziy va Janubiy Amerikada ayniqsa ko'p uchraydi [1].",
+    "Darslikda profilaktika endemikligi yuqori zonalardan kelgan yoki qaytganlar orasida bemorlarni aniqlash va davolashga tayanishi aytilgan. Yo'riqnomada ham endemik mamlakatlarga borgan bemorlar tashxisda asosiy ko'rsatkich ekani yozilgan [1, 3].",
+    "Yo'riqnomaga ko'ra aholi o'rtasida ichburug' amyobasi bilan zararlanish o'rtacha 10 foizni tashkil etadi, tropik va subtropik mamlakatlarda esa amyobiaz barcha ich ketish kasalliklarining 20 foizini tashkil qiladi. Shu sababli bunday mamlakatlarga safar qilish yuqish omillari bilan to'qnash kelish ehtimolini oshiradi [1]."
+   ]
+  },
+  {
+   "heading": "Sanitar-gigiyenik omillar",
+   "content": [
+    "Epidemiologik nazorat yo'riqnomasida sanitar-epidemiologik fonni baholashda ichimlik suvi sifati, oziq-ovqat sifati hamda suv tozalash inshootlari va sut zavodlaridagi avariyalar hisobga olinishi ko'rsatilgan. Bu omillar ichak parazitozlari yuqishiga ta'sir qiladi [6].",
+    "Yo'riqnomada ichak parazitar kasalliklarining oldini olishda epidemiologik ahamiyatga ega obyektlarning sanitar-gigiyenik barqarorligini oshirish asosiy o'rin egallashi aytilgan. Bunday obyektlarga umumiy ovqatlanish, suv ta'minoti, kanalizatsiya va bolalar muassasalari kiradi [6]."
+   ]
+  },
+  {
+   "heading": "Moyillik va omillarni baholashdagi cheklovlar",
+   "content": [
+    "Yo'riqnomada amyobiaz asosan o'rta yoshdagilarda uchrashi va yoz-kuz mavsumiyligi ko'rsatilgan. Davolash bayonnomasida chaqaloqlar va yashash sharoiti yaxshi bo'lmagan bemorlarga alohida e'tibor berilishi aytilgan, bu moyillik omillarini hisobga olishni bildiradi [1, 2].",
+    "JSST ma'lumotiga ko'ra asemptomatik tashuvchilarning tarqalishi, ularning invaziv kasallikka o'tish ehtimoli va yangi odamlarga yuqish chastotasi bo'yicha ma'lumotlar yetarli emas. Shu sababli yuqish omillarini miqdoriy baholash cheklangan [7]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Yuqish omillarini aniqlash o'choqdagi epidemiologik tekshiruvning asosiy vazifasi hisoblanadi. Yo'riqnomada kasallanish o'sishi sabablari va yuqish omillarini aniqlash uchun o'choqlarda epidemiologik tekshiruv va tahlil o'tkazilishi, oilaviy o'choqlar esa alohida tahlil qilinishi ko'rsatilgan [6].",
+    "Davolash bayonnomasida faqat bo'shliq shakli va sistalar topilishi yakuniy tashxis uchun asos bo'lmasligi, shunday natija tashuvchilarda ham olinishi aytilgan. JSST ham sistalarni E. histolytica/E. dispar deb qayd etishni tavsiya qilgan, shu sababli yuqish xavfini baholashda tur aniqligi muhim [2, 7]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Amyobiaz sistalar orqali fekal-oral mexanizm bilan yuqadi; yo'llar suv, alimentar va kontakt-maishiy, omillar esa ifloslangan suv, termik ishlov berilmagan sabzavot, qo'l, pashsha va suvaraklardir. Sista chiqaruvchi tashuvchilar, endemik hududlardan kelganlar va sanitar sharoit yomonligi muhim xavf omillari hisoblanadi [1, 3, 6]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",

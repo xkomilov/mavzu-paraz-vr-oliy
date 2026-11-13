@@ -1,118 +1,111 @@
 {
-  "number": 122,
-  "title": "122. Go'sht va go'sht mahsulotlaridagi qaysi parazitlar inson sog'ligi uchun xavfli hisoblanadi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Go'sht va go'sht mahsulotlari orqali odamga gelmintlar ham, ayrim sodda hayvonlar ham yuqishi mumkin, xavf esa ko'proq xom yoki yetarli pishirilmagan mahsulotni iste'mol qilishda paydo bo'ladi. Shu sababli parazitolog-shifokor qaysi go'sht va qaysi parazit juftligi muhimligini bilishi lozim [1, 5].",
-        "Mavzuda avval FAO va JSST ekspert uchrashuvi tasnifi keltiriladi, so'ng trixinella, cho'chqa va qoramol tasmasimon gijjalari, exinokokk, toksoplazma va sarkotsista, yovvoyi hayvon go'shti, xavfli mahsulot turlari, veterinariya nazorati hamda zararsizlantirish usullari ko'rib chiqiladi [1, 2, 5]."
-      ]
-    },
-    {
-      "heading": "FAO va JSST tasnifi",
-      "content": [
-        "FAO va JSST ekspert uchrashuvi oziq-ovqat orqali yuqadigan parazitlarni xavf bo'yicha tartiblagan. Go'shtga bog'liq parazitlardan Taenia solium cho'chqa go'shti bilan birinchi o'rinda, Toxoplasma gondii go'sht bilan to'rtinchi, Trichinella spiralis cho'chqa go'shti bilan yettinchi o'rinda turadi [5].",
-        "Yovvoyi hayvon go'shtidagi boshqa Trichinella turlari 16-o'rinda, qoramol go'shtidagi Taenia saginata 19-o'rinda, qoramol va cho'chqa go'shtidagi Sarcocystis 21-o'rinda ko'rsatilgan. Hujjat bu reytingni muayyan vaqtdagi tasvir deb ataydi va alohida o'rin emas, xavf guruhlariga e'tibor berishni tavsiya qiladi [5]."
-      ]
-    },
-    {
-      "heading": "Trixinella",
-      "content": [
-        "Trixinelloz ancha xavfli, chunki odam lichinkali go'shtni yeb zararlanadi, lichinkalar esa ko'ndalang-targ'il mushaklarga joylashadi. Atlasda odam cho'chqa go'shti yoki yovvoyi hayvonlar, ya'ni yovvoyi to'ng'iz, ayiq, bo'rsiq, nutriya go'shtini yeb zararlanishi, odam esa biologik tupik ekani yozilgan [3].",
-        "Milliy yo'riqnomada xom va to'liq termik ishlov berilmagan yovvoyi hayvon va cho'chqa go'shti, kabob, dudlangan, chala dudlangan mahsulot va sosiska orqali zaharlanish qayd etilgan. Go'sht va payni iste'mol qilish juda xavfli, deyilgan, shuning uchun cho'chqa go'shti va yog'iga alohida ehtiyotkorlik tavsiya etiladi [1]."
-      ]
-    },
-    {
-      "heading": "Cho'chqa tasmasimon gijjasi",
-      "content": [
-        "Taenia solium bilan odam xom yoki yaxshi pishirilmagan cho'chqa go'shtini yeganda zararlanadi, bunda ichakda yetuk gijja rivojlanadi. Atlasda yakuniy xo'jayin faqat odam ekani, cho'chqa esa oraliq xo'jayin ekani va invazion bosqich sistitserk ekani ko'rsatilgan [3, 6].",
-        "JSST ma'lumotiga ko'ra gijja ichakda taxminan 8 haftadan keyin to'liq yetiladi, belgilar yengil va o'ziga xos emas. Biroq xavf faqat ichak infeksiyasi bilan cheklanmaydi, chunki tuxum odamga tushsa to'qimalarda lichinka bosqichi, ya'ni sistitserkoz rivojlanadi [6]."
-      ]
-    },
-    {
-      "heading": "Sistitserkoz va neyrosistitserkoz",
-      "content": [
-        "JSST ma'lumotiga ko'ra T. solium sistitserkozi muskullar, teri, ko'z va markaziy asab tizimida rivojlanishi mumkin, miyada bo'lsa neyrosistitserkoz deyiladi. Uning belgilari kuchli bosh og'rig'i, ko'rishning yo'qolishi, tutqanoq va o'lim bilan tugashi mumkin [6].",
-        "Atlasda tenioz asorati sifatida sistitserkoz tasvirlangan, bunda odam oraliq xo'jayin bo'lib, invazion bosqich tuxumdir. Tuxum iflos qo'l, ifloslangan suv va ovqat yoki qusish paytida yetuk bo'g'imlar oshqozonga tushishi orqali yutiladi, shuning uchun tasmasimon gijja tashuvchisi ham xavfli [3]."
-      ]
-    },
-    {
-      "heading": "Qoramol tasmasimon gijjasi",
-      "content": [
-        "Teniarinxoz, ya'ni qoramol tasmasimon gijjasi invaziyasi xom va yaxshi pishirilmagan mol go'shti orqali yuqadi. Milliy yo'riqnomada biogelmintozlar xom va chala pishirilgan go'shtdagi finna yoki sistitserklar bilan zararlangan kabob, chuchvara, somsa va manti kabi taomlar orqali tarqalishi aytilgan [1].",
-        "JSST T. saginata infeksiyasi inson salomatligiga katta ta'sir qilmaydi deb hisoblaydi, shu sababli ma'lumot varag'i asosan T. solium ga bag'ishlangan. Shunga qaramay, milliy yo'riqnoma teniarinxoz holatlarini ro'yxatga olish, davolash va veterinariya bilan axborot almashishni talab qiladi [1, 6]."
-      ]
-    },
-    {
-      "heading": "Exinokokk bilan zararlangan ichki a'zolar",
-      "content": [
-        "Milliy yo'riqnomada qushxonalarda finnozga veterinariya ekspertizasi nazorati bilan birga exinokokk bilan zararlangan ichki a'zolarni yo'q qilish veterinariya-sanitariya qoidalariga muvofiq o'tkazilishi ko'rsatilgan. Demak, go'shtning o'zi bilan birga ichki a'zolar ham xavfli mahsulot hisoblanadi [1].",
-        "FAO va JSST tasnifida Echinococcus granulosus ning asosiy ozuqa vositasi yangi mahsulot, ya'ni ko'kat deb ko'rsatilgan, go'sht emas. Shu sababli go'sht mahsulotlari bo'yicha exinokokk xavfi bu yerda faqat milliy yo'riqnomadagi ichki a'zolarni yo'q qilish talabiga tayanadi [1, 5]."
-      ]
-    },
-    {
-      "heading": "Toksoplazma va sarkotsista",
-      "content": [
-        "FAO va JSST hujjatida Toxoplasma gondii ning asosiy ozuqa vositasi sifatida mayda kavsh qaytaruvchilar, cho'chqa, mol va ov hayvonlarining go'shti hamda ichki a'zolari ko'rsatilgan. Atlasda toksoplazmoz profilaktikasi uchun hayvon va parranda go'shtini yaxshi termik ishlov bilan iste'mol qilish tavsiya etiladi [3, 5].",
-        "Sarkotsista (Sarcocystis spp.) qoramol va cho'chqa go'shti bilan bog'liq parazit sifatida ro'yxatga kiritilgan. Bu ikkala parazit sodda hayvon bo'lib, gelmintlardan farq qiladi, lekin FAO va JSST tasnifida go'sht orqali yuqadigan xavfli parazitlar qatoriga kiritilgan [5]."
-      ]
-    },
-    {
-      "heading": "Yovvoyi hayvon go'shti",
-      "content": [
-        "FAO va JSST hujjatida Trichinella turlari yovvoyi hayvon go'shtida, ya'ni yovvoyi to'ng'iz, timsoh, ayiq va morj go'shtida uchrashi qayd etilgan. Atlasda ham yovvoyi to'ng'iz, ayiq, bo'rsiq va nutriya go'shtidan zararlanish tasvirlangan [3, 5].",
-        "Shu sababli sanitariya-veterinariya nazoratidan o'tmagan ov go'shti alohida xavf guruhini tashkil qiladi. Atlasda trixinelloz uchun epidemiologik anamnez sifatida sanitariya-veterinariya nazoratidan o'tmagan cho'chqa yoki yovvoyi hayvon go'shtini iste'mol qilish ko'rsatilgan [3]."
-      ]
-    },
-    {
-      "heading": "Veterinariya-sanitariya nazorati",
-      "content": [
-        "Milliy yo'riqnomaga ko'ra go'sht va go'sht mahsulotlarini sotish uchun veterinariya guvohnomasi bo'lishi kerak, bo'g'izlash esa maxsus ajratilgan joyda o'tkaziladi. So'yilgan hayvon go'shtida trixinella yuqori darajada bo'lsa, dalolatnoma yozilib, namuna olinadi va hududiy DSENM va veterinariya laboratoriyalariga yuboriladi [1].",
-        "Mahsulotda trixinella topilsa, u yo'q qilinadi. Qushxonalarda finnozga ekspertiza sifati veterinariya mutaxassislari bilan birgalikda monitoring qilinadi va finnozli go'sht hamda exinokokkli ichki a'zolar veterinariya-sanitariya qoidalariga rioya qilingan holda yo'q qilinadi [1]."
-      ]
-    },
-    {
-      "heading": "Zararsizlantirish usullari",
-      "content": [
-        "Romanenko qo'llanmasida qoramol finnalari bilan zararlangan go'shtni muzlatib zararsizlantirish mumkin: tana qalinligida -12 daraja bo'lsa qo'shimcha ushlash shart emas, -6 dan -9 darajagacha kamida 24 soat ushlanadi. Cho'chqa tanasi uchun mushak qalinligida -10 darajaga yetkazilib, kamerada -12 darajada 10 sutka ushlanadi [2].",
-        "Qizdirishda go'sht 2 kg gacha va qalinligi 8 sm gacha bo'laklarga bo'linib, 3 soat ochiq yoki 2,5 soat yopiq qozonda pishiriladi, ichki harorat kamida 80 daraja bo'lishi kerak. Tuzlashda bo'lak 2,5 kg gacha, tuz 10 foiz, sho'r suv kamida 24 foizli, muddat 20 sutka. Bu sistitserkka qarshi rejimlar, trixinella uchun emas [1, 2]."
-      ]
-    },
-    {
-      "heading": "Laboratoriya aniqlash usullari",
-      "content": [
-        "Trixinella uchun laboratoriya yo'riqnomasida trixinelloskopiya ko'rsatilgan: yurakdan boshqa ko'ndalang-targ'il mushak to'qimasi kompressorda ko'riladi, har bir namunadan 24 kesma tayyorlanadi, salbiy natijada kesmalar soni 3-4 marta oshiriladi. Hech bo'lmasa bitta lichinka topilsa, barcha namunalar yo'q qilinadi [4].",
-        "Teniidozlarda makroskopik tekshiruv muhim: qoramol va cho'chqa tasmasimon gijjasini farqlashda bo'g'imlar ko'rib chiqiladi, chunki tuxum onkosferalari mikroskopda bir xil. Shuning uchun mikroskopik tuxum tekshiruvi umumiy teniidoz tashxisini beradi, aniq tur esa makroskopik usul bilan aniqlanadi [3, 4]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Shifokor bemordan qaysi go'sht va qanday ishlov bilan iste'mol qilgani, ov go'shti, kabob, kolbasa, chala dudlangan mahsulot yoki xom qiyma bo'lgani haqida so'rashi kerak. Bu ma'lumot trixinelloz, tenioz va teniarinxozni farqlash hamda manbani topishga yordam beradi [1, 3].",
-        "Har bir teniarinxoz va tenioz hodisasi bo'yicha shoshilinch xabarnoma (shakl 058/u) beriladi, hududiy DSENM esa hodisani veterinariya bo'limiga xabar qiladi. Shu axborot almashinuvi go'shtning manbasini topish va keyingi zararlanishlarning oldini olish uchun asosiy shart [1]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda O'zbekistonda go'sht orqali yuqadigan parazitlarning joriy tarqalishi, qaysi hududlarda trixinelloz yoki finnoz ko'proq uchrashi to'g'risida ma'lumot topilmadi. FAO va JSST reytingi jahon darajasidagi tahlil bo'lib, milliy xavf tartibini bildirmaydi [5].",
-        "Milliy yo'riqnoma va Romanenko qo'llanmasidagi muzlatish qiymatlari bir-biriga yaqin, lekin yo'riqnoma matnida ayrim harorat belgilari noaniq yozilgan, masalan «minus 120» ko'rinishida. Shu sababli aniq rejimni qo'llashdan oldin veterinariya hujjatidan tekshirish kerak [1, 2]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Go'sht va go'sht mahsulotlarida odam uchun xavfli parazitlar: Trichinella spiralis va boshqa turlari, Taenia solium (sistitserkoz xavfi bilan), Taenia saginata, exinokokk bilan zararlangan ichki a'zolar, Toxoplasma gondii va Sarcocystis. Himoya veterinariya nazorati, to'g'ri zararsizlantirish va termik ishlovga asoslanadi [1, 3, 5]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
-    "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "Food and Agriculture Organization of the United Nations, World Health Organization. Multicriteria-based ranking for risk management of food-borne parasites: report of a Joint FAO/WHO Expert Meeting, 3-7 September 2012, FAO Headquarters, Rome, Italy. Microbiological Risk Assessment Series 23, 2014. https://iris.who.int/server/api/core/bitstreams/2212cb84-d725-4842-aead-2844c24ac59a/content",
-    "World Health Organization. Taeniasis/Cysticercosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/taeniasis-cysticercosis"
-  ]
+ "number": 122,
+ "title": "122. Go'sht va go'sht mahsulotlaridagi qaysi parazitlar inson sog'ligi uchun xavfli hisoblanadi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Go'sht va go'sht mahsulotlari orqali odamga gelmintlar ham, ayrim sodda hayvonlar ham yuqishi mumkin, xavf esa ko'proq xom yoki yetarli pishirilmagan mahsulotni iste'mol qilishda paydo bo'ladi. Shu sababli parazitolog-shifokor qaysi go'sht va qaysi parazit juftligi muhimligini bilishi lozim [1, 5].",
+    "Mavzuda avval FAO va JSST ekspert uchrashuvi tasnifi keltiriladi, so'ng trixinella, cho'chqa va qoramol tasmasimon gijjalari, exinokokk, toksoplazma va sarkotsista, yovvoyi hayvon go'shti, xavfli mahsulot turlari, veterinariya nazorati hamda zararsizlantirish usullari ko'rib chiqiladi [1, 2, 5]."
+   ]
+  },
+  {
+   "heading": "FAO va JSST tasnifi",
+   "content": [
+    "FAO va JSST ekspert uchrashuvi oziq-ovqat orqali yuqadigan parazitlarni xavf bo'yicha tartiblagan. Go'shtga bog'liq parazitlardan Taenia solium cho'chqa go'shti bilan birinchi o'rinda, Toxoplasma gondii go'sht bilan to'rtinchi, Trichinella spiralis cho'chqa go'shti bilan yettinchi o'rinda turadi [5].",
+    "Yovvoyi hayvon go'shtidagi boshqa Trichinella turlari 16-o'rinda, qoramol go'shtidagi Taenia saginata 19-o'rinda, qoramol va cho'chqa go'shtidagi Sarcocystis 21-o'rinda ko'rsatilgan. Hujjat bu reytingni muayyan vaqtdagi tasvir deb ataydi va alohida o'rin emas, xavf guruhlariga e'tibor berishni tavsiya qiladi [5]."
+   ]
+  },
+  {
+   "heading": "Trixinella",
+   "content": [
+    "Trixinelloz ancha xavfli, chunki odam lichinkali go'shtni yeb zararlanadi, lichinkalar esa ko'ndalang-targ'il mushaklarga joylashadi. Atlasda odam cho'chqa go'shti yoki yovvoyi hayvonlar, ya'ni yovvoyi to'ng'iz, ayiq, bo'rsiq, nutriya go'shtini yeb zararlanishi, odam esa biologik tupik ekani yozilgan [3].",
+    "Milliy yo'riqnomada xom va to'liq termik ishlov berilmagan yovvoyi hayvon va cho'chqa go'shti, kabob, dudlangan, chala dudlangan mahsulot va sosiska orqali zaharlanish qayd etilgan. Go'sht va payni iste'mol qilish juda xavfli, deyilgan, shuning uchun cho'chqa go'shti va yog'iga alohida ehtiyotkorlik tavsiya etiladi [1]."
+   ]
+  },
+  {
+   "heading": "Cho'chqa tasmasimon gijjasi",
+   "content": [
+    "Taenia solium bilan odam xom yoki yaxshi pishirilmagan cho'chqa go'shtini yeganda zararlanadi, bunda ichakda yetuk gijja rivojlanadi. Atlasda yakuniy xo'jayin faqat odam ekani, cho'chqa esa oraliq xo'jayin ekani va invazion bosqich sistitserk ekani ko'rsatilgan [3, 6].",
+    "JSST ma'lumotiga ko'ra gijja ichakda taxminan 8 haftadan keyin to'liq yetiladi, belgilar yengil va o'ziga xos emas. Biroq xavf faqat ichak infeksiyasi bilan cheklanmaydi, chunki tuxum odamga tushsa to'qimalarda lichinka bosqichi, ya'ni sistitserkoz rivojlanadi [6]."
+   ]
+  },
+  {
+   "heading": "Sistitserkoz va neyrosistitserkoz",
+   "content": [
+    "JSST ma'lumotiga ko'ra T. solium sistitserkozi muskullar, teri, ko'z va markaziy asab tizimida rivojlanishi mumkin, miyada bo'lsa neyrosistitserkoz deyiladi. Uning belgilari kuchli bosh og'rig'i, ko'rishning yo'qolishi, tutqanoq va o'lim bilan tugashi mumkin [6].",
+    "Atlasda tenioz asorati sifatida sistitserkoz tasvirlangan, bunda odam oraliq xo'jayin bo'lib, invazion bosqich tuxumdir. Tuxum iflos qo'l, ifloslangan suv va ovqat yoki qusish paytida yetuk bo'g'imlar oshqozonga tushishi orqali yutiladi, shuning uchun tasmasimon gijja tashuvchisi ham xavfli [3]."
+   ]
+  },
+  {
+   "heading": "Qoramol tasmasimon gijjasi",
+   "content": [
+    "Teniarinxoz, ya'ni qoramol tasmasimon gijjasi invaziyasi xom va yaxshi pishirilmagan mol go'shti orqali yuqadi. Milliy yo'riqnomada biogelmintozlar xom va chala pishirilgan go'shtdagi finna yoki sistitserklar bilan zararlangan kabob, chuchvara, somsa va manti kabi taomlar orqali tarqalishi aytilgan [1].",
+    "JSST T. saginata infeksiyasi inson salomatligiga katta ta'sir qilmaydi deb hisoblaydi, shu sababli ma'lumot varag'i asosan T. solium ga bag'ishlangan. Shunga qaramay, milliy yo'riqnoma teniarinxoz holatlarini ro'yxatga olish, davolash va veterinariya bilan axborot almashishni talab qiladi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Exinokokk bilan zararlangan ichki a'zolar",
+   "content": [
+    "Milliy yo'riqnomada qushxonalarda finnozga veterinariya ekspertizasi nazorati bilan birga exinokokk bilan zararlangan ichki a'zolarni yo'q qilish veterinariya-sanitariya qoidalariga muvofiq o'tkazilishi ko'rsatilgan. Demak, go'shtning o'zi bilan birga ichki a'zolar ham xavfli mahsulot hisoblanadi [1].",
+    "FAO va JSST tasnifida Echinococcus granulosus ning asosiy ozuqa vositasi yangi mahsulot, ya'ni ko'kat deb ko'rsatilgan, go'sht emas. Shu sababli go'sht mahsulotlari bo'yicha exinokokk xavfi bu yerda faqat milliy yo'riqnomadagi ichki a'zolarni yo'q qilish talabiga tayanadi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Toksoplazma va sarkotsista",
+   "content": [
+    "FAO va JSST hujjatida Toxoplasma gondii ning asosiy ozuqa vositasi sifatida mayda kavsh qaytaruvchilar, cho'chqa, mol va ov hayvonlarining go'shti hamda ichki a'zolari ko'rsatilgan. Atlasda toksoplazmoz profilaktikasi uchun hayvon va parranda go'shtini yaxshi termik ishlov bilan iste'mol qilish tavsiya etiladi [3, 5].",
+    "Sarkotsista (Sarcocystis spp.) qoramol va cho'chqa go'shti bilan bog'liq parazit sifatida ro'yxatga kiritilgan. Bu ikkala parazit sodda hayvon bo'lib, gelmintlardan farq qiladi, lekin FAO va JSST tasnifida go'sht orqali yuqadigan xavfli parazitlar qatoriga kiritilgan [5]."
+   ]
+  },
+  {
+   "heading": "Yovvoyi hayvon go'shti",
+   "content": [
+    "FAO va JSST hujjatida Trichinella turlari yovvoyi hayvon go'shtida, ya'ni yovvoyi to'ng'iz, timsoh, ayiq va morj go'shtida uchrashi qayd etilgan. Atlasda ham yovvoyi to'ng'iz, ayiq, bo'rsiq va nutriya go'shtidan zararlanish tasvirlangan [3, 5].",
+    "Shu sababli sanitariya-veterinariya nazoratidan o'tmagan ov go'shti alohida xavf guruhini tashkil qiladi. Atlasda trixinelloz uchun epidemiologik anamnez sifatida sanitariya-veterinariya nazoratidan o'tmagan cho'chqa yoki yovvoyi hayvon go'shtini iste'mol qilish ko'rsatilgan [3]."
+   ]
+  },
+  {
+   "heading": "Veterinariya-sanitariya nazorati",
+   "content": [
+    "Milliy yo'riqnomaga ko'ra go'sht va go'sht mahsulotlarini sotish uchun veterinariya guvohnomasi bo'lishi kerak, bo'g'izlash esa maxsus ajratilgan joyda o'tkaziladi. So'yilgan hayvon go'shtida trixinella yuqori darajada bo'lsa, dalolatnoma yozilib, namuna olinadi va hududiy DSENM va veterinariya laboratoriyalariga yuboriladi [1].",
+    "Mahsulotda trixinella topilsa, u yo'q qilinadi. Qushxonalarda finnozga ekspertiza sifati veterinariya mutaxassislari bilan birgalikda monitoring qilinadi va finnozli go'sht hamda exinokokkli ichki a'zolar veterinariya-sanitariya qoidalariga rioya qilingan holda yo'q qilinadi [1]."
+   ]
+  },
+  {
+   "heading": "Zararsizlantirish usullari",
+   "content": [
+    "Romanenko qo'llanmasida qoramol finnalari bilan zararlangan go'shtni muzlatib zararsizlantirish mumkin: tana qalinligida -12 daraja bo'lsa qo'shimcha ushlash shart emas, -6 dan -9 darajagacha kamida 24 soat ushlanadi. Cho'chqa tanasi uchun mushak qalinligida -10 darajaga yetkazilib, kamerada -12 darajada 10 sutka ushlanadi [2].",
+    "Qizdirishda go'sht 2 kg gacha va qalinligi 8 sm gacha bo'laklarga bo'linib, 3 soat ochiq yoki 2,5 soat yopiq qozonda pishiriladi, ichki harorat kamida 80 daraja bo'lishi kerak. Tuzlashda bo'lak 2,5 kg gacha, tuz 10 foiz, sho'r suv kamida 24 foizli, muddat 20 sutka. Bu sistitserkka qarshi rejimlar, trixinella uchun emas [1, 2]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya aniqlash usullari",
+   "content": [
+    "Trixinella uchun laboratoriya yo'riqnomasida trixinelloskopiya ko'rsatilgan: yurakdan boshqa ko'ndalang-targ'il mushak to'qimasi kompressorda ko'riladi, har bir namunadan 24 kesma tayyorlanadi, salbiy natijada kesmalar soni 3-4 marta oshiriladi. Hech bo'lmasa bitta lichinka topilsa, barcha namunalar yo'q qilinadi [4].",
+    "Teniidozlarda makroskopik tekshiruv muhim: qoramol va cho'chqa tasmasimon gijjasini farqlashda bo'g'imlar ko'rib chiqiladi, chunki tuxum onkosferalari mikroskopda bir xil. Shuning uchun mikroskopik tuxum tekshiruvi umumiy teniidoz tashxisini beradi, aniq tur esa makroskopik usul bilan aniqlanadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Shifokor bemordan qaysi go'sht va qanday ishlov bilan iste'mol qilgani, ov go'shti, kabob, kolbasa, chala dudlangan mahsulot yoki xom qiyma bo'lgani haqida so'rashi kerak. Bu ma'lumot trixinelloz, tenioz va teniarinxozni farqlash hamda manbani topishga yordam beradi [1, 3].",
+    "Har bir teniarinxoz va tenioz hodisasi bo'yicha shoshilinch xabarnoma (shakl 058/u) beriladi, hududiy DSENM esa hodisani veterinariya bo'limiga xabar qiladi. Shu axborot almashinuvi go'shtning manbasini topish va keyingi zararlanishlarning oldini olish uchun asosiy shart [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Go'sht va go'sht mahsulotlarida odam uchun xavfli parazitlar: Trichinella spiralis va boshqa turlari, Taenia solium (sistitserkoz xavfi bilan), Taenia saginata, exinokokk bilan zararlangan ichki a'zolar, Toxoplasma gondii va Sarcocystis. Himoya veterinariya nazorati, to'g'ri zararsizlantirish va termik ishlovga asoslanadi [1, 3, 5]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "Food and Agriculture Organization of the United Nations, World Health Organization. Multicriteria-based ranking for risk management of food-borne parasites: report of a Joint FAO/WHO Expert Meeting, 3-7 September 2012, FAO Headquarters, Rome, Italy. Microbiological Risk Assessment Series 23, 2014. https://iris.who.int/server/api/core/bitstreams/2212cb84-d725-4842-aead-2844c24ac59a/content",
+  "World Health Organization. Taeniasis/Cysticercosis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/taeniasis-cysticercosis"
+ ]
 }

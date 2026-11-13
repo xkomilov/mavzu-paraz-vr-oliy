@@ -1,113 +1,106 @@
 {
-  "number": 45,
-  "title": "45. Zoonoz teri leyshmaniozining tashxisi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Zoonoz teri leyshmaniozining tashxisi klinik-epidemiologik ma'lumotlarga va qo'zg'atuvchining laboratoriyada topilishiga tayanadi. Kasallikning yarasi boshqa teri kasalliklariga o'xshashi mumkin, shu sababli parazitologik tasdiqsiz yakuniy tashxis qo'yilmaydi va tashxis tartibi milliy hujjatlarda alohida belgilangan. Shu bois shifokor tashxisni bosqichma-bosqich, ham klinik, ham laboratoriya jihatdan tasdiqlashi kerak [1, 2].",
-        "Mavzuda avval tashxisning klinik-epidemiologik asosi, namuna olish va mikroskopiya, so'ng madaniyat, biologik sinama, serologiya va molekulyar usullar ko'rib chiqiladi. Keyin laboratoriya tasdig'i tartibi, xabarnoma, differensial tashxis va sifat nazorati bilan bog'liq muammolar yoritilib, tasdiqlanmagan jihatlar ochiq yoziladi [1, 4]."
-      ]
-    },
-    {
-      "heading": "Klinik-epidemiologik asos",
-      "content": [
-        "Yo'riqnomaga ko'ra laboratoriya tekshiruvi kasallikning xarakterli klinik belgilari, ya'ni terining xarakterli shikastlanishi bo'lganda hamda bemorning teri leyshmaniozi endemik o'chog'ida bo'lganligi va yil fasli aniqlanganda o'tkaziladi. Bular tashxisning birinchi bosqichini tashkil qiladi. Bu uch omil birgalikda tashxisga dastlabki gumon va keyingi laboratoriya tekshiruviga ko'rsatma hosil qiladi [1].",
-        "Retrospektiv ma'lumotlar ham hisobga olinadi: teridagi avval o'tkazilgan kasallikdan dalolat beruvchi yara chandiqlarining mavjudligi tashxisni qo'llab-quvvatlaydi. Zoonoz shaklda kasallanish yoz-kuz oylarida, iyuldan oktyabrgacha bo'lgani uchun fasl tashxisda muhim epidemiologik belgi hisoblanadi. Shu sababli yarasi bor bemorning anamnezida endemik hududga borganlik va fasl aniq so'raladi [1]."
-      ]
-    },
-    {
-      "heading": "Namuna olish",
-      "content": [
-        "Qo'zg'atuvchi terining qatlamlarida joylashgani uchun milliy bayonnomada zoonoz teri leyshmaniozi tashxisida yara atrofidagi yallig'langan bo'rtma to'qimasidan olingan qirindi tekshirish uchun material hisoblanadi. Qirindidan Romanovskiy-Gimza usulida bo'yaladigan surtma tayyorlanadi. Bunday namuna olish qo'zg'atuvchi to'qimada joylashgani sababli mikroskopiyada parazitni topish ehtimolini oshiradi [2].",
-        "Yo'riqnomaning antropoz shakl bo'limida leyshmaniyalar yara tubidagi bo'rtmadan va infiltrat chetidan olingan namunada aniqlangandagina tashxis tasdiqlanishi yozilgan. Darslikda ham surtma yara qirindisi va ajralmasidan tayyorlanishi aytilgan. Shuning uchun namuna yaraning o'rtasidagi nekrotik massadan emas, infiltrat zonasidan olinadi [1, 7]."
-      ]
-    },
-    {
-      "heading": "Mikroskopik tekshiruv",
-      "content": [
-        "Laboratoriya tashxisining asosi qirindi va ajralmadan tayyorlangan surtmada amastigotlarni topishdir. Amastigotlar yumaloq yoki oval, 2-5,5 mikron o'lchamli, Romanovskiy-Gimza usulida sitoplazmasi kulrang-ko'k, yadrosi qizil-binafsha, kinetoplasti to'q binafsha bo'ladi. Shu rang va o'lcham belgilari mikroskopda parazitni boshqa hujayra elementlaridan ajratishga yordam beradi [7].",
-        "Yo'riqnomaga ko'ra parazitologik tahlilda leyshmaniyalar aniqlansa, tashxis tasdiqlanadi. Darslikka ko'ra zoonoz shaklning diagnostikasi antropoz shakl bilan bir xil. Shu sababli surtma mikroskopiyasi laboratoriya tashxisining asosiy bosqichi hisoblanadi, salbiy natijalarning bir qismi esa DSENM laboratoriyasida qayta tekshiriladi [1, 6]."
-      ]
-    },
-    {
-      "heading": "Madaniyat va biologik sinama",
-      "content": [
-        "Darslikda leyshmaniyalar hujayra madaniyatida va Nikolle-Novi-Nil qon agarida o'stirilishi, bunda hujayralar monoqatlamida amastigotlar, NNN muhitida promastigotlar hosil bo'lishi aytilgan. Promastigotlar immersion mikroskopda chigallashgan xivchinli yulduzsimon to'plamlar ko'rinishida joylashadi. Madaniyatda o'stirish parazit turini aniqlash va keyingi tadqiqotlar uchun ham material beradi [7].",
-        "Yo'riqnomada tashxisni laboratoriya oq sichqonlari va xomyaklarda o'tkazilgan biologik sinama natijasida olingan namunalarda hamda leyshmaniya madaniyatida parazit topilganda ham qo'yish mumkinligi ko'rsatilgan. Bu usullar murakkab, shu sababli ixtisoslashgan parazitologiya laboratoriyalari imkoniyatiga bog'liq. Shu sababli ular tashxisning birinchi bosqichi emas, qo'shimcha tasdiq usullari hisoblanadi [1, 7]."
-      ]
-    },
-    {
-      "heading": "Serologik va teri sinamalari",
-      "content": [
-        "JSST ma'lumotiga ko'ra teri va shilliq qavat leyshmaniozida serologik testlarning ahamiyati cheklangan, tashxis klinik ko'rinish va parazitologik tekshiruv bilan tasdiqlanadi. MSD ma'lumotnomasi ham serologik testlar visseral shaklda yordam berishi, teri shaklida esa yordam bermasligini ta'kidlaydi [5, 8].",
-        "Milliy bayonnomada minimal ro'yxatda serologik tekshirish ko'rsatilgan, ammo uning aniq usuli bayonnomada berilmagan. Darslikda leyshmanin bilan teri allergik sinamasi kasallikning 10-15 kunidan musbat bo'lishi aytilgan, yo'riqnomada esa 2 oydan keyin deb yozilgan, ya'ni sinama kasallikning dastlabki davrida ishonchli mezon emas [1, 2, 7]."
-      ]
-    },
-    {
-      "heading": "Molekulyar usullar",
-      "content": [
-        "Respublika markazi taqdimotida ekspress usullar bilan olingan musbat natijalar mikroskopik tekshiruv bilan tasdiqlanishi shart, natijalar bir-biriga mos kelmasa polimeraza zanjiri reaksiyasi (PZR) o'tkazilishi aytilgan. Shu tariqa PZR hakamlik usuli sifatida ishlatiladi. Bu tartib noaniq yoki qarama-qarshi natijalarda tashxisni aniqlashtirish imkonini beradi [4].",
-        "MSD ma'lumotnomasi tashxis surtma yoki madaniyatdagi parazitlarni topishga va mos yozuvlar markazlarida PZR usulini tobora ko'proq qo'llashga asoslanishini ko'rsatadi. Demak, PZR odatdagi klinik laboratoriya emas, malakali markaziy laboratoriya imkoniyati bo'lib, uning rolini bu bilan chegaralash kerak [4, 8]."
-      ]
-    },
-    {
-      "heading": "Minimal tekshiruvlar ro'yxati",
-      "content": [
-        "Milliy bayonnomada zoonoz teri leyshmaniozi uchun laboratoriya tekshiruvining minimal ro'yxati sifatida parazitologik, serologik va umumiy klinik tekshiruv ko'rsatilgan. Davolash standartida esa teri leyshmaniozlari uchun umumiy qon tahlili va yaraning zararlangan qismidan surtma tekshirish belgilangan [2, 3].",
-        "Shu tariqa har bir shubhali bemor uchun yara surtmasi majburiy, qon tahlili esa umumiy holatni baholashga xizmat qiladi. Standartda bemorni klinik-epidemiologik ma'lumotlar asosida stasionarga yo'naltirish ko'rsatilgan, mutaxassis maslahati sifatida esa dermatolog nazarda tutilgan. Bu minimal ro'yxat har bir bemor uchun bajarilishi shart bo'lgan eng kam tekshiruvlarni belgilaydi [3]."
-      ]
-    },
-    {
-      "heading": "Laboratoriya tasdig'i tartibi",
-      "content": [
-        "Yo'riqnomaga ko'ra tashxisni tasdiqlash uchun teri leyshmaniozi shubha qilingan bemorlardan olingan surtmalar DSENMning parazitologiya laboratoriyalariga yuboriladi: barcha salbiy natijali surtmalarning 10 foizi, musbat va shubhali surtmalarning esa 100 foizi. Bu ikki bosqichli nazorat xatolarni kamaytiradi [1].",
-        "Respublika markazi taqdimotida laboratoriya tasdiqlangan holatlarda aniq davo 24 soat ichida boshlanishi, shubhali holatlarni laboratoriyada majburiy tasdiqlash zarurligi ko'rsatilgan. Tashxis qo'yishda klinik laboratoriyalarning tayyorgarligi 2015-2016 yillarda alohida baholangan. Taqdimotda bu ko'rsatma tashxisning o'z vaqtida va sifatli bo'lishini ta'minlash uchun tizim elementlari qatorida keltirilgan [4]."
-      ]
-    },
-    {
-      "heading": "Xabarnoma va hisobga olish",
-      "content": [
-        "Leyshmaniozga shubhali bemor topilganda tibbiy xodim yaraga quruq bog'lam qo'yib, DSENMga shoshilinch xabarnoma beradi. DSENM xodimi manzilga borib, barcha shubhali bemorlarda parazitologik tekshiruv o'tkazadi va bemor bilan yashovchi yoki ishlovchi shaxslarni so'rab ko'radi. Bu tartib o'choqdagi tadbirlarni kechiktirmasdan boshlashga imkon beradi [1].",
-        "Taqdimotga ko'ra leyshmanioz holati 058/U shakli bo'yicha shoshilinch xabarnoma qilinadi va 060/U shakli bo'yicha ro'yxatga olinadi. JSSTning teri leyshmaniozi uchun ish ta'rifiga ko'ra holat parazitologik tasdiq (musbat surtma yoki madaniyat) bilan klinik belgilar birga bo'lgan shaxsdir [4]."
-      ]
-    },
-    {
-      "heading": "Differensial tashxis",
-      "content": [
-        "Yo'riqnomada teri leyshmaniozini qiyosiy tashxislashda epitelioma, moxov, zaxm va tropik yaralar bilan solishtirish ko'rsatilgan. Bunday qiyosiy tashxis zarur, chunki teri yaralari klinik ko'rinishda o'xshash bo'lishi mumkin va yagona klinik belgi asosida kasallikni ishonchli ajratib bo'lmaydi, shuning uchun parazitologik tasdiq talab etiladi [1].",
-        "Shu sababli yara tubidan olingan surtmada amastigotlarning topilishi hal qiluvchi bo'ladi. Visseral shaklda esa suyak ko'migi tekshiriladi va rK39 ekspress-testi qo'llanadi, teri shaklida esa serologiya cheklangan ahamiyatga ega. Parazitolog-shifokor namuna turini kasallik shakliga mos tanlashi kerak [1, 4]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Parazitolog-shifokor tashxisning aniqligi uchun javobgar: namuna olish texnikasi, bo'yash sifati va mikroskopiya malakasi natijaga bevosita ta'sir qiladi. Respublika markazi taqdimotida Toshkent viloyatida epidemiologik tekshiruv rasmiy o'tkazilgani sababli Olmaliqda 5 ta mahalliy holat tarqalgani qayd etilgan [4].",
-        "Bu misol tashxis faqat laboratoriya natijasi emas, balki o'z vaqtida epidemiologik tekshiruv bilan to'ldirilishi kerakligini ko'rsatadi. Tashxis qo'yilgach, bemor ro'yxatga olinadi, o'choqda tadbirlar rejalashtiriladi, bemor esa davolanadi va dispanser nazoratida kuzatiladi. Shu tariqa laboratoriya tashxisi epidemiologik nazorat zanjirining bir bo'g'ini sifatida ko'riladi [1, 4]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda zoonoz teri leyshmaniozi uchun qirindi olishning bosqichma-bosqich texnikasi, bo'yash muddatlari va PZR primerlari berilmagan. Shu sababli ushbu mavzuda bu texnik tafsilotlar keltirilmadi, ular laboratoriya sifat qo'llanmalari va usuliy ko'rsatmalar bo'yicha alohida tekshirilishi kerak [1, 2].",
-        "O'zbekistonda teri leyshmaniozi tashxisida ishlatiladigan ekspress-testlar, ularning sezgirligi va klinik laboratoriyalarning tayyorgarligi bo'yicha raqamli ma'lumotlar taqdimot grafiklarida bo'lib, matn qatlamidan ajratilmadi. Shuning uchun tayyorgarlik darajasi haqida son keltirilmadi. Aniq natijalar uchun hisobot ma'lumotlari va dala jurnallariga murojaat qilish zarur [4]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Zoonoz teri leyshmaniozining tashxisi klinik-epidemiologik ma'lumotlar (xarakterli yara, o'choqda bo'lish, fasl) va yara qirindisi yoki ajralmasidagi amastigotlarni mikroskopiyada topishga asoslanadi; madaniyat va biologik sinama qo'shimcha, serologiya cheklangan, PZR esa hakamlik usuli. Salbiy surtmalarning 10 foizi va musbat hamda shubhali surtmalarning 100 foizi DSENMda tasdiqlanadi [1, 2, 4]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari. O'zbekiston Respublikasi Sog'liqni saqlash vazirligi, 2016. xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Pearson R.D. Leishmaniasis (Leyshmanioz). MSD ma'lumotnomasi, professional versiya; mazmun oxirgi marta 2019 yil may oyida o'zgartirilgan. xayrullokomilov.uz/kutubxona, material ID 1536."
-  ]
+ "number": 45,
+ "title": "45. Zoonoz teri leyshmaniozining tashxisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Zoonoz teri leyshmaniozining tashxisi klinik-epidemiologik ma'lumotlarga va qo'zg'atuvchining laboratoriyada topilishiga tayanadi. Kasallikning yarasi boshqa teri kasalliklariga o'xshashi mumkin, shu sababli parazitologik tasdiqsiz yakuniy tashxis qo'yilmaydi va tashxis tartibi milliy hujjatlarda alohida belgilangan. Shu bois shifokor tashxisni bosqichma-bosqich, ham klinik, ham laboratoriya jihatdan tasdiqlashi kerak [1, 2].",
+    "Mavzuda avval tashxisning klinik-epidemiologik asosi, namuna olish va mikroskopiya, so'ng madaniyat, biologik sinama, serologiya va molekulyar usullar ko'rib chiqiladi. Keyin laboratoriya tasdig'i tartibi, xabarnoma, differensial tashxis va sifat nazorati bilan bog'liq muammolar yoritiladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Klinik-epidemiologik asos",
+   "content": [
+    "Yo'riqnomaga ko'ra laboratoriya tekshiruvi kasallikning xarakterli klinik belgilari, ya'ni terining xarakterli shikastlanishi bo'lganda hamda bemorning teri leyshmaniozi endemik o'chog'ida bo'lganligi va yil fasli aniqlanganda o'tkaziladi. Bular tashxisning birinchi bosqichini tashkil qiladi. Bu uch omil birgalikda tashxisga dastlabki gumon va keyingi laboratoriya tekshiruviga ko'rsatma hosil qiladi [1].",
+    "Retrospektiv ma'lumotlar ham hisobga olinadi: teridagi avval o'tkazilgan kasallikdan dalolat beruvchi yara chandiqlarining mavjudligi tashxisni qo'llab-quvvatlaydi. Zoonoz shaklda kasallanish yoz-kuz oylarida, iyuldan oktyabrgacha bo'lgani uchun fasl tashxisda muhim epidemiologik belgi hisoblanadi. Shu sababli yarasi bor bemorning anamnezida endemik hududga borganlik va fasl aniq so'raladi [1]."
+   ]
+  },
+  {
+   "heading": "Namuna olish",
+   "content": [
+    "Qo'zg'atuvchi terining qatlamlarida joylashgani uchun milliy bayonnomada zoonoz teri leyshmaniozi tashxisida yara atrofidagi yallig'langan bo'rtma to'qimasidan olingan qirindi tekshirish uchun material hisoblanadi. Qirindidan Romanovskiy-Gimza usulida bo'yaladigan surtma tayyorlanadi. Bunday namuna olish qo'zg'atuvchi to'qimada joylashgani sababli mikroskopiyada parazitni topish ehtimolini oshiradi [2].",
+    "Yo'riqnomaning antropoz shakl bo'limida leyshmaniyalar yara tubidagi bo'rtmadan va infiltrat chetidan olingan namunada aniqlangandagina tashxis tasdiqlanishi yozilgan. Darslikda ham surtma yara qirindisi va ajralmasidan tayyorlanishi aytilgan. Shuning uchun namuna yaraning o'rtasidagi nekrotik massadan emas, infiltrat zonasidan olinadi [1, 7]."
+   ]
+  },
+  {
+   "heading": "Mikroskopik tekshiruv",
+   "content": [
+    "Laboratoriya tashxisining asosi qirindi va ajralmadan tayyorlangan surtmada amastigotlarni topishdir. Amastigotlar yumaloq yoki oval, 2-5,5 mikron o'lchamli, Romanovskiy-Gimza usulida sitoplazmasi kulrang-ko'k, yadrosi qizil-binafsha, kinetoplasti to'q binafsha bo'ladi. Shu rang va o'lcham belgilari mikroskopda parazitni boshqa hujayra elementlaridan ajratishga yordam beradi [7].",
+    "Yo'riqnomaga ko'ra parazitologik tahlilda leyshmaniyalar aniqlansa, tashxis tasdiqlanadi. Darslikka ko'ra zoonoz shaklning diagnostikasi antropoz shakl bilan bir xil. Shu sababli surtma mikroskopiyasi laboratoriya tashxisining asosiy bosqichi hisoblanadi, salbiy natijalarning bir qismi esa DSENM laboratoriyasida qayta tekshiriladi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Madaniyat va biologik sinama",
+   "content": [
+    "Darslikda leyshmaniyalar hujayra madaniyatida va Nikolle-Novi-Nil qon agarida o'stirilishi, bunda hujayralar monoqatlamida amastigotlar, NNN muhitida promastigotlar hosil bo'lishi aytilgan. Promastigotlar immersion mikroskopda chigallashgan xivchinli yulduzsimon to'plamlar ko'rinishida joylashadi. Madaniyatda o'stirish parazit turini aniqlash va keyingi tadqiqotlar uchun ham material beradi [7].",
+    "Yo'riqnomada tashxisni laboratoriya oq sichqonlari va xomyaklarda o'tkazilgan biologik sinama natijasida olingan namunalarda hamda leyshmaniya madaniyatida parazit topilganda ham qo'yish mumkinligi ko'rsatilgan. Bu usullar murakkab, shu sababli ixtisoslashgan parazitologiya laboratoriyalari imkoniyatiga bog'liq. Shu sababli ular tashxisning birinchi bosqichi emas, qo'shimcha tasdiq usullari hisoblanadi [1, 7]."
+   ]
+  },
+  {
+   "heading": "Serologik va teri sinamalari",
+   "content": [
+    "JSST ma'lumotiga ko'ra teri va shilliq qavat leyshmaniozida serologik testlarning ahamiyati cheklangan, tashxis klinik ko'rinish va parazitologik tekshiruv bilan tasdiqlanadi. MSD ma'lumotnomasi ham serologik testlar visseral shaklda yordam berishi, teri shaklida esa yordam bermasligini ta'kidlaydi [5, 8].",
+    "Milliy bayonnomada minimal ro'yxatda serologik tekshirish ko'rsatilgan, ammo uning aniq usuli bayonnomada berilmagan. Darslikda leyshmanin bilan teri allergik sinamasi kasallikning 10-15 kunidan musbat bo'lishi aytilgan, yo'riqnomada esa 2 oydan keyin deb yozilgan, ya'ni sinama kasallikning dastlabki davrida ishonchli mezon emas [1, 2, 7]."
+   ]
+  },
+  {
+   "heading": "Molekulyar usullar",
+   "content": [
+    "Respublika markazi taqdimotida ekspress usullar bilan olingan musbat natijalar mikroskopik tekshiruv bilan tasdiqlanishi shart, natijalar bir-biriga mos kelmasa polimeraza zanjiri reaksiyasi (PZR) o'tkazilishi aytilgan. Shu tariqa PZR hakamlik usuli sifatida ishlatiladi. Bu tartib noaniq yoki qarama-qarshi natijalarda tashxisni aniqlashtirish imkonini beradi [4].",
+    "MSD ma'lumotnomasi tashxis surtma yoki madaniyatdagi parazitlarni topishga va mos yozuvlar markazlarida PZR usulini tobora ko'proq qo'llashga asoslanishini ko'rsatadi. Demak, PZR odatdagi klinik laboratoriya emas, malakali markaziy laboratoriya imkoniyati bo'lib, uning rolini bu bilan chegaralash kerak [4, 8]."
+   ]
+  },
+  {
+   "heading": "Minimal tekshiruvlar ro'yxati",
+   "content": [
+    "Milliy bayonnomada zoonoz teri leyshmaniozi uchun laboratoriya tekshiruvining minimal ro'yxati sifatida parazitologik, serologik va umumiy klinik tekshiruv ko'rsatilgan. Davolash standartida esa teri leyshmaniozlari uchun umumiy qon tahlili va yaraning zararlangan qismidan surtma tekshirish belgilangan [2, 3].",
+    "Shu tariqa har bir shubhali bemor uchun yara surtmasi majburiy, qon tahlili esa umumiy holatni baholashga xizmat qiladi. Standartda bemorni klinik-epidemiologik ma'lumotlar asosida stasionarga yo'naltirish ko'rsatilgan, mutaxassis maslahati sifatida esa dermatolog nazarda tutilgan. Bu minimal ro'yxat har bir bemor uchun bajarilishi shart bo'lgan eng kam tekshiruvlarni belgilaydi [3]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya tasdig'i tartibi",
+   "content": [
+    "Yo'riqnomaga ko'ra tashxisni tasdiqlash uchun teri leyshmaniozi shubha qilingan bemorlardan olingan surtmalar DSENMning parazitologiya laboratoriyalariga yuboriladi: barcha salbiy natijali surtmalarning 10 foizi, musbat va shubhali surtmalarning esa 100 foizi. Bu ikki bosqichli nazorat xatolarni kamaytiradi [1].",
+    "Respublika markazi taqdimotida laboratoriya tasdiqlangan holatlarda aniq davo 24 soat ichida boshlanishi, shubhali holatlarni laboratoriyada majburiy tasdiqlash zarurligi ko'rsatilgan. Tashxis qo'yishda klinik laboratoriyalarning tayyorgarligi 2015-2016 yillarda alohida baholangan. Taqdimotda bu ko'rsatma tashxisning o'z vaqtida va sifatli bo'lishini ta'minlash uchun tizim elementlari qatorida keltirilgan [4]."
+   ]
+  },
+  {
+   "heading": "Xabarnoma va hisobga olish",
+   "content": [
+    "Leyshmaniozga shubhali bemor topilganda tibbiy xodim yaraga quruq bog'lam qo'yib, DSENMga shoshilinch xabarnoma beradi. DSENM xodimi manzilga borib, barcha shubhali bemorlarda parazitologik tekshiruv o'tkazadi va bemor bilan yashovchi yoki ishlovchi shaxslarni so'rab ko'radi. Bu tartib o'choqdagi tadbirlarni kechiktirmasdan boshlashga imkon beradi [1].",
+    "Taqdimotga ko'ra leyshmanioz holati 058/U shakli bo'yicha shoshilinch xabarnoma qilinadi va 060/U shakli bo'yicha ro'yxatga olinadi. JSSTning teri leyshmaniozi uchun ish ta'rifiga ko'ra holat parazitologik tasdiq (musbat surtma yoki madaniyat) bilan klinik belgilar birga bo'lgan shaxsdir [4]."
+   ]
+  },
+  {
+   "heading": "Differensial tashxis",
+   "content": [
+    "Yo'riqnomada teri leyshmaniozini qiyosiy tashxislashda epitelioma, moxov, zaxm va tropik yaralar bilan solishtirish ko'rsatilgan. Bunday qiyosiy tashxis zarur, chunki teri yaralari klinik ko'rinishda o'xshash bo'lishi mumkin va yagona klinik belgi asosida kasallikni ishonchli ajratib bo'lmaydi, shuning uchun parazitologik tasdiq talab etiladi [1].",
+    "Shu sababli yara tubidan olingan surtmada amastigotlarning topilishi hal qiluvchi bo'ladi. Visseral shaklda esa suyak ko'migi tekshiriladi va rK39 ekspress-testi qo'llanadi, teri shaklida esa serologiya cheklangan ahamiyatga ega. Parazitolog-shifokor namuna turini kasallik shakliga mos tanlashi kerak [1, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor tashxisning aniqligi uchun javobgar: namuna olish texnikasi, bo'yash sifati va mikroskopiya malakasi natijaga bevosita ta'sir qiladi. Respublika markazi taqdimotida Toshkent viloyatida epidemiologik tekshiruv rasmiy o'tkazilgani sababli Olmaliqda 5 ta mahalliy holat tarqalgani qayd etilgan [4].",
+    "Bu holat tashxis faqat laboratoriya natijasi emas, balki o'z vaqtida epidemiologik tekshiruv bilan to'ldirilishi kerakligini ko'rsatadi. Tashxis qo'yilgach, bemor ro'yxatga olinadi, o'choqda tadbirlar rejalashtiriladi, bemor esa davolanadi va dispanser nazoratida kuzatiladi. Shu tariqa laboratoriya tashxisi epidemiologik nazorat zanjirining bir bo'g'ini sifatida ko'riladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Zoonoz teri leyshmaniozining tashxisi klinik-epidemiologik ma'lumotlar (xarakterli yara, o'choqda bo'lish, fasl) va yara qirindisi yoki ajralmasidagi amastigotlarni mikroskopiyada topishga asoslanadi; madaniyat va biologik sinama qo'shimcha, serologiya cheklangan, PZR esa hakamlik usuli. Salbiy surtmalarning 10 foizi va musbat hamda shubhali surtmalarning 100 foizi DSENMda tasdiqlanadi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari. O'zbekiston Respublikasi Sog'liqni saqlash vazirligi, 2016. xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Pearson R.D. Leishmaniasis (Leyshmanioz). MSD ma'lumotnomasi, professional versiya; mazmun oxirgi marta 2019 yil may oyida o'zgartirilgan. xayrullokomilov.uz/kutubxona, material ID 1536."
+ ]
 }

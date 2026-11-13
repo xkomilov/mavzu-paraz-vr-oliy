@@ -1,74 +1,112 @@
 {
-  "number": 25,
-  "title": "25. Bezgak tashxisini ekspress-usulining afzalligi va kamchiligi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Bezgak tashxisining ekspress-usuli, ya'ni tezkor diagnostik test (RDT), qon tomchisida parazit antigenini immunoxromatografik usulda aniqlab, natijani bir necha o'n daqiqada beradi. U mikroskopiya xizmati yetarli bo'lmagan joylarda tashxis sifatini oshirish imkoniyati sifatida qaraladi [1].",
-      "Ushbu mavzuda ekspress-usulning ishlash tamoyili, tezlik va soddalik kabi afzalliklari, aniqlash chegarasi, antigen o'zgarishi va soxta natijalar bilan bog'liq kamchiliklari hamda uni mikroskopiya bilan taqqoslab to'g'ri qo'llash tartibi ko'rib chiqiladi [1, 2, 3]."
-    ]},
-    {"heading": "Usulning mohiyati", "content": [
-      "JSST ma'lumotiga ko'ra RDTlar infeksiyalangan odam qonidagi bezgak parazitlari ishlab chiqaradigan maxsus antigenlarni aniqlaydi. Qon odatda barmoqdan olinadi, natija 15 dan 30 minut ichida tayyor bo'ladi va bozordagi 200 dan ortiq mahsulotning ishlash printsipi o'xshash [1].",
-      "Sharhga ko'ra test chizig'idagi immobilizatsiyalangan antitanalar qon va bufer aralashmasi bilan harakatlanayotgan antigenlarni ushlaydi, har bir testda esa yaroqlilikni ko'rsatuvchi musbat nazorat chizig'i bo'ladi. Shu bois test laboratoriya bo'yog'i va mikroskopsiz bajariladi [2]."
-    ]},
-    {"heading": "Afzallik: tezlik", "content": [
-      "Ekspress-usulning asosiy afzalligi natijaning tezligidir. StatPearls ma'lumotiga ko'ra tezkor testlar taxminan 15 dan 20 minutda natija beradi, qon surtmasini tayyorlash va o'qishni biladigan laboratoriya xodimini talab qilmaydi [3].",
-      "Mikroskopiyada esa natijani qon olinganidan kamida 30 daqiqadan keyin olish mumkin va u ko'p mehnat hamda vaqt talab qiladi. Protokolda natija 3 dan 6 soatdan ko'p kechiksa, davolash kursini boshlash mumkinligi aytilgani tez natijaning klinik ahamiyatini ko'rsatadi [5, 6]."
-    ]},
-    {"heading": "Afzallik: soddalik va keng qo'llanish", "content": [
-      "JSST RDTlarning bajarish va izohlash nisbatan oddiy ekanini, ular kam o'qitish talab qilishini va tashxisni jamoa darajasida qo'yishga imkon berishini ta'kidlaydi. Ayniqsa sifatli mikroskopiya xizmatlari cheklangan olis hududlarda test bezgak boshqaruvi sifatini sezilarli yaxshilashi mumkin [1].",
-      "Sharhda jamoa sog'liqni saqlash xodimlari testni o'z jamoasida bajarib, davo buyurishi yoki bemorni sog'liqni saqlash markaziga yuborishi mumkinligi yozilgan. Test qimmat jihozni talab qilmaydi, ya'ni mikroskop va elektr ta'minoti shart emas [2, 3]."
-    ]},
-    {"heading": "Afzallik: narx va turni qisman aniqlash", "content": [
-      "Sharhda RDT narxi taxminan 0,85 AQSh dollari deb berilgan, bu PCRning 7 dan 8 dollargacha narxidan past, ammo mikroskopiyaning 0,12 dan 0,40 dollargacha narxidan yuqori. Shunday qilib, narxi bo'yicha ekspress-usul oraliq o'rinni egallaydi [2].",
-      "Ba'zi testlar P. falciparumni boshqa turlardan ajratadi, ayrimlari bir nechta turni aniqlaydi. Biroq sharhga ko'ra hozirgi tur-xos testlar faqat P. falciparum va P. vivaxni farqlay oladi, boshqa turlarda esa faqat parazit mavjudligi aniqlanadi [1, 2]."
-    ]},
-    {"heading": "Kamchilik: sezgirlik va aniqlash chegarasi", "content": [
-      "Sharhga ko'ra RDT aniqlash chegarasi mikroskopiyaga yaqin, 1 mkl qonda 50 dan 100 parazit, sezgirligi 85 dan 94,8 foizgacha. Aniqlash chegarasi pastroq zichlikdagi infeksiyalarni, shu jumladan asimptomatik tashuvchilarni topishga imkon bermaydi [2].",
-      "StatPearls ma'lumotiga ko'ra RDT parazit yuki yuqori bo'lganda sezgirroq, past parazitemiyada soxta manfiy bo'lishi mumkin, ayniqsa 5 yoshgacha bolalarda. P. vivax va P. ovale uchun parazit soni odatda kam, shuning uchun bu turlarni aniqlash qiyinroq [3]."
-    ]},
-    {"heading": "Kamchilik: HRP2 genining o'zgarishi", "content": [
-      "Ko'pchilik RDTlar P. falciparum ishlab chiqaradigan HRP2 va HRP3 oqsillarini aniqlaydi. JSST ma'lumotiga ko'ra bu oqsillarni ifodalamaydigan genetik mutatsiyali parazitlar bunday testlarda aniqlanmaydi, bu esa bemorlarning tashxis qo'yilmay qolishiga olib keladi [4].",
-      "2024 yilda mutatsiyali parazitlar 42 ta endemik mamlakatda qayd etilgan, tarqalish ko'rsatkichi Braziliya, Jibuti, Eritreya, Efiopiya, Nikaragua va Peruda 15 foizdan oshgan. Shu sababli ekspress-usul natijasi manfiy bo'lsa, mahalliy vaziyat hisobga olinadi [4]."
-    ]},
-    {"heading": "Kamchilik: soxta musbat va prozon hodisasi", "content": [
-      "Sharhda yuqori parazitemiyada prozon hodisasi tufayli soxta manfiy natijalar ko'payayotgani qayd etilgan. HRP2 davo samarali bo'lib, faol infeksiya tugagandan keyin ham qonda 30 kungacha saqlanishi mumkin, bu soxta musbat natijalarga olib keladi [2].",
-      "StatPearls ma'lumotiga ko'ra RDT muvaffaqiyatli davodan keyin bir hafta yoki undan uzoqroq musbat bo'lib qolishi mumkin. Shu sababli musbat natija davodan keyin faol infeksiyani har doim tasdiqlamaydi va davo samaradorligini baholashda ehtiyotkorlik talab qiladi [3]."
-    ]},
-    {"heading": "Kamchilik: miqdoriy ma'lumot yo'qligi", "content": [
-      "Sharhga ko'ra RDT parazitemiya miqdorini aniqlamaydi, shu sababli davo samaradorligini kuzatish qiyin. Milliy standartda esa parazitlar sonini davo boshlangandan keyin 24, 48 va 72 soatda sanash P. falciparum chidamliligini aniqlash uchun muhim deb ko'rsatilgan [2, 7].",
-      "Standart amaliy muolajada parazit sonini sanash kasallik og'irligi va dori vositasiga javobni bilish uchun ahamiyatli. Ekspress-usul bunday ma'lumotni bermagani uchun mikroskopiyani to'liq o'rnini bosa olmaydi va sifat nazoratida uni almashtirmaydi [7]."
-    ]},
-    {"heading": "Kamchilik: mahsulot sifati va saqlash", "content": [
-      "Sharhda turli RDT markalarining samaradorligi har xil bo'lishi ishonchlilikni pasaytirishi mumkinligi yozilgan. JSST xaridda barcha RDTlar prekvalifikatsiyalangan bo'lishini tavsiya etadi, chunki shunda ular minimal samaradorlik mezonlariga javob beradi [1, 2].",
-      "Yuqori haroratli hududlarda, ideal holda 40 dan 45 °C da, termobarqaror testlar tanlanishi tavsiya etiladi. Demak ekspress-usul afzalligi faqat sifatli mahsulot, to'g'ri saqlash va xodimning ko'rsatmaga amal qilishi sharti bilan saqlanadi [1]."
-    ]},
-    {"heading": "Mikroskopiya bilan taqqoslash", "content": [
-      "Milliy uslubiy qo'llanmada mikroskopiyaning afzalligi yuqori sezgirlik, tur bo'yicha miqdoriy ma'lumot berish va arzonligi, yaxshi bo'yalgan preparatning yillar davomida qayta tekshirish uchun saqlanishi deb ko'rsatilgan. Kamchiligi ko'p mehnat va vaqt talab qilishidir [5].",
-      "Ekspress-usul aynan shu kamchiliklarni qisman bartaraf etadi, ammo mikroskopiyaning afzalliklarini, ya'ni bosqichni aniqlash, parazit sonini sanash va sifat nazoratini bera olmaydi. Shu bois ikkala usul bir-birini to'ldiradi, JSST ham ikkalasini parazitga asoslangan tashxis sifatida tavsiya qiladi [1, 4, 5]."
-    ]},
-    {"heading": "Qo'llash tartibi va tavsiyalar", "content": [
-      "StatPearls ma'lumotiga ko'ra AQShda standart amaliyot barcha RDT natijalarini yorug'lik mikroskopiyasi bilan tasdiqlashdir, chunki past parazitemiyadagi soxta manfiy natijalar bezgak tashxisini yo'qqa chiqarmaydi. Bu tajriba ekspress-usul natijasini tasdiqlash zarurligini ko'rsatadi [3].",
-      "Klinik belgilar bezgakni ko'rsatsa-yu, test manfiy bo'lsa, mikroskopiya bilan laboratoriya tasdig'iga intilish maqsadga muvofiq. Tropik bezgakda esa natijani kutib o'tirmasdan davolash, laboratoriya tasdiqi manfiy bo'lsa uni to'xtatish tartibi protokolda belgilangan [5, 6]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor ekspress-usulni mikroskopiyaning o'rnini bosuvchi emas, balki uni to'ldiruvchi vosita sifatida qo'llashi kerak. Musbat natija tezkor qaror uchun foydali, manfiy natija esa klinika va epidemiologik anamnez bilan birga baholanadi [1, 3].",
-      "Bu usul ayniqsa laboratoriya xizmati uzoq bo'lgan joylarda va natijani kutish xavfli bo'lgan hollarda foydalidir. Biroq har qanday musbat yoki shubhali natija standart tartibda mikroskopiya va epidemiologik tekshiruv bilan tasdiqlanishi lozim [1, 5]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Milliy hujjatlarda (121-son buyruq ilovalari, davolash bayonnomalari va standartlar, SOMlar) ekspress-usul haqida ma'lumot topilmadi. Uning O'zbekistonda qo'llanishi, ruxsat etilgan markalar va tartibi tasdiqlanmagan, shu sababli faqat JSST va xalqaro sharhlar asosida yozildi.",
-      "Sezgirlik, o'ziga xoslik va narx ko'rsatkichlari xalqaro sharhlardan olingan va ular mahalliy sharoitga ko'chirilmaydi. Mikroskopiyaning aniqlash chegarasi sharhda 50 dan 200 parazit/mkl, milliy qo'llanmada esa 5 parazit/mkl deb berilgani ham farq qiladi [2, 5]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Ekspress-usulning afzalligi tezlik, soddalik va jamoa darajasida qo'llash imkoniyati, kamchiligi esa past parazitemiyada sezgirlikning pastligi, HRP2 o'zgarishlari, soxta musbat va manfiy natijalar hamda parazit sonini ko'rsatmasligidir, shuning uchun u mikroskopiyani to'ldiradi, o'rnini bosmaydi [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "World Health Organization. Rapid diagnostic tests for malaria (Global Malaria Programme). https://www.who.int/teams/global-malaria-programme/case-management/diagnosis/rapid-diagnostic-tests",
-    "Evaluation of Malaria Diagnostic Methods as a Key for Successful Control and Elimination Programs (sharhli maqola; mualliflar va jurnal ko'rsatilmadi). PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC7344938/",
-    "Relapsing Malaria. StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/sites/books/NBK538333/",
-    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
-    "MM-SOP-09. Malaria parasite counting, Bezgak parazitlarini sanash (standart operatsion muolaja, Respublika DSENM parazitologiya laboratoriyasi). xayrullokomilov.uz/kutubxona, material ID 1605."
-  ]
+ "number": 25,
+ "title": "25. Bezgak tashxisini ekspress-usulining afzalligi va kamchiligi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Bezgak tashxisining ekspress-usuli, ya'ni tezkor diagnostik test (RDT), qon tomchisida parazit antigenini immunoxromatografik usulda aniqlab, natijani bir necha o'n daqiqada beradi. U mikroskopiya xizmati yetarli bo'lmagan joylarda tashxis sifatini oshirish imkoniyati sifatida qaraladi [1].",
+    "Ushbu mavzuda ekspress-usulning ishlash tamoyili, tezlik va soddalik kabi afzalliklari, aniqlash chegarasi, antigen o'zgarishi va soxta natijalar bilan bog'liq kamchiliklari hamda uni mikroskopiya bilan taqqoslab to'g'ri qo'llash tartibi ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Usulning mohiyati",
+   "content": [
+    "JSST ma'lumotiga ko'ra RDTlar infeksiyalangan odam qonidagi bezgak parazitlari ishlab chiqaradigan maxsus antigenlarni aniqlaydi. Qon odatda barmoqdan olinadi, natija 15 dan 30 minut ichida tayyor bo'ladi va bozordagi 200 dan ortiq mahsulotning ishlash printsipi o'xshash [1].",
+    "Sharhga ko'ra test chizig'idagi immobilizatsiyalangan antitanalar qon va bufer aralashmasi bilan harakatlanayotgan antigenlarni ushlaydi, har bir testda esa yaroqlilikni ko'rsatuvchi musbat nazorat chizig'i bo'ladi. Shu bois test laboratoriya bo'yog'i va mikroskopsiz bajariladi [2]."
+   ]
+  },
+  {
+   "heading": "Afzallik: tezlik",
+   "content": [
+    "Ekspress-usulning asosiy afzalligi natijaning tezligidir. StatPearls ma'lumotiga ko'ra tezkor testlar taxminan 15 dan 20 minutda natija beradi, qon surtmasini tayyorlash va o'qishni biladigan laboratoriya xodimini talab qilmaydi [3].",
+    "Mikroskopiyada esa natijani qon olinganidan kamida 30 daqiqadan keyin olish mumkin va u ko'p mehnat hamda vaqt talab qiladi. Protokolda natija 3 dan 6 soatdan ko'p kechiksa, davolash kursini boshlash mumkinligi aytilgani tez natijaning klinik ahamiyatini ko'rsatadi [5, 6]."
+   ]
+  },
+  {
+   "heading": "Afzallik: soddalik va keng qo'llanish",
+   "content": [
+    "JSST RDTlarning bajarish va izohlash nisbatan oddiy ekanini, ular kam o'qitish talab qilishini va tashxisni jamoa darajasida qo'yishga imkon berishini ta'kidlaydi. Ayniqsa sifatli mikroskopiya xizmatlari cheklangan olis hududlarda test bezgak boshqaruvi sifatini sezilarli yaxshilashi mumkin [1].",
+    "Sharhda jamoa sog'liqni saqlash xodimlari testni o'z jamoasida bajarib, davo buyurishi yoki bemorni sog'liqni saqlash markaziga yuborishi mumkinligi yozilgan. Test qimmat jihozni talab qilmaydi, ya'ni mikroskop va elektr ta'minoti shart emas [2, 3]."
+   ]
+  },
+  {
+   "heading": "Afzallik: narx va turni qisman aniqlash",
+   "content": [
+    "Sharhda RDT narxi taxminan 0,85 AQSh dollari deb berilgan, bu PCRning 7 dan 8 dollargacha narxidan past, ammo mikroskopiyaning 0,12 dan 0,40 dollargacha narxidan yuqori. Shunday qilib, narxi bo'yicha ekspress-usul oraliq o'rinni egallaydi [2].",
+    "Ba'zi testlar P. falciparumni boshqa turlardan ajratadi, ayrimlari bir nechta turni aniqlaydi. Biroq sharhga ko'ra hozirgi tur-xos testlar faqat P. falciparum va P. vivaxni farqlay oladi, boshqa turlarda esa faqat parazit mavjudligi aniqlanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Kamchilik: sezgirlik va aniqlash chegarasi",
+   "content": [
+    "Sharhga ko'ra RDT aniqlash chegarasi mikroskopiyaga yaqin, 1 mkl qonda 50 dan 100 parazit, sezgirligi 85 dan 94,8 foizgacha. Aniqlash chegarasi pastroq zichlikdagi infeksiyalarni, shu jumladan asimptomatik tashuvchilarni topishga imkon bermaydi [2].",
+    "StatPearls ma'lumotiga ko'ra RDT parazit yuki yuqori bo'lganda sezgirroq, past parazitemiyada soxta manfiy bo'lishi mumkin, ayniqsa 5 yoshgacha bolalarda. P. vivax va P. ovale uchun parazit soni odatda kam, shuning uchun bu turlarni aniqlash qiyinroq [3]."
+   ]
+  },
+  {
+   "heading": "Kamchilik: HRP2 genining o'zgarishi",
+   "content": [
+    "Ko'pchilik RDTlar P. falciparum ishlab chiqaradigan HRP2 va HRP3 oqsillarini aniqlaydi. JSST ma'lumotiga ko'ra bu oqsillarni ifodalamaydigan genetik mutatsiyali parazitlar bunday testlarda aniqlanmaydi, bu esa bemorlarning tashxis qo'yilmay qolishiga olib keladi [4].",
+    "2024 yilda mutatsiyali parazitlar 42 ta endemik mamlakatda qayd etilgan, tarqalish ko'rsatkichi Braziliya, Jibuti, Eritreya, Efiopiya, Nikaragua va Peruda 15 foizdan oshgan. Shu sababli ekspress-usul natijasi manfiy bo'lsa, mahalliy vaziyat hisobga olinadi [4]."
+   ]
+  },
+  {
+   "heading": "Kamchilik: soxta musbat va prozon hodisasi",
+   "content": [
+    "Sharhda yuqori parazitemiyada prozon hodisasi tufayli soxta manfiy natijalar ko'payayotgani qayd etilgan. HRP2 davo samarali bo'lib, faol infeksiya tugagandan keyin ham qonda 30 kungacha saqlanishi mumkin, bu soxta musbat natijalarga olib keladi [2].",
+    "StatPearls ma'lumotiga ko'ra RDT muvaffaqiyatli davodan keyin bir hafta yoki undan uzoqroq musbat bo'lib qolishi mumkin. Shu sababli musbat natija davodan keyin faol infeksiyani har doim tasdiqlamaydi va davo samaradorligini baholashda ehtiyotkorlik talab qiladi [3]."
+   ]
+  },
+  {
+   "heading": "Kamchilik: miqdoriy ma'lumot yo'qligi",
+   "content": [
+    "Sharhga ko'ra RDT parazitemiya miqdorini aniqlamaydi, shu sababli davo samaradorligini kuzatish qiyin. Milliy standartda esa parazitlar sonini davo boshlangandan keyin 24, 48 va 72 soatda sanash P. falciparum chidamliligini aniqlash uchun muhim deb ko'rsatilgan [2, 7].",
+    "Standart amaliy muolajada parazit sonini sanash kasallik og'irligi va dori vositasiga javobni bilish uchun ahamiyatli. Ekspress-usul bunday ma'lumotni bermagani uchun mikroskopiyani to'liq o'rnini bosa olmaydi va sifat nazoratida uni almashtirmaydi [7]."
+   ]
+  },
+  {
+   "heading": "Kamchilik: mahsulot sifati va saqlash",
+   "content": [
+    "Sharhda turli RDT markalarining samaradorligi har xil bo'lishi ishonchlilikni pasaytirishi mumkinligi yozilgan. JSST xaridda barcha RDTlar prekvalifikatsiyalangan bo'lishini tavsiya etadi, chunki shunda ular minimal samaradorlik mezonlariga javob beradi [1, 2].",
+    "Yuqori haroratli hududlarda, ideal holda 40 dan 45 °C da, termobarqaror testlar tanlanishi tavsiya etiladi. Demak ekspress-usul afzalligi faqat sifatli mahsulot, to'g'ri saqlash va xodimning ko'rsatmaga amal qilishi sharti bilan saqlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Mikroskopiya bilan taqqoslash",
+   "content": [
+    "Milliy uslubiy qo'llanmada mikroskopiyaning afzalligi yuqori sezgirlik, tur bo'yicha miqdoriy ma'lumot berish va arzonligi, yaxshi bo'yalgan preparatning yillar davomida qayta tekshirish uchun saqlanishi deb ko'rsatilgan. Kamchiligi ko'p mehnat va vaqt talab qilishidir [5].",
+    "Ekspress-usul aynan shu kamchiliklarni qisman bartaraf etadi, ammo mikroskopiyaning afzalliklarini, ya'ni bosqichni aniqlash, parazit sonini sanash va sifat nazoratini bera olmaydi. Shu bois ikkala usul bir-birini to'ldiradi, JSST ham ikkalasini parazitga asoslangan tashxis sifatida tavsiya qiladi [1, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Qo'llash tartibi va tavsiyalar",
+   "content": [
+    "StatPearls ma'lumotiga ko'ra AQShda standart amaliyot barcha RDT natijalarini yorug'lik mikroskopiyasi bilan tasdiqlashdir, chunki past parazitemiyadagi soxta manfiy natijalar bezgak tashxisini yo'qqa chiqarmaydi. Bu tajriba ekspress-usul natijasini tasdiqlash zarurligini ko'rsatadi [3].",
+    "Klinik belgilar bezgakni ko'rsatsa-yu, test manfiy bo'lsa, mikroskopiya bilan laboratoriya tasdig'iga intilish maqsadga muvofiq. Tropik bezgakda esa natijani kutib o'tirmasdan davolash, laboratoriya tasdiqi manfiy bo'lsa uni to'xtatish tartibi protokolda belgilangan [5, 6]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor ekspress-usulni mikroskopiyaning o'rnini bosuvchi emas, balki uni to'ldiruvchi vosita sifatida qo'llashi kerak. Musbat natija tezkor qaror uchun foydali, manfiy natija esa klinika va epidemiologik anamnez bilan birga baholanadi [1, 3].",
+    "Bu usul ayniqsa laboratoriya xizmati uzoq bo'lgan joylarda va natijani kutish xavfli bo'lgan hollarda foydalidir. Biroq har qanday musbat yoki shubhali natija standart tartibda mikroskopiya va epidemiologik tekshiruv bilan tasdiqlanishi lozim [1, 5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Ekspress-usulning afzalligi tezlik, soddalik va jamoa darajasida qo'llash imkoniyati, kamchiligi esa past parazitemiyada sezgirlikning pastligi, HRP2 o'zgarishlari, soxta musbat va manfiy natijalar hamda parazit sonini ko'rsatmasligidir, shuning uchun u mikroskopiyani to'ldiradi, o'rnini bosmaydi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "World Health Organization. Rapid diagnostic tests for malaria (Global Malaria Programme). https://www.who.int/teams/global-malaria-programme/case-management/diagnosis/rapid-diagnostic-tests",
+  "Evaluation of Malaria Diagnostic Methods as a Key for Successful Control and Elimination Programs (sharhli maqola; mualliflar va jurnal ko'rsatilmadi). PubMed Central: https://pmc.ncbi.nlm.nih.gov/articles/PMC7344938/",
+  "Relapsing Malaria. StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/sites/books/NBK538333/",
+  "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+  "MM-SOP-09. Malaria parasite counting, Bezgak parazitlarini sanash (standart operatsion muolaja, Respublika DSENM parazitologiya laboratoriyasi). xayrullokomilov.uz/kutubxona, material ID 1605."
+ ]
 }

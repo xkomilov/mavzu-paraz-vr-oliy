@@ -1,64 +1,93 @@
 {
-  "number": 50,
-  "title": "50. Antroponoz teri leyshmaniozining etiologiyasi, qayerda tarqalgan.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Antroponoz teri leyshmaniozi (ATL) odamlar o'rtasida iskabtopar chivinlar orqali yuqadigan, terida yara hosil qilib keyinchalik chandiqqa aylanadigan protozoy kasallikdir. U shahar turidagi, kech yaralanuvchi, quruq teri leyshmaniozi, afg'on yarasi, Ashxobod yarasi va yillik kabi nomlar bilan ham ataladi, shuning uchun nomlarni bilish muhim [1, 5].",
-      "Ushbu mavzuda qo'zg'atuvchining sistematik o'rni va morfologiyasi, rivojlanish xususiyatlari, so'ng kasallikning dunyo bo'yicha va O'zbekiston hududida tarqalishi ko'rib chiqiladi. Tarqalish masalasida milliy yo'riqnoma, 2017 yildagi epidemiologik nazorat taqdimoti va entomologik manbalar o'zaro solishtirilib, tasdiqlanmagan jihatlar alohida ko'rsatiladi [1, 4, 6]."
-    ]},
-    {"heading": "Qo'zg'atuvchi va uning sistematik o'rni", "content": [
-      "ATL qo'zg'atuvchisi Leishmania tropica bo'lib, Trypanosomatidae oilasi, Leishmania turkumiga mansub. Pavlovich va Andreev darsligiga ko'ra L. tropica guruhini 1898 yilda P.F. Borovskiy O'rta Osiyodagi teri leyshmaniozida kashf etgan, antroponoz shaklni esa guruhning tropica (minor) kenja turi qo'zg'atadi [1, 2].",
-      "Davolash bayonnomasida ATL terida yara toshib keyin chandiqqa aylanadigan, L. tropica qo'zg'atadigan transmissiv protozoz deb ta'riflangan. Zoonoz shaklning qo'zg'atuvchisi L. major bo'lib, yo'riqnomaga ko'ra ular morfologiyasi bilan emas, balki biologik va serologik belgilari bilan farqlanadi [1, 7]."
-    ]},
-    {"heading": "Qo'zg'atuvchining morfologiyasi", "content": [
-      "Leyshmaniyalar morfologik jihatdan o'xshash va hayot siklida ikki shaklda uchraydi. Amastigotalar odam va hayvon hujayralari ichida yashovchi xivchinsiz, dumaloq yoki oval, diametri 2-5,5 mkm li shakllar; promastigotalar esa iskabtopar ichagida bo'ladigan, duksimon, uzunligi 12-20 mkm, eni 1,5-3,5 mkm li xivchinli shakllardir [2].",
-      "Romanovskiy-Gimza usulida sitoplazma kulrang-ko'k, yadro qizil-binafsha, kinetoplast esa to'q binafsha rangga bo'yaladi, parazit uzunasiga ikkiga bo'linib ko'payadi. Milliy yo'riqnomada hujayra uch qavatli qobiq va sitoplazmadan iborat, uzunligi 2-6, eni 1-3 mkm deb berilgan, ya'ni o'lchamlar manbalarda biroz farq qiladi [1, 2]."
-    ]},
-    {"heading": "Rivojlanish davri va yuqish", "content": [
-      "Qo'zg'atuvchi rivojlanishida xo'jayin almashtirgan holda ikki bosqichdan o'tadi. Odam va hayvon organizmida u harakatsiz amastigota shaklda bo'ladi, iskabtopar chivin tanasida esa faol harakatchan promastigota (leptomonad) shaklga o'tadi. Promastigotani chivin ichagi suyuqligidan bo'yalmagan preparatda ko'rish mumkin [1, 3].",
-      "Chivin kasal odamdan qon so'rgach 6-8 kundan keyin yuqumli bo'ladi va sog' odamni chaqqanda kasallikni yuqtiradi. Polejayeva va hammualliflari rivojlanish muddatini taxminan bir hafta, Pavlovich darsligi esa promastigotalar halqumda 9-10 kunda to'planishi deb beradi, shu sababli aniq kun manbaga bog'liq [1, 2, 3]."
-    ]},
-    {"heading": "ATL va zoonoz shaklning farqlari", "content": [
-      "Latyshev bo'yicha keltirilgan jadvalda ATL ning inkubatsion davri asosan 2-6 oy, ba'zan 1-2 yil va undan ko'p ekani yozilgan. Yara 3-6 oy va undan keyin hosil bo'ladi, epitelizatsiya 1 yil va undan ko'p davom etadi, kasallikning birinchi belgilari esa yil davomida kuzatiladi [1].",
-      "Zoonoz shaklda inkubatsiya asosan 1-2 hafta, yara 1-3 haftadan keyin paydo bo'lib, epitelizatsiya 2-5 oy davom etadi. ATL da parazitlar ko'p, oq sichqonlarda virulentligi kam; teri sinamasi ATL da kasallik boshlanganidan 6 oy, zoonoz shaklda 2 oy o'tgach musbat bo'ladi [1]."
-    ]},
-    {"heading": "Manba va tashuvchi", "content": [
-      "ATL qo'zg'atuvchisini Phlebotomus sergenti urg'ochilari tashiydi, manba esa bemor odam hisoblanadi. Jahongirov va hammualliflariga ko'ra O'zbekistonda ATL ning asosiy tashuvchisi Paraphlebotomus kenja avlodiga kiruvchi Ph. sergenti, odamdan boshqa umurtqali xo'jayinlar esa hozircha noma'lum deb qayd etilgan [1, 5].",
-      "JSST aniqlagichida Ph. sergenti O'rta Osiyoda baland tog'lardan tashqari deyarli hamma joyda tarqalgan, qoyali tog'larni yaxshi ko'radi, tekisliklarda esa asosan shaharlarda uchraydi. Shu sababli antroponoz shakl shahar va zich aholi punktlari bilan bog'liq bo'lishi tushunarli [1, 6]."
-    ]},
-    {"heading": "Dunyo bo'yicha tarqalishi", "content": [
-      "Yo'riqnomaga ko'ra ATL Ozarbayjon, Afg'oniston (asosan Kobul, Qandahor, Hirot), Isroil, Hindiston, Iroq, Eron, Marokash, Pokiston, Suriya, Turkiya va O'zbekistonda uchraydi. Jadvalda tarqalish hududi sifatida O'rta yer dengizi, Yaqin Sharq, Xitoy va O'rta Osiyo ko'rsatilgan [1].",
-      "Polejayeva va hammualliflari ATL ni O'rta yer dengizi, Yaqin va O'rta Sharq, Hindiston yarimorolining g'arbiy qismi, O'rta Osiyo va Zakavkazeda uchraydi deb yozadi. JSSTga ko'ra umuman teri leyshmaniozi holatlarining taxminan 95 foizi Amerika, O'rta yer dengizi havzasi, Yaqin Sharq va O'rta Osiyoga to'g'ri keladi [3, 8]."
-    ]},
-    {"heading": "Tarqalish xususiyatlari", "content": [
-      "Yo'riqnomada ATL aholi zich joylashgan punktlarda ko'proq uchrashi qayd etilgan, chunki kasallik odamdan odamga Ph. sergenti orqali yuqadi. Jahongirov qo'llanmasida ham kasallik asosan shaharlarda uchrashi yozilgan, bu esa tashuvchining shahar sharoitiga moslashganini ko'rsatadi [1, 5].",
-      "Polejayeva va hammualliflariga ko'ra ATL asosan shahar va shahar tipidagi posyolkalarda, ba'zan qishloq joylarda uchraydi, sporadik xarakterga ega va epidemik avj kam kuzatiladi. Mahalliy aholida ko'pincha bolalar, kelgan kishilarda esa barcha yoshdagilar kasallanadi, bu migrantlar ahamiyatini oshiradi [3]."
-    ]},
-    {"heading": "O'zbekiston hududida", "content": [
-      "Yo'riqnomaga ko'ra O'zbekistonda visseral zoonoz, teri antroponozi va zoonoz leyshmaniozi tarqalgan. Respublika markazining 2017 yildagi taqdimotida antroponoz teri leyshmaniozi ro'yxatga olinishi Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda davom etayotgani tashvishli holat deb baholangan [1, 4].",
-      "Jizzax va Samarqand 2016 yilda teri leyshmaniozi umumiy o'sishi qayd etilgan viloyatlar qatorida ham turadi. Taqdimotda o'sish Surxondaryo, Samarqand, Buxoro, Jizzax, Xorazm viloyatlari va Qoraqalpog'istonda ko'rsatilgan, ammo bu raqamlar ATL va zoonoz shakl bo'yicha ajratilmagan [4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor holatni mahalliy yoki olib kelingan deb tasniflashi kerak, shu sababli epidemiologik tekshirish kartasida bemorning yashash joyi, oldin bo'lgan hududlari va uy sharoiti to'liq yoziladi. Kartada ATL da uy va daydi itlarning borligi ham alohida qayd etiladi [9].",
-      "Yo'riqnomada profilaktikaning asosiy yo'nalishlaridan biri bolalar va migrantlar o'rtasida kasallikni faol aniqlash ekani ko'rsatilgan. JSST ham immuniteti yo'q kishilar yuqish yuqori bo'lgan hududlarga ko'chib o'tganda leyshmanioz epidemiyalari tez-tez yuzaga kelishini qayd etadi [1, 8]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "ATL o'choqlari bo'yicha ko'rilgan manbalarda faqat Farg'ona, Jizzax, Samarqand va «boshqa viloyatlar» ko'rsatilgan; tuman va aholi punktlari darajasidagi ro'yxat topilmadi. Shu sababli har bir viloyatdagi ATL o'choqlarining aniq chegarasi bu yerda tasdiqlanmagan hisoblanadi [4].",
-      "ATL holatlarining yillik soni zoonoz shakldan ajratilgan holda ko'rilgan manbalarda berilmagan. 2017 yildan keyingi vaziyat bo'yicha tekshirilgan raqamlar ham topilmadi, shuning uchun so'nggi yillardagi tarqalish dinamikasi va yangi o'choqlar haqida fikr bildirilmaydi [1, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "ATL ning qo'zg'atuvchisi Leishmania tropica bo'lib, uni Ph. sergenti odamdan odamga yuqtiradi. Kasallik O'rta yer dengizi, Yaqin va O'rta Sharq, O'rta Osiyo mamlakatlarida tarqalgan, O'zbekistonda esa Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda ro'yxatga olinishi davom etmoqda, aniq o'choqlar ro'yxati manbalarda berilmagan [1, 4, 5, 6]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Определитель москитов (Diptera, Psychodidae, Phlebotominae) Центральной Азии. Всемирная организация здравоохранения, 2019. ISBN 978 92 890 5454 6. xayrullokomilov.uz/kutubxona, material ID 1549.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
-  ]
+ "number": 50,
+ "title": "50. Antroponoz teri leyshmaniozining etiologiyasi, qayerda tarqalgan.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Antroponoz teri leyshmaniozi (ATL) odamlar o'rtasida iskabtopar chivinlar orqali yuqadigan, terida yara hosil qilib keyinchalik chandiqqa aylanadigan protozoy kasallikdir. U shahar turidagi, kech yaralanuvchi, quruq teri leyshmaniozi, afg'on yarasi, Ashxobod yarasi va yillik kabi nomlar bilan ham ataladi, shuning uchun nomlarni bilish muhim [1, 5].",
+    "Ushbu mavzuda qo'zg'atuvchining sistematik o'rni va morfologiyasi, rivojlanish xususiyatlari, so'ng kasallikning dunyo bo'yicha va O'zbekiston hududida tarqalishi ko'rib chiqiladi. Tarqalish masalasida milliy yo'riqnoma, 2017 yildagi epidemiologik nazorat taqdimoti va entomologik manbalar o'zaro solishtiriladi [1, 4, 6]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchi va uning sistematik o'rni",
+   "content": [
+    "ATL qo'zg'atuvchisi Leishmania tropica bo'lib, Trypanosomatidae oilasi, Leishmania turkumiga mansub. Pavlovich va Andreev darsligiga ko'ra L. tropica guruhini 1898 yilda P.F. Borovskiy O'rta Osiyodagi teri leyshmaniozida kashf etgan, antroponoz shaklni esa guruhning tropica (minor) kenja turi qo'zg'atadi [1, 2].",
+    "Davolash bayonnomasida ATL terida yara toshib keyin chandiqqa aylanadigan, L. tropica qo'zg'atadigan transmissiv protozoz deb ta'riflangan. Zoonoz shaklning qo'zg'atuvchisi L. major bo'lib, yo'riqnomaga ko'ra ular morfologiyasi bilan emas, balki biologik va serologik belgilari bilan farqlanadi [1, 7]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining morfologiyasi",
+   "content": [
+    "Leyshmaniyalar morfologik jihatdan o'xshash va hayot siklida ikki shaklda uchraydi. Amastigotalar odam va hayvon hujayralari ichida yashovchi xivchinsiz, dumaloq yoki oval, diametri 2-5,5 mkm li shakllar; promastigotalar esa iskabtopar ichagida bo'ladigan, duksimon, uzunligi 12-20 mkm, eni 1,5-3,5 mkm li xivchinli shakllardir [2].",
+    "Romanovskiy-Gimza usulida sitoplazma kulrang-ko'k, yadro qizil-binafsha, kinetoplast esa to'q binafsha rangga bo'yaladi, parazit uzunasiga ikkiga bo'linib ko'payadi. Milliy yo'riqnomada hujayra uch qavatli qobiq va sitoplazmadan iborat, uzunligi 2-6, eni 1-3 mkm deb berilgan, ya'ni o'lchamlar manbalarda biroz farq qiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Rivojlanish davri va yuqish",
+   "content": [
+    "Qo'zg'atuvchi rivojlanishida xo'jayin almashtirgan holda ikki bosqichdan o'tadi. Odam va hayvon organizmida u harakatsiz amastigota shaklda bo'ladi, iskabtopar chivin tanasida esa faol harakatchan promastigota (leptomonad) shaklga o'tadi. Promastigotani chivin ichagi suyuqligidan bo'yalmagan preparatda ko'rish mumkin [1, 3].",
+    "Chivin kasal odamdan qon so'rgach 6-8 kundan keyin yuqumli bo'ladi va sog' odamni chaqqanda kasallikni yuqtiradi. Polejayeva va hammualliflari rivojlanish muddatini taxminan bir hafta, Pavlovich darsligi esa promastigotalar halqumda 9-10 kunda to'planishi deb beradi, shu sababli aniq kun manbaga bog'liq [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "ATL va zoonoz shaklning farqlari",
+   "content": [
+    "Latyshev bo'yicha keltirilgan jadvalda ATL ning inkubatsion davri asosan 2-6 oy, ba'zan 1-2 yil va undan ko'p ekani yozilgan. Yara 3-6 oy va undan keyin hosil bo'ladi, epitelizatsiya 1 yil va undan ko'p davom etadi, kasallikning birinchi belgilari esa yil davomida kuzatiladi [1].",
+    "Zoonoz shaklda inkubatsiya asosan 1-2 hafta, yara 1-3 haftadan keyin paydo bo'lib, epitelizatsiya 2-5 oy davom etadi. ATL da parazitlar ko'p, oq sichqonlarda virulentligi kam; teri sinamasi ATL da kasallik boshlanganidan 6 oy, zoonoz shaklda 2 oy o'tgach musbat bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Manba va tashuvchi",
+   "content": [
+    "ATL qo'zg'atuvchisini Phlebotomus sergenti urg'ochilari tashiydi, manba esa bemor odam hisoblanadi. Jahongirov va hammualliflariga ko'ra O'zbekistonda ATL ning asosiy tashuvchisi Paraphlebotomus kenja avlodiga kiruvchi Ph. sergenti, odamdan boshqa umurtqali xo'jayinlar esa hozircha noma'lum deb qayd etilgan [1, 5].",
+    "JSST aniqlagichida Ph. sergenti O'rta Osiyoda baland tog'lardan tashqari deyarli hamma joyda tarqalgan, qoyali tog'larni yaxshi ko'radi, tekisliklarda esa asosan shaharlarda uchraydi. Shu sababli antroponoz shakl shahar va zich aholi punktlari bilan bog'liq bo'lishi tushunarli [1, 6]."
+   ]
+  },
+  {
+   "heading": "Dunyo bo'yicha tarqalishi",
+   "content": [
+    "Yo'riqnomaga ko'ra ATL Ozarbayjon, Afg'oniston (asosan Kobul, Qandahor, Hirot), Isroil, Hindiston, Iroq, Eron, Marokash, Pokiston, Suriya, Turkiya va O'zbekistonda uchraydi. Jadvalda tarqalish hududi sifatida O'rta yer dengizi, Yaqin Sharq, Xitoy va O'rta Osiyo ko'rsatilgan [1].",
+    "Polejayeva va hammualliflari ATL ni O'rta yer dengizi, Yaqin va O'rta Sharq, Hindiston yarimorolining g'arbiy qismi, O'rta Osiyo va Zakavkazeda uchraydi deb yozadi. JSSTga ko'ra umuman teri leyshmaniozi holatlarining taxminan 95 foizi Amerika, O'rta yer dengizi havzasi, Yaqin Sharq va O'rta Osiyoga to'g'ri keladi [3, 8]."
+   ]
+  },
+  {
+   "heading": "Tarqalish xususiyatlari",
+   "content": [
+    "Yo'riqnomada ATL aholi zich joylashgan punktlarda ko'proq uchrashi qayd etilgan, chunki kasallik odamdan odamga Ph. sergenti orqali yuqadi. Jahongirov qo'llanmasida ham kasallik asosan shaharlarda uchrashi yozilgan, bu esa tashuvchining shahar sharoitiga moslashganini ko'rsatadi [1, 5].",
+    "Polejayeva va hammualliflariga ko'ra ATL asosan shahar va shahar tipidagi posyolkalarda, ba'zan qishloq joylarda uchraydi, sporadik xarakterga ega va epidemik avj kam kuzatiladi. Mahalliy aholida ko'pincha bolalar, kelgan kishilarda esa barcha yoshdagilar kasallanadi, bu migrantlar ahamiyatini oshiradi [3]."
+   ]
+  },
+  {
+   "heading": "O'zbekiston hududida",
+   "content": [
+    "Yo'riqnomaga ko'ra O'zbekistonda visseral zoonoz, teri antroponozi va zoonoz leyshmaniozi tarqalgan. Respublika markazining 2017 yildagi taqdimotida antroponoz teri leyshmaniozi ro'yxatga olinishi Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda davom etayotgani tashvishli holat deb baholangan [1, 4].",
+    "Jizzax va Samarqand 2016 yilda teri leyshmaniozi umumiy o'sishi qayd etilgan viloyatlar qatorida ham turadi. Taqdimotda o'sish Surxondaryo, Samarqand, Buxoro, Jizzax, Xorazm viloyatlari va Qoraqalpog'istonda ko'rsatilgan, ammo bu raqamlar ATL va zoonoz shakl bo'yicha ajratilmagan [4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor holatni mahalliy yoki olib kelingan deb tasniflashi kerak, shu sababli epidemiologik tekshirish kartasida bemorning yashash joyi, oldin bo'lgan hududlari va uy sharoiti to'liq yoziladi. Kartada ATL da uy va daydi itlarning borligi ham alohida qayd etiladi [9].",
+    "Yo'riqnomada profilaktikaning asosiy yo'nalishlaridan biri bolalar va migrantlar o'rtasida kasallikni faol aniqlash ekani ko'rsatilgan. JSST ham immuniteti yo'q kishilar yuqish yuqori bo'lgan hududlarga ko'chib o'tganda leyshmanioz epidemiyalari tez-tez yuzaga kelishini qayd etadi [1, 8]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "ATL ning qo'zg'atuvchisi Leishmania tropica bo'lib, uni Ph. sergenti odamdan odamga yuqtiradi. Kasallik O'rta yer dengizi, Yaqin va O'rta Sharq, O'rta Osiyo mamlakatlarida tarqalgan, O'zbekistonda esa Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda ro'yxatga olinishi davom etmoqda, aniq o'choqlar ro'yxati manbalarda berilmagan [1, 4, 5, 6]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Определитель москитов (Diptera, Psychodidae, Phlebotominae) Центральной Азии. Всемирная организация здравоохранения, 2019. ISBN 978 92 890 5454 6. xayrullokomilov.uz/kutubxona, material ID 1549.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
+ ]
 }

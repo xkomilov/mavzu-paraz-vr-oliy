@@ -2,65 +2,103 @@
  "number": 103,
  "title": "103. Qoramol solityori bilan zararlangan shaxsni aniqlash",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Qoramol solityori Taeniarhynchus saginatus bilan zararlangan shaxsni aniqlash teniarinxozga qarshi kurashning birinchi bo'g'ini hisoblanadi, chunki bemor odam invaziya manbaidir. Kasallik ko'pincha belgisiz yoki yengil kechgani uchun aniqlash so'rov, bo'g'imlarni ko'rish va laboratoriya usullariga tayanadi [1, 3].",
-   "Ushbu mavzuda aniqlash tamoyili, bemor so'rovi, bo'g'imlarning chiqishi, makroskopik tekshiruv, perianal qirma usullari, koproovoskopiya, turni aniqlash, takroriy tekshiruv va xavf guruhlarini rejali ko'rikdan o'tkazish ketma-ket ko'rib chiqiladi. Oxirida tasdiqlanmagan jihatlar yoziladi [1, 2, 3]."
-  ]},
-  {"heading": "Aniqlashning umumiy tamoyili", "content": [
-   "Davolash bayonnomasiga ko'ra tashxis klinik-epidemiologik belgilar va parazitologik usullarga asoslanadi, asosiy usullar makroskopik va mikroskopik hisoblanadi. Yakuniy tashxis bemor so'rovi, perianal qirma va Kato usuli o'tkazilgandan keyin qo'yiladi [3].",
-   "Boshqa koprologik usullar bu kasallikda kam samarali deb baholangan. Shu sababli aniqlashda faqat najasda tuxum izlash yetarli emas, balki bemor ma'lumoti va bo'g'imlarni ko'rish birinchi o'ringa chiqadi [3, 4]."
-  ]},
-  {"heading": "Bemor so'rovi", "content": [
-   "Darslikda tashxis bemorlardan parazit bo'g'imlarining ajralishi haqida so'rashga asoslanishi, aholi o'rtasida bunday so'rov yaxshi natija berishi yozilgan. Davolash bayonnomasining minimal ro'yxatiga ham bo'g'imlar chiqishini bilish uchun bemor so'rovi kiritilgan [3, 4].",
-   "Yo'riqnomada qishloq vrachlik punktlari va poliklinikalarda teniidozlarni so'rov usulida faol aniqlash ambulator bemorlar birinchi marta murojaat qilganda har yili va uyma-uy yurib tekshirishda belgilangan. Shunday qilib, so'rov bemorni topishning eng arzon va keng qo'llanadigan usuli hisoblanadi [1, 4]."
-  ]},
-  {"heading": "Bo'g'imlarning faol chiqishi", "content": [
-   "Qoramol solityorining xarakterli belgisi uning 20-30 x 12 mm kattalikdagi bo'g'imlarining defekatsiyadan tashqari faol tarzda anusdan chiqishidir. Boshqa lentasimon chuvalchanglar zararlanganda bunday holat odatda kuzatilmaydi [5, 6].",
-   "Odessa atlasi klinik belgi sifatida bo'g'imlarni najasda ko'rish va ularni ertalab to'shakda topishni ko'rsatadi, ko'pincha kasallik faqat shu bilan namoyon bo'ladi. Shuning uchun bemorga bo'g'im ko'rinishini tushuntirish va namunani saqlash maslahati tashxisga yordam beradi [6]."
-  ]},
-  {"heading": "Makroskopik tekshiruv", "content": [
-   "Laboratoriya yo'riqnomasiga ko'ra najasdagi yetuk gijjalarni yoki fragmentlarni oddiy ko'z yoki lupa bilan ko'rish mumkin. Najas distillangan suv bilan aralashtirilib, tindirish usuli bilan tekshiriladi, cho'kma Petri kosachalariga olinib lupa yoki MBS stereoskopik mikroskopda ko'riladi [2].",
-   "Gumon qilingan bo'laklar pinset yoki preparoval ignalar bilan alohida oynalarga olinib, ikki oyna orasida ko'riladi. Bu usul qoramol va cho'chqa solityorini farqlashda asosiy hisoblanadi, chunki mikroskopik usulda onkosferalar tuzilishi bir xil bo'ladi [2]."
-  ]},
-  {"heading": "Perianal qirma usullari", "content": [
-   "Laboratoriya yo'riqnomasida perianal qirma enterobioz, teniarinxoz va tenioz tashxisida yakka yoki ommaviy tekshiruvlarda qo'llanilishi ko'rsatilgan. Graham usulida yopishqoq tasma ishlatiladi, mikroskop ostida ob'ektiv x8 yoki x10, okulyar x7 yoki x10 kattalikda ko'riladi [2].",
-   "Torgushin usulida paxta o'ralgan shpatel glitserin eritmasiga botirilib, perianal burmalar artiladi, so'ng glitserin tomizilgan oynada tekshiriladi. Kevorkov usulida tampon 5 ml suvli probirkada chayqatilib, 1500 aylanish/daqiqada 3 daqiqa sentrifugalanadi va cho'kma ko'riladi; yo'riqnoma ikkala usulni ommaviy tekshiruvda noqulay deb baholaydi [2]."
-  ]},
-  {"heading": "Koproovoskopiya va Kato usuli", "content": [
-   "Kato va Miura usulida najasning 30-50 mg miqdori oynaga qo'yilib, glitserin va fenol bilan ishlangan sellofan ostida yoyiladi va mikroskopda ko'riladi. Yo'riqnomada usul oddiy nativ surtmadan 20-30 marta ko'proq najas ko'rishga imkon berishi yozilgan [2].",
-   "Usul invaziya yuqori va o'rta intensivlikda yaxshi ishlaydi, past intensivlikda samarasi kamayadi. Davolash bayonnomasi Kato usulini teniarinxoz uchun qo'shimcha parazitologik usul sifatida ko'rsatadi, JSST esa Kato-Katz tur uchun xos emasligini ta'kidlaydi [2, 3, 7]."
-  ]},
-  {"heading": "Turni aniqlash", "content": [
-   "Barcha teniidlar tuxumlari mikroskopda farqlanmaydi, shuning uchun tashxis uchun skoleks va bo'g'imlar morfologiyasiga e'tibor beriladi. Qoramol solityorining farqlovchi belgisi skoleksda ilgaklarning yo'qligidir [2, 3].",
-   "Darslikda teniarinxozda perianal qirma ikkinchi eng muhim usul sifatida ko'rsatilgan, tenioz uchun esa bu usul ishlamaydi degan fikr keltirilgan. Laboratoriya yo'riqnomasi va bayonnoma perianal qirmani teniozda ham ko'rsatadi, ya'ni manbalar o'rtasida farq bor [2, 3, 4]."
-  ]},
-  {"heading": "Takroriy tekshiruv", "content": [
-   "CDC tuxum va bo'g'imlar parazit o'rnashgandan taxminan 2-3 oy o'tgach najasda paydo bo'lishini, shu sababli erta bosqichda manfiy natija kasallikni inkor etmasligini ko'rsatadi. Yengil invaziyada takroriy tekshiruv va boyitish usullari topish ehtimolini oshiradi [8].",
-   "CDC turli kunlarda olingan uchta najas namunasini tekshirishni tavsiya qiladi. Darslik ham bo'g'im chiqishi 3 oydan keyin kuzatilishini yozadi, shuning uchun xavf ostidagi odamda bir marta manfiy natija yetarli deb hisoblanmaydi [4, 8]."
-  ]},
-  {"heading": "Xavf guruhlari va rejali tekshiruv", "content": [
-   "Yo'riqnomaga ko'ra teniarinxoz bo'yicha xavfli guruhlar rejali profilaktik tekshiriladi, qolganlar epidemiologik ko'rsatma bo'yicha. Sog'uvchilar, cho'ponlar va ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta so'rov hamda laboratoriya usullarida ko'rikdan o'tadi [1].",
-   "Davolash bayonnomasi qassoblar, oshxona oshpazlari va xom go'sht iste'mol qiluvchi shaxslarga e'tibor berish zarurligini ko'rsatadi. Darslik ham kasbiy xavf guruhi sifatida cho'ponlar va qushxona hamda go'sht kombinatlari xodimlarini sanaydi [3, 4]."
-  ]},
-  {"heading": "Epidemiologik ko'rsatma bo'yicha qidiruv", "content": [
-   "Aholi punktida yoki chorva xo'jaligida finnoz qayd etilsa, invaziya manbaini topish uchun shu hududdagi aholi epidemiologik ko'rsatma bo'yicha tekshiriladi. Hayvonlarda sistitserkoz topilganda necha marta tekshirishni hududiy DSENM parazitologi belgilaydi [1].",
-   "Shunday qilib, chorvadagi finnoz bemorni qidirishga ko'rsatma bo'ladi. Teskari yo'nalishda esa har bir aniqlangan bemor hududiy veterinariya bo'limlariga xabar qilinadi va zararlangan chorva izlanadi [1]."
-  ]},
-  {"heading": "Ommaviy tekshiruvlarda usul tanlash", "content": [
-   "Laboratoriya yo'riqnomasi ommaviy tekshiruvlar uchun Kato usulini, perianal qirma uchun esa paxtali shpatel, probirka, oyna va yopishqoq tasmalarni oldindan tayyorlashni tavsiya qiladi. Namunalar raqamlar bilan belgilanib, ro'yxatga mos yuritiladi [2].",
-   "Yo'riqnomada rejali tibbiy ko'riklarda perianal surtma bilan bir vaqtda biror koproovoskopik usul va Lyugol bilan nativ usul qo'llanishi zarurligi ham yozilgan. Yo'riqnoma teniarinxozni alohida tilga olmaydi, lekin bu qoida ichak gelmintozlarini rejali ko'rikda birgalikda qidirishga imkon beradi [2]."
-  ]},
-  {"heading": "Yangi usullar va ularning o'rni", "content": [
-   "CDC koproantigen va molekulyar usullar najasni mikroskopiyadan sezgirroq ekanini, lekin hozircha tadqiqot laboratoriyalaridan tashqarida mavjud emasligini yozadi. Serologik usullar ham tadqiqot sharoitida T. solium tashuvchilarini aniqlash uchun ishlatilishi mumkin [8].",
-   "Milliy bayonnoma va standartlarda teniarinxoz uchun bunday usullar ko'rsatilmagan; standartning minimal ro'yxatida so'rov, najasni ko'zdan kechirish, perianal qirma va umumiy qon tahlili turadi. Shu sababli amaliy aniqlash hozircha an'anaviy usullarga tayanadi [3, 9]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan manbalarda perianal qirma, Kato va so'rov usullarining teniarinxoz uchun sezgirligi, ya'ni necha foiz bemorda parazit topilishi haqida raqam topilmadi. Shu sababli sezgirlik foizlari yozilmadi, faqat usullarning tartibi va qo'llanish sharti keltirildi [2, 3].",
-   "O'zbekistonda xavf guruhlari orasida qoramol solityori topilish ko'rsatkichlari ham ko'rilgan manbalarda yo'q. Laboratoriya yo'riqnomasidagi bachadon yon shoxchalari soni darsliklardan farq qiladi, shu sababli bu raqamni aniqlashtirmasdan turni aniqlash mezoni sifatida ishlatish mumkin emas [2, 4, 6]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Qoramol solityori bilan zararlangan shaxs avvalo so'rov va bo'g'imlarning chiqishi bilan gumon qilinadi, so'ng makroskopik tekshiruv, perianal qirma va Kato usuli bilan tasdiqlanadi. Xavf guruhlarini yiliga bir marta tekshirish, takroriy namunalar olish va tur uchun bo'g'im morfologiyasiga e'tibor berish aniqlash sifatini oshiradi [1, 2, 3]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Qoramol solityori Taeniarhynchus saginatus bilan zararlangan shaxsni aniqlash teniarinxozga qarshi kurashning birinchi bo'g'ini hisoblanadi, chunki bemor odam invaziya manbaidir. Kasallik ko'pincha belgisiz yoki yengil kechgani uchun aniqlash so'rov, bo'g'imlarni ko'rish va laboratoriya usullariga tayanadi [1, 3].",
+    "Ushbu mavzuda aniqlash tamoyili, bemor so'rovi, bo'g'imlarning chiqishi, makroskopik tekshiruv, perianal qirma usullari, koproovoskopiya, turni aniqlash, takroriy tekshiruv va xavf guruhlarini rejali ko'rikdan o'tkazish ketma-ket ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Aniqlashning umumiy tamoyili",
+   "content": [
+    "Davolash bayonnomasiga ko'ra tashxis klinik-epidemiologik belgilar va parazitologik usullarga asoslanadi, asosiy usullar makroskopik va mikroskopik hisoblanadi. Yakuniy tashxis bemor so'rovi, perianal qirma va Kato usuli o'tkazilgandan keyin qo'yiladi [3].",
+    "Boshqa koprologik usullar bu kasallikda kam samarali deb baholangan. Shu sababli aniqlashda faqat najasda tuxum izlash yetarli emas, balki bemor ma'lumoti va bo'g'imlarni ko'rish birinchi o'ringa chiqadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Bemor so'rovi",
+   "content": [
+    "Darslikda tashxis bemorlardan parazit bo'g'imlarining ajralishi haqida so'rashga asoslanishi, aholi o'rtasida bunday so'rov yaxshi natija berishi yozilgan. Davolash bayonnomasining minimal ro'yxatiga ham bo'g'imlar chiqishini bilish uchun bemor so'rovi kiritilgan [3, 4].",
+    "Yo'riqnomada qishloq vrachlik punktlari va poliklinikalarda teniidozlarni so'rov usulida faol aniqlash ambulator bemorlar birinchi marta murojaat qilganda har yili va uyma-uy yurib tekshirishda belgilangan. Shunday qilib, so'rov bemorni topishning eng arzon va keng qo'llanadigan usuli hisoblanadi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Bo'g'imlarning faol chiqishi",
+   "content": [
+    "Qoramol solityorining xarakterli belgisi uning 20-30 x 12 mm kattalikdagi bo'g'imlarining defekatsiyadan tashqari faol tarzda anusdan chiqishidir. Boshqa lentasimon chuvalchanglar zararlanganda bunday holat odatda kuzatilmaydi [5, 6].",
+    "Odessa atlasi klinik belgi sifatida bo'g'imlarni najasda ko'rish va ularni ertalab to'shakda topishni ko'rsatadi, ko'pincha kasallik faqat shu bilan namoyon bo'ladi. Shuning uchun bemorga bo'g'im ko'rinishini tushuntirish va namunani saqlash maslahati tashxisga yordam beradi [6]."
+   ]
+  },
+  {
+   "heading": "Makroskopik tekshiruv",
+   "content": [
+    "Laboratoriya yo'riqnomasiga ko'ra najasdagi yetuk gijjalarni yoki fragmentlarni oddiy ko'z yoki lupa bilan ko'rish mumkin. Najas distillangan suv bilan aralashtirilib, tindirish usuli bilan tekshiriladi, cho'kma Petri kosachalariga olinib lupa yoki MBS stereoskopik mikroskopda ko'riladi [2].",
+    "Gumon qilingan bo'laklar pinset yoki preparoval ignalar bilan alohida oynalarga olinib, ikki oyna orasida ko'riladi. Bu usul qoramol va cho'chqa solityorini farqlashda asosiy hisoblanadi, chunki mikroskopik usulda onkosferalar tuzilishi bir xil bo'ladi [2]."
+   ]
+  },
+  {
+   "heading": "Perianal qirma usullari",
+   "content": [
+    "Laboratoriya yo'riqnomasida perianal qirma enterobioz, teniarinxoz va tenioz tashxisida yakka yoki ommaviy tekshiruvlarda qo'llanilishi ko'rsatilgan. Graham usulida yopishqoq tasma ishlatiladi, mikroskop ostida ob'ektiv x8 yoki x10, okulyar x7 yoki x10 kattalikda ko'riladi [2].",
+    "Torgushin usulida paxta o'ralgan shpatel glitserin eritmasiga botirilib, perianal burmalar artiladi, so'ng glitserin tomizilgan oynada tekshiriladi. Kevorkov usulida tampon 5 ml suvli probirkada chayqatilib, 1500 aylanish/daqiqada 3 daqiqa sentrifugalanadi va cho'kma ko'riladi; yo'riqnoma ikkala usulni ommaviy tekshiruvda noqulay deb baholaydi [2]."
+   ]
+  },
+  {
+   "heading": "Koproovoskopiya va Kato usuli",
+   "content": [
+    "Kato va Miura usulida najasning 30-50 mg miqdori oynaga qo'yilib, glitserin va fenol bilan ishlangan sellofan ostida yoyiladi va mikroskopda ko'riladi. Yo'riqnomada usul oddiy nativ surtmadan 20-30 marta ko'proq najas ko'rishga imkon berishi yozilgan [2].",
+    "Usul invaziya yuqori va o'rta intensivlikda yaxshi ishlaydi, past intensivlikda samarasi kamayadi. Davolash bayonnomasi Kato usulini teniarinxoz uchun qo'shimcha parazitologik usul sifatida ko'rsatadi, JSST esa Kato-Katz tur uchun xos emasligini ta'kidlaydi [2, 3, 7]."
+   ]
+  },
+  {
+   "heading": "Turni aniqlash",
+   "content": [
+    "Barcha teniidlar tuxumlari mikroskopda farqlanmaydi, shuning uchun tashxis uchun skoleks va bo'g'imlar morfologiyasiga e'tibor beriladi. Qoramol solityorining farqlovchi belgisi skoleksda ilgaklarning yo'qligidir [2, 3].",
+    "Darslikda teniarinxozda perianal qirma ikkinchi eng muhim usul sifatida ko'rsatilgan, tenioz uchun esa bu usul ishlamaydi degan fikr keltirilgan. Laboratoriya yo'riqnomasi va bayonnoma perianal qirmani teniozda ham ko'rsatadi, ya'ni manbalar o'rtasida farq bor [2, 3, 4]."
+   ]
+  },
+  {
+   "heading": "Takroriy tekshiruv",
+   "content": [
+    "CDC tuxum va bo'g'imlar parazit o'rnashgandan taxminan 2-3 oy o'tgach najasda paydo bo'lishini, shu sababli erta bosqichda manfiy natija kasallikni inkor etmasligini ko'rsatadi. Yengil invaziyada takroriy tekshiruv va boyitish usullari topish ehtimolini oshiradi [8].",
+    "CDC turli kunlarda olingan uchta najas namunasini tekshirishni tavsiya qiladi. Darslik ham bo'g'im chiqishi 3 oydan keyin kuzatilishini yozadi, shuning uchun xavf ostidagi odamda bir marta manfiy natija yetarli deb hisoblanmaydi [4, 8]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari va rejali tekshiruv",
+   "content": [
+    "Yo'riqnomaga ko'ra teniarinxoz bo'yicha xavfli guruhlar rejali profilaktik tekshiriladi, qolganlar epidemiologik ko'rsatma bo'yicha. Sog'uvchilar, cho'ponlar va ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta so'rov hamda laboratoriya usullarida ko'rikdan o'tadi [1].",
+    "Davolash bayonnomasi qassoblar, oshxona oshpazlari va xom go'sht iste'mol qiluvchi shaxslarga e'tibor berish zarurligini ko'rsatadi. Darslik ham kasbiy xavf guruhi sifatida cho'ponlar va qushxona hamda go'sht kombinatlari xodimlarini sanaydi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik ko'rsatma bo'yicha qidiruv",
+   "content": [
+    "Aholi punktida yoki chorva xo'jaligida finnoz qayd etilsa, invaziya manbaini topish uchun shu hududdagi aholi epidemiologik ko'rsatma bo'yicha tekshiriladi. Hayvonlarda sistitserkoz topilganda necha marta tekshirishni hududiy DSENM parazitologi belgilaydi [1].",
+    "Shunday qilib, chorvadagi finnoz bemorni qidirishga ko'rsatma bo'ladi. Teskari yo'nalishda esa har bir aniqlangan bemor hududiy veterinariya bo'limlariga xabar qilinadi va zararlangan chorva izlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Ommaviy tekshiruvlarda usul tanlash",
+   "content": [
+    "Laboratoriya yo'riqnomasi ommaviy tekshiruvlar uchun Kato usulini, perianal qirma uchun esa paxtali shpatel, probirka, oyna va yopishqoq tasmalarni oldindan tayyorlashni tavsiya qiladi. Namunalar raqamlar bilan belgilanib, ro'yxatga mos yuritiladi [2].",
+    "Yo'riqnomada rejali tibbiy ko'riklarda perianal surtma bilan bir vaqtda biror koproovoskopik usul va Lyugol bilan nativ usul qo'llanishi zarurligi ham yozilgan. Yo'riqnoma teniarinxozni alohida tilga olmaydi, lekin bu qoida ichak gelmintozlarini rejali ko'rikda birgalikda qidirishga imkon beradi [2]."
+   ]
+  },
+  {
+   "heading": "Yangi usullar va ularning o'rni",
+   "content": [
+    "CDC koproantigen va molekulyar usullar najasni mikroskopiyadan sezgirroq ekanini, lekin hozircha tadqiqot laboratoriyalaridan tashqarida mavjud emasligini yozadi. Serologik usullar ham tadqiqot sharoitida T. solium tashuvchilarini aniqlash uchun ishlatilishi mumkin [8].",
+    "Milliy bayonnoma va standartlarda teniarinxoz uchun bunday usullar ko'rsatilmagan; standartning minimal ro'yxatida so'rov, najasni ko'zdan kechirish, perianal qirma va umumiy qon tahlili turadi. Shu sababli amaliy aniqlash hozircha an'anaviy usullarga tayanadi [3, 9]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Qoramol solityori bilan zararlangan shaxs avvalo so'rov va bo'g'imlarning chiqishi bilan gumon qilinadi, so'ng makroskopik tekshiruv, perianal qirma va Kato usuli bilan tasdiqlanadi. Xavf guruhlarini yiliga bir marta tekshirish, takroriy namunalar olish va tur uchun bo'g'im morfologiyasiga e'tibor berish aniqlash sifatini oshiradi [1, 2, 3]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

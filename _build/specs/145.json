@@ -1,115 +1,108 @@
 {
-  "number": 145,
-  "title": "145. Bezgak kasalliklarini tashilishi va tarqalishini oldini olishni choralari.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Bezgakning tashib keltirilishi va tarqalishining oldini olish chora-tadbirlari kasallik bartaraf etilgan hududlarda uni qayta tiklanishdan saqlash va yangi o'choq paydo bo'lishiga yo'l qo'ymaslik uchun zarur. Milliy yo'riqnoma bu tadbirlarni holatlarni aniqlash, safarga ketuvchilar bilan ish va dispanser nazorati bilan birga ko'rib chiqadi [1].",
-        "Ushbu mavzuda holatlarni passiv va faol aniqlash, tropik hududlarga ketuvchi va qaytuvchilar bilan ishlash, kimyoprofilaktika, qaytganlarni hisobga olish, chivinlarga qarshi kurash, aholini himoyalash, diagnostika sifati monitoringi va qayta tiklanishning oldini olish choralari ko'rib chiqiladi [1, 2, 3]."
-      ]
-    },
-    {
-      "heading": "Holatlarni passiv aniqlash",
-      "content": [
-        "Bezgak holatlarini aniqlash tibbiyot xodimlarining mutaxassisligi, ish joyi va mulkchilik shaklidan qat'i nazar asosiy burchi hisoblanadi. Tana harorati 37,5 daraja Selsiydan yuqori bo'lsa isitma deb sanaladi, ko'rik paytida bo'lishi shart emas, oxirgi 3 kunda kuzatilgani yetarli [1].",
-        "Isitmali bemorda geografik anamnez aniqlanadi. Geografik anamnez ijobiy bo'lsa, boshqa belgilar bo'lishidan qat'i nazar qon bezgakka tekshiriladi, chunki tropik bezgak bir qator yuqumli kasalliklarga xos ko'rinishda kechishi mumkin. Tropik bezgak gumonida milliy siyosatga muvofiq oldindan davolash buyuriladi [1]."
-      ]
-    },
-    {
-      "heading": "Tekshiruv ko'rsatmalari",
-      "content": [
-        "Yo'riqnomada bezgakka tekshiruv qaltirash bilan kechadigan davriy isitmada, 4 kun va undan ortiq to'xtamaydigan isitmada, tropik va subtropik davlatlarga borganlarda hamda dispanser nazoratidagi bemorlarda har qanday harorat ko'tarilishida o'tkazilishi ko'rsatilgan. Donorlar ham qon topshirishdan oldin tekshiriladi [1].",
-        "Isitma bo'lmasa ham taloq va jigari kattalashgan, sariqlik va sababi noma'lum kamqonlik bor bemorlar bezgakka tekshiriladi. Shprits orqali zararlanish mumkinligi, oxirgi uch oyda qon quyilgani so'raladi, chunki bezgak ko'p martalik shpritsdan vena ichiga dori yuborilganda ham o'tishi mumkin [1]."
-      ]
-    },
-    {
-      "heading": "Faol aniqlash",
-      "content": [
-        "Faol aniqlash odatda xonadonma-xonadon yurish yo'li bilan 2 haftada 1 marta amalga oshiriladi. Olib kelingan yoki mahalliy holat aniqlanganda yurish davriyligi har bir o'choqda tuman bosh davlat sanitariya vrachi qarori bilan belgilanadi [1].",
-        "Oila ro'yxati asosida yurishni hududiy tibbiyot xodimlari o'tkazadi, gumon qilingan bemorlardan qalin tomchi preparati olinib o'sha kuniyoq laboratoriyaga yuboriladi. Aholini ommaviy tekshirish faqat o'ta zarur hollarda, masalan endemik hududlardan kelgan migrantlar orasida o'tkaziladi [1]."
-      ]
-    },
-    {
-      "heading": "Safarga ketuvchilar bilan ishlash",
-      "content": [
-        "Tropik va subtropik davlatlarga xizmat safariga yuboruvchi tashkilotlar hamda sayyohlik agentliklari DSENM parazitologini jalb etib, bezgak bo'yicha epidemik davlatlarga ketuvchilar orasida instruktaj o'tkazishi kerak. Shahar va tuman tibbiyot birlashmalari qoshida maslahat xonasi tashkil etiladi [1].",
-        "Ketayotganlarga bezgakning yuqish yo'llari, klinik belgilari va chivin chaqishidan saqlanish usullari tushuntiriladi, eslatmalar beriladi. Xorijdan kelgach isitma paydo bo'lsa darhol davolash muassasasiga murojaat qilish, epidemik davlatda bo'lgani va kimyoprofilaktika olgani haqida shifokorni ogohlantirish tavsiya etiladi [1]."
-      ]
-    },
-    {
-      "heading": "Kimyoprofilaktika va shaxsiy himoya",
-      "content": [
-        "Davolash protokoliga ko'ra endemik o'choqqa boradigan barcha shaxslarga shaxsiy kimyoprofilaktika qo'llanadi. Dori ketishdan 1 hafta oldin boshlanadi va qaytgandan keyin 1 oygacha davom etadi, shuningdek vaqtincha to'xtagan aeroportlarda ham kasallik yuqishi mumkinligi ogohlantiriladi [2].",
-        "Kimyoprofilaktika zararlanishdan to'liq himoya qilmaydi va gipnozoitlarga ta'sir qilmaydi, shu sababli kechki uch kunlik bezgak qaytgandan keyin ham paydo bo'lishi mumkin. Chivin chaqishidan himoya vositalari, ya'ni to'r, pashshaxona va repellentlar kimyoprofilaktika bilan birga qo'llanadi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Qaytganlarni hisobga olish va dispanser nazorati",
-      "content": [
-        "Xorijiy davlatlarga borib kelgan shaxslar hududiy davolash-profilaktika muassasalarida hisobga olinadi, laboratoriya yo'li bilan tekshiriladi va 3 yil dispanser nazoratiga olinadi. Ambulatoriya kartasiga «Xorijdan kelgan» belgisi qo'yiladi, ma'lumot maxsus jurnalda yoziladi [1].",
-        "Ichki ishlar boshqarmalari, harbiy komissariatlar va migratsiya xizmati sanitariya-epidemiologiya xizmati so'roviga ko'ra epidemik davlatlarga borib kelganlar haqida ma'lumot beradi. Har oyning 5-sanasiga Respublika DSENMga tezkor xabarnoma taqdim etiladi [1]."
-      ]
-    },
-    {
-      "heading": "Bemor yoki parazit tashuvchi aniqlanganda",
-      "content": [
-        "Aniqlangan bemorlar va parazit tashuvchilar haqida telefon, faks, elektron pochta va axborot tizimi orqali o'z vaqtida xabar beriladi. Xususiy shifoxonada qayd etilgan bemor haqida davlat tizimiga xabar berish majburiy, tashxisni tasdiqlash va davolash davlat muassasalarida o'tkaziladi [1].",
-        "Ma'lumot olingan kunning o'zida parazitolog va entomolog o'choqda epidemiologik va entomologik tekshiruv o'tkazadi. Barcha musbat qon preparatlari kasallik aniqlanganidan 24 soat ichida Respublika DSENMga yuboriladi, qaytgan shaxslarning yashash joyida esa entomologik ko'rsatmaga qarab chivinlarga qarshi ishlov o'tkaziladi [1]."
-      ]
-    },
-    {
-      "heading": "Davolash va qaytalanishning oldini olish",
-      "content": [
-        "Bezgak bilan og'rigan bemorlar va parazit tashuvchilar milliy davolash bayonnomasiga muvofiq davolanadi. Tropik bezgak bilan og'riganlar infeksion shifoxonaga yotqiziladi, uch kunlik bezgak 3 yil, tropik bezgak 1 yil dispanser nazoratida turadi. Bu bemordan chivinlarning zararlanishini kamaytiradi [1, 2].",
-        "Uslubiy qo'llanmada bemorni tez tashxislash muhimligi ta'kidlangan, chunki qon olinganidan davolash boshlanguncha ko'p kun o'tishi mumkin va bu davrda bemor infeksiya manbai bo'lib qoladi. Tropik bezgakda gametotsitlarga qarshi, uch kunlik bezgakda gipnozoitlarga qarshi davo qo'shimcha beriladi [3]."
-      ]
-    },
-    {
-      "heading": "Chivinlarga qarshi kurash va aholini himoyalash",
-      "content": [
-        "Chivinlarga qarshi kurash entomologik nazorat, ko'payish joylarini yo'qotish, lichinkalarga qarshi ishlov, gambuziya va qanotli chivinlarga qoldiq ta'sirli insektitsidlar bilan ishlovni o'z ichiga oladi. Yo'riqnomada bu choralar o'choq turiga qarab hajmlanadi [1].",
-        "Bezgak bartaraf etilgan hududlarda aholini jamoaviy va individual himoyalash muhim: derazalarga doka to'r tutish, pashshaxonalar, insektitsid shimdirilgan to'rlar va repellentlar. Pashshaxona mutlaq kafolat bermaydi, lekin chivin hujumi ehtimolini kamaytiradi [1]."
-      ]
-    },
-    {
-      "heading": "Diagnostika sifati va yo'qlik haqqoniyligi",
-      "content": [
-        "Davolash-profilaktika muassasalarida bezgak diagnostikasi sifati tuman parazitologi va laboratoriya shifokori tomonidan monitoring qilinadi. Birlamchi qon preparatlarining 10 foizi, barcha musbat preparatlar va xorijdan kelganlarning 100 foiz preparati nazorat uchun yuboriladi, sifatsiz preparatlar qayta olish uchun qaytariladi [1].",
-        "Hududda bezgak yo'qligining haqqoniyligi tekshiruvi mahalliy va olib kelingan holatlar yo'qligi bilan birga to'liq epidemiologik nazorat borligini ko'rsatadi. Respublika va viloyat komissiyalari so'nggi 3 yil ma'lumoti asosida tekshiradi va tadbirlarga baho beradi [1]."
-      ]
-    },
-    {
-      "heading": "Hududning yuqumliligi va moyilligi",
-      "content": [
-        "Yo'riqnomada qayta tiklanish xavfini baholash uchun ikki tushuncha qo'llanadi. Hududning yuqumlilik darajasi epidemik mavsumda bezgak chivinlari borligi va ular kasallikni o'tkazish qobiliyati bilan belgilanadi: chivin soni, antropofiliya, tirikligi, plazmodiy rivojlanishi va iqlim [1].",
-        "Hududning moyilligi esa infeksiyani tashqaridan olib kelinish ehtimoli o'lchovi. Katta shaharlarga bezgak tez-tez olib kiriladi, ammo tarqalish sharoiti kam bo'lishi mumkin. Shu sababli moyillik va yuqumlilik ko'rsatkichlari alohida kuzatiladi [1]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Parazitolog-shifokor tashib keltirishning oldini olishda safarga ketuvchilar bilan tushuntirish, qaytganlarni hisobga olish, laboratoriya tekshiruvi va dispanser nazoratini birlashtiradi. Har bir isitmali bemorda geografik anamnezni aniqlash bezgakni erta topish uchun asosiy shart [1].",
-        "Ayni paytda u o'choqda chivinlarga qarshi ishlovni entomolog bilan hamkorlikda baholaydi va yangi holatlarni nazorat qiladi. Samarali tadbir va tez tashxis olib kelingan holatdan ikkilamchi mahalliy yuqishning oldini oladi, shu sababli hisobot muddatlariga rioya qilish zarur [1, 3]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Kutubxona manbalarida O'zbekistonda hozirgi yillardagi olib kelingan holatlar soni, davlatlar ro'yxati va aniq hududlar bo'yicha statistika topilmadi, shu sababli mavzuda raqamli epidemiologik ma'lumot berilmadi. Yo'riqnoma tadbirlarni umumiy tarzda belgilaydi [1].",
-        "Yo'riqnomadagi ayrim bandlar nusxada notekis o'qiladi, masalan kimyoprofilaktikaning aniq preparati va dozasi ko'rsatilmagan, milliy siyosatga havola qilingan. Shu sababli bu mavzuda kimyoprofilaktika dozalari keltirilmadi va amaldagi bayonnomani tekshirish lozim [1, 2]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Bezgak tashilishi va tarqalishining oldini olish holatlarni passiv va faol aniqlash, safarga ketuvchilarni o'qitish va kimyoprofilaktika, qaytganlarni 3 yil dispanser nazorati, o'choqda epidemiologik va entomologik tekshiruv, davolash hamda chivinlarga qarshi kurash va aholini himoyalashdan iborat majmuaviy tadbirlar bilan ta'minlanadi [1, 2, 3]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547."
-  ]
+ "number": 145,
+ "title": "145. Bezgak kasalliklarini tashilishi va tarqalishini oldini olishni choralari.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Bezgakning tashib keltirilishi va tarqalishining oldini olish chora-tadbirlari kasallik bartaraf etilgan hududlarda uni qayta tiklanishdan saqlash va yangi o'choq paydo bo'lishiga yo'l qo'ymaslik uchun zarur. Milliy yo'riqnoma bu tadbirlarni holatlarni aniqlash, safarga ketuvchilar bilan ish va dispanser nazorati bilan birga ko'rib chiqadi [1].",
+    "Ushbu mavzuda holatlarni passiv va faol aniqlash, tropik hududlarga ketuvchi va qaytuvchilar bilan ishlash, kimyoprofilaktika, qaytganlarni hisobga olish, chivinlarga qarshi kurash, aholini himoyalash, diagnostika sifati monitoringi va qayta tiklanishning oldini olish choralari ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Holatlarni passiv aniqlash",
+   "content": [
+    "Bezgak holatlarini aniqlash tibbiyot xodimlarining mutaxassisligi, ish joyi va mulkchilik shaklidan qat'i nazar asosiy burchi hisoblanadi. Tana harorati 37,5 daraja Selsiydan yuqori bo'lsa isitma deb sanaladi, ko'rik paytida bo'lishi shart emas, oxirgi 3 kunda kuzatilgani yetarli [1].",
+    "Isitmali bemorda geografik anamnez aniqlanadi. Geografik anamnez ijobiy bo'lsa, boshqa belgilar bo'lishidan qat'i nazar qon bezgakka tekshiriladi, chunki tropik bezgak bir qator yuqumli kasalliklarga xos ko'rinishda kechishi mumkin. Tropik bezgak gumonida milliy siyosatga muvofiq oldindan davolash buyuriladi [1]."
+   ]
+  },
+  {
+   "heading": "Tekshiruv ko'rsatmalari",
+   "content": [
+    "Yo'riqnomada bezgakka tekshiruv qaltirash bilan kechadigan davriy isitmada, 4 kun va undan ortiq to'xtamaydigan isitmada, tropik va subtropik davlatlarga borganlarda hamda dispanser nazoratidagi bemorlarda har qanday harorat ko'tarilishida o'tkazilishi ko'rsatilgan. Donorlar ham qon topshirishdan oldin tekshiriladi [1].",
+    "Isitma bo'lmasa ham taloq va jigari kattalashgan, sariqlik va sababi noma'lum kamqonlik bor bemorlar bezgakka tekshiriladi. Shprits orqali zararlanish mumkinligi, oxirgi uch oyda qon quyilgani so'raladi, chunki bezgak ko'p martalik shpritsdan vena ichiga dori yuborilganda ham o'tishi mumkin [1]."
+   ]
+  },
+  {
+   "heading": "Faol aniqlash",
+   "content": [
+    "Faol aniqlash odatda xonadonma-xonadon yurish yo'li bilan 2 haftada 1 marta amalga oshiriladi. Olib kelingan yoki mahalliy holat aniqlanganda yurish davriyligi har bir o'choqda tuman bosh davlat sanitariya vrachi qarori bilan belgilanadi [1].",
+    "Oila ro'yxati asosida yurishni hududiy tibbiyot xodimlari o'tkazadi, gumon qilingan bemorlardan qalin tomchi preparati olinib o'sha kuniyoq laboratoriyaga yuboriladi. Aholini ommaviy tekshirish faqat o'ta zarur hollarda, masalan endemik hududlardan kelgan migrantlar orasida o'tkaziladi [1]."
+   ]
+  },
+  {
+   "heading": "Safarga ketuvchilar bilan ishlash",
+   "content": [
+    "Tropik va subtropik davlatlarga xizmat safariga yuboruvchi tashkilotlar hamda sayyohlik agentliklari DSENM parazitologini jalb etib, bezgak bo'yicha epidemik davlatlarga ketuvchilar orasida instruktaj o'tkazishi kerak. Shahar va tuman tibbiyot birlashmalari qoshida maslahat xonasi tashkil etiladi [1].",
+    "Ketayotganlarga bezgakning yuqish yo'llari, klinik belgilari va chivin chaqishidan saqlanish usullari tushuntiriladi, eslatmalar beriladi. Xorijdan kelgach isitma paydo bo'lsa darhol davolash muassasasiga murojaat qilish, epidemik davlatda bo'lgani va kimyoprofilaktika olgani haqida shifokorni ogohlantirish tavsiya etiladi [1]."
+   ]
+  },
+  {
+   "heading": "Kimyoprofilaktika va shaxsiy himoya",
+   "content": [
+    "Davolash protokoliga ko'ra endemik o'choqqa boradigan barcha shaxslarga shaxsiy kimyoprofilaktika qo'llanadi. Dori ketishdan 1 hafta oldin boshlanadi va qaytgandan keyin 1 oygacha davom etadi, shuningdek vaqtincha to'xtagan aeroportlarda ham kasallik yuqishi mumkinligi ogohlantiriladi [2].",
+    "Kimyoprofilaktika zararlanishdan to'liq himoya qilmaydi va gipnozoitlarga ta'sir qilmaydi, shu sababli kechki uch kunlik bezgak qaytgandan keyin ham paydo bo'lishi mumkin. Chivin chaqishidan himoya vositalari, ya'ni to'r, pashshaxona va repellentlar kimyoprofilaktika bilan birga qo'llanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qaytganlarni hisobga olish va dispanser nazorati",
+   "content": [
+    "Xorijiy davlatlarga borib kelgan shaxslar hududiy davolash-profilaktika muassasalarida hisobga olinadi, laboratoriya yo'li bilan tekshiriladi va 3 yil dispanser nazoratiga olinadi. Ambulatoriya kartasiga «Xorijdan kelgan» belgisi qo'yiladi, ma'lumot maxsus jurnalda yoziladi [1].",
+    "Ichki ishlar boshqarmalari, harbiy komissariatlar va migratsiya xizmati sanitariya-epidemiologiya xizmati so'roviga ko'ra epidemik davlatlarga borib kelganlar haqida ma'lumot beradi. Har oyning 5-sanasiga Respublika DSENMga tezkor xabarnoma taqdim etiladi [1]."
+   ]
+  },
+  {
+   "heading": "Bemor yoki parazit tashuvchi aniqlanganda",
+   "content": [
+    "Aniqlangan bemorlar va parazit tashuvchilar haqida telefon, faks, elektron pochta va axborot tizimi orqali o'z vaqtida xabar beriladi. Xususiy shifoxonada qayd etilgan bemor haqida davlat tizimiga xabar berish majburiy, tashxisni tasdiqlash va davolash davlat muassasalarida o'tkaziladi [1].",
+    "Ma'lumot olingan kunning o'zida parazitolog va entomolog o'choqda epidemiologik va entomologik tekshiruv o'tkazadi. Barcha musbat qon preparatlari kasallik aniqlanganidan 24 soat ichida Respublika DSENMga yuboriladi, qaytgan shaxslarning yashash joyida esa entomologik ko'rsatmaga qarab chivinlarga qarshi ishlov o'tkaziladi [1]."
+   ]
+  },
+  {
+   "heading": "Davolash va qaytalanishning oldini olish",
+   "content": [
+    "Bezgak bilan og'rigan bemorlar va parazit tashuvchilar milliy davolash bayonnomasiga muvofiq davolanadi. Tropik bezgak bilan og'riganlar infeksion shifoxonaga yotqiziladi, uch kunlik bezgak 3 yil, tropik bezgak 1 yil dispanser nazoratida turadi. Bu bemordan chivinlarning zararlanishini kamaytiradi [1, 2].",
+    "Uslubiy qo'llanmada bemorni tez tashxislash muhimligi ta'kidlangan, chunki qon olinganidan davolash boshlanguncha ko'p kun o'tishi mumkin va bu davrda bemor infeksiya manbai bo'lib qoladi. Tropik bezgakda gametotsitlarga qarshi, uch kunlik bezgakda gipnozoitlarga qarshi davo qo'shimcha beriladi [3]."
+   ]
+  },
+  {
+   "heading": "Chivinlarga qarshi kurash va aholini himoyalash",
+   "content": [
+    "Chivinlarga qarshi kurash entomologik nazorat, ko'payish joylarini yo'qotish, lichinkalarga qarshi ishlov, gambuziya va qanotli chivinlarga qoldiq ta'sirli insektitsidlar bilan ishlovni o'z ichiga oladi. Yo'riqnomada bu choralar o'choq turiga qarab hajmlanadi [1].",
+    "Bezgak bartaraf etilgan hududlarda aholini jamoaviy va individual himoyalash muhim: derazalarga doka to'r tutish, pashshaxonalar, insektitsid shimdirilgan to'rlar va repellentlar. Pashshaxona mutlaq kafolat bermaydi, lekin chivin hujumi ehtimolini kamaytiradi [1]."
+   ]
+  },
+  {
+   "heading": "Diagnostika sifati va yo'qlik haqqoniyligi",
+   "content": [
+    "Davolash-profilaktika muassasalarida bezgak diagnostikasi sifati tuman parazitologi va laboratoriya shifokori tomonidan monitoring qilinadi. Birlamchi qon preparatlarining 10 foizi, barcha musbat preparatlar va xorijdan kelganlarning 100 foiz preparati nazorat uchun yuboriladi, sifatsiz preparatlar qayta olish uchun qaytariladi [1].",
+    "Hududda bezgak yo'qligining haqqoniyligi tekshiruvi mahalliy va olib kelingan holatlar yo'qligi bilan birga to'liq epidemiologik nazorat borligini ko'rsatadi. Respublika va viloyat komissiyalari so'nggi 3 yil ma'lumoti asosida tekshiradi va tadbirlarga baho beradi [1]."
+   ]
+  },
+  {
+   "heading": "Hududning yuqumliligi va moyilligi",
+   "content": [
+    "Yo'riqnomada qayta tiklanish xavfini baholash uchun ikki tushuncha qo'llanadi. Hududning yuqumlilik darajasi epidemik mavsumda bezgak chivinlari borligi va ular kasallikni o'tkazish qobiliyati bilan belgilanadi: chivin soni, antropofiliya, tirikligi, plazmodiy rivojlanishi va iqlim [1].",
+    "Hududning moyilligi esa infeksiyani tashqaridan olib kelinish ehtimoli o'lchovi. Katta shaharlarga bezgak tez-tez olib kiriladi, ammo tarqalish sharoiti kam bo'lishi mumkin. Shu sababli moyillik va yuqumlilik ko'rsatkichlari alohida kuzatiladi [1]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor tashib keltirishning oldini olishda safarga ketuvchilar bilan tushuntirish, qaytganlarni hisobga olish, laboratoriya tekshiruvi va dispanser nazoratini birlashtiradi. Har bir isitmali bemorda geografik anamnezni aniqlash bezgakni erta topish uchun asosiy shart [1].",
+    "Ayni paytda u o'choqda chivinlarga qarshi ishlovni entomolog bilan hamkorlikda baholaydi va yangi holatlarni nazorat qiladi. Samarali tadbir va tez tashxis olib kelingan holatdan ikkilamchi mahalliy yuqishning oldini oladi, shu sababli hisobot muddatlariga rioya qilish zarur [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Bezgak tashilishi va tarqalishining oldini olish holatlarni passiv va faol aniqlash, safarga ketuvchilarni o'qitish va kimyoprofilaktika, qaytganlarni 3 yil dispanser nazorati, o'choqda epidemiologik va entomologik tekshiruv, davolash hamda chivinlarga qarshi kurash va aholini himoyalashdan iborat majmuaviy tadbirlar bilan ta'minlanadi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547."
+ ]
 }

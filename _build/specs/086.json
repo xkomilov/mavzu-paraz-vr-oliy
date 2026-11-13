@@ -1,76 +1,114 @@
 {
-  "number": 86,
-  "title": "86. O'tkazilgan degelmintizatsiya samarasining nazorati qanday o'tkaziladi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Degelmintizatsiya samarasining nazorati davolashdan keyin gijja to'liq yo'qolganini yoki ularning soni kamayganini laboratoriya orqali tasdiqlashdir. Individual bemorda u tuxum yoki gijja topilmasligini isbotlaydi, ommaviy dasturda esa zararlanish darajasi pasayganini ko'rsatadi [1, 2].",
-      "Mavzuda nazorat tahlillari muddati gelmintoz turiga qarab, milliy hujjatlardagi farqlar, jamoa va o'choq darajasidagi baholash hamda JSST bo'yicha davolash samarasi ko'rsatkichlari, ya'ni davolash darajasi (cure rate) va tuxum kamayishi darajasi (egg reduction rate), ketma-ket yoritiladi [1, 6, 8, 9]."
-    ]},
-    {"heading": "Nazoratning maqsadi", "content": [
-      "Individual darajada nazorat bemor to'liq gijjadan xoli bo'lganini va dispanser kuzatuvidan chiqarish mumkinligini aniqlaydi. Jamoa darajasida esa u o'tkazilgan sog'lomlashtirish tadbiri manbani kamaytirgan yoki yo'qligini ko'rsatadi [2, 3].",
-      "Dastur darajasida nazorat boshqa vazifani bajaradi: JSST ommaviy davolashdan keyin zararlanish tarqalishi va o'rta hamda og'ir intensivlik pasayganini baholashni tavsiya etadi. Shu sababli nazorat turini maqsadga qarab tanlash kerak [6]."
-    ]},
-    {"heading": "Ichak gelmintozlari uchun umumiy qoida", "content": [
-      "Laboratoriya yo'riqnomasiga ko'ra ichak gelmintozlarida najas davolangandan 1 oy o'tgach tekshiriladi. Ichak protozoozlarida muddat aniqlangan qo'zg'atuvchiga bog'liq: amyobiaz va balantidiazda davolash kursi tugagan kuni, lyamblioz uchun esa 1 haftadan keyin [1].",
-      "Muloqot orqali yuqadigan gelmintozlar uchun alohida tartib bor: gimenolepidozda 6 oylik dispanser kuzatuvida kamida 3 marta najas, enterobiozda esa 2-3 kun oralatib 3 marta perianal surtma tekshiriladi. Biogelmintozlarda davolangandan 3-4-5 oy o'tgach kamida 3 marta najas tekshiriladi [1]."
-    ]},
-    {"heading": "Enterobiozda nazorat", "content": [
-      "Enterobiozda davolangandan keyin tekshiruv perianal qirindi bilan o'tkaziladi, chunki ostritsa tuxumini ichakda emas, perianal burmalarda qo'yadi. Yo'riqnomada klinik belgilari kuchli bemorlar davolashdan keyin ham 2-3 kun oralatib 3 marta tekshirilishi aytilgan [2, 3].",
-      "Bayonnomada qayta nazorat tekshiruvlari davolashdan ikki hafta va bir oy o'tgach, 3 marta 2-3 kunlik tanaffus bilan o'tkaziladi, dispanser kuzatuvi esa 3 oygacha davom etadi. Standartda davolash tugagach 2 haftadan keyin manfiy natija 5 karra tekshiruv bilan tasdiqlanadi [3, 4]."
-    ]},
-    {"heading": "Gimenolepidozda nazorat", "content": [
-      "Gimenolepidozda laboratoriya yo'riqnomasi 6 oylik dispanser kuzatuvida kamida 3 marta najas tekshirishni talab qiladi. Milliy yo'riqnomada esa kasallanganlar 6 oy dispanser kuzatuvida bo'ladi va davolangandan keyin har 1, 3, 6 oyda qayta tahlil qilinadi [1, 2].",
-      "Bayonnomada qayta tekshiruv davolash tugagach 3 haftadan keyin 3 marta o'tkaziladi va 6 oygacha har chorakda nazorat tahlili qilinadi. Standartda davolash tugagandan 24 kun o'tgach manfiy koproskopiya natijasi ko'rsatilgan, darslikda esa 6 oy ichida 4 ta nazorat tekshiruvida tuxum topilmasa, bemor sog'ayganga hisoblanadi [3, 4, 5]."
-    ]},
-    {"heading": "Askaridoz va trixotsefalyozda nazorat", "content": [
-      "Davolash bayonnomasida askaridozda dispanser kuzatuvi 6 oygacha davom etadi, qayta nazorat tahlili 7 kunlik tanaffus bilan 3 marta, davolashdan 3, 4 va 6 oy o'tgach o'tkaziladi. Bu geogelmintozlarda yangi zararlanish xavfi borligini hisobga oladi [3].",
-      "Yo'riqnomada askaridoz va trixotsefalyoz bilan zararlanganlarni degelmintizatsiya qilish va uning samaradorligini aniqlashni DPMlarning butun tizimi olib borishi ko'rsatilgan. Laboratoriyalar faoliyatini hududiy DSENM nazorat qiladi [2]."
-    ]},
-    {"heading": "Jamoada nazorat va 15 foiz mezoni", "content": [
-      "Bolalar jamoasi bir marta enterobiozga tekshirilganda zararlanish 15 foiz va undan yuqori topilsa, jamoa to'liq davolanadi va sog'lomlashtirish samaradorligi laboratoriyada qayta tahlil qilinadi. Bu jamoa uchun nazoratning asosiy ko'rinishi [2].",
-      "Klinik-diagnostik laboratoriyalarda enterobiozni aniqlash samaradorligini DSENM 3-12 yoshdagilar, bolalar muassasalari va maktab xodimlari hamda oziq-ovqat korxonalari xodimlari orasida tanlab nazorat tahlillari bilan tekshiradi. Bu nazorat laboratoriya ishining sifatini ham o'z ichiga oladi [2]."
-    ]},
-    {"heading": "O'choqlarda samara nazorati", "content": [
-      "Geogelmintoz o'choqlarida o'tkazilgan tadbirlar samarasi har bir o'choqdagi 200-300 nafar doimiy aholidan iborat guruhning oxirgi degelmintizatsiyadan 3 oy o'tgach qayta tahlil qilinishi bilan baholanadi. Aholi zararlanish darajasi pasaysa, tadbirlar samarali hisoblanadi [2].",
-      "Agar o'choqda 2 yil davomida geogelmintozlar bilan zararlanganlar aniqlanmasa va tashqi muhitning sanitariya-parazitologik tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi. Shunday qilib samara faqat odamlarni emas, tashqi muhitni ham tekshirish bilan tasdiqlanadi [2]."
-    ]},
-    {"heading": "JSST bo'yicha dastur ta'sirini baholash", "content": [
-      "JSST endemik davlatlarga dasturlar muvaffaqiyatini profilaktik kimyoterapiya 5-6 yil o'tkazilgandan keyin, samarali davolash qamrovi 75 foiz va undan yuqori bo'lganda epidemiologik baholash orqali o'lchashni tavsiya etadi. Ta'sir ko'rsatkichlari sifatida har qanday tuproq gelmintozi tarqalishi va o'rta hamda og'ir intensivlik tarqalishi olinadi [6].",
-      "Natijaga qarab davolash chastotasi moslashtiriladi. Bu dasturni individual tekshiruvdan farqlaydi: asosiy savol alohida bola sog'aydimi emas, aholida og'ir intensivlikdagi zararlanish kamaydimi degan savoldir [6]."
-    ]},
-    {"heading": "Dori samaradorligini JSST bo'yicha monitoring qilish", "content": [
-      "JSSTning 2013 yildagi hujjati ommaviy davolashda qo'llangan antigelmintlar samaradorligini kuzatish bo'yicha yo'riqnoma bo'lib, unda samaradorlik ko'rsatkichlari, tanlanma hajmi, kuzatuv muddati, laboratoriya usullari va natijalarni tahlil qilish hamda samaradorlik pasayganda qanday harakat qilish ko'rsatilgan. Usul bitta dori uchun mo'ljallangan [7].",
-      "Hujjat dori kombinatsiyalari, masalan albendazol va praziquantel yoki albendazol va ivermektin uchun tavsiya etilmaydi. Hujjatning PDF matni bu mavzuda to'liq ochilmadi, shu bois uning aniq me'yorlari keltirilmadi [7]."
-    ]},
-    {"heading": "Davolash darajasi (cure rate)", "content": [
-      "Davolash darajasi boshlang'ich holatda zararlangan va davolashdan keyin zararlanishdan xoli bo'lgan odamlar foizi sifatida hisoblanadi. Ushbu ko'rsatkich dastlab antibiotiklarning klinik samaradorligini baholash uchun ishlab chiqilgan, keyin gelmint dorilariga ham qo'llangan [8].",
-      "Maqolada uning kamchiliklari ko'rsatilgan: u boshlang'ich intensivlikka va ishlatilgan tuxum aniqlash usulining sezgirligiga bog'liq, 90 foizga gijja sonini kamaytirgan dorini ham samarasiz deb ko'rsatishi mumkin. Shu sababli faqat shu ko'rsatkichga tayanish yetarli emas [8]."
-    ]},
-    {"heading": "Tuxum kamayishi darajasi (egg reduction rate)", "content": [
-      "Tizimli sharhda tuxum kamayishi darajasi dori samaradorligining standart asosiy ko'rsatkichi sifatida tilga olingan, tahlilga tasodifiy sinovlar kiritilgan, ularda tekshiruv davolashdan 1 haftadan 6 haftagacha o'tkazilgan. Bu ko'rsatkich davolashdan oldin va keyingi tuxum sonini solishtirishga asoslanadi [9].",
-      "Misol uchun albendazolning ankilostomidlarga qarshi davolash darajasi 79,5 foiz, tuxum kamayishi esa 89,6 foiz; qilbosh gijjada mebendazolda bu qiymatlar 42,1 va 66,0 foiz. Demak, ikkala ko'rsatkich birgalikda dori samarasi haqida to'liqroq tasavvur beradi [9]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog gelmintoz turiga mos nazorat usulini tanlaydi: enterobiozda perianal qirindi, gimenolepidozda najas, geogelmintozlarda najas va o'choqda tashqi muhit. Muddat va soni noto'g'ri tanlansa, manfiy natija davolash samarasini isbotlamaydi [1, 2].",
-      "Dastur darajasida esa nazorat o'rta va og'ir intensivlik pasayishini va dorining tuxum sonini kamaytirishini birga baholaydi. Milliy hujjatlardagi muddatlar farq qilgani sababli aniq reja tuzishdan oldin amaldagi hujjatlarni tekshirish kerak [3, 4, 6]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "JSST bo'yicha nazorat tekshiruvining aniq muddati, namuna hajmi va samaradorlik chegaralari (masalan, qanday qiymatdan past natija pasaygan samaradorlik hisoblanishi) 2013 yildagi hujjatning to'liq matni ochilmagani sababli tasdiqlanmadi. Davolash va tuxum kamayishi darajalari faqat ikki maqoladan keltirildi [7, 8, 9].",
-      "Milliy hujjatlarda gimenolepidoz va enterobioz nazorati muddatlari bir-biriga mos kelmaydi, qaysi hujjat ustun ekani ularda ko'rsatilmagan. O'zbekistonda tuxum kamayishi darajasi hisoblanishi va dastur samaradorligining hozirgi natijalari manbalarda topilmadi [1, 2, 3, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Degelmintizatsiya samarasi nazorati gelmintoz turiga mos muddatda va usulda o'tkaziladi: ichak gelmintozlarida najas 1 oydan keyin, enterobiozda perianal surtma 2-3 kun oralatib 3 marta, gimenolepidozda 6 oy davomida kamida 3 marta najas. Jamoa va o'choqda qayta tahlillar, dastur darajasida esa JSST bo'yicha epidemiologik baholash hamda davolash va tuxum kamayishi darajasi ishlatiladi [1, 2, 6, 8, 9]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
-    "World Health Organization. Assessing the efficacy of anthelminthic drugs against schistosomiasis and soil-transmitted helminthiases. 2013. https://www.who.int/publications/i/item/9789241564557",
-    "Cure rate is not a valid indicator for assessing drug efficacy and impact of preventive chemotherapy interventions against schistosomiasis and soil-transmitted helminthiasis. Trans R Soc Trop Med Hyg. 2011;105(7):361-363. doi:10.1016/j.trstmh.2011.04.003. https://pmc.ncbi.nlm.nih.gov/articles/PMC5576534/",
-    "Efficacy of recommended drugs against soil transmitted helminths: systematic review and network meta-analysis. https://pmc.ncbi.nlm.nih.gov/articles/PMC5611648/"
-  ]
+ "number": 86,
+ "title": "86. O'tkazilgan degelmintizatsiya samarasining nazorati qanday o'tkaziladi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Degelmintizatsiya samarasining nazorati davolashdan keyin gijja to'liq yo'qolganini yoki ularning soni kamayganini laboratoriya orqali tasdiqlashdir. Individual bemorda u tuxum yoki gijja topilmasligini isbotlaydi, ommaviy dasturda esa zararlanish darajasi pasayganini ko'rsatadi [1, 2].",
+    "Mavzuda nazorat tahlillari muddati gelmintoz turiga qarab, milliy hujjatlardagi farqlar, jamoa va o'choq darajasidagi baholash hamda JSST bo'yicha davolash samarasi ko'rsatkichlari, ya'ni davolash darajasi (cure rate) va tuxum kamayishi darajasi (egg reduction rate), ketma-ket yoritiladi [1, 6, 8, 9]."
+   ]
+  },
+  {
+   "heading": "Nazoratning maqsadi",
+   "content": [
+    "Individual darajada nazorat bemor to'liq gijjadan xoli bo'lganini va dispanser kuzatuvidan chiqarish mumkinligini aniqlaydi. Jamoa darajasida esa u o'tkazilgan sog'lomlashtirish tadbiri manbani kamaytirgan yoki yo'qligini ko'rsatadi [2, 3].",
+    "Dastur darajasida nazorat boshqa vazifani bajaradi: JSST ommaviy davolashdan keyin zararlanish tarqalishi va o'rta hamda og'ir intensivlik pasayganini baholashni tavsiya etadi. Shu sababli nazorat turini maqsadga qarab tanlash kerak [6]."
+   ]
+  },
+  {
+   "heading": "Ichak gelmintozlari uchun umumiy qoida",
+   "content": [
+    "Laboratoriya yo'riqnomasiga ko'ra ichak gelmintozlarida najas davolangandan 1 oy o'tgach tekshiriladi. Ichak protozoozlarida muddat aniqlangan qo'zg'atuvchiga bog'liq: amyobiaz va balantidiazda davolash kursi tugagan kuni, lyamblioz uchun esa 1 haftadan keyin [1].",
+    "Muloqot orqali yuqadigan gelmintozlar uchun alohida tartib bor: gimenolepidozda 6 oylik dispanser kuzatuvida kamida 3 marta najas, enterobiozda esa 2-3 kun oralatib 3 marta perianal surtma tekshiriladi. Biogelmintozlarda davolangandan 3-4-5 oy o'tgach kamida 3 marta najas tekshiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Enterobiozda nazorat",
+   "content": [
+    "Enterobiozda davolangandan keyin tekshiruv perianal qirindi bilan o'tkaziladi, chunki ostritsa tuxumini ichakda emas, perianal burmalarda qo'yadi. Yo'riqnomada klinik belgilari kuchli bemorlar davolashdan keyin ham 2-3 kun oralatib 3 marta tekshirilishi aytilgan [2, 3].",
+    "Bayonnomada qayta nazorat tekshiruvlari davolashdan ikki hafta va bir oy o'tgach, 3 marta 2-3 kunlik tanaffus bilan o'tkaziladi, dispanser kuzatuvi esa 3 oygacha davom etadi. Standartda davolash tugagach 2 haftadan keyin manfiy natija 5 karra tekshiruv bilan tasdiqlanadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Gimenolepidozda nazorat",
+   "content": [
+    "Gimenolepidozda laboratoriya yo'riqnomasi 6 oylik dispanser kuzatuvida kamida 3 marta najas tekshirishni talab qiladi. Milliy yo'riqnomada esa kasallanganlar 6 oy dispanser kuzatuvida bo'ladi va davolangandan keyin har 1, 3, 6 oyda qayta tahlil qilinadi [1, 2].",
+    "Bayonnomada qayta tekshiruv davolash tugagach 3 haftadan keyin 3 marta o'tkaziladi va 6 oygacha har chorakda nazorat tahlili qilinadi. Standartda davolash tugagandan 24 kun o'tgach manfiy koproskopiya natijasi ko'rsatilgan, darslikda esa 6 oy ichida 4 ta nazorat tekshiruvida tuxum topilmasa, bemor sog'ayganga hisoblanadi [3, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Askaridoz va trixotsefalyozda nazorat",
+   "content": [
+    "Davolash bayonnomasida askaridozda dispanser kuzatuvi 6 oygacha davom etadi, qayta nazorat tahlili 7 kunlik tanaffus bilan 3 marta, davolashdan 3, 4 va 6 oy o'tgach o'tkaziladi. Bu geogelmintozlarda yangi zararlanish xavfi borligini hisobga oladi [3].",
+    "Yo'riqnomada askaridoz va trixotsefalyoz bilan zararlanganlarni degelmintizatsiya qilish va uning samaradorligini aniqlashni DPMlarning butun tizimi olib borishi ko'rsatilgan. Laboratoriyalar faoliyatini hududiy DSENM nazorat qiladi [2]."
+   ]
+  },
+  {
+   "heading": "Jamoada nazorat va 15 foiz mezoni",
+   "content": [
+    "Bolalar jamoasi bir marta enterobiozga tekshirilganda zararlanish 15 foiz va undan yuqori topilsa, jamoa to'liq davolanadi va sog'lomlashtirish samaradorligi laboratoriyada qayta tahlil qilinadi. Bu jamoa uchun nazoratning asosiy ko'rinishi [2].",
+    "Klinik-diagnostik laboratoriyalarda enterobiozni aniqlash samaradorligini DSENM 3-12 yoshdagilar, bolalar muassasalari va maktab xodimlari hamda oziq-ovqat korxonalari xodimlari orasida tanlab nazorat tahlillari bilan tekshiradi. Bu nazorat laboratoriya ishining sifatini ham o'z ichiga oladi [2]."
+   ]
+  },
+  {
+   "heading": "O'choqlarda samara nazorati",
+   "content": [
+    "Geogelmintoz o'choqlarida o'tkazilgan tadbirlar samarasi har bir o'choqdagi 200-300 nafar doimiy aholidan iborat guruhning oxirgi degelmintizatsiyadan 3 oy o'tgach qayta tahlil qilinishi bilan baholanadi. Aholi zararlanish darajasi pasaysa, tadbirlar samarali hisoblanadi [2].",
+    "Agar o'choqda 2 yil davomida geogelmintozlar bilan zararlanganlar aniqlanmasa va tashqi muhitning sanitariya-parazitologik tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi. Shunday qilib samara faqat odamlarni emas, tashqi muhitni ham tekshirish bilan tasdiqlanadi [2]."
+   ]
+  },
+  {
+   "heading": "JSST bo'yicha dastur ta'sirini baholash",
+   "content": [
+    "JSST endemik davlatlarga dasturlar muvaffaqiyatini profilaktik kimyoterapiya 5-6 yil o'tkazilgandan keyin, samarali davolash qamrovi 75 foiz va undan yuqori bo'lganda epidemiologik baholash orqali o'lchashni tavsiya etadi. Ta'sir ko'rsatkichlari sifatida har qanday tuproq gelmintozi tarqalishi va o'rta hamda og'ir intensivlik tarqalishi olinadi [6].",
+    "Natijaga qarab davolash chastotasi moslashtiriladi. Bu dasturni individual tekshiruvdan farqlaydi: asosiy savol alohida bola sog'aydimi emas, aholida og'ir intensivlikdagi zararlanish kamaydimi degan savoldir [6]."
+   ]
+  },
+  {
+   "heading": "Dori samaradorligini JSST bo'yicha monitoring qilish",
+   "content": [
+    "JSSTning 2013 yildagi hujjati ommaviy davolashda qo'llangan antigelmintlar samaradorligini kuzatish bo'yicha yo'riqnoma bo'lib, unda samaradorlik ko'rsatkichlari, tanlanma hajmi, kuzatuv muddati, laboratoriya usullari va natijalarni tahlil qilish hamda samaradorlik pasayganda qanday harakat qilish ko'rsatilgan. Usul bitta dori uchun mo'ljallangan [7].",
+    "Hujjat dori kombinatsiyalari, masalan albendazol va praziquantel yoki albendazol va ivermektin uchun tavsiya etilmaydi. Hujjatning PDF matni bu mavzuda to'liq ochilmadi, shu bois uning aniq me'yorlari keltirilmadi [7]."
+   ]
+  },
+  {
+   "heading": "Davolash darajasi (cure rate)",
+   "content": [
+    "Davolash darajasi boshlang'ich holatda zararlangan va davolashdan keyin zararlanishdan xoli bo'lgan odamlar foizi sifatida hisoblanadi. Ushbu ko'rsatkich dastlab antibiotiklarning klinik samaradorligini baholash uchun ishlab chiqilgan, keyin gelmint dorilariga ham qo'llangan [8].",
+    "Maqolada uning kamchiliklari ko'rsatilgan: u boshlang'ich intensivlikka va ishlatilgan tuxum aniqlash usulining sezgirligiga bog'liq, 90 foizga gijja sonini kamaytirgan dorini ham samarasiz deb ko'rsatishi mumkin. Shu sababli faqat shu ko'rsatkichga tayanish yetarli emas [8]."
+   ]
+  },
+  {
+   "heading": "Tuxum kamayishi darajasi (egg reduction rate)",
+   "content": [
+    "Tizimli sharhda tuxum kamayishi darajasi dori samaradorligining standart asosiy ko'rsatkichi sifatida tilga olingan, tahlilga tasodifiy sinovlar kiritilgan, ularda tekshiruv davolashdan 1 haftadan 6 haftagacha o'tkazilgan. Bu ko'rsatkich davolashdan oldin va keyingi tuxum sonini solishtirishga asoslanadi [9].",
+    "Misol uchun albendazolning ankilostomidlarga qarshi davolash darajasi 79,5 foiz, tuxum kamayishi esa 89,6 foiz; qilbosh gijjada mebendazolda bu qiymatlar 42,1 va 66,0 foiz. Demak, ikkala ko'rsatkich birgalikda dori samarasi haqida to'liqroq tasavvur beradi [9]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog gelmintoz turiga mos nazorat usulini tanlaydi: enterobiozda perianal qirindi, gimenolepidozda najas, geogelmintozlarda najas va o'choqda tashqi muhit. Muddat va soni noto'g'ri tanlansa, manfiy natija davolash samarasini isbotlamaydi [1, 2].",
+    "Dastur darajasida esa nazorat o'rta va og'ir intensivlik pasayishini va dorining tuxum sonini kamaytirishini birga baholaydi. Milliy hujjatlardagi muddatlar farq qilgani sababli aniq reja tuzishdan oldin amaldagi hujjatlarni tekshirish kerak [3, 4, 6]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Degelmintizatsiya samarasi nazorati gelmintoz turiga mos muddatda va usulda o'tkaziladi: ichak gelmintozlarida najas 1 oydan keyin, enterobiozda perianal surtma 2-3 kun oralatib 3 marta, gimenolepidozda 6 oy davomida kamida 3 marta najas. Jamoa va o'choqda qayta tahlillar, dastur darajasida esa JSST bo'yicha epidemiologik baholash hamda davolash va tuxum kamayishi darajasi ishlatiladi [1, 2, 6, 8, 9]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
+  "World Health Organization. Assessing the efficacy of anthelminthic drugs against schistosomiasis and soil-transmitted helminthiases. 2013. https://www.who.int/publications/i/item/9789241564557",
+  "Cure rate is not a valid indicator for assessing drug efficacy and impact of preventive chemotherapy interventions against schistosomiasis and soil-transmitted helminthiasis. Trans R Soc Trop Med Hyg. 2011;105(7):361-363. doi:10.1016/j.trstmh.2011.04.003. https://pmc.ncbi.nlm.nih.gov/articles/PMC5576534/",
+  "Efficacy of recommended drugs against soil transmitted helminths: systematic review and network meta-analysis. https://pmc.ncbi.nlm.nih.gov/articles/PMC5611648/"
+ ]
 }

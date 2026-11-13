@@ -1,62 +1,92 @@
 {
-  "number": 61,
-  "title": "61. Visseral leyshmaniozni davolashda qanday preparatlar qo'llaniladi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Visseral leyshmanioz L. infantum qo'zg'atadigan surunkali transmissiv zoonoz protozoy kasallik bo'lib, to'lqinsimon isitma, jigar va taloq kattalashuvi, kamqonlik, leykopeniya, trombotsitopeniya va kaxeksiya bilan kechadi. Maxsus davo qilinmasa, JSST ma'lumotiga ko'ra, kasallik 95 foizdan ortiq holatda o'limga olib keladi [2, 6].",
-      "Ushbu mavzuda milliy davolash bayonnomasi va standartlarida ko'rsatilgan maxsus preparatlar, bazis va patogenetik davo vositalari, davolash samarasini baholash hamda manbalar orasidagi farqlar ketma-ket ko'rib chiqiladi. Dori dozalari faqat bayonnomada aniq yozilgan hollarda keltiriladi [2, 3]."
-    ]},
-    {"heading": "Davolashni boshlash tamoyillari", "content": [
-      "Bayonnomaga ko'ra davo tashxis tasniflash asosida aniqlangach darhol boshlanadi, go'daklar va yashash sharoiti yomon bemorlarga alohida e'tibor beriladi. Shifoxonaga parazitologik tashxisi tasdiqlangan barcha bemorlar yotqiziladi. Tashxis uchun suyak ko'migi, to'sh yoki kuymich suyagi punktati va RK-39 tez-testi tavsiya etilgan [2].",
-      "Respublika markazining 2017 yildagi taqdimotida laboratoriya tasdiqlagan holatlarga adekvat maxsus davo 24 soat ichida boshlanishi, yetarli miqdordagi Glyukantim yoki Ambizom zaxirasi doimiy saqlanishi lozimligi ko'rsatilgan. Standartda esa maxsus davo EMYUKITI va TPITI klinikalarida o'tkazilishi ko'rsatilgan [3, 4]."
-    ]},
-    {"heading": "Bazis davo", "content": [
-      "Bazis davo yotish tartibi va maxsus parhezdan iborat bo'lib, bemorning umumiy holati yaxshilanib, tana harorati normallashguncha yotish rejimi tavsiya etiladi. Bu bosqich maxsus preparatlar bilan birga olib boriladigan majburiy asos hisoblanadi [2].",
-      "Standartlar jadvalida bemorga oqsilga boy parhez, vitaminoterapiya (B12, foliy kislotasi, C vitamini) hamda sog'lig'ini yaxshilash, desensibilizatsiya va immunomodulyatsiyaga qaratilgan terapiya belgilangan. Bu choralar kaxeksiya va kamqonlik fonida maxsus davo samarasini ta'minlashga xizmat qiladi [4]."
-    ]},
-    {"heading": "Besh valentli surma preparatlari", "content": [
-      "Bayonnomada maxsus davo uchun meglumin antimonat (glyukantim) yoki natriy stiboglyukonat (pentostam) ko'rsatilgan. Ular 28-30 kun davomida kuniga tana vazni har bir kilogrammiga 20 mg miqdorda tomirga tomchilab yuboriladi [2].",
-      "Milliy yo'riqnomada ham visseral leyshmanioz bemorlari o'z vaqtida glyukantim va besh valentli surma preparati bilan davolansa, to'liq sog'ayishi, davolanmaganlarda esa ikkilamchi asoratlar tufayli o'lim 98-99 foizga yetishi qayd etilgan. Shu sababli surma preparatlari birinchi navbatdagi vosita sifatida tilga olinadi [1]."
-    ]},
-    {"heading": "Liposomal amfotersin B", "content": [
-      "Bayonnomada amfotersin B ning liposomal shakli (ambisom) kuniga tana vazni har bir kilogrammiga 3-4 mg miqdorda tomirga tomchilab yuborilishi, butun kurs miqdori esa 15-24 mg/kg bo'lishi ko'rsatilgan. Bu variant surma preparatlariga muqobil sifatida keltirilgan [2].",
-      "Standartlar jadvalida amfotersin B va ambisom ham maxsus terapiya ro'yxatiga kiritilgan. Respublika markazining taqdimotida esa Glyukantim bilan bir qatorda Ambizom doimiy kamaytirilmaydigan zaxirada bo'lishi kerakligi alohida ta'kidlangan, bu uning milliy dastur uchun ahamiyatini ko'rsatadi [3, 4]."
-    ]},
-    {"heading": "Miltefosin va boshqa standart preparatlar", "content": [
-      "Bayonnomada miltefosin tabletka shaklida, davolash kursi 28 kun deb ko'rsatilgan. Standartlar jadvalida maxsus terapiya sifatida glyukantim, meglumin antimonat, pentamidin izotionat, paromomitsin, miltefosin, amfotersin B va ambisom nomlari ketma-ket keltirilgan [2, 4].",
-      "Standart matnida bu preparatlar JSST ko'rsatmalari bo'yicha tayinlanishi nazarda tutilgan, lekin jadvalda har bir dori uchun alohida doza berilmagan. Shu sababli bu mavzuda pentamidin va paromomitsin dozalari keltirilmaydi, tanlov bayonnoma va yuqori darajadagi ko'rsatmalarga muvofiq amalga oshiriladi [4]."
-    ]},
-    {"heading": "Patogenetik va simptomatik davo", "content": [
-      "Bayonnomaga ko'ra patogenetik davo sifatida sefalosporin yoki penitsillin qatoridagi antibakterial vositalar, qon preparatlari (plazma, eritrotsitar massa, qon o'rnini bosuvchilar), B va C guruhi vitaminlari hamda temirga boy vositalar tayinlanadi. Barcha dorilar yosh va tana vazniga qarab belgilanadi [2].",
-      "Bu choralar kasallikning ikkilamchi bakterial asoratlari va kamqonlikka qarshi qaratilgan. Taqdimotda esa ko'rsatma bo'lganda splenektomiya o'tkazilishi ham eslatilgan, ammo bu ma'lumot talabalik taqdimotidan olingan bo'lib, milliy bayonnomada tilga olinmagan [2, 5]."
-    ]},
-    {"heading": "Davolash samarasini baholash va residiv", "content": [
-      "Yo'riqnomaga ko'ra shifokor residivli bemorlarni har hafta, hatto undan tez-tez ko'rib, harorat ko'tarilmasligi, holat yaxshilanishi, taloq hajmi kichrayishi, gemoglobin ko'payishi va vazn oshishini baholaydi. Residiv taxminan 5 foiz bemorlarda, OIV bilan kasallanganlarda 12 oy ichida 50 foizgacha bo'lishi mumkin [1].",
-      "Davolashni baholash testi klinik sog'ayish bo'lmaganda, klinik residivda yoki davo uzilganda o'tkaziladi. Residivli bemor testi manfiy bo'lgandagina shifoxonadan chiqariladi. JSST ham dorilar parazitni organizmdan to'liq chiqarmasligi, shu bois immunosupressiyada qaytalanish xavfi saqlanishini ta'kidlaydi [1, 6]."
-    ]},
-    {"heading": "Manbalar orasidagi farqlar", "content": [
-      "Talabalik taqdimotida solyusurmin, neostibozan va glyukantim kuniga 0,05 g/kg dozada boshlanib, kurs 7-10 kun deyilgan. Bu ma'lumot bayonnomadagi 28-30 kunlik kurs va 20 mg/kg dozadan farq qiladi, shuning uchun amaliyotda bayonnoma ustun hisoblanadi [2, 5].",
-      "Pavlovich va Andreev darsligida pentostam, solyusurmin va boshqa besh valentli surma birikmalari ko'rsatilgan, ular samarasiz bo'lsa pentamidin va amfotersin B qo'llanishi yozilgan. Bu ro'yxat umuman bayonnoma yo'nalishiga mos, ammo milliy dozalar bu manbada keltirilmagan [7]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor go'daklar, yashash sharoiti yomon va OIV bilan kasallangan bemorlarni birinchi navbatda ajratib, davoni kechiktirmasligi kerak. Davo boshlanishidan oldin suyak ko'migi punktati olinishi parazit miqdorini aniqlash va keyingi samarani baholash imkonini beradi [1].",
-      "Shuningdek u hududda Glyukantim va Ambizom zaxirasi mavjudligini nazorat qiladi, davo kursini uzmaslikka erishadi va bemorni dispanser nazoratiga oladi. Bu choralar o'limning oldini olish va residivlarni erta aniqlashga xizmat qiladi [1, 3]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Bayonnomadagi miltefosin dozasi matnda yosh va vazn guruhlari bo'yicha yozilgan, lekin birliklar o'zaro ziddiyatli ko'rinadi, shuning uchun aniq doza bu yerda keltirilmadi. Pentamidin va paromomitsin dozalari milliy hujjatlarda topilmadi [2, 4].",
-      "Standartlardagi qisqartma «BSST ko'rsatmalari» JSST ko'rsatmalariga ishora qiladi deb tushunildi, bu hujjatning o'zida izohlanmagan. Bolalar va OIV bilan birga kechgan holatlar uchun alohida milliy sxema topilmadi, JSST varag'ida esa tafsilot texnik hisobotga havola qilingan [4, 6]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Visseral leyshmaniozni davolashda milliy bayonnoma bo'yicha asosiy preparatlar glyukantim yoki pentostam (28-30 kun, 20 mg/kg), liposomal amfotersin B (3-4 mg/kg, kurs 15-24 mg/kg) va miltefosin (28 kun) hisoblanadi, ularga pentamidin va paromomitsin standartlar ro'yxatida qo'shiladi. Bazis, patogenetik davo va dispanser nazorati majburiy hamroh bo'ladi [2, 4]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "Юлдашова С. Висцеральный лейшманиоз (talabalik taqdimoti). xayrullokomilov.uz/kutubxona, material ID 1579.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736."
-  ]
+ "number": 61,
+ "title": "61. Visseral leyshmaniozni davolashda qanday preparatlar qo'llaniladi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Visseral leyshmanioz L. infantum qo'zg'atadigan surunkali transmissiv zoonoz protozoy kasallik bo'lib, to'lqinsimon isitma, jigar va taloq kattalashuvi, kamqonlik, leykopeniya, trombotsitopeniya va kaxeksiya bilan kechadi. Maxsus davo qilinmasa, JSST ma'lumotiga ko'ra, kasallik 95 foizdan ortiq holatda o'limga olib keladi [2, 6].",
+    "Ushbu mavzuda milliy davolash bayonnomasi va standartlarida ko'rsatilgan maxsus preparatlar, bazis va patogenetik davo vositalari, davolash samarasini baholash hamda manbalar orasidagi farqlar ketma-ket ko'rib chiqiladi. Dori dozalari faqat bayonnomada aniq yozilgan hollarda keltiriladi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Davolashni boshlash tamoyillari",
+   "content": [
+    "Bayonnomaga ko'ra davo tashxis tasniflash asosida aniqlangach darhol boshlanadi, go'daklar va yashash sharoiti yomon bemorlarga alohida e'tibor beriladi. Shifoxonaga parazitologik tashxisi tasdiqlangan barcha bemorlar yotqiziladi. Tashxis uchun suyak ko'migi, to'sh yoki kuymich suyagi punktati va RK-39 tez-testi tavsiya etilgan [2].",
+    "Respublika markazining 2017 yildagi taqdimotida laboratoriya tasdiqlagan holatlarga adekvat maxsus davo 24 soat ichida boshlanishi, yetarli miqdordagi Glyukantim yoki Ambizom zaxirasi doimiy saqlanishi lozimligi ko'rsatilgan. Standartda esa maxsus davo EMYUKITI va TPITI klinikalarida o'tkazilishi ko'rsatilgan [3, 4].",
+    "JSST ma'lumotiga ko'ra dunyoda har yili 50 000 dan 90 000 gacha yangi visseral leyshmanioz holati yuzaga keladi va ularning faqat 25-45 foizi JSSTga xabar qilinadi. Kasallik avj olish va o'lim salohiyatiga ega, shu sababli samarali preparatlarning mavjudligi va o'z vaqtida qo'llanishi davolash natijasini belgilaydi [6]."
+   ]
+  },
+  {
+   "heading": "Bazis davo",
+   "content": [
+    "Bazis davo yotish tartibi va maxsus parhezdan iborat bo'lib, bemorning umumiy holati yaxshilanib, tana harorati normallashguncha yotish rejimi tavsiya etiladi. Bu bosqich maxsus preparatlar bilan birga olib boriladigan majburiy asos hisoblanadi [2].",
+    "Standartlar jadvalida bemorga oqsilga boy parhez, vitaminoterapiya (B12, foliy kislotasi, C vitamini) hamda sog'lig'ini yaxshilash, desensibilizatsiya va immunomodulyatsiyaga qaratilgan terapiya belgilangan. Bu choralar kaxeksiya va kamqonlik fonida maxsus davo samarasini ta'minlashga xizmat qiladi [4]."
+   ]
+  },
+  {
+   "heading": "Besh valentli surma preparatlari",
+   "content": [
+    "Bayonnomada maxsus davo uchun meglumin antimonat (glyukantim) yoki natriy stiboglyukonat (pentostam) ko'rsatilgan. Ular 28-30 kun davomida kuniga tana vazni har bir kilogrammiga 20 mg miqdorda tomirga tomchilab yuboriladi [2].",
+    "Milliy yo'riqnomada ham visseral leyshmanioz bemorlari o'z vaqtida glyukantim va besh valentli surma preparati bilan davolansa, to'liq sog'ayishi, davolanmaganlarda esa ikkilamchi asoratlar tufayli o'lim 98-99 foizga yetishi qayd etilgan. Shu sababli surma preparatlari birinchi navbatdagi vosita sifatida tilga olinadi [1]."
+   ]
+  },
+  {
+   "heading": "Liposomal amfotersin B",
+   "content": [
+    "Bayonnomada amfotersin B ning liposomal shakli (ambisom) kuniga tana vazni har bir kilogrammiga 3-4 mg miqdorda tomirga tomchilab yuborilishi, butun kurs miqdori esa 15-24 mg/kg bo'lishi ko'rsatilgan. Bu variant surma preparatlariga muqobil sifatida keltirilgan [2].",
+    "Standartlar jadvalida amfotersin B va ambisom ham maxsus terapiya ro'yxatiga kiritilgan. Respublika markazining taqdimotida esa Glyukantim bilan bir qatorda Ambizom doimiy kamaytirilmaydigan zaxirada bo'lishi kerakligi alohida ta'kidlangan, bu uning milliy dastur uchun ahamiyatini ko'rsatadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Miltefosin va boshqa standart preparatlar",
+   "content": [
+    "Bayonnomada miltefosin tabletka shaklida, davolash kursi 28 kun deb ko'rsatilgan. Standartlar jadvalida maxsus terapiya sifatida glyukantim, meglumin antimonat, pentamidin izotionat, paromomitsin, miltefosin, amfotersin B va ambisom nomlari ketma-ket keltirilgan [2, 4].",
+    "Standart matnida bu preparatlar JSST ko'rsatmalari bo'yicha tayinlanishi nazarda tutilgan, lekin jadvalda har bir dori uchun alohida doza berilmagan. Shu sababli bu mavzuda pentamidin va paromomitsin dozalari keltirilmaydi, tanlov bayonnoma va yuqori darajadagi ko'rsatmalarga muvofiq amalga oshiriladi [4]."
+   ]
+  },
+  {
+   "heading": "Patogenetik va simptomatik davo",
+   "content": [
+    "Bayonnomaga ko'ra patogenetik davo sifatida sefalosporin yoki penitsillin qatoridagi antibakterial vositalar, qon preparatlari (plazma, eritrotsitar massa, qon o'rnini bosuvchilar), B va C guruhi vitaminlari hamda temirga boy vositalar tayinlanadi. Barcha dorilar yosh va tana vazniga qarab belgilanadi [2].",
+    "Bu choralar kasallikning ikkilamchi bakterial asoratlari va kamqonlikka qarshi qaratilgan. Taqdimotda esa ko'rsatma bo'lganda splenektomiya o'tkazilishi ham eslatilgan, ammo bu ma'lumot talabalik taqdimotidan olingan bo'lib, milliy bayonnomada tilga olinmagan [2, 5]."
+   ]
+  },
+  {
+   "heading": "Davolash samarasini baholash va residiv",
+   "content": [
+    "Yo'riqnomaga ko'ra shifokor residivli bemorlarni har hafta, hatto undan tez-tez ko'rib, harorat ko'tarilmasligi, holat yaxshilanishi, taloq hajmi kichrayishi, gemoglobin ko'payishi va vazn oshishini baholaydi. Residiv taxminan 5 foiz bemorlarda, OIV bilan kasallanganlarda 12 oy ichida 50 foizgacha bo'lishi mumkin [1].",
+    "Davolashni baholash testi klinik sog'ayish bo'lmaganda, klinik residivda yoki davo uzilganda o'tkaziladi. Residivli bemor testi manfiy bo'lgandagina shifoxonadan chiqariladi. JSST ham dorilar parazitni organizmdan to'liq chiqarmasligi, shu bois immunosupressiyada qaytalanish xavfi saqlanishini ta'kidlaydi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Manbalar orasidagi farqlar",
+   "content": [
+    "Talabalik taqdimotida solyusurmin, neostibozan va glyukantim kuniga 0,05 g/kg dozada boshlanib, kurs 7-10 kun deyilgan. Bu ma'lumot bayonnomadagi 28-30 kunlik kurs va 20 mg/kg dozadan farq qiladi, shuning uchun amaliyotda bayonnoma ustun hisoblanadi [2, 5].",
+    "Pavlovich va Andreev darsligida pentostam, solyusurmin va boshqa besh valentli surma birikmalari ko'rsatilgan, ular samarasiz bo'lsa pentamidin va amfotersin B qo'llanishi yozilgan. Bu ro'yxat umuman bayonnoma yo'nalishiga mos, ammo milliy dozalar bu manbada keltirilmagan [7]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor go'daklar, yashash sharoiti yomon va OIV bilan kasallangan bemorlarni birinchi navbatda ajratib, davoni kechiktirmasligi kerak. Davo boshlanishidan oldin suyak ko'migi punktati olinishi parazit miqdorini aniqlash va keyingi samarani baholash imkonini beradi [1].",
+    "Shuningdek u hududda Glyukantim va Ambizom zaxirasi mavjudligini nazorat qiladi, davo kursini uzmaslikka erishadi va bemorni dispanser nazoratiga oladi. Bu choralar o'limning oldini olish va residivlarni erta aniqlashga xizmat qiladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Visseral leyshmaniozni davolashda milliy bayonnoma bo'yicha asosiy preparatlar glyukantim yoki pentostam (28-30 kun, 20 mg/kg), liposomal amfotersin B (3-4 mg/kg, kurs 15-24 mg/kg) va miltefosin (28 kun) hisoblanadi, ularga pentamidin va paromomitsin standartlar ro'yxatida qo'shiladi. Bazis, patogenetik davo va dispanser nazorati majburiy hamroh bo'ladi [2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "Юлдашова С. Висцеральный лейшманиоз (talabalik taqdimoti). xayrullokomilov.uz/kutubxona, material ID 1579.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736."
+ ]
 }

@@ -1,69 +1,104 @@
 {
-  "number": 137,
-  "title": "137. Uyushgan guruhlarda bolalar orasida muloqotdagi gelmintozlar bilan zararlanish holatlari ro'yxatga olinganda o'tkazilgan chora-tadbirlar.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Uyushgan bolalar guruhida enterobioz yoki gimenolepidoz holati ro'yxatga olingach, guruh epidemiologik o'choq hisoblanadi va qayta zararlanish xavfi saqlanib qoladi. Bu bosqichda rejali profilaktika emas, aniqlangan holatga javob beruvchi epidemiyaga qarshi, ya'ni o'choq tadbirlari o'tkaziladi [1].",
-      "Mavzuda holatni tasdiqlash, o'choqni tekshirish, aloqadorlarni aniqlash va tekshirish, davolash, chetlatish qoidalari, o'choqdagi dezinfeksiya, atrof-muhit namunalari va davolashdan keyingi kuzatuv ketma-ketlikda yoritiladi. Tadbirlar milliy yo'riqnoma, davolash bayonnomasi va laboratoriya yo'riqnomasiga asoslanadi [1, 2, 3]."
-    ]},
-    {"heading": "Holatni laboratoriya orqali tasdiqlash", "content": [
-      "O'choq tadbirlari tasdiqlangan tashxisdan keyin boshlanadi. Enterobiozda perianal qirindi, gimenolepidozda najas koproovoskopiyasi qo'llanadi va tekshiruvga yuborilganda yo'llanmada dastlabki tashxis yozilishi lozim [3].",
-      "Gimenolepidozda tuxumlar tez nobud bo'lgani uchun najas dastlabki 2 soatda tekshiriladi va tekshiruv 5-7 kun oralatib 3 marta takrorlanadi. Enterobiozda tekshiruv ertalab, yuvinishdan oldin 3-5 martagacha o'tkaziladi [2, 3]."
-    ]},
-    {"heading": "O'choqni epidemiologik tekshirish", "content": [
-      "Yo'riqnomada o'choqlarni sanitariya-epidemiologik tekshirish yuqish yo'llari va qo'zg'atuvchi tarqalish omillarini, sanitariya tartibining buzilishini hamda atrofdagi zararlanganlarni oila, bolalar muassasalari kabi joylarda aniqlashga qaratilgan. Tekshiruv natijasi dalolatnoma bilan rasmiylashtiriladi [1].",
-      "Dalolatnomada aniqlangan kamchiliklarni bartaraf etish muddatlari ko'rsatiladi. Shu tariqa o'choqdagi tadbirlar aniq muddatlar bilan bog'lanadi va faqat tavsiya darajasida qolmaydi [1]."
-    ]},
-    {"heading": "Aloqadorlarni aniqlash va tekshirish", "content": [
-      "Enterobioz yoki gimenolepidoz bilan muloqotdagilar, ya'ni oila a'zolari va guruhdagi bolalar, tekshiriladi yoki tekshiruvsiz profilaktik davolanadi. Aloqadorlarni davolash va davolashdan keyingi nazorat tahlillarini yashash yoki ish joyidagi shifokor hamda DPM rahbarlari ta'minlaydi [1].",
-      "Gimenolepidoz bilan zararlanganlar 5-7 kun oralatib, enterobiozga gumon bo'lganlar 2-3 kun oralatib 3 marta tekshiriladi. Darslikda ham o'choqdagi kontakt shaxslar tekshirilib, so'ng degelmintizatsiya qilinishi lozimligi aytilgan [1, 6]."
-    ]},
-    {"heading": "Jamoani qamrab olish mezoni", "content": [
-      "Bolalar jamoasida bir marta tekshirishda enterobioz 15 foiz va undan ko'p aniqlansa, jamoa 100 foiz davolanadi va sog'lomlashtirish samarasi laboratoriyada qayta tahlil qilinadi. Bunday muassasada bolalar va xodimlarning barchasiga 1-2 kurs degelmintizatsiya o'tkaziladi [1].",
-      "Yopiq turdagi muassasada enterobioz aniqlangan bolalar davolanadi, qolganlarga esa oldindan tekshiruvsiz profilaktik kurs beriladi. Shu bois holat ro'yxatga olingach, muassasa turi va tekshiruv natijasi davolash hajmini belgilaydi [1]."
-    ]},
-    {"heading": "Dori bilan davolash", "content": [
-      "Enterobiozda alomatsiz shakl dorisiz, uch kun nam usulda tozalash va gigiena bilan ham davolanishi mumkin, boshqa shakllarda albendazol 400 mg (2 yoshdan oshgan bolalarga), pirantel 10 mg/kg, mebendazol yoki kardobendatsim beriladi. Pirantel, mebendazol va kardobendatsim kursi 2 haftadan keyin takrorlanadi [2].",
-      "Gimenolepidozda bayonnoma tashxis qo'yilgach tezda statsionar yoki kunduzgi statsionarda davolashni tavsiya etadi; praziquantel 25 mg/kg bir marta beriladi, zarur bo'lsa 10 kundan keyin takrorlanadi. Samarali degelmintizatsiya uchun oila a'zolari va muassasa tarbiyalanuvchilari bir vaqtda davolanadi [2]."
-    ]},
-    {"heading": "Kasallarni chetlatish va ishga ruxsat", "content": [
-      "Ostritsa bilan zararlangan bolalar davolanish va nazoratli qayta tekshiruv davrida bog'cha va maktabga vaqtincha qatnamaydi, 15 foiz va undan yuqori zararlanishda esa bolalar chetlatilmay butun jamoa davolanadi. Davolash dam olish kunlarida o'tkaziladi, chunki davolangan bola to'rt kun tuxum ajratadi [1].",
-      "Zararlangan xodim atrofga yuqtirish xavfi bilan bog'liq bo'lmagan ishga o'tkaziladi, imkon bo'lmasa Bosh davlat sanitariya shifokori qarori bilan vaqtincha chetlatiladi. Dekret va unga yaqin kasbdagi kattalar yo'riqnomaga ko'ra davolanish davrida ishdan chetlatilmaydi [1]."
-    ]},
-    {"heading": "O'choqdagi joriy dezinfeksiya", "content": [
-      "O'choqda tuvaklar alohida ajratilib zararsizlantiriladi, o'rindiq va idish-tovoqlar qaynoq suv bilan ishlanadi, bolalarga alohida sochiq beriladi. Ichki kiyim va choyshablar dazmollanadi, qattiq o'yinchoq, eshik tutqichi, stol va partalar sovun-soda eritmasi bilan tozalanadi [1].",
-      "Xonalarda kuniga 2 marta nam yig'ishtirish o'tkaziladi, xlorli eritmalar gijja tuxumiga ta'sir qilmaydi. Gimenolepidoz bemori yotgan xona va foydalanilgan buyumlar kundalik dezinfeksiya qilinib, nam artish ruxsat etilgan dezinfeksiya vositalari bilan bajariladi [1, 2]."
-    ]},
-    {"heading": "Atrof-muhitdan namuna olish", "content": [
-      "Muassasada o'yinchoq, choyshab, gilam, eshik tutqichi, stol, bolalar va xodimlar qo'li hamda qum va tuproqdan surtma olinadi. Kasallik topilgan muassasada namunalar soni 2 baravar ko'paytiriladi, o'choqda kompleks sog'lomlashtirish davrida yiliga 2-3 marta namuna olinadi [1].",
-      "Birorta namunada tuxum topilishi sanitariya-gigiena tartibining qo'pol buzilishi hisoblanadi va DSENM kompleks sog'lomlashtirish tayinlaydi. Tartibni buzgan rahbariyat davlat sanitariya nazorati qonuni asosida javobgarlikka tortiladi [1]."
-    ]},
-    {"heading": "Qabul cheklovlari va gigiena ishi", "content": [
-      "Gelmintozlarga tekshirilmagan bolalarni muassasaga qabul qilish, shuningdek bir oy va undan ko'proq uzilishdan keyin qaytganlarni tekshiruvsiz qabul qilish man etiladi. O'choqda bolalarga shaxsiy gigiena qoidalarini o'rgatish va xodimlar nazoratini kuchaytirish talab qilinadi [1].",
-      "Oila a'zolari orasida yuqish omillari va profilaktika bo'yicha sanitariya-targ'ibot kuchaytiriladi. Enterobiozda qo'llarni ikki marta sovunlash, ichki kiyimni har kuni almashtirish va dazmollash, tirnoqni qisqa olish talab qilinadi [1]."
-    ]},
-    {"heading": "Davolashdan keyingi kuzatuv", "content": [
-      "Yo'riqnomada gimenolepidozda 6 oylik dispanser kuzatuvi va 1, 3, 6 oyda qayta tahlil, enterobiozda esa 2-3 kun oralatib 3 marta perianal surtma ko'rsatilgan. Laboratoriya yo'riqnomasi ham gimenolepidozda 6 oy ichida kamida 3 marta najas tekshirishni talab qiladi [1, 3].",
-      "Bayonnomada gimenolepidozda davolash tugagach 3 haftadan keyin 3 marta tekshirish va 6 oygacha kuzatuv, enterobiozda 2 hafta va 1 oydan keyin tekshirish va 3 oygacha kuzatuv belgilangan. Standartda esa gimenolepidozda 24 kundan, enterobiozda 2 haftadan keyin manfiy natija talab qilinadi [2, 4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog o'choqda tadbirlarni to'g'ri ketma-ketlikda tashkil etadi: tasdiqlash, o'choqni tekshirish, aloqadorlarni davolash, dezinfeksiya, namuna olish va kuzatuv. Bu tadbirlar bir-birini to'ldiradi, ularning birortasini tushirib qoldirish tadbir samarasini pasaytiradi [1, 2].",
-      "Zararlangan bolalar tez-tez qayta zararlanishga uchragani uchun muassasa va oila tadbirlari birga o'tkazilishi kerak. Shu bois davolovchi shifokor, muassasa rahbarlari va ota-onalar hamkorligi o'choq tadbirlarining muvaffaqiyat sharti hisoblanadi [1, 5]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Ushbu manbalarda enterobioz va gimenolepidoz holatlari uchun shoshilinch xabarnoma shakli va muddati alohida ko'rsatilmagan, shu sababli bu masala bo'yicha aniq tartib keltirilmadi. Yo'riqnomadagi o'choqni tekshirish dalolatnomasi gelmintozlarning umumiy qismida berilgan, uni muloqotdagi gelmintozlarga qo'llash tartibi alohida aniqlanmagan [1].",
-      "Nazorat tekshiruvlari muddatlari yo'riqnoma, bayonnoma va standartda farq qiladi (3 hafta, 24 kun, 1-3-6 oy). Dori dozalari faqat bayonnomadan olindi va qo'llashdan oldin amaldagi hujjat bilan solishtirilishi kerak [1, 2, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Muloqotdagi gelmintoz holati ro'yxatga olingach o'tkaziladigan chora-tadbirlar laboratoriya tasdig'idan boshlanib, o'choqni tekshirish, aloqadorlarni tekshirish va davolash, chetlatish qoidalari, dezinfeksiya, atrof-muhit namunalari hamda dispanser kuzatuvini o'z ichiga oladi. Bularning maqsadi guruhdagi manbani tezda yo'qotish va qayta zararlanishning oldini olishdir [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737."
-  ]
+ "number": 137,
+ "title": "137. Uyushgan guruhlarda bolalar orasida muloqotdagi gelmintozlar bilan zararlanish holatlari ro'yxatga olinganda o'tkazilgan chora-tadbirlar.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Uyushgan bolalar guruhida enterobioz yoki gimenolepidoz holati ro'yxatga olingach, guruh epidemiologik o'choq hisoblanadi va qayta zararlanish xavfi saqlanib qoladi. Bu bosqichda rejali profilaktika emas, aniqlangan holatga javob beruvchi epidemiyaga qarshi, ya'ni o'choq tadbirlari o'tkaziladi [1].",
+    "Mavzuda holatni tasdiqlash, o'choqni tekshirish, aloqadorlarni aniqlash va tekshirish, davolash, chetlatish qoidalari, o'choqdagi dezinfeksiya, atrof-muhit namunalari va davolashdan keyingi kuzatuv ketma-ketlikda yoritiladi. Tadbirlar milliy yo'riqnoma, davolash bayonnomasi va laboratoriya yo'riqnomasiga asoslanadi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Holatni laboratoriya orqali tasdiqlash",
+   "content": [
+    "O'choq tadbirlari tasdiqlangan tashxisdan keyin boshlanadi. Enterobiozda perianal qirindi, gimenolepidozda najas koproovoskopiyasi qo'llanadi va tekshiruvga yuborilganda yo'llanmada dastlabki tashxis yozilishi lozim [3].",
+    "Gimenolepidozda tuxumlar tez nobud bo'lgani uchun najas dastlabki 2 soatda tekshiriladi va tekshiruv 5-7 kun oralatib 3 marta takrorlanadi. Enterobiozda tekshiruv ertalab, yuvinishdan oldin 3-5 martagacha o'tkaziladi [2, 3]."
+   ]
+  },
+  {
+   "heading": "O'choqni epidemiologik tekshirish",
+   "content": [
+    "Yo'riqnomada o'choqlarni sanitariya-epidemiologik tekshirish yuqish yo'llari va qo'zg'atuvchi tarqalish omillarini, sanitariya tartibining buzilishini hamda atrofdagi zararlanganlarni oila, bolalar muassasalari kabi joylarda aniqlashga qaratilgan. Tekshiruv natijasi dalolatnoma bilan rasmiylashtiriladi [1].",
+    "Dalolatnomada aniqlangan kamchiliklarni bartaraf etish muddatlari ko'rsatiladi. Shu tariqa o'choqdagi tadbirlar aniq muddatlar bilan bog'lanadi va faqat tavsiya darajasida qolmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Aloqadorlarni aniqlash va tekshirish",
+   "content": [
+    "Enterobioz yoki gimenolepidoz bilan muloqotdagilar, ya'ni oila a'zolari va guruhdagi bolalar, tekshiriladi yoki tekshiruvsiz profilaktik davolanadi. Aloqadorlarni davolash va davolashdan keyingi nazorat tahlillarini yashash yoki ish joyidagi shifokor hamda DPM rahbarlari ta'minlaydi [1].",
+    "Gimenolepidoz bilan zararlanganlar 5-7 kun oralatib, enterobiozga gumon bo'lganlar 2-3 kun oralatib 3 marta tekshiriladi. Darslikda ham o'choqdagi kontakt shaxslar tekshirilib, so'ng degelmintizatsiya qilinishi lozimligi aytilgan [1, 6]."
+   ]
+  },
+  {
+   "heading": "Jamoani qamrab olish mezoni",
+   "content": [
+    "Bolalar jamoasida bir marta tekshirishda enterobioz 15 foiz va undan ko'p aniqlansa, jamoa 100 foiz davolanadi va sog'lomlashtirish samarasi laboratoriyada qayta tahlil qilinadi. Bunday muassasada bolalar va xodimlarning barchasiga 1-2 kurs degelmintizatsiya o'tkaziladi [1].",
+    "Yopiq turdagi muassasada enterobioz aniqlangan bolalar davolanadi, qolganlarga esa oldindan tekshiruvsiz profilaktik kurs beriladi. Shu bois holat ro'yxatga olingach, muassasa turi va tekshiruv natijasi davolash hajmini belgilaydi [1]."
+   ]
+  },
+  {
+   "heading": "Dori bilan davolash",
+   "content": [
+    "Enterobiozda alomatsiz shakl dorisiz, uch kun nam usulda tozalash va gigiena bilan ham davolanishi mumkin, boshqa shakllarda albendazol 400 mg (2 yoshdan oshgan bolalarga), pirantel 10 mg/kg, mebendazol yoki kardobendatsim beriladi. Pirantel, mebendazol va kardobendatsim kursi 2 haftadan keyin takrorlanadi [2].",
+    "Gimenolepidozda bayonnoma tashxis qo'yilgach tezda statsionar yoki kunduzgi statsionarda davolashni tavsiya etadi; praziquantel 25 mg/kg bir marta beriladi, zarur bo'lsa 10 kundan keyin takrorlanadi. Samarali degelmintizatsiya uchun oila a'zolari va muassasa tarbiyalanuvchilari bir vaqtda davolanadi [2]."
+   ]
+  },
+  {
+   "heading": "Kasallarni chetlatish va ishga ruxsat",
+   "content": [
+    "Ostritsa bilan zararlangan bolalar davolanish va nazoratli qayta tekshiruv davrida bog'cha va maktabga vaqtincha qatnamaydi, 15 foiz va undan yuqori zararlanishda esa bolalar chetlatilmay butun jamoa davolanadi. Davolash dam olish kunlarida o'tkaziladi, chunki davolangan bola to'rt kun tuxum ajratadi [1].",
+    "Zararlangan xodim atrofga yuqtirish xavfi bilan bog'liq bo'lmagan ishga o'tkaziladi, imkon bo'lmasa Bosh davlat sanitariya shifokori qarori bilan vaqtincha chetlatiladi. Dekret va unga yaqin kasbdagi kattalar yo'riqnomaga ko'ra davolanish davrida ishdan chetlatilmaydi [1]."
+   ]
+  },
+  {
+   "heading": "O'choqdagi joriy dezinfeksiya",
+   "content": [
+    "O'choqda tuvaklar alohida ajratilib zararsizlantiriladi, o'rindiq va idish-tovoqlar qaynoq suv bilan ishlanadi, bolalarga alohida sochiq beriladi. Ichki kiyim va choyshablar dazmollanadi, qattiq o'yinchoq, eshik tutqichi, stol va partalar sovun-soda eritmasi bilan tozalanadi [1].",
+    "Xonalarda kuniga 2 marta nam yig'ishtirish o'tkaziladi, xlorli eritmalar gijja tuxumiga ta'sir qilmaydi. Gimenolepidoz bemori yotgan xona va foydalanilgan buyumlar kundalik dezinfeksiya qilinib, nam artish ruxsat etilgan dezinfeksiya vositalari bilan bajariladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Atrof-muhitdan namuna olish",
+   "content": [
+    "Muassasada o'yinchoq, choyshab, gilam, eshik tutqichi, stol, bolalar va xodimlar qo'li hamda qum va tuproqdan surtma olinadi. Kasallik topilgan muassasada namunalar soni 2 baravar ko'paytiriladi, o'choqda kompleks sog'lomlashtirish davrida yiliga 2-3 marta namuna olinadi [1].",
+    "Birorta namunada tuxum topilishi sanitariya-gigiena tartibining qo'pol buzilishi hisoblanadi va DSENM kompleks sog'lomlashtirish tayinlaydi. Tartibni buzgan rahbariyat davlat sanitariya nazorati qonuni asosida javobgarlikka tortiladi [1]."
+   ]
+  },
+  {
+   "heading": "Qabul cheklovlari va gigiena ishi",
+   "content": [
+    "Gelmintozlarga tekshirilmagan bolalarni muassasaga qabul qilish, shuningdek bir oy va undan ko'proq uzilishdan keyin qaytganlarni tekshiruvsiz qabul qilish man etiladi. O'choqda bolalarga shaxsiy gigiena qoidalarini o'rgatish va xodimlar nazoratini kuchaytirish talab qilinadi [1].",
+    "Oila a'zolari orasida yuqish omillari va profilaktika bo'yicha sanitariya-targ'ibot kuchaytiriladi. Enterobiozda qo'llarni ikki marta sovunlash, ichki kiyimni har kuni almashtirish va dazmollash, tirnoqni qisqa olish talab qilinadi [1]."
+   ]
+  },
+  {
+   "heading": "Davolashdan keyingi kuzatuv",
+   "content": [
+    "Yo'riqnomada gimenolepidozda 6 oylik dispanser kuzatuvi va 1, 3, 6 oyda qayta tahlil, enterobiozda esa 2-3 kun oralatib 3 marta perianal surtma ko'rsatilgan. Laboratoriya yo'riqnomasi ham gimenolepidozda 6 oy ichida kamida 3 marta najas tekshirishni talab qiladi [1, 3].",
+    "Bayonnomada gimenolepidozda davolash tugagach 3 haftadan keyin 3 marta tekshirish va 6 oygacha kuzatuv, enterobiozda 2 hafta va 1 oydan keyin tekshirish va 3 oygacha kuzatuv belgilangan. Standartda esa gimenolepidozda 24 kundan, enterobiozda 2 haftadan keyin manfiy natija talab qilinadi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog o'choqda tadbirlarni to'g'ri ketma-ketlikda tashkil etadi: tasdiqlash, o'choqni tekshirish, aloqadorlarni davolash, dezinfeksiya, namuna olish va kuzatuv. Bu tadbirlar bir-birini to'ldiradi, ularning birortasini tushirib qoldirish tadbir samarasini pasaytiradi [1, 2].",
+    "Zararlangan bolalar tez-tez qayta zararlanishga uchragani uchun muassasa va oila tadbirlari birga o'tkazilishi kerak. Shu bois davolovchi shifokor, muassasa rahbarlari va ota-onalar hamkorligi o'choq tadbirlarining muvaffaqiyat sharti hisoblanadi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Muloqotdagi gelmintoz holati ro'yxatga olingach o'tkaziladigan chora-tadbirlar laboratoriya tasdig'idan boshlanib, o'choqni tekshirish, aloqadorlarni tekshirish va davolash, chetlatish qoidalari, dezinfeksiya, atrof-muhit namunalari hamda dispanser kuzatuvini o'z ichiga oladi. Bularning maqsadi guruhdagi manbani tezda yo'qotish va qayta zararlanishning oldini olishdir [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "Parazitar kasalliklarni tashhisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737."
+ ]
 }

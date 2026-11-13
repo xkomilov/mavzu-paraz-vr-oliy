@@ -1,110 +1,102 @@
 {
-  "number": 49,
-  "title": "49. O'tkazilgan deratizatsiya samarasi qanday aniqlanadi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Deratizatsiya kemiruvchilarni yo'qotish bo'yicha tadbirlar majmuasi bo'lib, zoonoz teri leyshmaniozida u manbani, ya'ni katta qum sichqonlarini tugatishga qaratilgan. Ammo ish bajarilgani uning natija berganini anglatmaydi, shu sababli samarani aniq usullar bilan tekshirish deratizatsiyaning majburiy qismi hisoblanadi [1, 2].",
-        "Mavzuda avval nazorat shakli va nazorat guruhi vazifalari, so'ng kemiruvchilarni hisobga olish, hujjatlar, mexanik usulda samarani baholash va epidemiologik ko'rsatkichlar ko'rib chiqiladi. Keyin iskabtoparlar sonini hisobga olish bilan bog'liqlik, parazitolog uchun ahamiyati va tasdiqlanmagan jihatlar yoritiladi [1, 3]."
-      ]
-    },
-    {
-      "heading": "Nazoratning zarurligi",
-      "content": [
-        "Yo'riqnomaga ko'ra deratizatsiya o'tkazilgandan keyin albatta uning samarasini tekshirish lozim. Katta qum sichqonlariga qarshi kurashda asosiy tadbirlardan biri bu o'tkazilgan deratizatsiya sifatini va samarasini nazorat qilishdir. Bu qoida Surxondaryo viloyati entomologining taqdimotida ham takrorlangan [1, 2].",
-        "Nazoratning zarurligi qum sichqonlarining xususiyatlari bilan bog'liq: ular bir maydondan ikkinchisiga ko'chib o'tadi, qolib ketgan tirik inlar esa o'choqni qayta tiklashi mumkin. Shu sababli kemiruvchilarni to'liq qirib tashlash ishlari to'liq amalga oshirilishi talab qilinadi [1]."
-      ]
-    },
-    {
-      "heading": "Joriy nazorat",
-      "content": [
-        "Nazoratning asosiy shakli joriy nazoratdir. Unda deratizatsiya qilingan maydonlar qabul qilinadi va qilingan ishlarning samarasi tekshiriladi. Deratizatsiya sifatini aniqlash uchun ish jarayonida ham joriy nazorat olib boriladi, ya'ni baholash ishdan keyin emas, bajarilish davomida boshlanadi [1, 2].",
-        "Shu maqsadda viloyat va tuman DSENMlarida nazorat guruhlari tashkil etiladi. Guruhga tajribali entomolog, zoolog yoki dezinstruktor rahbarlik qiladi. Mustaqil nazorat guruhi bo'lishi ish bajaruvchilarning o'z natijasini o'zi baholashidan kelib chiqadigan xatolarni kamaytiradi. Nazorat natijalari ishni qabul qilish uchun asos bo'ladi [1]."
-      ]
-    },
-    {
-      "heading": "Nazorat guruhining vazifalari",
-      "content": [
-        "Nazorat guruhining vazifalari uchta: dorilashdan oldin katta qum sichqonlari sonini aniqlash, otryad yoki brigada ishini joriy nazorat qilish va deratizatsiya o'tkazilgandan keyin katta qum sichqonlari sonini aniqlash. Samara aynan oldingi va keyingi sonni solishtirish bilan baholanadi [1, 2].",
-        "Bu mantiq oddiy, ammo undagi dastlabki hisob juda muhim. Agar dorilashdan oldin to'dalar soni aniq sanalmagan bo'lsa, keyingi natijani taqqoslab bo'lmaydi. Shu sababli zoologik tekshiruv va xaritalash deratizatsiya boshlanishidan oldin o'tkaziladi, uning natijasi esa hujjatlashtiriladi [1]."
-      ]
-    },
-    {
-      "heading": "Dezinfektor tomonidan oylik tekshiruv",
-      "content": [
-        "Har bir dezinfektorga ma'lum maydon beriladi va u har oyda 2 marta deratizatsiya samarasini tekshiradi. Agar tirik uyalar qolgan bo'lsa, ularni dorilaydi. Shu tariqa samara tekshiruvi bir vaqtning o'zida qolgan o'choqlarni tugatish bilan birga olib boriladi [1, 2].",
-        "Sifatni oshirishning yaxshi usuli «tozalash» deb ataladi: katta qum sichqonlarining qolib ketgan inlarini topib, ularni qayta deratizatsiya qilish. Demak, nazorat faqat hisobga olish emas, tuzatuvchi tadbir ham bo'lib, tirik inlar aniqlanganda ular qayta ishlanadi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Kemiruvchilarni hisobga olish",
-      "content": [
-        "Deratizatsiya qilinadigan maydon zoologik tekshiriladi. Qum sichqonlari soni, ularning yashaydigan va yashamaydigan inlari, quduqlar, chorvachilik va ayniqsa parrandachilik fermalari, hayvonlar boqiladigan maydonlar e'tiborga olinadi. Asosiy hujjat maydonning 1:10000 yoki 1:25000 masshtabli kontur xaritasidir. Bu ma'lumotlar deratizatsiyadan oldingi dastlabki holatni belgilaydi [1, 2].",
-        "Xaritada qum sichqonlari to'dalari soni, yashaydigan va yashamaydigan to'dalar inlari «+» va «0» kabi belgilar bilan ko'rsatiladi. Belgilangan yo'nalish bo'yicha dezinfektorlar izidan guruh rahbari borib, dezinfektor qo'l ko'tarib bergan signal asosida xaritaga belgilaydi. Birlamchi boshlang'ich karta shu tarzda tuziladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Hisobga olish jadvallari",
-      "content": [
-        "Surxondaryo taqdimotidagi jadval hududni, mahallani, rejalashtirilgan, tekshirilgan va kemiruvchilar tarqalgan gektar maydonini, ishlov berilgan foizni, katta va qizil dumli qum sichqonlari to'dalarining umumiy va yashayotgan sonini, boshqa kemiruvchilarni hamda sarflangan zaharli vositani (brodifakum) o'z ichiga oladi [2].",
-        "Yo'riqnomaning ilovasida ham deratizatsiya hajmi uch tur bo'yicha alohida qayd etiladi: ishlov berilgan maydon (ga) va aniqlangan koloniyalar, ularning jami hamda tirik soni. Tirik koloniyalarning ajratib ko'rsatilishi deratizatsiya samarasini bevosita baholash imkonini beradi. Shu ilovada iskabtoparlarga qarshi ishlar hajmi ham alohida jadvalda yuritiladi [1]."
-      ]
-    },
-    {
-      "heading": "Mexanik usulda samarani baholash",
-      "content": [
-        "To'dalarni mexanik buzishda samara 1 gektar maydonda qolgan to'dalar sonini haydashdan oldingi to'dalar soni bilan taqqoslab aniqlanadi. Ishlangan maydonlar 1,5-2 oydan keyin qayta tekshiriladi va qolgan to'dalar yana haydaladi. Bu usulda baholash natijasi bevosita dala sharoitida hisoblangan to'dalar soniga asoslanadi [1].",
-        "Zoolog bosh bo'lgan guruh zanjir usulida harakat qiladi: o'rtada traktor, ikki chetda dezinfektorlar. Ular to'dalarning buzilish sifatini nazorat qiladi, qochib chiqqan sichqonni maxsus to'r bilan ushlaydi. Zoolog orqadan xaritaga to'dalarni belgilab boradi, bu keyingi baholash uchun asos bo'ladi [1]."
-      ]
-    },
-    {
-      "heading": "Hisobotda aks etadigan ko'rsatkichlar",
-      "content": [
-        "Hamma ishlar bajarilgach, mas'ul rahbar batafsil hisobot tayyorlaydi. Unda shuningdek deratizatsiyadan oldingi va keyingi katta qum sichqonlari soni, chora-tadbirlardan oldingi va keyingi fauna va iskabtoparlar soni, ish sifati ta'rifi, guruh tarkibi hamda kimyoviy vositalar dozasi ko'rsatiladi [1].",
-        "Hisobotda ishlangan maydonning tabiiy-tarixiy tavsifi va meteorologik sharoit (yomg'ir, qor, shamol) ham yoziladi, chunki ular natijaga ta'sir qiladi. Xulosada o'tkazilgan kompleks choralar sifati, kamchiliklar va ularni yo'qotish bo'yicha tavsiyalar beriladi. Bu ma'lumotlar keyingi mavsumda tadbirlarni qayta rejalashtirishda ishlatiladi [1]."
-      ]
-    },
-    {
-      "heading": "Epidemiologik samara ko'rsatkichlari",
-      "content": [
-        "Deratizatsiyaning haqiqiy natijasi kasallanishning kamayishida namoyon bo'ladi. Yo'riqnomada aholi orasidagi kasallanish darajasi, kasallanganlarning o'rtacha yoshi va «yosh tarqalganlik» ko'rsatkichi o'rganilishi, shuningdek iskabtoparlarning fenologik kuzatuv jadvali yuritilishi ko'rsatilgan. Ko'rsatkichlar bir necha yil davomida taqqoslanganda tadbirlarning haqiqiy ta'siri yanada aniq ko'rinadi, shu sababli yillik tahlil ham kerak [1].",
-        "Qum sichqonlari to'dalari bo'lmasa-da kasallanish yuqori bo'lgan aholi punktlarida sabab aniqlanadi. Bunday holat deratizatsiya yagona chora emasligini, sifatsiz o'tkazilgan tadbirlar yoki immuniteti yo'q aholining ommaviy kirib kelishi o'chog'ning saqlanishiga olib kelishi mumkinligini ko'rsatadi. Shu sababli deratizatsiya samarasi kasallanish ko'rsatkichlari bilan birga baholanadi [1]."
-      ]
-    },
-    {
-      "heading": "Dezinseksiya samarasi bilan bog'liqlik",
-      "content": [
-        "Deratizatsiya kemiruvchi inlarini iskabtoparga qarshi ishlash bilan birga olib boriladi, shuning uchun iskabtoparlar sonini hisobga olish ham bilvosita samara ko'rsatkichidir. Lebedevaning taqdimotida xonalardagi ishlov samarasi 24 soatdan keyin, so'ng har 3-5 sutkada kamida 80 foiz artropodlar nobud bo'lguncha tekshirilishi aytilgan [4].",
-        "Yo'riqnomada ham dezinseksiya samarasi dorilashdan oldingi va keyingi iskabtoparlar sonini solishtirish asosida baholanishi, populyatsiya monitoringi natijasida samara ko'rsatkichi belgilanishi yozilgan. Bu 80 foizlik mezon xonalardagi ishlovga tegishli, kemiruvchilar uchun alohida mezon topilmadi. Shuning uchun kemiruvchilar bo'yicha samara alohida usul bilan, ya'ni to'dalar soni orqali aniqlanadi [1, 4]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Parazitolog-shifokor deratizatsiya hujjatlarini, kontur xaritasini, hisobga olish jadvallarini va hisobotni tekshira olishi kerak. Samara baholanmaydigan yoki ma'lumotlari rasmiy to'ldirilgan ish epidemik xavfni yashiradi. Respublika markazi taqdimotida epidemiologik tekshiruvlarning rasmiy o'tkazilishi kamchilik sifatida qayd etilgan [3].",
-        "Shuning uchun nazorat tajribali mutaxassis tomonidan, haqiqiy dala tekshiruvi bilan o'tkazilishi kerak. Natijalar keyingi yil rejasiga kiritiladi: qayta ishlanishi lozim bo'lgan maydonlar, deratizatsiya turlari muddatlari va resurslar shu asosda aniqlanadi. Bu o'choqni boshqarishning uzluksiz sikli hisoblanadi [1, 3]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda deratizatsiya samaradorligining raqamli mezoni, masalan, to'dalar sonining necha foizga kamayishi qoniqarli hisoblanishi ko'rsatilmagan. Kemiruvchilar sonini hisobga olish va samara nazorati bo'yicha Lebedevaning taqdimotlari matn qatlamiga ega emas, ularning mazmuni faqat sarlavhadan ma'lum [5].",
-        "Surxondaryo viloyati taqdimotining deratizatsiya bo'limi mazmunan yo'riqnomaning tegishli qismiga mos keladi, mustaqil yangi ma'lumot sifatida baholanmadi. Hududlar bo'yicha deratizatsiya natijalari va samara ko'rsatkichlarining haqiqiy qiymatlari matnda berilmagan, shuning uchun ularga doir raqam keltirilmadi. Shu bois samara mezonlarini aniqlash uchun hududiy yo'riqnomalar bilan qo'shimcha tanishish kerak [1, 2]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Deratizatsiya samarasi nazorat guruhi tomonidan dorilashdan oldingi va keyingi katta qum sichqonlari sonini solishtirish, dezinfektorlarning oyiga ikki marta tekshiruvi, tirik inlarni qayta ishlash («tozalash»), mexanik usulda gektardagi to'dalar sonini taqqoslash va hisobot orqali aniqlanadi [1, 2]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Xamiraev A.I. Kemiruvchilarni hisoblash va deratizatsiya samaradorligini nazorat qilishda qo'llaniladigan usullari (taqdimot). Surxondaryo viloyat SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1583.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Методики обследования и учета москитов и контроля дезинсекции (Лебедева, taqdimot). xayrullokomilov.uz/kutubxona, material ID 1572.",
-    "Методики обследования и учета численности грызунов и контроля эффективности дератизации (Лебедева, taqdimot). xayrullokomilov.uz/kutubxona, material ID 1570."
-  ]
+ "number": 49,
+ "title": "49. O'tkazilgan deratizatsiya samarasi qanday aniqlanadi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Deratizatsiya kemiruvchilarni yo'qotish bo'yicha tadbirlar majmuasi bo'lib, zoonoz teri leyshmaniozida u manbani, ya'ni katta qum sichqonlarini tugatishga qaratilgan. Ammo ish bajarilgani uning natija berganini anglatmaydi, shu sababli samarani aniq usullar bilan tekshirish deratizatsiyaning majburiy qismi hisoblanadi [1, 2].",
+    "Mavzuda avval nazorat shakli va nazorat guruhi vazifalari, so'ng kemiruvchilarni hisobga olish, hujjatlar, mexanik usulda samarani baholash va epidemiologik ko'rsatkichlar ko'rib chiqiladi. Keyin iskabtoparlar sonini hisobga olish bilan bog'liqlik va amaliy ahamiyati yoritiladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Nazoratning zarurligi",
+   "content": [
+    "Yo'riqnomaga ko'ra deratizatsiya o'tkazilgandan keyin albatta uning samarasini tekshirish lozim. Katta qum sichqonlariga qarshi kurashda asosiy tadbirlardan biri bu o'tkazilgan deratizatsiya sifatini va samarasini nazorat qilishdir. Bu qoida Surxondaryo viloyati entomologining taqdimotida ham takrorlangan [1, 2].",
+    "Nazoratning zarurligi qum sichqonlarining xususiyatlari bilan bog'liq: ular bir maydondan ikkinchisiga ko'chib o'tadi, qolib ketgan tirik inlar esa o'choqni qayta tiklashi mumkin. Shu sababli kemiruvchilarni to'liq qirib tashlash ishlari to'liq amalga oshirilishi talab qilinadi [1]."
+   ]
+  },
+  {
+   "heading": "Joriy nazorat",
+   "content": [
+    "Nazoratning asosiy shakli joriy nazoratdir. Unda deratizatsiya qilingan maydonlar qabul qilinadi va qilingan ishlarning samarasi tekshiriladi. Deratizatsiya sifatini aniqlash uchun ish jarayonida ham joriy nazorat olib boriladi, ya'ni baholash ishdan keyin emas, bajarilish davomida boshlanadi [1, 2].",
+    "Shu maqsadda viloyat va tuman DSENMlarida nazorat guruhlari tashkil etiladi. Guruhga tajribali entomolog, zoolog yoki dezinstruktor rahbarlik qiladi. Mustaqil nazorat guruhi bo'lishi ish bajaruvchilarning o'z natijasini o'zi baholashidan kelib chiqadigan xatolarni kamaytiradi. Nazorat natijalari ishni qabul qilish uchun asos bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Nazorat guruhining vazifalari",
+   "content": [
+    "Nazorat guruhining vazifalari uchta: dorilashdan oldin katta qum sichqonlari sonini aniqlash, otryad yoki brigada ishini joriy nazorat qilish va deratizatsiya o'tkazilgandan keyin katta qum sichqonlari sonini aniqlash. Samara aynan oldingi va keyingi sonni solishtirish bilan baholanadi [1, 2].",
+    "Bu mantiq oddiy, ammo undagi dastlabki hisob juda muhim. Agar dorilashdan oldin to'dalar soni aniq sanalmagan bo'lsa, keyingi natijani taqqoslab bo'lmaydi. Shu sababli zoologik tekshiruv va xaritalash deratizatsiya boshlanishidan oldin o'tkaziladi, uning natijasi esa hujjatlashtiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Dezinfektor tomonidan oylik tekshiruv",
+   "content": [
+    "Har bir dezinfektorga ma'lum maydon beriladi va u har oyda 2 marta deratizatsiya samarasini tekshiradi. Agar tirik uyalar qolgan bo'lsa, ularni dorilaydi. Shu tariqa samara tekshiruvi bir vaqtning o'zida qolgan o'choqlarni tugatish bilan birga olib boriladi [1, 2].",
+    "Sifatni oshirishning yaxshi usuli «tozalash» deb ataladi: katta qum sichqonlarining qolib ketgan inlarini topib, ularni qayta deratizatsiya qilish. Demak, nazorat faqat hisobga olish emas, tuzatuvchi tadbir ham bo'lib, tirik inlar aniqlanganda ular qayta ishlanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Kemiruvchilarni hisobga olish",
+   "content": [
+    "Deratizatsiya qilinadigan maydon zoologik tekshiriladi. Qum sichqonlari soni, ularning yashaydigan va yashamaydigan inlari, quduqlar, chorvachilik va ayniqsa parrandachilik fermalari, hayvonlar boqiladigan maydonlar e'tiborga olinadi. Asosiy hujjat maydonning 1:10000 yoki 1:25000 masshtabli kontur xaritasidir. Bu ma'lumotlar deratizatsiyadan oldingi dastlabki holatni belgilaydi [1, 2].",
+    "Xaritada qum sichqonlari to'dalari soni, yashaydigan va yashamaydigan to'dalar inlari «+» va «0» kabi belgilar bilan ko'rsatiladi. Belgilangan yo'nalish bo'yicha dezinfektorlar izidan guruh rahbari borib, dezinfektor qo'l ko'tarib bergan signal asosida xaritaga belgilaydi. Birlamchi boshlang'ich karta shu tarzda tuziladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Hisobga olish jadvallari",
+   "content": [
+    "Surxondaryo taqdimotidagi jadval hududni, mahallani, rejalashtirilgan, tekshirilgan va kemiruvchilar tarqalgan gektar maydonini, ishlov berilgan foizni, katta va qizil dumli qum sichqonlari to'dalarining umumiy va yashayotgan sonini, boshqa kemiruvchilarni hamda sarflangan zaharli vositani (brodifakum) o'z ichiga oladi [2].",
+    "Yo'riqnomaning ilovasida ham deratizatsiya hajmi uch tur bo'yicha alohida qayd etiladi: ishlov berilgan maydon (ga) va aniqlangan koloniyalar, ularning jami hamda tirik soni. Tirik koloniyalarning ajratib ko'rsatilishi deratizatsiya samarasini bevosita baholash imkonini beradi. Shu ilovada iskabtoparlarga qarshi ishlar hajmi ham alohida jadvalda yuritiladi [1]."
+   ]
+  },
+  {
+   "heading": "Mexanik usulda samarani baholash",
+   "content": [
+    "To'dalarni mexanik buzishda samara 1 gektar maydonda qolgan to'dalar sonini haydashdan oldingi to'dalar soni bilan taqqoslab aniqlanadi. Ishlangan maydonlar 1,5-2 oydan keyin qayta tekshiriladi va qolgan to'dalar yana haydaladi. Bu usulda baholash natijasi bevosita dala sharoitida hisoblangan to'dalar soniga asoslanadi [1].",
+    "Zoolog bosh bo'lgan guruh zanjir usulida harakat qiladi: o'rtada traktor, ikki chetda dezinfektorlar. Ular to'dalarning buzilish sifatini nazorat qiladi, qochib chiqqan sichqonni maxsus to'r bilan ushlaydi. Zoolog orqadan xaritaga to'dalarni belgilab boradi, bu keyingi baholash uchun asos bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Hisobotda aks etadigan ko'rsatkichlar",
+   "content": [
+    "Hamma ishlar bajarilgach, mas'ul rahbar batafsil hisobot tayyorlaydi. Unda shuningdek deratizatsiyadan oldingi va keyingi katta qum sichqonlari soni, chora-tadbirlardan oldingi va keyingi fauna va iskabtoparlar soni, ish sifati ta'rifi, guruh tarkibi hamda kimyoviy vositalar dozasi ko'rsatiladi [1].",
+    "Hisobotda ishlangan maydonning tabiiy-tarixiy tavsifi va meteorologik sharoit (yomg'ir, qor, shamol) ham yoziladi, chunki ular natijaga ta'sir qiladi. Xulosada o'tkazilgan kompleks choralar sifati, kamchiliklar va ularni yo'qotish bo'yicha tavsiyalar beriladi. Bu ma'lumotlar keyingi mavsumda tadbirlarni qayta rejalashtirishda ishlatiladi [1]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik samara ko'rsatkichlari",
+   "content": [
+    "Deratizatsiyaning haqiqiy natijasi kasallanishning kamayishida namoyon bo'ladi. Yo'riqnomada aholi orasidagi kasallanish darajasi, kasallanganlarning o'rtacha yoshi va «yosh tarqalganlik» ko'rsatkichi o'rganilishi, shuningdek iskabtoparlarning fenologik kuzatuv jadvali yuritilishi ko'rsatilgan. Ko'rsatkichlar bir necha yil davomida taqqoslanganda tadbirlarning haqiqiy ta'siri yanada aniq ko'rinadi, shu sababli yillik tahlil ham kerak [1].",
+    "Qum sichqonlari to'dalari bo'lmasa-da kasallanish yuqori bo'lgan aholi punktlarida sabab aniqlanadi. Bunday holat deratizatsiya yagona chora emasligini, sifatsiz o'tkazilgan tadbirlar yoki immuniteti yo'q aholining ommaviy kirib kelishi o'chog'ning saqlanishiga olib kelishi mumkinligini ko'rsatadi. Shu sababli deratizatsiya samarasi kasallanish ko'rsatkichlari bilan birga baholanadi [1]."
+   ]
+  },
+  {
+   "heading": "Dezinseksiya samarasi bilan bog'liqlik",
+   "content": [
+    "Deratizatsiya kemiruvchi inlarini iskabtoparga qarshi ishlash bilan birga olib boriladi, shuning uchun iskabtoparlar sonini hisobga olish ham bilvosita samara ko'rsatkichidir. Lebedevaning taqdimotida xonalardagi ishlov samarasi 24 soatdan keyin, so'ng har 3-5 sutkada kamida 80 foiz artropodlar nobud bo'lguncha tekshirilishi aytilgan [4].",
+    "Yo'riqnomada ham dezinseksiya samarasi dorilashdan oldingi va keyingi iskabtoparlar sonini solishtirish asosida baholanishi, populyatsiya monitoringi natijasida samara ko'rsatkichi belgilanishi yozilgan. Bu 80 foizlik mezon xonalardagi ishlovga tegishli, kemiruvchilar uchun alohida mezon topilmadi. Shuning uchun kemiruvchilar bo'yicha samara alohida usul bilan, ya'ni to'dalar soni orqali aniqlanadi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor deratizatsiya hujjatlarini, kontur xaritasini, hisobga olish jadvallarini va hisobotni tekshira olishi kerak. Samara baholanmaydigan yoki ma'lumotlari rasmiy to'ldirilgan ish epidemik xavfni yashiradi. Respublika markazi taqdimotida epidemiologik tekshiruvlarning rasmiy o'tkazilishi kamchilik sifatida qayd etilgan [3].",
+    "Shuning uchun nazorat tajribali mutaxassis tomonidan, haqiqiy dala tekshiruvi bilan o'tkazilishi kerak. Natijalar keyingi yil rejasiga kiritiladi: qayta ishlanishi lozim bo'lgan maydonlar, deratizatsiya turlari muddatlari va resurslar shu asosda aniqlanadi. Bu o'choqni boshqarishning uzluksiz sikli hisoblanadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Deratizatsiya samarasi nazorat guruhi tomonidan dorilashdan oldingi va keyingi katta qum sichqonlari sonini solishtirish, dezinfektorlarning oyiga ikki marta tekshiruvi, tirik inlarni qayta ishlash («tozalash»), mexanik usulda gektardagi to'dalar sonini taqqoslash va hisobot orqali aniqlanadi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Xamiraev A.I. Kemiruvchilarni hisoblash va deratizatsiya samaradorligini nazorat qilishda qo'llaniladigan usullari (taqdimot). Surxondaryo viloyat SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1583.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Методики обследования и учета москитов и контроля дезинсекции (Лебедева, taqdimot). xayrullokomilov.uz/kutubxona, material ID 1572."
+ ]
 }

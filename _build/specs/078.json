@@ -1,74 +1,112 @@
 {
-  "number": 78,
-  "title": "78. Enterobioz, klinikasi va tashxisi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Enterobiozning klinik ko'rinishi belgisiz tashuvchilikdan to'liq namoyon bo'lgan perianal qichima, uyqu buzilishi va asoratlargacha o'zgaradi. Tashxis esa klinik-epidemiologik ma'lumotlarga va perianal burmalardan olingan qirmada tuxum topishga asoslanadi, chunki urg'ochi ostritsa tuxumini ichakda emas, teri burmalarida qo'yadi [1, 3].",
-      "Ushbu mavzuda enterobiozning inkubatsion davri, asosiy va qo'shimcha belgilari, asoratlari, og'irlik mezonlari, laboratoriya tashxisi usullari va namuna olish texnikasi, differensial tashxis hamda davolashdan keyingi nazorat milliy hujjatlar va darsliklar asosida ko'rib chiqiladi [1, 2, 3]."
-    ]},
-    {"heading": "Klinik ko'rinish va inkubatsiya", "content": [
-      "Darslikda enterobioz bolalar bog'chasi va kichik sinf o'quvchilarida hamma joyda tarqalgani, ko'p bolada belgisiz kechishi yozilgan. Klinik-diagnostik jadvalda inkubatsion davr taxminan 2 hafta, zararlanishdan keyin tuxum paydo bo'lguncha 3-4 hafta, xarakterli sindrom esa charchoqning kuchayishi, perianal qichima, ostritsalarning anusdan chiqishi, ba'zan tez-tez ich ketishi va eozinofiliya deb ko'rsatilgan [3].",
-      "Intensiv invaziyada zararlanishdan 2-3 kun keyin qorin og'rig'i, ko'ngil aynishi, beqaror ich, umumiy holsizlik, tez charchash, jizzakilik va uyquning buzilishi paydo bo'ladi. Urg'ochilarning anusdan chiqib tuxum qo'yishi boshlanishi bilan qichima qo'shiladi [3]."
-    ]},
-    {"heading": "Asosiy simptom: perianal qichima", "content": [
-      "Ko'pchilik bemor orqa teshik, oraliq va jinsiy a'zolar sohasida qichish va achishishdan shikoyat qiladi. Qichima asosan tunda bezovta qiladi va shu darajada azob beradiki, uyqu buziladi, bemor jizzaki bo'ladi, holsizlik paydo bo'lib, mehnat qobiliyati pasayadi [4].",
-      "Davolash bayonnomasida enterobioz orqa teshik atrofida qichish va dispeptik belgilar bilan kechadigan, tez-tez qaytalanadigan autoinvaziya tufayli surunkali bo'ladigan kasallik deb ta'riflangan. Taqdimotda bemor tunda orqa teshikda qichishni sezib, orqasini tepaga qaratib yotishi, qichima esa biridan boshqasiga farq qilishi aytilgan [1, 5]."
-    ]},
-    {"heading": "Qo'shimcha belgilar", "content": [
-      "Taqdimotda kindik atrofi va qorinning o'ng tomonidagi og'riq, uyqu paytida tish g'ijirlatish, yostiqqa so'lak oqishi, bosh og'rig'i, injiqlik, enurez, ishtaha buzilishi yoki ochko'zlik, darmonsizlik va ozish ham enterobioz belgilari sifatida sanalgan. Terida oq dog'lar va tutqanoq holatlari ham uchrashi aytilgan [5].",
-      "Taqdimotda bolalar ulg'ayishi va xulqiga salbiy ta'siri ham yozilgan: bir joyda tek turmaslik, o'zlashtirishning pasayishi, xotira va eslash qobiliyatining sustlashishi, bo'y va vazn o'sishining kechikishi. Bu belgilar nospetsifik bo'lgani uchun ularni enterobiozga bog'lash laboratoriya tasdig'ini talab qiladi [1, 5]."
-    ]},
-    {"heading": "Asoratlar", "content": [
-      "Darslikdagi klinik-diagnostik jadvalda enterobiozning mumkin bo'lgan asoratlari sifatida odatda perianal sohadagi allergik dermatit, vulvovaginit, appenditsit va terining yiringli shikastlanishi ko'rsatilgan. Enterobiozga doim ichak disbakterioz hamroh bo'ladi [3].",
-      "Qashinishdan shikastlangan teri orqali bakteriyalar kirishi dermatitga olib keladi, ostritsalar esa vulva va qinga ko'chib, ularda yallig'lanish jarayonini chaqirishi mumkin. Bayonnomada enterobiozli proktosigmoidit va sfinkteritni davolash ham alohida ko'rsatilgan [1, 3]."
-    ]},
-    {"heading": "Og'irlik mezonlari va prognoz", "content": [
-      "Davolash bayonnomasiga ko'ra og'irlik darajasi uch mezon bilan baholanadi: astenovegetativ sindromning yaqqol namoyon bo'lishi, allergiya va teri o'zgarishlarining paydo bo'lishi hamda qizlarda vulvovaginit mavjudligi. 3-11 yoshdagi bolalar va qizlarga alohida e'tibor berish kerakligi ta'kidlangan [1].",
-      "Bayonnomada hozirgacha umumiy qo'llaniladigan tasnif yo'qligi aytilgan. Darslikda esa enterobiozning prognozi qulay deb baholangan, shu bilan birga kasallik bolalarda qayta zararlanish tufayli uzoq davom etishi mumkin, shuning uchun shifokor nazoratni davolash bilan tugatmaydi [1, 3]."
-    ]},
-    {"heading": "Tashxis asosi", "content": [
-      "Asosiy tashxis usuli perianal burmalardan qirma olish hisoblanadi. Urg'ochi gijja tuxumini ichakda emas, shu burmalarda qo'yganligi uchun boshqa koprologik usullar kam ma'lumotli; ota-onalar bola najasida yetuk gijjalarni ko'rishlari anamnestik ma'lumot bo'lib, qirmada tuxum topilmaganda qo'shimcha omil sanaladi [1].",
-      "Yakuniy tashxis perianal burmalardan olingan qirmada ostritsa tuxumlari aniqlanganda va (yoki) bemor yoki uning yaqinlari najasda oq ipsimon mayda yumaloq gijjalarni topganda qo'yiladi. Laboratoriya minimumi umumiy qon tahlili hamda perianal burma va tirnoq osti yuzasidan olingan qirma mikroskopiyasidir [1]."
-    ]},
-    {"heading": "Namuna olish texnikasi", "content": [
-      "Perianal qirma ertalab, tahorat olinmasdan oldin olinadi. O'zbekiston yo'riqnomasiga ko'ra buning uchun glitserin shimdirilgan paxta tamponli shpatel bilan «surtma» yoki yopishqoq yelimli tasma bilan «bosma» usuli qo'llanadi; paxtali shpatel probirkaga solinadi, tasma esa buyum oynasiga yopishtiriladi va ular belgilab qo'yiladi [2].",
-      "Davolash bayonnomasida 1926 yilda Skryabin va Shults tavsiya qilgan 50 foizli glitserin bilan namlangan taxta shpatel yoki uchi paxtali gugurt cho'pi usuli, V.I. Kevorkova paxta piltasi, Gimmerfarb (1953) va 1987 yilda Hall tavsiya qilgan selofan tasma (Grem modifikatsiyasi, «skotch») usullari sanalgan [1]."
-    ]},
-    {"heading": "Tekshiruv vaqti va takrorlanishi", "content": [
-      "Bayonnomada barcha tekshiruvlar 3-5 martagacha o'tkazilishi, erta ertalab tahoratdan oldin bajarilishi shart ekani yozilgan. Darslikda esa kamida uch marta, 1-3 kun oralatib tekshirish zarurligi, tekshiruv ertalab hojatdan oldin yoki kechqurun uxlashdan oldin o'tkazilishi ko'rsatilgan [1, 3].",
-      "Ostritsalar kechqurun yoki tungi qichima vaqtida anusdan tashqariga chiqib turganda ularni topish ham tashxisni tasdiqlaydi. Rus tilidagi darsliklarda asosiy usul sifatida anus sohasi shilliq qavati va terisidan qirma olish, qo'shimcha sifatida Gimmelfarb va selluloza yopishqoq tasma (Grem) usullari ko'rsatilgan [3, 4]."
-    ]},
-    {"heading": "Qo'shimcha tekshiruvlar", "content": [
-      "Rejali profilaktik tekshiruvlarda perianal surtma bilan bir vaqtda biror koproskopik usul va Lyugol eritmasi bilan nativ usul qo'llanishi zarurligi yo'riqnomada ko'rsatilgan. Standartda enterobioz uchun koproovoskopiya, umumiy qon tahlili va perianal qirma sanalgan [2, 7].",
-      "Qondagi eozinofiliya enterobiozni tasdiqlovchi emas, faqat kechasi kuchli perianal qichima va dispeptik buzilishlar bilan birga taxminiy omil sifatida qaraladi. Darslikdagi jadvalda immunodiagnostik usullar ishlab chiqilmagani ko'rsatilgan, shu sababli tashxis parazitologik tasdiqga tayanadi [1, 3]."
-    ]},
-    {"heading": "Differensial tashxis", "content": [
-      "Perianal qichima enterobiozning asosiy belgisi bo'lsa-da, shunga o'xshash holatlardan farqlanishi kerak: gemorroy, prostatit, to'g'ri ichak yarasi va saratoni, qandli diabet, nevrodermatoz. Bayonnomada bu ro'yxat differensial tashxis sifatida berilgan [1].",
-      "Dispeptik belgilar bo'yicha enterobiozni boshqa ichak gelmintozlaridan farqlash zarur. Qirmada tuxum topilmasa ham qichima davom etsa, bayonnoma talabiga ko'ra tekshiruv 3-5 martagacha takrorlanadi va natijalar yuqoridagi kasalliklar bilan solishtiriladi [1]."
-    ]},
-    {"heading": "Nazorat va davolash tamoyillari", "content": [
-      "Davolangandan keyin enterobiozda 2-3 kunlik oralatib 3 marta perianal surtma tekshiriladi. Bayonnomada qayta nazorat 2 hafta va 1 oydan keyin, dispanser kuzatuvi 3 oygacha, yaqqol kechishda 6 oygacha belgilangan; ambulator davolash asosiy bo'lib, yaqqol shakllar va aralash invaziyada 7-10 kunga shifoxonaga yotqiziladi [1, 2, 6].",
-      "Davolashda mebendazol, albendazol, pirantel, kardobendatsim kabi antigelmint vositalar bayonnomada ko'rsatilgan va dozalari shu hujjatda berilgan. Samarali degelmintizatsiya uchun oila a'zolari va muassasa tarbiyalanuvchilari bir vaqtda davolanishi, davolangan bolalar 4 kun tuxum ajratgani uchun davolash dam olish kunlariga rejalashtirilishi lozim [1, 6]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor bola va oila a'zolarini so'rab, tunda qichima, uyqu buzilishi va orqa teshikdan gijja chiqishini aniqlashi hamda tashxisni perianal qirma bilan tasdiqlashi kerak. Qirma ertalab, yuvinishdan oldin, bir necha marta olinadi, laboratoriya yo'llanmasiga dastlabki tashxis yoziladi [1, 2].",
-      "Davolashdan keyin nazorat tekshiruvlari, oila va jamoani bir vaqtda davolash, shaxsiy gigiena va maishiy buyumlarni zararsizlantirish bayonnoma va yo'riqnoma talablariga muvofiq o'tkaziladi. Qizlarda vulvovaginit, bolalarda astenovegetativ buzilishlar og'ir kechish belgisi sifatida e'tiborga olinadi [1, 6]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar va farqlar", "content": [
-      "Manbalarda tekshiruv tartibi farq qiladi: bayonnoma 3-5 marta, darslik kamida 3 marta (1-3 kun oralatib), yo'riqnoma esa davolashdan keyin 3 marta 2-3 kun oralatib tekshirishni ko'rsatadi. Namuna vaqti ham farq qiladi: ertalab tahoratdan oldin yoki kechqurun uxlashdan oldin [1, 2, 3].",
-      "Bayonnomada belgisiz shaklda kimyoviy antigelmint vositalarsiz, 3 kun nam tozalash va gigiena bilan davolash mumkin deyilgan, yo'riqnomada esa 15 foiz va undan yuqori zararlanishda jamoa 100 foiz davolanishi talab qilinadi. Taqdimotdagi tutqanoq va oq dog'lar haqidagi bog'liqlik boshqa manbalarda tasdiqlanmadi [1, 5, 6]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Enterobiozning asosiy simptomi tunda kuchayadigan perianal qichima bo'lib, unga dispeptik, asab va allergik belgilar, qizlarda vulvovaginit va teri asoratlari qo'shilishi mumkin. Tashxis klinik-epidemiologik ma'lumotlar va ertalab olinadigan, takrorlanadigan perianal qirmada tuxum topish bilan tasdiqlanadi, davolashdan keyin esa 3 marta nazorat qirmasi o'tkaziladi [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "Parazitar kasalliklarni davolash bayonnomalari (enterobiozni davolash bayonnomasi, B80). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari (2016 yil, buyruq raqami hujjat nusxasida ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560."
-  ]
+ "number": 78,
+ "title": "78. Enterobioz, klinikasi va tashxisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Enterobiozning klinik ko'rinishi belgisiz tashuvchilikdan to'liq namoyon bo'lgan perianal qichima, uyqu buzilishi va asoratlargacha o'zgaradi. Tashxis esa klinik-epidemiologik ma'lumotlarga va perianal burmalardan olingan qirmada tuxum topishga asoslanadi, chunki urg'ochi ostritsa tuxumini ichakda emas, teri burmalarida qo'yadi [1, 3].",
+    "Ushbu mavzuda enterobiozning inkubatsion davri, asosiy va qo'shimcha belgilari, asoratlari, og'irlik mezonlari, laboratoriya tashxisi usullari va namuna olish texnikasi, differensial tashxis hamda davolashdan keyingi nazorat milliy hujjatlar va darsliklar asosida ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Klinik ko'rinish va inkubatsiya",
+   "content": [
+    "Darslikda enterobioz bolalar bog'chasi va kichik sinf o'quvchilarida hamma joyda tarqalgani, ko'p bolada belgisiz kechishi yozilgan. Klinik-diagnostik jadvalda inkubatsion davr taxminan 2 hafta, zararlanishdan keyin tuxum paydo bo'lguncha 3-4 hafta, xarakterli sindrom esa charchoqning kuchayishi, perianal qichima, ostritsalarning anusdan chiqishi, ba'zan tez-tez ich ketishi va eozinofiliya deb ko'rsatilgan [3].",
+    "Intensiv invaziyada zararlanishdan 2-3 kun keyin qorin og'rig'i, ko'ngil aynishi, beqaror ich, umumiy holsizlik, tez charchash, jizzakilik va uyquning buzilishi paydo bo'ladi. Urg'ochilarning anusdan chiqib tuxum qo'yishi boshlanishi bilan qichima qo'shiladi [3]."
+   ]
+  },
+  {
+   "heading": "Asosiy simptom: perianal qichima",
+   "content": [
+    "Ko'pchilik bemor orqa teshik, oraliq va jinsiy a'zolar sohasida qichish va achishishdan shikoyat qiladi. Qichima asosan tunda bezovta qiladi va shu darajada azob beradiki, uyqu buziladi, bemor jizzaki bo'ladi, holsizlik paydo bo'lib, mehnat qobiliyati pasayadi [4].",
+    "Davolash bayonnomasida enterobioz orqa teshik atrofida qichish va dispeptik belgilar bilan kechadigan, tez-tez qaytalanadigan autoinvaziya tufayli surunkali bo'ladigan kasallik deb ta'riflangan. Taqdimotda bemor tunda orqa teshikda qichishni sezib, orqasini tepaga qaratib yotishi, qichima esa biridan boshqasiga farq qilishi aytilgan [1, 5]."
+   ]
+  },
+  {
+   "heading": "Qo'shimcha belgilar",
+   "content": [
+    "Taqdimotda kindik atrofi va qorinning o'ng tomonidagi og'riq, uyqu paytida tish g'ijirlatish, yostiqqa so'lak oqishi, bosh og'rig'i, injiqlik, enurez, ishtaha buzilishi yoki ochko'zlik, darmonsizlik va ozish ham enterobioz belgilari sifatida sanalgan. Terida oq dog'lar va tutqanoq holatlari ham uchrashi aytilgan [5].",
+    "Taqdimotda bolalar ulg'ayishi va xulqiga salbiy ta'siri ham yozilgan: bir joyda tek turmaslik, o'zlashtirishning pasayishi, xotira va eslash qobiliyatining sustlashishi, bo'y va vazn o'sishining kechikishi. Bu belgilar nospetsifik bo'lgani uchun ularni enterobiozga bog'lash laboratoriya tasdig'ini talab qiladi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Asoratlar",
+   "content": [
+    "Darslikdagi klinik-diagnostik jadvalda enterobiozning mumkin bo'lgan asoratlari sifatida odatda perianal sohadagi allergik dermatit, vulvovaginit, appenditsit va terining yiringli shikastlanishi ko'rsatilgan. Enterobiozga doim ichak disbakterioz hamroh bo'ladi [3].",
+    "Qashinishdan shikastlangan teri orqali bakteriyalar kirishi dermatitga olib keladi, ostritsalar esa vulva va qinga ko'chib, ularda yallig'lanish jarayonini chaqirishi mumkin. Bayonnomada enterobiozli proktosigmoidit va sfinkteritni davolash ham alohida ko'rsatilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Og'irlik mezonlari va prognoz",
+   "content": [
+    "Davolash bayonnomasiga ko'ra og'irlik darajasi uch mezon bilan baholanadi: astenovegetativ sindromning yaqqol namoyon bo'lishi, allergiya va teri o'zgarishlarining paydo bo'lishi hamda qizlarda vulvovaginit mavjudligi. 3-11 yoshdagi bolalar va qizlarga alohida e'tibor berish kerakligi ta'kidlangan [1].",
+    "Bayonnomada hozirgacha umumiy qo'llaniladigan tasnif yo'qligi aytilgan. Darslikda esa enterobiozning prognozi qulay deb baholangan, shu bilan birga kasallik bolalarda qayta zararlanish tufayli uzoq davom etishi mumkin, shuning uchun shifokor nazoratni davolash bilan tugatmaydi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Tashxis asosi",
+   "content": [
+    "Asosiy tashxis usuli perianal burmalardan qirma olish hisoblanadi. Urg'ochi gijja tuxumini ichakda emas, shu burmalarda qo'yganligi uchun boshqa koprologik usullar kam ma'lumotli; ota-onalar bola najasida yetuk gijjalarni ko'rishlari anamnestik ma'lumot bo'lib, qirmada tuxum topilmaganda qo'shimcha omil sanaladi [1].",
+    "Yakuniy tashxis perianal burmalardan olingan qirmada ostritsa tuxumlari aniqlanganda va (yoki) bemor yoki uning yaqinlari najasda oq ipsimon mayda yumaloq gijjalarni topganda qo'yiladi. Laboratoriya minimumi umumiy qon tahlili hamda perianal burma va tirnoq osti yuzasidan olingan qirma mikroskopiyasidir [1]."
+   ]
+  },
+  {
+   "heading": "Namuna olish texnikasi",
+   "content": [
+    "Perianal qirma ertalab, tahorat olinmasdan oldin olinadi. O'zbekiston yo'riqnomasiga ko'ra buning uchun glitserin shimdirilgan paxta tamponli shpatel bilan «surtma» yoki yopishqoq yelimli tasma bilan «bosma» usuli qo'llanadi; paxtali shpatel probirkaga solinadi, tasma esa buyum oynasiga yopishtiriladi va ular belgilab qo'yiladi [2].",
+    "Davolash bayonnomasida 1926 yilda Skryabin va Shults tavsiya qilgan 50 foizli glitserin bilan namlangan taxta shpatel yoki uchi paxtali gugurt cho'pi usuli, V.I. Kevorkova paxta piltasi, Gimmerfarb (1953) va 1987 yilda Hall tavsiya qilgan selofan tasma (Grem modifikatsiyasi, «skotch») usullari sanalgan [1]."
+   ]
+  },
+  {
+   "heading": "Tekshiruv vaqti va takrorlanishi",
+   "content": [
+    "Bayonnomada barcha tekshiruvlar 3-5 martagacha o'tkazilishi, erta ertalab tahoratdan oldin bajarilishi shart ekani yozilgan. Darslikda esa kamida uch marta, 1-3 kun oralatib tekshirish zarurligi, tekshiruv ertalab hojatdan oldin yoki kechqurun uxlashdan oldin o'tkazilishi ko'rsatilgan [1, 3].",
+    "Ostritsalar kechqurun yoki tungi qichima vaqtida anusdan tashqariga chiqib turganda ularni topish ham tashxisni tasdiqlaydi. Rus tilidagi darsliklarda asosiy usul sifatida anus sohasi shilliq qavati va terisidan qirma olish, qo'shimcha sifatida Gimmelfarb va selluloza yopishqoq tasma (Grem) usullari ko'rsatilgan [3, 4]."
+   ]
+  },
+  {
+   "heading": "Qo'shimcha tekshiruvlar",
+   "content": [
+    "Rejali profilaktik tekshiruvlarda perianal surtma bilan bir vaqtda biror koproskopik usul va Lyugol eritmasi bilan nativ usul qo'llanishi zarurligi yo'riqnomada ko'rsatilgan. Standartda enterobioz uchun koproovoskopiya, umumiy qon tahlili va perianal qirma sanalgan [2, 7].",
+    "Qondagi eozinofiliya enterobiozni tasdiqlovchi emas, faqat kechasi kuchli perianal qichima va dispeptik buzilishlar bilan birga taxminiy omil sifatida qaraladi. Darslikdagi jadvalda immunodiagnostik usullar ishlab chiqilmagani ko'rsatilgan, shu sababli tashxis parazitologik tasdiqga tayanadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Differensial tashxis",
+   "content": [
+    "Perianal qichima enterobiozning asosiy belgisi bo'lsa-da, shunga o'xshash holatlardan farqlanishi kerak: gemorroy, prostatit, to'g'ri ichak yarasi va saratoni, qandli diabet, nevrodermatoz. Bayonnomada bu ro'yxat differensial tashxis sifatida berilgan [1].",
+    "Dispeptik belgilar bo'yicha enterobiozni boshqa ichak gelmintozlaridan farqlash zarur. Qirmada tuxum topilmasa ham qichima davom etsa, bayonnoma talabiga ko'ra tekshiruv 3-5 martagacha takrorlanadi va natijalar yuqoridagi kasalliklar bilan solishtiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Nazorat va davolash tamoyillari",
+   "content": [
+    "Davolangandan keyin enterobiozda 2-3 kunlik oralatib 3 marta perianal surtma tekshiriladi. Bayonnomada qayta nazorat 2 hafta va 1 oydan keyin, dispanser kuzatuvi 3 oygacha, yaqqol kechishda 6 oygacha belgilangan; ambulator davolash asosiy bo'lib, yaqqol shakllar va aralash invaziyada 7-10 kunga shifoxonaga yotqiziladi [1, 2, 6].",
+    "Davolashda mebendazol, albendazol, pirantel, kardobendatsim kabi antigelmint vositalar bayonnomada ko'rsatilgan va dozalari shu hujjatda berilgan. Samarali degelmintizatsiya uchun oila a'zolari va muassasa tarbiyalanuvchilari bir vaqtda davolanishi, davolangan bolalar 4 kun tuxum ajratgani uchun davolash dam olish kunlariga rejalashtirilishi lozim [1, 6]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor bola va oila a'zolarini so'rab, tunda qichima, uyqu buzilishi va orqa teshikdan gijja chiqishini aniqlashi hamda tashxisni perianal qirma bilan tasdiqlashi kerak. Qirma ertalab, yuvinishdan oldin, bir necha marta olinadi, laboratoriya yo'llanmasiga dastlabki tashxis yoziladi [1, 2].",
+    "Davolashdan keyin nazorat tekshiruvlari, oila va jamoani bir vaqtda davolash, shaxsiy gigiena va maishiy buyumlarni zararsizlantirish bayonnoma va yo'riqnoma talablariga muvofiq o'tkaziladi. Qizlarda vulvovaginit, bolalarda astenovegetativ buzilishlar og'ir kechish belgisi sifatida e'tiborga olinadi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Enterobiozning asosiy simptomi tunda kuchayadigan perianal qichima bo'lib, unga dispeptik, asab va allergik belgilar, qizlarda vulvovaginit va teri asoratlari qo'shilishi mumkin. Tashxis klinik-epidemiologik ma'lumotlar va ertalab olinadigan, takrorlanadigan perianal qirmada tuxum topish bilan tasdiqlanadi, davolashdan keyin esa 3 marta nazorat qirmasi o'tkaziladi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "Parazitar kasalliklarni davolash bayonnomalari (enterobiozni davolash bayonnomasi, B80). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari (2016 yil, buyruq raqami hujjat nusxasida ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560."
+ ]
 }

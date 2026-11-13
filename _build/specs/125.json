@@ -2,65 +2,103 @@
  "number": 125,
  "title": "125. O'zbekiston hududida ko'proq uchraydigan ichak sodda jonivorlari.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Ichak sodda jonivorlari odam ingichka va yo'g'on ichagida yashaydigan bir hujayrali parazitlar bo'lib, ularning ayrimi kasallik qo'zg'atadi, ayrimi esa kommensal sifatida uchraydi. 121-son buyruqning 5-ilovasida ichak protozoozlari sifatida lyamblioz, amyobiaz, akantamyobiaz, balantidioz va kriptosporidioz bayon etilgan [1].",
-   "Ushbu mavzuda avval ichak protozoylarining tasnifi va asosiy vakillari, so'ng ularning umumiy epidemiologik belgilari, laboratoriyada aniqlash usullari va hududiy tarqalish haqidagi manba ma'lumotlari ko'rib chiqiladi. Oxirida O'zbekiston bo'yicha aniq statistik ma'lumot manbalarda yo'qligi ochiq ko'rsatiladi [1, 3, 4]."
-  ]},
-  {"heading": "Ichak protozoylarining tasnifi", "content": [
-   "Darslikda odam uchun patogen protistlarning taxminan 20 turi borligi, ulardan dizenteriya amyobasi va lyamblialar Sarcomastigophora tipiga, balantidiylar esa Ciliophora tipiga kiritilgani yozilgan. Kriptosporidiylar yo'riqnomada kokksidiyalar sinfiga mansub deb ko'rsatilgan [1, 3].",
-   "Ma'ruza materialida odamda 7 tur amyoba parazitlik qilishi aytilgan: Entamoeba histolytica dizenteriya amyobasi, E. gingivalis og'iz bo'shlig'i kommensali, E. coli, E. hartmanni, Endolimax nana, Iodamoeba butschlii va Dientamoeba fragilis esa ichak kommensallaridir. Bu ro'yxat patogen va nopatogen shakllarni ajratishga yordam beradi [7]."
-  ]},
-  {"heading": "Lyamblia", "content": [
-   "Lyamblioz qo'zg'atuvchisi Lamblia intestinalis (sinonimlari Giardia intestinalis, G. lamblia, G. duodenalis) bo'lib, Diplomonadida turkumiga kiradi. Parazit ikki bosqichda, ya'ni harakatchan trofozoit va harakatsiz sista ko'rinishida yashaydi. Sistalar oval, uzunligi 10-14, eni 6-10 mkm bo'lib, najas bilan chiqadi [1].",
-   "Darslikda trofozoit qovoq urug'iga o'xshash, uzunligi 10-18 va eni 8-10 mkm, ikki yadroli, old qismida so'rg'ich disk va to'rt juft xivchinga ega ekani tasvirlangan. Lyamblialar ingichka ichakning yuqori qismida yashaydi va bo'linish yo'li bilan ko'payadi. Atlasda sista ikki konturli qobiqli va to'rtta yadroli ekani ko'rsatilgan [1, 3, 6]."
-  ]},
-  {"heading": "Dizenteriya amyobasi", "content": [
-   "Amyobiaz qo'zg'atuvchisi Entamoeba histolytica uch shaklda uchraydi: katta vegetativ (to'qima) shakl diametri 20-30 mkm, oraliq (kichik vegetativ) shakl 15-20 mkm, sista shakli esa 7-18 mkm bo'lib, yetilgan sistada to'rtta yadro bo'ladi. Faqat katta shakl eritrotsitlarni yutadi [1].",
-   "Darsliklarda dizenteriya amyobasi 1875 yilda F.A. Lesh tomonidan topilgani, 1903 yilda F. Shaudin tomonidan batafsil o'rganilgani aytiladi. O'quv qo'llanmada zararlanish 90 foiz hollarda bemorlik belgilarisiz tashuvchilik bilan kechishi, ya'ni asosiy manba sog'lom sista tashuvchilar ekani ko'rsatilgan [3, 4]."
-  ]},
-  {"heading": "Nopatogen amyobalar va E. dispar", "content": [
-   "Odam ichagida E. histolytica dan tashqari Entamoeba coli, E. hartmanni, Endolimax nana va Iodamoeba butschlii uchraydi, lekin ular patogen emas. Keyingi tadqiqotlar E. dispar turini aniqlagan; u mikroskopiyada E. histolytica dan farqlanmaydi, faqat molekulyar usullar bilan ajratiladi [1].",
-   "Atlasda E. coli trofozoiti 20-40 mkm, sistasi 10-30 mkm ekani, to'liq yetilgan sistada sakkizta yadro bo'lishi qayd etilgan. Darslikda ham E. coli sitoplazmasida bakteriya va leykotsitlar bo'lib, eritrotsitlar bo'lmasligi, sistasi esa sakkiz yadroli ekani farq belgisi sifatida keltirilgan [3, 5]."
-  ]},
-  {"heading": "Balantidiy", "content": [
-   "Balantidioz qo'zg'atuvchisi Balantidium coli kipriklilar tipiga kiradi va patogen ichak sodda jonivorlari ichida eng yirigi hisoblanadi. Vegetativ shakli uzunligi 80-125, eni 45-90 mkm, sista diametri taxminan 50 mkm bo'lib, sistalar tashqi muhitda 3-4 haftagacha tirik qolishi mumkin [1].",
-   "Yo'riqnomada kasallik manbai cho'chqa, ba'zan odam ekani, kasallik kam aniqlansa ham aholining zararlanishi yuqori bo'lishi mumkinligi yozilgan. Qishloq joylarda zararlanish 4-5 foizga yetishi aytilgan, biroq hudud nomi ko'rsatilmagan va bu ma'lumot O'zbekistonga xos deb qabul qilinmaydi [1]."
-  ]},
-  {"heading": "Kriptosporidiy va boshqa kokksidiyalar", "content": [
-   "Kriptosporidioz qo'zg'atuvchisi Cryptosporidium (C. muris, sinonimi C. parvum) bo'lib, ooxistalari yumaloq, diametri 4-7 mkm. Kasallik ko'proq bolalarda va immun tanqisligi borlarda uchraydi, yashirin davri 4-14 kun. Ooxistalar tashqi muhitda juda chidamli, suvni xlorlash ularni yo'qotmaydi [1].",
-   "Kasallik manbai odam va turli yovvoyi hamda uy hayvonlari bo'lib, yuqish yo'li fekal-oraldir. Odam ooxistalar bilan ifloslangan sut va boshqa oziq-ovqat, suv, shu jumladan suzish havzalari suvi hamda iflos qo'llar orqali zararlanadi. Oilaviy va shifoxona ichi tarqalish ham kuzatilgan [1]."
-  ]},
-  {"heading": "Erkin yashovchi amyobalar", "content": [
-   "Akantamyobiaz qo'zg'atuvchilari Acanthamoeba castellanii, A. culbertsoni, A. polyphaga va Naegleria fowleri tuproqda, suvda, go'ngda yashaydigan erkin amyobalardir. Trofozoitlari 10-30 mkm, sistalari 7-20 mkm bo'lib, tashqi muhitda uzoq saqlanadi. Ular markaziy asab tizimi va ko'zni zararlaydi [1].",
-   "Zararlanish ko'pincha iyul-avgust oylarida cho'milish vaqtida amyobalar burun shilliq qavatiga yoki ko'z konyunktivasiga tushishi bilan bog'liq, yashirin davri asosan 3-7 kun. Ko'z zararlanishi yumshoq kontakt linzalardan foydalanish bilan bog'liq ekani ham yo'riqnomada ko'rsatilgan [1]."
-  ]},
-  {"heading": "Boshqa ichak protozoylari", "content": [
-   "Laboratoriya yo'riqnomasidagi jadvalda ichak sodda jonivorlari qatorida Dientamoeba fragilis, Trichomonas hominis, izospora va blastotsistlar ham keltirilgan. Native surtma Lyugol eritmasi bilan lyamblioz, balantidioz, amyobiaz, dientamyoba infeksiyalari va blastotsistozni aniqlashda qo'llanadi [2].",
-   "O'quv qo'llanmaga ko'ra ichak trixomonadasi (T. hominis) yo'g'on ichak parazitidir, uning patogen ta'siri aniqlanmagan, u ko'pincha sog'lom odamlarda topiladi va bolalarda yo'g'on ichak kasalliklarini murakkablashtirishi mumkin. Yuqish shaxsiy gigiena buzilganda ifloslangan sabzavot, meva va suv orqali bo'ladi [4]."
-  ]},
-  {"heading": "Umumiy epidemiologik belgilar", "content": [
-   "Ichak protozoozlarining yuqish mexanizmi fekal-oraldir. Amyoba, lyamblia va balantidiylarda sistalar ichak bo'shlig'ida hosil bo'ladi, shuning uchun ular najas bilan tashqi muhitga chiqib, suv, oziq-ovqat va iflos qo'llar orqali boshqa odamga o'tadi. Pashshalar sistalarni tarqatishda ahamiyatli [1, 3].",
-   "Sistalarning tashqi muhitga chidamliligi profilaktikani murakkablashtiradi. Lyamblia sistalari xlorga chidamli, 1 mg/l konsentratsiyada 72 soatdan keyin halok bo'ladi, amyoba sistalari esa suv tozalash inshootlaridagi xlor va ozon konsentratsiyalarida tirik qolishi mumkin. Qaynatish esa ularni tezda yo'qotadi [1, 4]."
-  ]},
-  {"heading": "Laboratoriyada aniqlash", "content": [
-   "Yo'riqnomada ichak protozoozlarida najasning Lyugol va fiziologik eritmali native surtmasi asosiy usul sifatida ko'rsatilgan. Kriptosporidiyni topish uchun Romanovskiy yoki boshqa usulda bo'yalgan surtma, lyamblioz uchun esa o'n ikki barmoqli ichak suyuqligi cho'kmasi mikroskopiyasi ham qo'llanadi [2].",
-   "Namunani o'z vaqtida yetkazish muhim: dizenteriya amyobasining vegetativ shakllari uchun najas defekatsiyadan keyin 20 daqiqa ichida, suyuq najasdagi ichak soddalarining vegetativ shakllari uchun 1-1,5 soatdan kechiktirmay tekshirilishi talab qilinadi. Aks holda harakatchan shakllar yo'qoladi [2]."
-  ]},
-  {"heading": "Mintaqada tarqalish haqida manbalarda keltirilgan ma'lumotlar", "content": [
-   "Yo'riqnomada amyobiaz MDH davlatlarida Kavkazda (Armaniston, Gruziya) va O'rta Osiyoda (Turkmaniston, Qirg'iziston) ko'proq uchrashi aytilgan, O'zbekiston nomi alohida ko'rsatilmagan. O'quv qo'llanmada O'rta Osiyo va Zakavkaz respublikalarida tashuvchilar aholining 9-18 foizini tashkil etishi yozilgan [1, 4].",
-   "Lyamblioz haqida yo'riqnomada bolalarda zararlanish 15-20 foiz, rivojlangan mamlakatlarda kattalarda 3-5 foiz, rivojlanayotgan mamlakatlarda 10 foizdan yuqori ekani, kasallik bahor (aprel-may) va yoz oylarida ko'payishi bayon qilingan. Bu raqamlar umumiy bo'lib, O'zbekistonga xos hisoblanmaydi [1]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Parazitolog-shifokor patogen va nopatogen amyobalarni, jumladan E. histolytica va E. dispar farqini bilishi kerak, chunki mikroskopiyada sista topilishi har doim kasallikni bildirmaydi. Yo'riqnomada lyamblioz va amyobiaz tashxisi klinik belgilar, laboratoriya natijasi va epidemiologik anamnez asosida qo'yilishi ko'rsatilgan [1].",
-   "Har bir lyamblioz kasalligi yoki tashuvchiligi holati mulkchilik shaklidan qat'i nazar hududiy sanitariya-epidemiologiya markaziga xabar qilinadi. Shu sababli ichak protozoylarining qaysi turlari mahalliy sharoitda ko'proq uchrashini aniqlash hududiy ro'yxatga olish va epidemiologik nazorat ma'lumotlariga tayanadi [1, 2]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "O'zbekiston viloyatlari bo'yicha qaysi ichak sodda jonivori eng ko'p uchrashi, ularning aniq tarqalish foizi va yillik kasallanish ko'rsatkichlari ko'rilgan manbalarda keltirilmagan. Shu sababli bu savol bo'yicha raqamli ma'lumot tasdiqlanmagan va matnda berilmaydi [1, 3, 4].",
-   "Yo'riqnomadagi balantidioz, amyobiaz va lyamblioz bo'yicha foizlar umumiy yoki boshqa hududlarga tegishli bo'lib, O'zbekistonga ko'chirib bo'lmaydi. Mazkur jihat bo'yicha tekshiriladigan manba topilmadi; hududiy ko'rsatkichlar uchun sanitariya-epidemiologiya xizmatining rasmiy hisobotlari kerak [1]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "O'zbekistonda amaliyotda ahamiyatli ichak protozoylari qatoriga yo'riqnoma bo'yicha lyamblia, dizenteriya amyobasi, balantidiy, kriptosporidiy va erkin yashovchi amyobalar kiradi, nopatogen amyobalar esa differensial tashxis uchun muhim. Ularning mamlakat bo'yicha aniq tarqalish ko'rsatkichlari manbalarda tasdiqlanmagan [1, 2, 3]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Ichak sodda jonivorlari odam ingichka va yo'g'on ichagida yashaydigan bir hujayrali parazitlar bo'lib, ularning ayrimi kasallik qo'zg'atadi, ayrimi esa kommensal sifatida uchraydi. 121-son buyruqning 5-ilovasida ichak protozoozlari sifatida lyamblioz, amyobiaz, akantamyobiaz, balantidioz va kriptosporidioz bayon etilgan [1].",
+    "Ushbu mavzuda avval ichak protozoylarining tasnifi va asosiy vakillari, so'ng ularning umumiy epidemiologik belgilari, laboratoriyada aniqlash usullari va hududiy tarqalish haqidagi manba ma'lumotlari ko'rib chiqiladi [1, 3, 4]."
+   ]
+  },
+  {
+   "heading": "Ichak protozoylarining tasnifi",
+   "content": [
+    "Darslikda odam uchun patogen protistlarning taxminan 20 turi borligi, ulardan dizenteriya amyobasi va lyamblialar Sarcomastigophora tipiga, balantidiylar esa Ciliophora tipiga kiritilgani yozilgan. Kriptosporidiylar yo'riqnomada kokksidiyalar sinfiga mansub deb ko'rsatilgan [1, 3].",
+    "Ma'ruza materialida odamda 7 tur amyoba parazitlik qilishi aytilgan: Entamoeba histolytica dizenteriya amyobasi, E. gingivalis og'iz bo'shlig'i kommensali, E. coli, E. hartmanni, Endolimax nana, Iodamoeba butschlii va Dientamoeba fragilis esa ichak kommensallaridir. Bu ro'yxat patogen va nopatogen shakllarni ajratishga yordam beradi [7]."
+   ]
+  },
+  {
+   "heading": "Lyamblia",
+   "content": [
+    "Lyamblioz qo'zg'atuvchisi Lamblia intestinalis (sinonimlari Giardia intestinalis, G. lamblia, G. duodenalis) bo'lib, Diplomonadida turkumiga kiradi. Parazit ikki bosqichda, ya'ni harakatchan trofozoit va harakatsiz sista ko'rinishida yashaydi. Sistalar oval, uzunligi 10-14, eni 6-10 mkm bo'lib, najas bilan chiqadi [1].",
+    "Darslikda trofozoit qovoq urug'iga o'xshash, uzunligi 10-18 va eni 8-10 mkm, ikki yadroli, old qismida so'rg'ich disk va to'rt juft xivchinga ega ekani tasvirlangan. Lyamblialar ingichka ichakning yuqori qismida yashaydi va bo'linish yo'li bilan ko'payadi. Atlasda sista ikki konturli qobiqli va to'rtta yadroli ekani ko'rsatilgan [1, 3, 6]."
+   ]
+  },
+  {
+   "heading": "Dizenteriya amyobasi",
+   "content": [
+    "Amyobiaz qo'zg'atuvchisi Entamoeba histolytica uch shaklda uchraydi: katta vegetativ (to'qima) shakl diametri 20-30 mkm, oraliq (kichik vegetativ) shakl 15-20 mkm, sista shakli esa 7-18 mkm bo'lib, yetilgan sistada to'rtta yadro bo'ladi. Faqat katta shakl eritrotsitlarni yutadi [1].",
+    "Darsliklarda dizenteriya amyobasi 1875 yilda F.A. Lesh tomonidan topilgani, 1903 yilda F. Shaudin tomonidan batafsil o'rganilgani aytiladi. O'quv qo'llanmada zararlanish 90 foiz hollarda bemorlik belgilarisiz tashuvchilik bilan kechishi, ya'ni asosiy manba sog'lom sista tashuvchilar ekani ko'rsatilgan [3, 4]."
+   ]
+  },
+  {
+   "heading": "Nopatogen amyobalar va E. dispar",
+   "content": [
+    "Odam ichagida E. histolytica dan tashqari Entamoeba coli, E. hartmanni, Endolimax nana va Iodamoeba butschlii uchraydi, lekin ular patogen emas. Keyingi tadqiqotlar E. dispar turini aniqlagan; u mikroskopiyada E. histolytica dan farqlanmaydi, faqat molekulyar usullar bilan ajratiladi [1].",
+    "Atlasda E. coli trofozoiti 20-40 mkm, sistasi 10-30 mkm ekani, to'liq yetilgan sistada sakkizta yadro bo'lishi qayd etilgan. Darslikda ham E. coli sitoplazmasida bakteriya va leykotsitlar bo'lib, eritrotsitlar bo'lmasligi, sistasi esa sakkiz yadroli ekani farq belgisi sifatida keltirilgan [3, 5]."
+   ]
+  },
+  {
+   "heading": "Balantidiy",
+   "content": [
+    "Balantidioz qo'zg'atuvchisi Balantidium coli kipriklilar tipiga kiradi va patogen ichak sodda jonivorlari ichida eng yirigi hisoblanadi. Vegetativ shakli uzunligi 80-125, eni 45-90 mkm, sista diametri taxminan 50 mkm bo'lib, sistalar tashqi muhitda 3-4 haftagacha tirik qolishi mumkin [1].",
+    "Yo'riqnomada kasallik manbai cho'chqa, ba'zan odam ekani, kasallik kam aniqlansa ham aholining zararlanishi yuqori bo'lishi mumkinligi yozilgan. Qishloq joylarda zararlanish 4-5 foizga yetishi aytilgan, biroq hudud nomi ko'rsatilmagan va bu ma'lumot O'zbekistonga xos deb qabul qilinmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Kriptosporidiy va boshqa kokksidiyalar",
+   "content": [
+    "Kriptosporidioz qo'zg'atuvchisi Cryptosporidium (C. muris, sinonimi C. parvum) bo'lib, ooxistalari yumaloq, diametri 4-7 mkm. Kasallik ko'proq bolalarda va immun tanqisligi borlarda uchraydi, yashirin davri 4-14 kun. Ooxistalar tashqi muhitda juda chidamli, suvni xlorlash ularni yo'qotmaydi [1].",
+    "Kasallik manbai odam va turli yovvoyi hamda uy hayvonlari bo'lib, yuqish yo'li fekal-oraldir. Odam ooxistalar bilan ifloslangan sut va boshqa oziq-ovqat, suv, shu jumladan suzish havzalari suvi hamda iflos qo'llar orqali zararlanadi. Oilaviy va shifoxona ichi tarqalish ham kuzatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Erkin yashovchi amyobalar",
+   "content": [
+    "Akantamyobiaz qo'zg'atuvchilari Acanthamoeba castellanii, A. culbertsoni, A. polyphaga va Naegleria fowleri tuproqda, suvda, go'ngda yashaydigan erkin amyobalardir. Trofozoitlari 10-30 mkm, sistalari 7-20 mkm bo'lib, tashqi muhitda uzoq saqlanadi. Ular markaziy asab tizimi va ko'zni zararlaydi [1].",
+    "Zararlanish ko'pincha iyul-avgust oylarida cho'milish vaqtida amyobalar burun shilliq qavatiga yoki ko'z konyunktivasiga tushishi bilan bog'liq, yashirin davri asosan 3-7 kun. Ko'z zararlanishi yumshoq kontakt linzalardan foydalanish bilan bog'liq ekani ham yo'riqnomada ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Boshqa ichak protozoylari",
+   "content": [
+    "Laboratoriya yo'riqnomasidagi jadvalda ichak sodda jonivorlari qatorida Dientamoeba fragilis, Trichomonas hominis, izospora va blastotsistlar ham keltirilgan. Native surtma Lyugol eritmasi bilan lyamblioz, balantidioz, amyobiaz, dientamyoba infeksiyalari va blastotsistozni aniqlashda qo'llanadi [2].",
+    "O'quv qo'llanmaga ko'ra ichak trixomonadasi (T. hominis) yo'g'on ichak parazitidir, uning patogen ta'siri aniqlanmagan, u ko'pincha sog'lom odamlarda topiladi va bolalarda yo'g'on ichak kasalliklarini murakkablashtirishi mumkin. Yuqish shaxsiy gigiena buzilganda ifloslangan sabzavot, meva va suv orqali bo'ladi [4]."
+   ]
+  },
+  {
+   "heading": "Umumiy epidemiologik belgilar",
+   "content": [
+    "Ichak protozoozlarining yuqish mexanizmi fekal-oraldir. Amyoba, lyamblia va balantidiylarda sistalar ichak bo'shlig'ida hosil bo'ladi, shuning uchun ular najas bilan tashqi muhitga chiqib, suv, oziq-ovqat va iflos qo'llar orqali boshqa odamga o'tadi. Pashshalar sistalarni tarqatishda ahamiyatli [1, 3].",
+    "Sistalarning tashqi muhitga chidamliligi profilaktikani murakkablashtiradi. Lyamblia sistalari xlorga chidamli, 1 mg/l konsentratsiyada 72 soatdan keyin halok bo'ladi, amyoba sistalari esa suv tozalash inshootlaridagi xlor va ozon konsentratsiyalarida tirik qolishi mumkin. Qaynatish esa ularni tezda yo'qotadi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Laboratoriyada aniqlash",
+   "content": [
+    "Yo'riqnomada ichak protozoozlarida najasning Lyugol va fiziologik eritmali native surtmasi asosiy usul sifatida ko'rsatilgan. Kriptosporidiyni topish uchun Romanovskiy yoki boshqa usulda bo'yalgan surtma, lyamblioz uchun esa o'n ikki barmoqli ichak suyuqligi cho'kmasi mikroskopiyasi ham qo'llanadi [2].",
+    "Namunani o'z vaqtida yetkazish muhim: dizenteriya amyobasining vegetativ shakllari uchun najas defekatsiyadan keyin 20 daqiqa ichida, suyuq najasdagi ichak soddalarining vegetativ shakllari uchun 1-1,5 soatdan kechiktirmay tekshirilishi talab qilinadi. Aks holda harakatchan shakllar yo'qoladi [2]."
+   ]
+  },
+  {
+   "heading": "Mintaqada tarqalish haqida manbalarda keltirilgan ma'lumotlar",
+   "content": [
+    "Yo'riqnomada amyobiaz MDH davlatlarida Kavkazda (Armaniston, Gruziya) va O'rta Osiyoda (Turkmaniston, Qirg'iziston) ko'proq uchrashi aytilgan, O'zbekiston nomi alohida ko'rsatilmagan. O'quv qo'llanmada O'rta Osiyo va Zakavkaz respublikalarida tashuvchilar aholining 9-18 foizini tashkil etishi yozilgan [1, 4].",
+    "Lyamblioz haqida yo'riqnomada bolalarda zararlanish 15-20 foiz, rivojlangan mamlakatlarda kattalarda 3-5 foiz, rivojlanayotgan mamlakatlarda 10 foizdan yuqori ekani, kasallik bahor (aprel-may) va yoz oylarida ko'payishi bayon qilingan. Bu raqamlar umumiy bo'lib, O'zbekistonga xos hisoblanmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor patogen va nopatogen amyobalarni, jumladan E. histolytica va E. dispar farqini bilishi kerak, chunki mikroskopiyada sista topilishi har doim kasallikni bildirmaydi. Yo'riqnomada lyamblioz va amyobiaz tashxisi klinik belgilar, laboratoriya natijasi va epidemiologik anamnez asosida qo'yilishi ko'rsatilgan [1].",
+    "Har bir lyamblioz kasalligi yoki tashuvchiligi holati mulkchilik shaklidan qat'i nazar hududiy sanitariya-epidemiologiya markaziga xabar qilinadi. Shu sababli ichak protozoylarining qaysi turlari mahalliy sharoitda ko'proq uchrashini aniqlash hududiy ro'yxatga olish va epidemiologik nazorat ma'lumotlariga tayanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda amaliyotda ahamiyatli ichak protozoylari qatoriga yo'riqnoma bo'yicha lyamblia, dizenteriya amyobasi, balantidiy, kriptosporidiy va erkin yashovchi amyobalar kiradi, nopatogen amyobalar esa differensial tashxis uchun muhim. Ularning mamlakat bo'yicha aniq tarqalish ko'rsatkichlari manbalarda keltirilmagan [1, 2, 3]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",

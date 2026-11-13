@@ -1,60 +1,90 @@
 {
-  "number": 62,
-  "title": "62. Visseral leymaniozining joylashuvi va tugatilishiga qarshi tashkillashtirilgan va o'tkazilgan epidemik chora-tadbirlar.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Visseral leyshmanioz transmissiv tabiiy o'choqli yuqumli kasallik bo'lgani uchun o'choqda epidemiyaga qarshi tadbirlar bemorga, kasallik manbasiga va tashuvchilarga bir vaqtda qaratiladi. Milliy yo'riqnomaga ko'ra hozirgi vaqtda faol sinantrop o'choqlar qolmagan, ko'pchilik o'choqlar yarim sinantrop bo'lib, tabiiy o'choqlar bilan bog'langan [1].",
-      "Ushbu mavzuda har bir holat aniqlanganda o'tkaziladigan epidemiologik tekshiruv, xabar berish, bemorni davolash, tashuvchilar va itlarga qarshi choralar, tashkiliy ishlar va yakuniy hisobot tartibi ko'rib chiqiladi. O'choqni tugatilgan deb e'lon qilish mezoni masalasi alohida ochiq aytiladi [1, 2, 3]."
-    ]},
-    {"heading": "Chora-tadbirlar tizimi", "content": [
-      "Respublika markazining taqdimotida leyshmaniozga qarshi tadbirlar tashkiliy, davolash-profilaktika, entomologik nazorat, veterinariya, sanitariya-gigiyena va shaxsiy hamda jamoat profilaktikasi yo'nalishlariga bo'lingan. Aholi va xavf guruhlari o'rtasida sanitariya-ma'rifiy ish ham tizimning tarkibiy qismi sifatida ko'rsatilgan [2].",
-      "Yo'riqnomada faol va potensial o'choqli endemik hududlarda rejali tadbirlar o'tkazilishi, ularga bemorlarni aniqlash, aholini iskabtopar chaqishidan himoya qilish, kasallik manbalariga qarshi kurash va kadrlar tayyorlash kiritilgan. Endemik hududlarda tegishli mutaxassislar birgalikda zarur chora-tadbirlar majmuasini tuzishi talab etiladi [1]."
-    ]},
-    {"heading": "Bemorlarni aniqlash va epidemiologik tekshiruv", "content": [
-      "Endemik tumanlarda bemorlar DPMga murojaat va xonadonma-xonadon yurib faol aniqlanadi. Endemik bo'lmagan tumanlarda pediatriya va gematologiya muassasalarida hamda endemik hududlarga borib kelgan fuqarolarni tekshirish orqali aniqlanadi. Har bir shubhali bemor to'liq parazitologik tekshiruvdan o'tkaziladi [1].",
-      "Har bir aniqlangan holat bo'yicha epidemiologik tekshiruv o'tkaziladi. Tekshiruv kartasi bemor, zararlangan joy, iskabtopar va itlarning mavjudligini aks ettiradi. 2016 yil taqdimotida esa operativ xabarlarda epidemiologik tekshiruv ma'lumotlari, ya'ni entomologik holat va o'tkazilgan tadbirlar ko'rsatilmagani tanqid qilingan [1, 2, 3]."
-    ]},
-    {"heading": "Xabar berish va ro'yxatga olish", "content": [
-      "Taqdimotda leyshmanioz holati bo'yicha shoshilinch xabarnoma 058/u shakli bilan yuborilishi, holat 060/u shakli bo'yicha ro'yxatga olinishi ko'rsatilgan. Birlamchi xabar epidemiologik tekshiruv natijasi bilan, yakuniysi esa o'choqdagi tadbirlar tugagach yuqori turuvchi markazga beriladi [2].",
-      "7-ilovada bezgak, ichki leyshmanioz va teri leyshmaniozi bo'yicha navbatdan tashqari ma'lumot shakli keltirilgan. Unda bemorning manzili, tashxis, tekshiruv sanalari, maxsus davo preparati va iskabtopar hamda itlar mavjudligi so'raladi. Yakuniy ma'lumot o'choq tugagandan keyin 7 kundan kechiktirilmay olinishi kerak [3]."
-    ]},
-    {"heading": "Bemorni gospitalizatsiya qilish va davolash", "content": [
-      "Taqdimotda visseral leyshmanioz bemorlarini majburiy gospitalizatsiya qilish, laboratoriya tasdiqlagan holatlarga 24 soat ichida adekvat maxsus davoni boshlash talab qilingan. Tez-testlar ijobiy bo'lsa mikroskopiya bilan tasdiqlanadi, natijalar farq qilganda PZR qo'llanadi [2].",
-      "Bayonnomaga ko'ra parazitologik tashxisi tasdiqlangan hamma bemorlar shifoxonaga yotqiziladi. Maqsad o'limning oldini olish bo'lib, yo'riqnomada ham o'z vaqtida aniqlangan bemorni maxsus davolash orqali o'lim holatlari to'xtatilishi ta'kidlangan. Dorilar tafsiloti alohida mavzuda ko'riladi [1, 4]."
-    ]},
-    {"heading": "Iskabtoparlarga qarshi choralar", "content": [
-      "Yo'riqnomada aholi yashaydigan joylarda iskabtoparlarning imaginal oldi fazasini yo'qotish uchun sanitar-obodonlashtirish, derazalarga to'r tutish va yashaydigan hamda yashamaydigan xonalarga insektitsid bilan ishlov berish ko'rsatilgan. Asosiy tashuvchi Ph. longiductus o'choqlarida mavsum davomida 1-3 marta ishlov o'tkaziladi [1].",
-      "Ph. smirnovi o'choqlarida xona devorlarining tashqi qismi ishlanadi. Sinuzan, dimilin, fipronil kabi ruxsat etilgan preparatlar bino ichki va tashqi qismi hamda eshik-deraza romlariga 0,5-1 m kenglikda, singdiruvchi yuzaga 1 kv.m ga 100-200 ml, singdirmaydigan yuzaga 50-100 ml sarflanib purkaladi [1]."
-    ]},
-    {"heading": "Kasallik manbalariga qarshi choralar", "content": [
-      "Visseral leyshmaniozning asosiy rezervuari itlar bo'lgani uchun endemik o'choqlarda daydi itlar ushlanadi, kasallari yo'qotiladi, xonadonlardagi itlar hisobga olinib veterinar ko'rigidan o'tkaziladi. Odamlarda har yili VL qayd etiladigan tabiiy o'choqlarda barcha itlar ro'yxatga olinib, yiliga 1-2 marta parazitologik tekshiriladi [1].",
-      "Zararlangan itlarning 5-7 foizida kasallik belgisiz kechgani uchun shubhali itlar natija aniqlanguncha izolyatsiya qilinadi. Taqdimotda itlarni mahalliy insektitsid bilan himoyalash va kimyoviy o'ljalar zaxirasini yaratish ham ko'rsatilgan. Daydi itlarni tutish hokimlik huzuridagi obodonlashtirish bo'limi xodimlariga yuklangan [1, 2]."
-    ]},
-    {"heading": "Tashkiliy choralar", "content": [
-      "121-son buyruqda leyshmaniozning tabiiy endemik o'choqlarida tarqalishini oldini olish maqsadida Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan, Samarqand viloyatlari va Qoraqalpog'iston Respublikasidagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirish topshirilgan [5].",
-      "Taqdimotga ko'ra bu otryadlar endemik hududlarda tiklanadi, hududiy kompleks rejalar 2017-2021 yillarga tasdiqlanadi, tegishli vazirliklar bilan hamkorlik o'rnatiladi, kadrlar o'qitiladi. Shuningdek yetarli dori zaxirasi, zaharli kimyoviy moddalar va transport uchun takliflar hokimliklarga beriladi [2]."
-    ]},
-    {"heading": "Yakuniy hisobot va dispanser nazorati", "content": [
-      "Yakuniy ma'lumotga o'choq tugagandan keyin 7 kun ichida yakuniy tashxis sanasi, o'tkazilgan tadbirlar, ularning o'z vaqtidaligi va natijasi, tashuvchilarga qarshi kurash sanasi va sarflangan zaharli moddalar kiradi. Unga DPMdan ambulator kartadan, kasallik tarixi varag'idan va tekshiruv kartasidan ko'chirmalar ilova qilinadi [3].",
-      "Bemor shifoxonadan chiqqach dispanser nazoratiga olinadi: 1, 3, 6, 9 va 12 oydan keyin qon tahlili qilinadi, 12 oydan keyin parazitologik tahlillar manfiy va belgilar bo'lmasa hisobdan chiqariladi. Taqdimotda dispanser nazorati seropozitiv shaxslarni ham qamrab olishi ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "2016 yil tahlilida Samarqand viloyatida VL bemorlarining 88 foizi kasallangan kunning o'zida aniqlangani va operativ xabarlar berilmagani qayd etilgan, bu haqiqiy holatni aks ettirmaydi. Parazitolog-shifokor hisobotlardagi sanalar real bo'lishini ta'minlashi kerak [2].",
-      "Shuningdek Urgut tumanida 2016 yilda VL holatlari 5 tadan 12 taga ko'tarilgani kuzatilgan. Bunday hududlarda epidemiologik tekshiruv sifati, itlarni tekshirish va iskabtopar ishlovi nazorat qilinishi lozim, chunki o'sish kasallikning faol o'choqda saqlanayotganini ko'rsatadi [2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Ko'rilgan manbalarda visseral leyshmanioz o'chog'ini «tugatilgan» deb e'lon qilish uchun aniq mezon yoki muddat topilmadi. Kanali qaytalama terlama uchun bunday mezon mavjud, ammo VL uchun yo'riqnomada faqat kuzatuv va tadbirlar tizimi berilgan [1, 2].",
-      "Navbatdan tashqari ma'lumotning 12 soat telefon va 24 soat yozma muddati 7-ilovada bezgak holati uchun yozilgan, uni VLga qo'llash bo'yicha aniq ko'rsatma matnda yo'q. O'choq atrofidagi ishlov radiusi ham VL uchun alohida belgilanmagan [3]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Visseral leyshmanioz o'chog'ida har bir holat epidemiologik tekshiriladi va xabar qilinadi, bemor gospitalizatsiya qilinib 24 soat ichida davolanadi, iskabtoparlar va itlarga qarshi kompleks choralar o'tkaziladi, otryadlar hamda dispanser nazorati ishlaydi. O'choqni tugatish mezoni manbalarda aniq berilmagan [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432."
-  ]
+ "number": 62,
+ "title": "62. Visseral leymaniozining joylashuvi va tugatilishiga qarshi tashkillashtirilgan va o'tkazilgan epidemik chora-tadbirlar.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Visseral leyshmanioz transmissiv tabiiy o'choqli yuqumli kasallik bo'lgani uchun o'choqda epidemiyaga qarshi tadbirlar bemorga, kasallik manbasiga va tashuvchilarga bir vaqtda qaratiladi. Milliy yo'riqnomaga ko'ra hozirgi vaqtda faol sinantrop o'choqlar qolmagan, ko'pchilik o'choqlar yarim sinantrop bo'lib, tabiiy o'choqlar bilan bog'langan [1].",
+    "Ushbu mavzuda har bir holat aniqlanganda o'tkaziladigan epidemiologik tekshiruv, xabar berish, bemorni davolash, tashuvchilar va itlarga qarshi choralar, tashkiliy ishlar va yakuniy hisobot tartibi ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Chora-tadbirlar tizimi",
+   "content": [
+    "Respublika markazining taqdimotida leyshmaniozga qarshi tadbirlar tashkiliy, davolash-profilaktika, entomologik nazorat, veterinariya, sanitariya-gigiyena va shaxsiy hamda jamoat profilaktikasi yo'nalishlariga bo'lingan. Aholi va xavf guruhlari o'rtasida sanitariya-ma'rifiy ish ham tizimning tarkibiy qismi sifatida ko'rsatilgan [2].",
+    "Yo'riqnomada faol va potensial o'choqli endemik hududlarda rejali tadbirlar o'tkazilishi, ularga bemorlarni aniqlash, aholini iskabtopar chaqishidan himoya qilish, kasallik manbalariga qarshi kurash va kadrlar tayyorlash kiritilgan. Endemik hududlarda tegishli mutaxassislar birgalikda zarur chora-tadbirlar majmuasini tuzishi talab etiladi [1].",
+    "Yo'riqnomaga ko'ra profilaktik va epidemiyaga qarshi tadbirlarni rejalashtirishda visseral leyshmanioz transmissiv tabiiy o'choqli kasallik ekani hisobga olinadi. Har bir aniqlangan holat bo'yicha epidemiologik tekshiruv o'choqdagi tadbirlar bilan bir qatorda O'zbekistonda kasallik arealini aniqlash uchun ham o'tkaziladi [1]."
+   ]
+  },
+  {
+   "heading": "Bemorlarni aniqlash va epidemiologik tekshiruv",
+   "content": [
+    "Endemik tumanlarda bemorlar DPMga murojaat va xonadonma-xonadon yurib faol aniqlanadi. Endemik bo'lmagan tumanlarda pediatriya va gematologiya muassasalarida hamda endemik hududlarga borib kelgan fuqarolarni tekshirish orqali aniqlanadi. Har bir shubhali bemor to'liq parazitologik tekshiruvdan o'tkaziladi [1].",
+    "Har bir aniqlangan holat bo'yicha epidemiologik tekshiruv o'tkaziladi. Tekshiruv kartasi bemor, zararlangan joy, iskabtopar va itlarning mavjudligini aks ettiradi. 2016 yil taqdimotida esa operativ xabarlarda epidemiologik tekshiruv ma'lumotlari, ya'ni entomologik holat va o'tkazilgan tadbirlar ko'rsatilmagani tanqid qilingan [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Xabar berish va ro'yxatga olish",
+   "content": [
+    "Taqdimotda leyshmanioz holati bo'yicha shoshilinch xabarnoma 058/u shakli bilan yuborilishi, holat 060/u shakli bo'yicha ro'yxatga olinishi ko'rsatilgan. Birlamchi xabar epidemiologik tekshiruv natijasi bilan, yakuniysi esa o'choqdagi tadbirlar tugagach yuqori turuvchi markazga beriladi [2].",
+    "7-ilovada bezgak, ichki leyshmanioz va teri leyshmaniozi bo'yicha navbatdan tashqari ma'lumot shakli keltirilgan. Unda bemorning manzili, tashxis, tekshiruv sanalari, maxsus davo preparati va iskabtopar hamda itlar mavjudligi so'raladi. Yakuniy ma'lumot o'choq tugagandan keyin 7 kundan kechiktirilmay olinishi kerak [3]."
+   ]
+  },
+  {
+   "heading": "Bemorni gospitalizatsiya qilish va davolash",
+   "content": [
+    "Taqdimotda visseral leyshmanioz bemorlarini majburiy gospitalizatsiya qilish, laboratoriya tasdiqlagan holatlarga 24 soat ichida adekvat maxsus davoni boshlash talab qilingan. Tez-testlar ijobiy bo'lsa mikroskopiya bilan tasdiqlanadi, natijalar farq qilganda PZR qo'llanadi [2].",
+    "Bayonnomaga ko'ra parazitologik tashxisi tasdiqlangan hamma bemorlar shifoxonaga yotqiziladi. Maqsad o'limning oldini olish bo'lib, yo'riqnomada ham o'z vaqtida aniqlangan bemorni maxsus davolash orqali o'lim holatlari to'xtatilishi ta'kidlangan. Dorilar tafsiloti alohida mavzuda ko'riladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Iskabtoparlarga qarshi choralar",
+   "content": [
+    "Yo'riqnomada aholi yashaydigan joylarda iskabtoparlarning imaginal oldi fazasini yo'qotish uchun sanitar-obodonlashtirish, derazalarga to'r tutish va yashaydigan hamda yashamaydigan xonalarga insektitsid bilan ishlov berish ko'rsatilgan. Asosiy tashuvchi Ph. longiductus o'choqlarida mavsum davomida 1-3 marta ishlov o'tkaziladi [1].",
+    "Ph. smirnovi o'choqlarida xona devorlarining tashqi qismi ishlanadi. Sinuzan, dimilin, fipronil kabi ruxsat etilgan preparatlar bino ichki va tashqi qismi hamda eshik-deraza romlariga 0,5-1 m kenglikda, singdiruvchi yuzaga 1 kv.m ga 100-200 ml, singdirmaydigan yuzaga 50-100 ml sarflanib purkaladi [1]."
+   ]
+  },
+  {
+   "heading": "Kasallik manbalariga qarshi choralar",
+   "content": [
+    "Visseral leyshmaniozning asosiy rezervuari itlar bo'lgani uchun endemik o'choqlarda daydi itlar ushlanadi, kasallari yo'qotiladi, xonadonlardagi itlar hisobga olinib veterinar ko'rigidan o'tkaziladi. Odamlarda har yili VL qayd etiladigan tabiiy o'choqlarda barcha itlar ro'yxatga olinib, yiliga 1-2 marta parazitologik tekshiriladi [1].",
+    "Zararlangan itlarning 5-7 foizida kasallik belgisiz kechgani uchun shubhali itlar natija aniqlanguncha izolyatsiya qilinadi. Taqdimotda itlarni mahalliy insektitsid bilan himoyalash va kimyoviy o'ljalar zaxirasini yaratish ham ko'rsatilgan. Daydi itlarni tutish hokimlik huzuridagi obodonlashtirish bo'limi xodimlariga yuklangan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Tashkiliy choralar",
+   "content": [
+    "121-son buyruqda leyshmaniozning tabiiy endemik o'choqlarida tarqalishini oldini olish maqsadida Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan, Samarqand viloyatlari va Qoraqalpog'iston Respublikasidagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirish topshirilgan [5].",
+    "Taqdimotga ko'ra bu otryadlar endemik hududlarda tiklanadi, hududiy kompleks rejalar 2017-2021 yillarga tasdiqlanadi, tegishli vazirliklar bilan hamkorlik o'rnatiladi, kadrlar o'qitiladi. Shuningdek yetarli dori zaxirasi, zaharli kimyoviy moddalar va transport uchun takliflar hokimliklarga beriladi [2]."
+   ]
+  },
+  {
+   "heading": "Yakuniy hisobot va dispanser nazorati",
+   "content": [
+    "Yakuniy ma'lumotga o'choq tugagandan keyin 7 kun ichida yakuniy tashxis sanasi, o'tkazilgan tadbirlar, ularning o'z vaqtidaligi va natijasi, tashuvchilarga qarshi kurash sanasi va sarflangan zaharli moddalar kiradi. Unga DPMdan ambulator kartadan, kasallik tarixi varag'idan va tekshiruv kartasidan ko'chirmalar ilova qilinadi [3].",
+    "Bemor shifoxonadan chiqqach dispanser nazoratiga olinadi: 1, 3, 6, 9 va 12 oydan keyin qon tahlili qilinadi, 12 oydan keyin parazitologik tahlillar manfiy va belgilar bo'lmasa hisobdan chiqariladi. Taqdimotda dispanser nazorati seropozitiv shaxslarni ham qamrab olishi ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "2016 yil tahlilida Samarqand viloyatida VL bemorlarining 88 foizi kasallangan kunning o'zida aniqlangani va operativ xabarlar berilmagani qayd etilgan, bu haqiqiy holatni aks ettirmaydi. Parazitolog-shifokor hisobotlardagi sanalar real bo'lishini ta'minlashi kerak [2].",
+    "Shuningdek Urgut tumanida 2016 yilda VL holatlari 5 tadan 12 taga ko'tarilgani kuzatilgan. Bunday hududlarda epidemiologik tekshiruv sifati, itlarni tekshirish va iskabtopar ishlovi nazorat qilinishi lozim, chunki o'sish kasallikning faol o'choqda saqlanayotganini ko'rsatadi [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Visseral leyshmanioz o'chog'ida har bir holat epidemiologik tekshiriladi va xabar qilinadi, bemor gospitalizatsiya qilinib 24 soat ichida davolanadi, iskabtoparlar va itlarga qarshi kompleks choralar o'tkaziladi, otryadlar hamda dispanser nazorati ishlaydi. O'choqni tugatish mezoni manbalarda aniq berilmagan [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432."
+ ]
 }

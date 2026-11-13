@@ -1,65 +1,97 @@
 {
-  "number": 64,
-  "title": "64. O'zbekiston Respublikasida visseral leyshmaniozining manbai va tashuvchilariga qarshi kurashda qanday chora- tadbirlar o'tkaziladi",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Visseral leyshmaniozda zanjirning ikki asosiy bo'g'ini bor: qo'zg'atuvchi manbai bo'lgan hayvonlar va uni yuqtiruvchi iskabtopar chivinlar. O'zbekistonda profilaktika aynan shu ikki bo'g'inga qaratilgan, chunki odam o'choqda tasodifiy zararlanadi va epidemiyaga qarshi tadbirlar majmuasi bemor, manba va tashuvchilarga yo'naltiriladi [1].",
-      "Ushbu mavzuda manbalar va ularning ahamiyati, itlarga qarshi veterinariya-sanitariya choralari, tashuvchilarning biologiyasi, entomologik nazorat va insektitsid ishlovi, tashkiliy yondashuv hamda JSST tavsiyalari ketma-ket ko'rib chiqiladi [1, 2, 3]."
-    ]},
-    {"heading": "Kasallik manbalari", "content": [
-      "Yo'riqnomaga ko'ra O'rta yer dengizi va O'rta Osiyo turidagi VL zoonoz bo'lib, qo'zg'atuvchining asosiy tabiiy rezervuari itlar, qo'shimcha manbalar esa chiyabo'ri, tulki va bo'rilardir. Aholining zararlanishida uy, daydi, podadagi va yovvoyilashgan itlar xavfli guruh sifatida ajratiladi [1].",
-      "O'chog'lar uch turda: tabiiy (manba tulki va chiyabo'ri), yarim sinantrop yoki qishloq turi (itlar ishtirok etadi) va shahar turi (asosiy manba itlar, ba'zan odam). Bugungi kunda faol sinantrop o'choqlar qolmagan, ko'pchilik o'choqlar yarim sinantrop hisoblanadi [1]."
-    ]},
-    {"heading": "Itlardagi zararlanish darajasi", "content": [
-      "XX asrning birinchi yarmida o'tkazilgan tekshiruvlarda itlarda VL Toshkentda 27,2 foiz, Samarqandda 40,8 foiz va Buxoroda 25,2 foiz aniqlangan. Bu ko'rsatkichlar itlar aholi punktlarida qo'zg'atuvchining asosiy manbai ekanini tasdiqlagan [1].",
-      "2007-2009 yillarda Namangan viloyatining Pop tumanida 162 ta it tekshirilib, 38,8 foizi zararlangani aniqlangan va 10 tasida L. infantum shtammi ajratilgan. Zararlangan itlarning 5-7 foizida kasallik belgisiz yoki terining ozgina shikastlanishi bilan kechadi, shuning uchun klinik ko'rik yetarli emas [1]."
-    ]},
-    {"heading": "Itlarni hisobga olish va tekshirish", "content": [
-      "Yo'riqnomaga ko'ra endemik o'choqlarda daydi itlar ushlanadi, kasallari yo'qotiladi, xonadonlardagi itlar hisobga olinib veterinar ko'rigidan o'tkaziladi. Mikro o'choqlarda shu hudud va qo'shni hududlardagi barcha itlar tekshiriladi, aniqlangan kasal itlar yo'qotiladi [1].",
-      "Odamlarda har yili VL qayd etiladigan tabiiy o'choqlarda barcha itlar ro'yxatga olinib, yiliga 1-2 marta parazitologik tekshiriladi. Taqdimotda ham doimiy o'choqlarda klinik belgidan qat'i nazar parazitologik va serologik tekshiruv hamda har bir holat bo'yicha epizootologik tekshiruv o'tkazish ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Daydi itlarga qarshi choralar", "content": [
-      "Shahar va tumanlarda daydi va egasiz itlarni ushlash hamda yo'qotish hokimlik huzuridagi hududlarni obodonlashtirish bo'limi xodimlari tomonidan tashkil qilinadi. Barcha profilaktik tadbirlar sanitariya-profilaktika va veterinariya muassasalari xodimlarining yaqin hamkorligida olib borilishi talab etiladi [1].",
-      "Taqdimotga ko'ra daydi va nazoratsiz itlar tutiladi, zararlangan va kasal itlar yo'q qilinadi, shubhali yoki kasal daydi va uy itlarini yo'qotish uchun kimyoviy o'ljalarning yetarli zaxirasi yaratiladi. Bunday zaxira VL o'choqlarida tezkor harakat uchun zarur [2]."
-    ]},
-    {"heading": "Itlarni himoyalash", "content": [
-      "Taqdimotda zararlangan itlarni davolash yoki yo'q qilish, hamda itlarda mahalliy insektitsid qo'llash orqali odam va itlarning o'zaro zararlanishini kamaytirish ko'rsatilgan. Himoya uchun sintetik piretroidlar, ya'ni permetrin, deltametrin va flumetrin yakka yoki imidakloprid bilan birga ishlatilishi mumkin [2].",
-      "Bu vositalar purkagich, tomchi yoki bo'yinbog' shaklida qo'llanadi va imidaklopridning iskabtoparlarni oziqlanishdan qaytaruvchi ta'siri qayd etilgan. JSST minimal choralarida ham zararlangan itlarni davolash yoki yo'qotish, daydi itlar nazorati va mahalliy insektitsid qo'llash kiritilgan [2]."
-    ]},
-    {"heading": "Tashuvchilar va ularning biologiyasi", "content": [
-      "O'zbekistonda iskabtopar chivinlarning 9 turi mavjud bo'lib, VL tashuvchisi asosan Ph. longiductus va Ph. angustus turlaridir. Chivinlar kichik qon so'ruvchi ikki qanotli hasharotlar bo'lib, zararlangan hayvon yoki bemor odamni chaqqanda leyshmaniyalarni yutadi [1].",
-      "Iskabtoparlar aholi punktlarida pollar ostida, axlatxonalarda, tabiatda kemiruvchilar inlarida va daraxt kovaklarida ko'payadi, shom va kechqurun faol bo'ladi, yiliga asosan ikki marta ko'payadi. Aholi punktida taxminan 10 metrgacha, tabiiy o'choqlarda 1,5 km masofagacha tarqaladi, 6-8 kunda yuqumli bo'ladi [1]."
-    ]},
-    {"heading": "Tashuvchilarga qarshi entomologik nazorat va ishlov", "content": [
-      "Taqdimotda entomologik nazorat iskabtoparlarning tur tarkibini o'rganish, tabiat va aholi punktlarida sonining mavsumiy o'zgarishini kuzatish, qirish tadbirlarini rejalash va o'tkazishdan iborat deb berilgan. Ishlov rejalari, muddatlari va hajmini hamda samaradorligini qayta ko'rib chiqish ham nazarda tutilgan [2].",
-      "Yo'riqnomaga ko'ra rejalashda hududning ekologik xususiyati hisobga olinadi: Ph. longiductus o'choqlarida turar xonalarga mavsumda 1-3 marta, eksofil Ph. smirnovi o'choqlarida devorlarning tashqi qismiga ishlov beriladi. Ruxsat etilgan insektitsidlar sifatida sinuzan, dimilin, fipronil keltirilgan [1]."
-    ]},
-    {"heading": "Sanitar-gigiyenik va individual choralar", "content": [
-      "Iskabtoparlar ko'payadigan joylarni yo'qotish uchun xonadonlarni tozalash, bo'sh yerni tekislash va ko'kalamzorlashtirish, go'ng va axlatni olib tashlash, kemiruvchi inlarini yo'qotish, loy binolarni ta'mirlash, keraksiz tashlandiq binolarni buzish nazarda tutilgan. Samaradorlik nazorat qilinadi [2].",
-      "Qishloq aholi punktlarida VL ning sporadik holatlarida manba yovvoyi hayvonlar va ularning inlarida ko'payadigan iskabtoparlar bo'lgani uchun himoya kiyimi, to'r, pashshaxona va repellentlardan foydalaniladi. Bu individual himoya ishlov bilan birga chaqishni kamaytiradi [1]."
-    ]},
-    {"heading": "Tashkiliy yondashuv", "content": [
-      "Qoraqalpog'iston Respublikasi, Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan va Samarqand DSENMlaridagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirish 121-son buyruqda topshirilgan. Taqdimotga ko'ra otryadlarni tiklash va ularni texnik jihozlash rejalashtirilgan [2, 4].",
-      "Respublika markazining taqdimotida VL holatlari 2016 yilgacha Namangan, Navoiy, Farg'ona, Samarqand, Jizzax va Surxondaryo viloyatlarida qayd etilgani, Urgut tumanida o'sish kuzatilgani ko'rsatilgan. Shuning uchun bu hududlarda it va iskabtopar bo'yicha nazorat ustuvor bo'lishi lozim [2]."
-    ]},
-    {"heading": "JSST yondashuvi", "content": [
-      "JSSTga ko'ra vektor nazorati iskabtoparlar sonini kamaytirib, yuqishni susaytiradi yoki to'xtatadi; usullar insektitsid purkash, insektitsidli to'rlar, atrof-muhitni boshqarish va shaxsiy himoyani o'z ichiga oladi. Hayvon rezervuarlarini nazorat qilish murakkab bo'lib, mahalliy sharoitga moslashtirilishi lozim [5].",
-      "Pavlovich va Andreev darsligida VL manbalari sifatida kemiruvchilar, tulkilar, shakallar va itlar, profilaktika vositalari sifatida manbalarni zararsizlantirish, daydi itlarni izolyatsiya qilish, insektitsid va repellentlar ko'rsatilgan. Bu umumiy yondashuv milliy yo'riqnoma bilan mos keladi [5, 6]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Itlarni davolash masalasida milliy yo'riqnomada kasal itlarni yo'qotish yozilgan, taqdimotda esa davolash yoki yo'q qilish deyilgan. Davolash sxemasi va ruxsat etilgan veterinariya preparatlari bu manbalarda ko'rsatilmagan [1, 2].",
-      "Tulki, chiyabo'ri va bo'rilar bo'yicha O'zbekistonga xos son, hudud yoki ularni nazorat qilish usuli topilmadi. Iskabtopar ishlovi uchun 0,5-1 m kenglik va 100-200 ml/kv.m sarf faqat yo'riqnomada berilgan, boshqa preparat dozalari manbalarda yo'q [1]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "O'zbekistonda VL manbasiga qarshi itlarni hisobga olish va parazitologik tekshirish, daydi itlarni ushlash, kasal itlarni yo'qotish va itlarni insektitsid bilan himoyalash, tashuvchilarga qarshi esa entomologik nazorat, sanitar-obodonlashtirish va binolarga insektitsid ishlovi o'tkaziladi. Bu tadbirlar leyshmaniozga qarshi otryadlar va veterinariya xizmati hamkorligida bajariladi [1, 2]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736."
-  ]
+ "number": 64,
+ "title": "64. O'zbekiston Respublikasida visseral leyshmaniozining manbai va tashuvchilariga qarshi kurashda qanday chora- tadbirlar o'tkaziladi",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Visseral leyshmaniozda zanjirning ikki asosiy bo'g'ini bor: qo'zg'atuvchi manbai bo'lgan hayvonlar va uni yuqtiruvchi iskabtopar chivinlar. O'zbekistonda profilaktika aynan shu ikki bo'g'inga qaratilgan, chunki odam o'choqda tasodifiy zararlanadi va epidemiyaga qarshi tadbirlar majmuasi bemor, manba va tashuvchilarga yo'naltiriladi [1].",
+    "Ushbu mavzuda manbalar va ularning ahamiyati, itlarga qarshi veterinariya-sanitariya choralari, tashuvchilarning biologiyasi, entomologik nazorat va insektitsid ishlovi, tashkiliy yondashuv hamda JSST tavsiyalari ketma-ket ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Kasallik manbalari",
+   "content": [
+    "Yo'riqnomaga ko'ra O'rta yer dengizi va O'rta Osiyo turidagi VL zoonoz bo'lib, qo'zg'atuvchining asosiy tabiiy rezervuari itlar, qo'shimcha manbalar esa chiyabo'ri, tulki va bo'rilardir. Aholining zararlanishida uy, daydi, podadagi va yovvoyilashgan itlar xavfli guruh sifatida ajratiladi [1].",
+    "O'chog'lar uch turda: tabiiy (manba tulki va chiyabo'ri), yarim sinantrop yoki qishloq turi (itlar ishtirok etadi) va shahar turi (asosiy manba itlar, ba'zan odam). Bugungi kunda faol sinantrop o'choqlar qolmagan, ko'pchilik o'choqlar yarim sinantrop hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Itlardagi zararlanish darajasi",
+   "content": [
+    "XX asrning birinchi yarmida o'tkazilgan tekshiruvlarda itlarda VL Toshkentda 27,2 foiz, Samarqandda 40,8 foiz va Buxoroda 25,2 foiz aniqlangan. Bu ko'rsatkichlar itlar aholi punktlarida qo'zg'atuvchining asosiy manbai ekanini tasdiqlagan [1].",
+    "2007-2009 yillarda Namangan viloyatining Pop tumanida 162 ta it tekshirilib, 38,8 foizi zararlangani aniqlangan va 10 tasida L. infantum shtammi ajratilgan. Zararlangan itlarning 5-7 foizida kasallik belgisiz yoki terining ozgina shikastlanishi bilan kechadi, shuning uchun klinik ko'rik yetarli emas [1]."
+   ]
+  },
+  {
+   "heading": "Itlarni hisobga olish va tekshirish",
+   "content": [
+    "Yo'riqnomaga ko'ra endemik o'choqlarda daydi itlar ushlanadi, kasallari yo'qotiladi, xonadonlardagi itlar hisobga olinib veterinar ko'rigidan o'tkaziladi. Mikro o'choqlarda shu hudud va qo'shni hududlardagi barcha itlar tekshiriladi, aniqlangan kasal itlar yo'qotiladi [1].",
+    "Odamlarda har yili VL qayd etiladigan tabiiy o'choqlarda barcha itlar ro'yxatga olinib, yiliga 1-2 marta parazitologik tekshiriladi. Taqdimotda ham doimiy o'choqlarda klinik belgidan qat'i nazar parazitologik va serologik tekshiruv hamda har bir holat bo'yicha epizootologik tekshiruv o'tkazish ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Daydi itlarga qarshi choralar",
+   "content": [
+    "Shahar va tumanlarda daydi va egasiz itlarni ushlash hamda yo'qotish hokimlik huzuridagi hududlarni obodonlashtirish bo'limi xodimlari tomonidan tashkil qilinadi. Barcha profilaktik tadbirlar sanitariya-profilaktika va veterinariya muassasalari xodimlarining yaqin hamkorligida olib borilishi talab etiladi [1].",
+    "Taqdimotga ko'ra daydi va nazoratsiz itlar tutiladi, zararlangan va kasal itlar yo'q qilinadi, shubhali yoki kasal daydi va uy itlarini yo'qotish uchun kimyoviy o'ljalarning yetarli zaxirasi yaratiladi. Bunday zaxira VL o'choqlarida tezkor harakat uchun zarur [2]."
+   ]
+  },
+  {
+   "heading": "Itlarni himoyalash",
+   "content": [
+    "Taqdimotda zararlangan itlarni davolash yoki yo'q qilish, hamda itlarda mahalliy insektitsid qo'llash orqali odam va itlarning o'zaro zararlanishini kamaytirish ko'rsatilgan. Himoya uchun sintetik piretroidlar, ya'ni permetrin, deltametrin va flumetrin yakka yoki imidakloprid bilan birga ishlatilishi mumkin [2].",
+    "Bu vositalar purkagich, tomchi yoki bo'yinbog' shaklida qo'llanadi va imidaklopridning iskabtoparlarni oziqlanishdan qaytaruvchi ta'siri qayd etilgan. JSST minimal choralarida ham zararlangan itlarni davolash yoki yo'qotish, daydi itlar nazorati va mahalliy insektitsid qo'llash kiritilgan [2]."
+   ]
+  },
+  {
+   "heading": "Tashuvchilar va ularning biologiyasi",
+   "content": [
+    "O'zbekistonda iskabtopar chivinlarning 9 turi mavjud bo'lib, VL tashuvchisi asosan Ph. longiductus va Ph. angustus turlaridir. Chivinlar kichik qon so'ruvchi ikki qanotli hasharotlar bo'lib, zararlangan hayvon yoki bemor odamni chaqqanda leyshmaniyalarni yutadi [1].",
+    "Iskabtoparlar aholi punktlarida pollar ostida, axlatxonalarda, tabiatda kemiruvchilar inlarida va daraxt kovaklarida ko'payadi, shom va kechqurun faol bo'ladi, yiliga asosan ikki marta ko'payadi. Aholi punktida taxminan 10 metrgacha, tabiiy o'choqlarda 1,5 km masofagacha tarqaladi, 6-8 kunda yuqumli bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Tashuvchilarga qarshi entomologik nazorat va ishlov",
+   "content": [
+    "Taqdimotda entomologik nazorat iskabtoparlarning tur tarkibini o'rganish, tabiat va aholi punktlarida sonining mavsumiy o'zgarishini kuzatish, qirish tadbirlarini rejalash va o'tkazishdan iborat deb berilgan. Ishlov rejalari, muddatlari va hajmini hamda samaradorligini qayta ko'rib chiqish ham nazarda tutilgan [2].",
+    "Yo'riqnomaga ko'ra rejalashda hududning ekologik xususiyati hisobga olinadi: Ph. longiductus o'choqlarida turar xonalarga mavsumda 1-3 marta, eksofil Ph. smirnovi o'choqlarida devorlarning tashqi qismiga ishlov beriladi. Ruxsat etilgan insektitsidlar sifatida sinuzan, dimilin, fipronil keltirilgan [1]."
+   ]
+  },
+  {
+   "heading": "Sanitar-gigiyenik va individual choralar",
+   "content": [
+    "Iskabtoparlar ko'payadigan joylarni yo'qotish uchun xonadonlarni tozalash, bo'sh yerni tekislash va ko'kalamzorlashtirish, go'ng va axlatni olib tashlash, kemiruvchi inlarini yo'qotish, loy binolarni ta'mirlash, keraksiz tashlandiq binolarni buzish nazarda tutilgan. Samaradorlik nazorat qilinadi [2].",
+    "Qishloq aholi punktlarida VL ning sporadik holatlarida manba yovvoyi hayvonlar va ularning inlarida ko'payadigan iskabtoparlar bo'lgani uchun himoya kiyimi, to'r, pashshaxona va repellentlardan foydalaniladi. Bu individual himoya ishlov bilan birga chaqishni kamaytiradi [1]."
+   ]
+  },
+  {
+   "heading": "Tashkiliy yondashuv",
+   "content": [
+    "Qoraqalpog'iston Respublikasi, Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan va Samarqand DSENMlaridagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirish 121-son buyruqda topshirilgan. Taqdimotga ko'ra otryadlarni tiklash va ularni texnik jihozlash rejalashtirilgan [2, 4].",
+    "Respublika markazining taqdimotida VL holatlari 2016 yilgacha Namangan, Navoiy, Farg'ona, Samarqand, Jizzax va Surxondaryo viloyatlarida qayd etilgani, Urgut tumanida o'sish kuzatilgani ko'rsatilgan. Shuning uchun bu hududlarda it va iskabtopar bo'yicha nazorat ustuvor bo'lishi lozim [2]."
+   ]
+  },
+  {
+   "heading": "JSST yondashuvi",
+   "content": [
+    "JSSTga ko'ra vektor nazorati iskabtoparlar sonini kamaytirib, yuqishni susaytiradi yoki to'xtatadi; usullar insektitsid purkash, insektitsidli to'rlar, atrof-muhitni boshqarish va shaxsiy himoyani o'z ichiga oladi. Hayvon rezervuarlarini nazorat qilish murakkab bo'lib, mahalliy sharoitga moslashtirilishi lozim [5].",
+    "Pavlovich va Andreev darsligida VL manbalari sifatida kemiruvchilar, tulkilar, shakallar va itlar, profilaktika vositalari sifatida manbalarni zararsizlantirish, daydi itlarni izolyatsiya qilish, insektitsid va repellentlar ko'rsatilgan. Bu umumiy yondashuv milliy yo'riqnoma bilan mos keladi [5, 6]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda VL manbasiga qarshi itlarni hisobga olish va parazitologik tekshirish, daydi itlarni ushlash, kasal itlarni yo'qotish va itlarni insektitsid bilan himoyalash, tashuvchilarga qarshi esa entomologik nazorat, sanitar-obodonlashtirish va binolarga insektitsid ishlovi o'tkaziladi. Bu tadbirlar leyshmaniozga qarshi otryadlar va veterinariya xizmati hamkorligida bajariladi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736."
+ ]
 }

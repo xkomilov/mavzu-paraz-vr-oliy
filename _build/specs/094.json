@@ -1,70 +1,102 @@
 {
-  "number": 94,
-  "title": "94. Geogelmintozning profilaktikasi",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Geogelmintozlar, ya'ni askaridoz va trixotsefalyoz, birinchi navbatda sanitariya muammosi bo'lgani uchun ularning profilaktikasi aholi yashash muhitini tozalash, shaxsiy gigiena va invaziyalanganlarni o'z vaqtida aniqlab davolashga asoslanadi. Yo'riqnomada bu kasalliklar o'rtasidagi aloqa tuproq, sabzavot va suv orqali ekani ta'kidlangan [1, 2].",
-      "Mavzuda shaxsiy gigiena, oziq-ovqat va suv xavfsizligi, najasni zararsizlantirish, aholi punktlari obodonligi, tuproq va oqova suv monitoringi, profilaktik dehelmintizatsiya hamda sanitariya-tarbiya choralari bayon etiladi. Tadbirlarning tashkiliy jihatlari 93-mavzuda ko'rilgan [2, 3]."
-    ]},
-    {"heading": "Profilaktika yo'nalishlari", "content": [
-      "Darslikda geogelmintozlar uchun profilaktik kompleks quyidagicha ko'rsatilgan: invaziya manbalarini ommaviy yoki maqsadli tekshirish orqali aniqlash, tuproq, sabzavot, rezavor va xom iste'mol qilinadigan ko'katlarning gelmint tuxumlari bilan ifloslanishini oldini olish, o'choqlarni sog'lomlashtirish [3].",
-      "Shuningdek o'choqlarda sanitariya-gelmintologik monitoring, sog'lomlashtirish samaradorligini tahlil qilish va aholi o'rtasida sanitariya-tarbiya ishlari tavsiya etilgan. Bu yo'nalishlar milliy yo'riqnomada ham o'z aksini topgan, chunki unda geogelmintozlar birinchi navbatda sanitariya muammosi sifatida ta'riflanadi [2, 3]."
-    ]},
-    {"heading": "Shaxsiy gigiena", "content": [
-      "Milliy bayonnomalarga ko'ra askaridoz va trixotsefalyoz profilaktikasi aholi punktlarini obodonlashtirish va shaxsiy gigienaga rioya qilishdan iborat: hojatxonadan keyin qo'llarni yuvish, yaxshi yuvilgan va qaynoq suv bilan ishlov berilgan meva, sabzavot, rezavor, redis, sabzi va ko'katlarni iste'mol qilish [1].",
-      "Atlasda shaxsiy profilaktika qoidalari ichida shaxsiy gigiena, sabzavotlarni sinchiklab yuvish, qaynatilgan suv ichish va oziq-ovqatni pashsha hamda tarakanlardan himoya qilish keltirilgan. Taqdimotda ham qo'l va oziq-ovqat gigienasi asosiy usullar qatorida ko'rsatilgan [4, 5]."
-    ]},
-    {"heading": "Oziq-ovqat xavfsizligi", "content": [
-      "Darslikda termik ishlov berilmasdan iste'mol qilinadigan sabzavot, rezavor va ko'katlarning tuxum bilan ifloslanishini oldini olish profilaktika tarkibiga kiritilgan. Bayonnomada yaxshi yuvilgan va qaynoq suv bilan ishlangan mahsulotlarni iste'mol qilish, taqdimotda ovqatni to'g'ri tayyorlash va qo'l yuvish ko'rsatilgan [1, 3, 5].",
-      "Sanitar parazitologiya qo'llanmasiga ko'ra ko'kat har kuni, ko'pincha xom va yuvilmagan holda iste'mol qilinadi, shu sababli ayniqsa xavfli. Redis va sabzi ham alohida e'tibor talab qiladi, chunki ular tuxum bilan ifloslanishi mumkin; termik ishlov berilgan sabzavotlar esa xavfi kam [8]."
-    ]},
-    {"heading": "Najasni zararsizlantirish", "content": [
-      "Atlasda jamoat profilaktikasi sifatida najasni kompostlash orqali zararsizlantirish ko'rsatilgan va inson najasi bilan sabzavot bog'larini o'g'itlash taqiqlangan. Bu tuproqqa tuxum tushishining asosiy manbasini yopishga qaratilgan chora hisoblanadi [4].",
-      "Rossiya taqdimotida invaziyalangan odam najasini o'g'it sifatida ishlatish taqiqlanishi va tuproq hamda chiqindilar dezinvaziyasi tavsiya etilgan. Sanitar parazitologiya qo'llanmasida tuproq geogelmintozlar yuqish mexanizmining asosiy bo'g'ini deb ataladi, shu sababli unga yangi tuxum tushishini kamaytirish muhim [6, 8]."
-    ]},
-    {"heading": "Aholi punktlarini obodonlashtirish va sanitariya", "content": [
-      "Taqdimotda profilaktika sanitariya sharoitini yaxshilash, ishlaydigan va toza hojatxonalar, toza suvga kirish imkoni hamda najasni to'g'ri yo'qotishni o'z ichiga oladi. Oqova suv tizimlarini takomillashtirish ham zararlanishning oldini oladi [5].",
-      "Brazilyada butun shahar bo'yicha sanitariya dasturi amalga oshirilgach trixotsefalyoz tarqalishi sezilarli kamayganligi taqdimotda keltirilgan, ya'ni 33 foizga. JSST ham yetarli sanitariyani ta'minlash muhimligini, lekin resurslar cheklangan hududlarda har doim mumkin emasligini ta'kidlaydi [5, 7]."
-    ]},
-    {"heading": "Suv va oqova suvlar", "content": [
-      "Epidemiologik nazorat yo'riqnomasi ichak parazitozlarining suv orqali tarqalishini oldini olishda tozalashning barcha bosqichlarini bajarish, ichimlik suvi sifatini nazorat qilish, suv obyektlarini ifloslanishdan muhofaza qilish, markazlashmagan manbalarda suvni qaynatish va filtrlashni ko'rsatadi [11].",
-      "Suv havzalarini oqova suvlar va qishloq xo'jaligi hayvonlari chiqindilari bilan ifloslanishiga yo'l qo'ymaslik zarur. Taqdimotda quduq va boshqa suv havzalaridan olingan suvni ichishdan oldin kamida 10 daqiqa qaynatish tavsiya etilgan, oqova suv tozalash inshootlarining dezinvaziya sifati nazorat qilinadi [5, 6, 11]."
-    ]},
-    {"heading": "Tuproq monitoringi", "content": [
-      "Tuproqdan gelmintologik tahlil uchun namuna olish kamida yilda bir marta, bolalar bog'chalari, davolash muassasalari va dam olish zonalarida bahor va kuzda yilda ikki marta o'tkazilishi GOST da ko'rsatilgan. Umumlashgan 200 g namuna 0-10 sm qatlamdan olinadi [9].",
-      "Sanitariya normasida aholi punktlari va bolalar o'yin maydonchalari tuprog'i parazitologik jihatdan baholanadi: ekstensiv va intensiv ifloslanish ko'rsatkichlari hisoblanadi; sanitariya-muhofaza hududlarida 1 kg tuproqda 5 tagacha tuxum toza hisoblanadi. Tuproq tekshiruvi yilda ikki marta, bahor va kuzda o'tkaziladi [10]."
-    ]},
-    {"heading": "Profilaktik dehelmintizatsiya", "content": [
-      "Milliy yo'riqnomada intensiv o'choqlarda aholiga yilda ikki marta ommaviy dehelmintizatsiya o'tkaziladi, o'rta intensivlikda esa faqat mikroo'choqlarda. Birinchisi bahor oxiri yoki yoz boshida, ikkinchisi kech kuz yoki qish boshida bajariladi [2].",
-      "JSST xavf ostidagi barcha aholiga endemik hududlarda individual tashxissiz davriy dori berishni tavsiya etadi: maktabgacha va maktab yoshidagi bolalar, reproduktiv yoshdagi ayollar va xavfli kasblardagi kattalar. Bu gijja yukini kamaytiradi va kasallanishni pasaytiradi [7]."
-    ]},
-    {"heading": "Sanitariya-tarbiya va o'qitish", "content": [
-      "Yo'riqnomada aholining turli guruhlari shaxsiy gigiena bilimlari va ko'nikmalarini sanitariya-maorif ishlari orqali oshirish, bolalar muassasalari va oziq-ovqat korxonalari xodimlarini gigiena bo'yicha o'qitish ko'rsatilgan. Dekretlangan kontingentlarni salomatlik markazi mutaxassislari o'qitadi [11].",
-      "JSST sog'liq va gigiena ta'limi yuqish va qayta zararlanishni kamaytirishini qayd etadi. Rossiya taqdimotida gigiena ta'limi va tarbiyasi hamda parazitar kasalliklarni, jumladan geogelmintozlarni, oldini olish bo'yicha kompleks rejalar ishlab chiqish profilaktikaga kiritilgan [6, 7]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor profilaktikani o'choq turiga moslab rejalashtiradi: asl o'choqda omillar va sharoitlarga, yolg'on o'choqda manbani davolashga e'tibor beradi. Yo'riqnomada o'choqni pasportlashtirish va uy sharoitini baholash shu maqsadga xizmat qiladi [2].",
-      "Samaradorlik tuproq va tashqi muhit tahlillari hamda aholini qayta tekshirish bilan baholanadi. Sanitar parazitologiya qo'llanmasida aholi zararlanishining barqaror pasayishi tuproqdagi invazion tuxumlar sonining oldindan kamayishiga bog'liq ekani ta'kidlangan [2, 8]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Tekshirilgan manbalarda O'zbekistonda geogelmintozlar profilaktikasi dasturlarining natijalari, aholi qamrovi va sabzavot hamda tuproq monitoringining mahalliy ko'rsatkichlari topilmadi. Brazilyadagi 33 foiz pasayish bitta taqdimotdan olingan va ikkilamchi manba sifatida qabul qilinadi [2, 5].",
-      "GOST rossiyalik standart, sanitar parazitologiya qo'llanmasidagi suv va sabzavot me'yorlari ham Rossiya adabiyotidan; ularni O'zbekiston normativi deb bo'lmaydi. Sabzavotlarni qaynoq suv bilan ishlash tartibi, ya'ni harorat va vaqt, bayonnomada aniq ko'rsatilmagan [1, 9]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Geogelmintozlar profilaktikasi shaxsiy gigiena, xavfsiz oziq-ovqat va suv, najasni zararsizlantirish, obodonlashtirish, tuproq monitoringi, o'choqlarda dehelmintizatsiya va sanitariya-tarbiyaning birgalikdagi ta'siriga asoslanadi. Barcha bu choralar tuproqdagi invazion tuxumlar sonini kamaytirish va aholi bilan ularning aloqasini uzishga qaratilgan [1, 2, 7]."
-    ]}
-  ],
-  "references": [
-    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
-    "Трихоцефалёз (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1592.",
-    "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580.",
-    "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
-    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
-    "ГОСТ 17.4.4.02-2017. Межгосударственный стандарт. Охрана природы. Почвы. Методы отбора и подготовки проб для химического, бактериологического, гельминтологического анализа. xayrullokomilov.uz/kutubxona, material ID 1053.",
-    "Sanitariya qoidalari, normalari va gigiyena normativlari 0112-26-son SanQvaN «Tuproqning sanitariya-gigiyenik holatini baholash hamda tuproqdagi ekzogen zararli moddalarning ruxsat etilgan maksimal va taxminiy konsentratsiyalariga doir». xayrullokomilov.uz/kutubxona, material ID 2702.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
-  ]
+ "number": 94,
+ "title": "94. Geogelmintozning profilaktikasi",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Geogelmintozlar, ya'ni askaridoz va trixotsefalyoz, birinchi navbatda sanitariya muammosi bo'lgani uchun ularning profilaktikasi aholi yashash muhitini tozalash, shaxsiy gigiena va invaziyalanganlarni o'z vaqtida aniqlab davolashga asoslanadi. Yo'riqnomada bu kasalliklar o'rtasidagi aloqa tuproq, sabzavot va suv orqali ekani ta'kidlangan [1, 2].",
+    "Mavzuda shaxsiy gigiena, oziq-ovqat va suv xavfsizligi, najasni zararsizlantirish, aholi punktlari obodonligi, tuproq va oqova suv monitoringi, profilaktik dehelmintizatsiya hamda sanitariya-tarbiya choralari bayon etiladi. Tadbirlarning tashkiliy jihatlari 93-mavzuda ko'rilgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Profilaktika yo'nalishlari",
+   "content": [
+    "Darslikda geogelmintozlar uchun profilaktik kompleks quyidagicha ko'rsatilgan: invaziya manbalarini ommaviy yoki maqsadli tekshirish orqali aniqlash, tuproq, sabzavot, rezavor va xom iste'mol qilinadigan ko'katlarning gelmint tuxumlari bilan ifloslanishini oldini olish, o'choqlarni sog'lomlashtirish [3].",
+    "Shuningdek o'choqlarda sanitariya-gelmintologik monitoring, sog'lomlashtirish samaradorligini tahlil qilish va aholi o'rtasida sanitariya-tarbiya ishlari tavsiya etilgan. Bu yo'nalishlar milliy yo'riqnomada ham o'z aksini topgan, chunki unda geogelmintozlar birinchi navbatda sanitariya muammosi sifatida ta'riflanadi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Shaxsiy gigiena",
+   "content": [
+    "Milliy bayonnomalarga ko'ra askaridoz va trixotsefalyoz profilaktikasi aholi punktlarini obodonlashtirish va shaxsiy gigienaga rioya qilishdan iborat: hojatxonadan keyin qo'llarni yuvish, yaxshi yuvilgan va qaynoq suv bilan ishlov berilgan meva, sabzavot, rezavor, redis, sabzi va ko'katlarni iste'mol qilish [1].",
+    "Atlasda shaxsiy profilaktika qoidalari ichida shaxsiy gigiena, sabzavotlarni sinchiklab yuvish, qaynatilgan suv ichish va oziq-ovqatni pashsha hamda tarakanlardan himoya qilish keltirilgan. Taqdimotda ham qo'l va oziq-ovqat gigienasi asosiy usullar qatorida ko'rsatilgan [4, 5]."
+   ]
+  },
+  {
+   "heading": "Oziq-ovqat xavfsizligi",
+   "content": [
+    "Darslikda termik ishlov berilmasdan iste'mol qilinadigan sabzavot, rezavor va ko'katlarning tuxum bilan ifloslanishini oldini olish profilaktika tarkibiga kiritilgan. Bayonnomada yaxshi yuvilgan va qaynoq suv bilan ishlangan mahsulotlarni iste'mol qilish, taqdimotda ovqatni to'g'ri tayyorlash va qo'l yuvish ko'rsatilgan [1, 3, 5].",
+    "Sanitar parazitologiya qo'llanmasiga ko'ra ko'kat har kuni, ko'pincha xom va yuvilmagan holda iste'mol qilinadi, shu sababli ayniqsa xavfli. Redis va sabzi ham alohida e'tibor talab qiladi, chunki ular tuxum bilan ifloslanishi mumkin; termik ishlov berilgan sabzavotlar esa xavfi kam [8]."
+   ]
+  },
+  {
+   "heading": "Najasni zararsizlantirish",
+   "content": [
+    "Atlasda jamoat profilaktikasi sifatida najasni kompostlash orqali zararsizlantirish ko'rsatilgan va inson najasi bilan sabzavot bog'larini o'g'itlash taqiqlangan. Bu tuproqqa tuxum tushishining asosiy manbasini yopishga qaratilgan chora hisoblanadi [4].",
+    "Rossiya taqdimotida invaziyalangan odam najasini o'g'it sifatida ishlatish taqiqlanishi va tuproq hamda chiqindilar dezinvaziyasi tavsiya etilgan. Sanitar parazitologiya qo'llanmasida tuproq geogelmintozlar yuqish mexanizmining asosiy bo'g'ini deb ataladi, shu sababli unga yangi tuxum tushishini kamaytirish muhim [6, 8]."
+   ]
+  },
+  {
+   "heading": "Aholi punktlarini obodonlashtirish va sanitariya",
+   "content": [
+    "Taqdimotda profilaktika sanitariya sharoitini yaxshilash, ishlaydigan va toza hojatxonalar, toza suvga kirish imkoni hamda najasni to'g'ri yo'qotishni o'z ichiga oladi. Oqova suv tizimlarini takomillashtirish ham zararlanishning oldini oladi [5].",
+    "Brazilyada butun shahar bo'yicha sanitariya dasturi amalga oshirilgach trixotsefalyoz tarqalishi sezilarli kamayganligi taqdimotda keltirilgan, ya'ni 33 foizga. JSST ham yetarli sanitariyani ta'minlash muhimligini, lekin resurslar cheklangan hududlarda har doim mumkin emasligini ta'kidlaydi [5, 7]."
+   ]
+  },
+  {
+   "heading": "Suv va oqova suvlar",
+   "content": [
+    "Epidemiologik nazorat yo'riqnomasi ichak parazitozlarining suv orqali tarqalishini oldini olishda tozalashning barcha bosqichlarini bajarish, ichimlik suvi sifatini nazorat qilish, suv obyektlarini ifloslanishdan muhofaza qilish, markazlashmagan manbalarda suvni qaynatish va filtrlashni ko'rsatadi [11].",
+    "Suv havzalarini oqova suvlar va qishloq xo'jaligi hayvonlari chiqindilari bilan ifloslanishiga yo'l qo'ymaslik zarur. Taqdimotda quduq va boshqa suv havzalaridan olingan suvni ichishdan oldin kamida 10 daqiqa qaynatish tavsiya etilgan, oqova suv tozalash inshootlarining dezinvaziya sifati nazorat qilinadi [5, 6, 11]."
+   ]
+  },
+  {
+   "heading": "Tuproq monitoringi",
+   "content": [
+    "Tuproqdan gelmintologik tahlil uchun namuna olish kamida yilda bir marta, bolalar bog'chalari, davolash muassasalari va dam olish zonalarida bahor va kuzda yilda ikki marta o'tkazilishi GOST da ko'rsatilgan. Umumlashgan 200 g namuna 0-10 sm qatlamdan olinadi [9].",
+    "Sanitariya normasida aholi punktlari va bolalar o'yin maydonchalari tuprog'i parazitologik jihatdan baholanadi: ekstensiv va intensiv ifloslanish ko'rsatkichlari hisoblanadi; sanitariya-muhofaza hududlarida 1 kg tuproqda 5 tagacha tuxum toza hisoblanadi. Tuproq tekshiruvi yilda ikki marta, bahor va kuzda o'tkaziladi [10]."
+   ]
+  },
+  {
+   "heading": "Profilaktik dehelmintizatsiya",
+   "content": [
+    "Milliy yo'riqnomada intensiv o'choqlarda aholiga yilda ikki marta ommaviy dehelmintizatsiya o'tkaziladi, o'rta intensivlikda esa faqat mikroo'choqlarda. Birinchisi bahor oxiri yoki yoz boshida, ikkinchisi kech kuz yoki qish boshida bajariladi [2].",
+    "JSST xavf ostidagi barcha aholiga endemik hududlarda individual tashxissiz davriy dori berishni tavsiya etadi: maktabgacha va maktab yoshidagi bolalar, reproduktiv yoshdagi ayollar va xavfli kasblardagi kattalar. Bu gijja yukini kamaytiradi va kasallanishni pasaytiradi [7]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-tarbiya va o'qitish",
+   "content": [
+    "Yo'riqnomada aholining turli guruhlari shaxsiy gigiena bilimlari va ko'nikmalarini sanitariya-maorif ishlari orqali oshirish, bolalar muassasalari va oziq-ovqat korxonalari xodimlarini gigiena bo'yicha o'qitish ko'rsatilgan. Dekretlangan kontingentlarni salomatlik markazi mutaxassislari o'qitadi [11].",
+    "JSST sog'liq va gigiena ta'limi yuqish va qayta zararlanishni kamaytirishini qayd etadi. Rossiya taqdimotida gigiena ta'limi va tarbiyasi hamda parazitar kasalliklarni, jumladan geogelmintozlarni, oldini olish bo'yicha kompleks rejalar ishlab chiqish profilaktikaga kiritilgan [6, 7]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor profilaktikani o'choq turiga moslab rejalashtiradi: asl o'choqda omillar va sharoitlarga, yolg'on o'choqda manbani davolashga e'tibor beradi. Yo'riqnomada o'choqni pasportlashtirish va uy sharoitini baholash shu maqsadga xizmat qiladi [2].",
+    "Samaradorlik tuproq va tashqi muhit tahlillari hamda aholini qayta tekshirish bilan baholanadi. Sanitar parazitologiya qo'llanmasida aholi zararlanishining barqaror pasayishi tuproqdagi invazion tuxumlar sonining oldindan kamayishiga bog'liq ekani ta'kidlangan [2, 8]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Geogelmintozlar profilaktikasi shaxsiy gigiena, xavfsiz oziq-ovqat va suv, najasni zararsizlantirish, obodonlashtirish, tuproq monitoringi, o'choqlarda dehelmintizatsiya va sanitariya-tarbiyaning birgalikdagi ta'siriga asoslanadi. Barcha bu choralar tuproqdagi invazion tuxumlar sonini kamaytirish va aholi bilan ularning aloqasini uzishga qaratilgan [1, 2, 7]."
+   ]
+  }
+ ],
+ "references": [
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Трихоцефалёз (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1592.",
+  "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580.",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "ГОСТ 17.4.4.02-2017. Межгосударственный стандарт. Охрана природы. Почвы. Методы отбора и подготовки проб для химического, бактериологического, гельминтологического анализа. xayrullokomilov.uz/kutubxona, material ID 1053.",
+  "Sanitariya qoidalari, normalari va gigiyena normativlari 0112-26-son SanQvaN «Tuproqning sanitariya-gigiyenik holatini baholash hamda tuproqdagi ekzogen zararli moddalarning ruxsat etilgan maksimal va taxminiy konsentratsiyalariga doir». xayrullokomilov.uz/kutubxona, material ID 2702.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
+ ]
 }

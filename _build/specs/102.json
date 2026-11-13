@@ -2,65 +2,103 @@
  "number": 102,
  "title": "102. Teniarinxoz bilan kasallanishning epidemiologik tekshirish.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Teniarinxozning epidemiologik tekshiruvi har bir aniqlangan holat bo'yicha invaziya manbai, yuqish yo'li va omilini aniqlashga qaratilgan amaliy ishdir. Milliy yo'riqnomada teniarinxoz va tenioz holatlarini epidemik tekshirishni hududiy DSENM parazitologlari va veterinariya mutaxassislari o'tkazishi belgilangan [1].",
-   "Ushbu mavzuda tekshiruvning maqsadi, bosqichlari, epidemiologik anamnez, kontaktlarni va chorva tomonini tekshirish, tashqi muhit namunalari, ko'p yillik va joriy tahlil hamda natijalarni rasmiylashtirish ketma-ket ko'rib chiqiladi. Oxirida tasdiqlanmagan jihatlar yoziladi [1, 2, 3]."
-  ]},
-  {"heading": "Tekshiruvning maqsadi va ijrochilari", "content": [
-   "Epidemik tekshiruv har bir teniarinxoz holatida o'tkaziladi va uni parazitologlar hamda veterinariya mutaxassislari birgalikda bajaradi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur choralar bajarilishini nazorat qiladi [1].",
-   "Umumiy epidemiologik nazorat yo'riqnomasi ham o'choqlarda kasallanish o'sishining sabablarini va yuqish omillarini aniqlash uchun epidemiologik tekshiruv va tahlil o'tkazilishini ta'kidlaydi. Shu sababli bitta teniarinxoz holati yakka hodisa emas, balki manbani izlash uchun signal sanaladi [1, 2]."
-  ]},
-  {"heading": "Birlamchi ma'lumot va xabarnoma", "content": [
-   "Tekshiruv hodisa rasmiy qayd etilgandan keyin boshlanadi: shoshilinch xabarnoma ф. 058/u to'ldirilib DSENMga yuboriladi, hodisa aniqlash usulidan qat'i nazar ф. №2 shaklga kiritiladi. Bu hujjatlar tekshiruvni shoshilinch tashkil etish uchun asos bo'ladi [1].",
-   "Hududiy DSENM har bir teniarinxoz hodisasini hududiy veterinariya bo'limlariga xabar qiladi. Umumiy nazorat yo'riqnomasi birlamchi ma'lumotni DSENMlarning hisob-kitob shakllari doirasida yig'ishni ko'rsatadi, shuning uchun tekshiruv ma'lumotlari rasmiy hisob bilan mos bo'lishi kerak [1, 2]."
-  ]},
-  {"heading": "Epidemiologik anamnez", "content": [
-   "Darslikka ko'ra tashxis bemorni bo'g'imlarning chiqishi haqida so'rashga asoslanadi, yakuniy tashxis esa aniqlangan epidemiologik anamnez bilan qo'yilib, parazitologik usullar bilan tasdiqlanadi. Shu sababli epidemiologik so'rov tashxis jarayonining davomi hisoblanadi [3].",
-   "So'rovda bemorning xom, chala pishgan yoki kuchsiz tuzlangan mol go'shti, kabob, chuchvara, somsa, manti, ijjan kabi taomlarni iste'mol qilishi, kasbi va chorva bilan aloqasi aniqlanadi. Davolash bayonnomasi ham qassoblar, oshpazlar va xom go'sht iste'mol qiluvchi shaxslarga e'tibor berishni talab qiladi [1, 4]."
-  ]},
-  {"heading": "Go'sht manbasini aniqlash", "content": [
-   "Yuqish omili go'sht bo'lgani uchun tekshiruvda go'shtning qayerdan olingani, kim so'ygani va qanday tayyorlangani aniqlanadi. Umumiy yo'riqnomada oziq-ovqat mahsulotlarini tayyorlash, tashish va sotish jarayonlariga e'tibor qaratish ko'rsatilgan [1, 2].",
-   "Yo'riqnomaga ko'ra DSENM ovqatlanish gigienasi mutaxassislari bilan go'sht do'konlarida va talabga javob bermagan go'shtni yo'qotish bo'yicha monitoring o'tkazadi. Agar go'sht uyda so'yilgan bo'lsa, tekshiruv chorvaning veterinariya nazoratidan o'tmagan bo'lishi ehtimolini ham hisobga oladi [1]."
-  ]},
-  {"heading": "Oila a'zolari va aloqada bo'lganlarni tekshirish", "content": [
-   "Umumiy yo'riqnomada o'choqlarda oilaviy o'choqlilik, bir necha hodisa kuzatilgan xonadonlar va uyushgan jamoalardagi kasallanish maxsus tahlil qilinishi, aloqada bo'lganlar esa tekshirilishi ko'rsatilgan. Teniarinxozda bu tahlil oilada umumiy go'sht manbasini topishga yordam berishi mumkin [2].",
-   "Milliy yo'riqnoma chorvachilik xodimlarining oila a'zolarini ham yiliga bir marta tekshirish ro'yxatiga kiritgan. Shuning uchun aniqlangan bemorning oilasi va ish joyidagi xodimlar so'rov hamda laboratoriya usullarida ko'rikdan o'tkazilishi o'rinli bo'ladi [1, 2]."
-  ]},
-  {"heading": "Chorva tomonidagi tekshiruv", "content": [
-   "Hayvonlarda sistitserkoz topilsa, invaziya manbaini va zararlanish darajasini aniqlash uchun hududdagi aholi so'rov va laboratoriya usullarida tekshiriladi, tekshiruv soni DSENM parazitologi tomonidan belgilanadi. Aholi punktida yoki chorva xo'jaligida finnoz qayd etilsa, shu punkt aholisi epidemiologik ko'rsatma bo'yicha tekshiriladi [1].",
-   "Bu tekshiruv ikki tomonlama ishlaydi: odamdan chorvaga va chorvadan odamga yo'nalgan zanjirni topadi. Shu sababli bemor aniqlansa, chorva xo'jaligi ham, finnali go'sht aniqlansa, aholi ham tekshiruvga olinadi [1, 3]."
-  ]},
-  {"heading": "Tashqi muhitni sanitariya-gelmintologik tekshirish", "content": [
-   "Yo'riqnomaning exinokokk bo'limida tashqi muhit elementlari yuqish omili sifatida teniidlar onkosferalariga tekshirilishi tavsiflangan: bitta obyektdan 25 ta surtma, 4 ta tuproq, 4 ta sabzavot, 4 ta ko'kat va 4 ta suv namunasi olinadi. Teniarinxoz uchun alohida son me'yori ko'rilgan manbalarda berilmagan [1].",
-   "Chorva xo'jaliklarida esa ogohlantirmasdan yiliga 1-2 marta hayvonlarga ishlatiladigan buyumlar, inventar va xodimlar qo'lidan surtma olinadi, tuxum topilsa, manba aniqlanadi. Surtmani tekshirish usuli yo'riqnomada ko'rsatilmagan; laboratoriya yo'riqnomasida esa perianal qirma uchun Graham, Torgushin va Kevorkov usullari tavsiflangan [1, 5]."
-  ]},
-  {"heading": "Ko'p yillik retrospektiv tahlil", "content": [
-   "Umumiy yo'riqnomada ko'p yillik retrospektiv epidemiologik tahlil kamida oxirgi 5 yilni qamrab olishi, kasallanishning ko'p yillik va mavsumiy dinamikasi, hududlar, yosh, jins va kontingentlar bo'yicha tahlil qilinishi ko'rsatilgan. Shu tarzda xavfli guruhlar aniqlanadi [2].",
-   "Teniarinxoz bo'yicha parazitologlar har yili kasallanishni aniqlanish usuli, hududiy tarqalishi, yoshi, jinsi va ijtimoiy holati, ya'ni yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Bu tahlil yakka hodisa tekshiruvini umumiy rasm bilan bog'laydi [1, 2]."
-  ]},
-  {"heading": "Joriy operativ tahlil", "content": [
-   "Umumiy yo'riqnomaga ko'ra operativ yoki joriy tahlil har kuni, o'tgan hafta va oy uchun o'tkaziladi va epidemik jarayon rivoji ustidan doimiy kuzatuvni, sanitariya-epidemiologik fonni va holatga tezkor baho berishni o'z ichiga oladi. Tadbirlar rejasi shu tahlil asosida o'zgartiriladi [2].",
-   "Bu tahlil teniarinxoz uchun alohida tavsiflanmagan, lekin umumiy mantiq bo'yicha bir hududda holatlar to'planishini erta payqashga imkon beradi. Bunday to'planish umumiy go'sht manbasi yoki chorva o'chog'ini ko'rsatishi mumkin, shu sababli o'choq qidiruvi kuchaytiriladi [1, 2]."
-  ]},
-  {"heading": "Yuqish omilini aniqlash usullari", "content": [
-   "Umumiy yo'riqnomada yuqish omili odatda kasallanish yuqori hududlarda aniqlanadi va past hududlarda aniqlanmaydi, bu farqlanish usuli deb ataladi. Omil haqidagi xulosani isbotlash uchun epidemik ahamiyatli obyektlarning sanitariya-gigiena barqarorligi baholanadi [2].",
-   "Epidemiologik xulosa laboratoriya natijalari bilan tasdiqlanishi shart. Teniarinxozda bu so'rov, perianal qirma yoki najasda bo'g'imlarni ko'rish natijasi bilan mustahkamlanadi, tur esa onkosferalar bir xil bo'lgani uchun asosan bo'g'im morfologiyasi bilan aniqlanadi [2, 5]."
-  ]},
-  {"heading": "Natijalarni rasmiylashtirish va tadbirlar", "content": [
-   "Epidemik tekshiruv natijalari epidemiologik kartaga ф. 357/u yoziladi. Shundan keyin aniqlangan manbaga ko'ra bemor to'liq davolanadi va dispanser kuzatuviga olinadi, chorvadagi manba bo'yicha esa veterinariya choralari ko'riladi [1].",
-   "Umumiy yo'riqnomada hududiy DSENMlar mutasaddi tashkilotlar bilan birga parazitar kasalliklarni oldini olishning aniq chora-tadbirlar rejasini ishlab chiqishi va bajarilishini nazorat qilishi belgilangan. Teniarinxoz uchun bu reja tekshiruv xulosalaridan kelib chiqib yangilanadi [1, 2]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Epidemiologik tekshiruv parazitolog-shifokorning klinik tashxis va jamoat salomatligi o'rtasidagi bog'lovchi vazifasidir. U bemorni davolash bilan cheklanmay, uni zararlagan go'sht, chorva va ifloslangan joyni ham aniqlashi kerak [1, 3].",
-   "Shu sababli shifokor so'rov, qirma va bo'g'im topilishi natijalarini aniq yozishi, hodisani xabarnoma va hisob shakllarida to'liq aks ettirishi lozim. Bu keyingi tahlil va chorva xo'jaligi bilan hamkorlik uchun asosiy hujjat bo'ladi [1, 4]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan manbalarda ф. 357/u shaklining tarkibi, epidemik tekshiruvni boshlash va tugatish muddati hamda teniarinxoz uchun aloqada bo'lganlarni tekshirish soni topilmadi. Shu sababli bunday ma'lumotlar yozilmadi, ular hududiy DSENM ko'rsatmalaridan aniqlanishi kerak [1].",
-   "Tashqi muhit namunalari soni yo'riqnomaning exinokokk bo'limida berilgan, teniarinxoz uchun alohida son me'yori topilmadi. Umumiy epidemiologik nazorat yo'riqnomasi esa barcha parazitar kasalliklar uchun yozilgan, shuning uchun teniarinxozga xos mezonlar undan o'ylab topilmadi [1, 2]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Teniarinxoz bo'yicha epidemiologik tekshiruv har bir holatda parazitologlar va veterinariya mutaxassislari tomonidan o'tkaziladi va epidemiologik anamnez, go'sht manbasi, aloqada bo'lganlar, chorva va tashqi muhitni qamrab oladi. Natijalar ф. 357/u kartasiga yozilib, ko'p yillik va joriy tahlil bilan birga chora-tadbirlar rejasini yangilash uchun ishlatiladi [1, 2]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Teniarinxozning epidemiologik tekshiruvi har bir aniqlangan holat bo'yicha invaziya manbai, yuqish yo'li va omilini aniqlashga qaratilgan amaliy ishdir. Milliy yo'riqnomada teniarinxoz va tenioz holatlarini epidemik tekshirishni hududiy DSENM parazitologlari va veterinariya mutaxassislari o'tkazishi belgilangan [1].",
+    "Ushbu mavzuda tekshiruvning maqsadi, bosqichlari, epidemiologik anamnez, kontaktlarni va chorva tomonini tekshirish, tashqi muhit namunalari, ko'p yillik va joriy tahlil hamda natijalarni rasmiylashtirish ketma-ket ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Tekshiruvning maqsadi va ijrochilari",
+   "content": [
+    "Epidemik tekshiruv har bir teniarinxoz holatida o'tkaziladi va uni parazitologlar hamda veterinariya mutaxassislari birgalikda bajaradi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur choralar bajarilishini nazorat qiladi [1].",
+    "Umumiy epidemiologik nazorat yo'riqnomasi ham o'choqlarda kasallanish o'sishining sabablarini va yuqish omillarini aniqlash uchun epidemiologik tekshiruv va tahlil o'tkazilishini ta'kidlaydi. Shu sababli bitta teniarinxoz holati yakka hodisa emas, balki manbani izlash uchun signal sanaladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Birlamchi ma'lumot va xabarnoma",
+   "content": [
+    "Tekshiruv hodisa rasmiy qayd etilgandan keyin boshlanadi: shoshilinch xabarnoma ф. 058/u to'ldirilib DSENMga yuboriladi, hodisa aniqlash usulidan qat'i nazar ф. №2 shaklga kiritiladi. Bu hujjatlar tekshiruvni shoshilinch tashkil etish uchun asos bo'ladi [1].",
+    "Hududiy DSENM har bir teniarinxoz hodisasini hududiy veterinariya bo'limlariga xabar qiladi. Umumiy nazorat yo'riqnomasi birlamchi ma'lumotni DSENMlarning hisob-kitob shakllari doirasida yig'ishni ko'rsatadi, shuning uchun tekshiruv ma'lumotlari rasmiy hisob bilan mos bo'lishi kerak [1, 2]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik anamnez",
+   "content": [
+    "Darslikka ko'ra tashxis bemorni bo'g'imlarning chiqishi haqida so'rashga asoslanadi, yakuniy tashxis esa aniqlangan epidemiologik anamnez bilan qo'yilib, parazitologik usullar bilan tasdiqlanadi. Shu sababli epidemiologik so'rov tashxis jarayonining davomi hisoblanadi [3].",
+    "So'rovda bemorning xom, chala pishgan yoki kuchsiz tuzlangan mol go'shti, kabob, chuchvara, somsa, manti, ijjan kabi taomlarni iste'mol qilishi, kasbi va chorva bilan aloqasi aniqlanadi. Davolash bayonnomasi ham qassoblar, oshpazlar va xom go'sht iste'mol qiluvchi shaxslarga e'tibor berishni talab qiladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Go'sht manbasini aniqlash",
+   "content": [
+    "Yuqish omili go'sht bo'lgani uchun tekshiruvda go'shtning qayerdan olingani, kim so'ygani va qanday tayyorlangani aniqlanadi. Umumiy yo'riqnomada oziq-ovqat mahsulotlarini tayyorlash, tashish va sotish jarayonlariga e'tibor qaratish ko'rsatilgan [1, 2].",
+    "Yo'riqnomaga ko'ra DSENM ovqatlanish gigienasi mutaxassislari bilan go'sht do'konlarida va talabga javob bermagan go'shtni yo'qotish bo'yicha monitoring o'tkazadi. Agar go'sht uyda so'yilgan bo'lsa, tekshiruv chorvaning veterinariya nazoratidan o'tmagan bo'lishi ehtimolini ham hisobga oladi [1]."
+   ]
+  },
+  {
+   "heading": "Oila a'zolari va aloqada bo'lganlarni tekshirish",
+   "content": [
+    "Umumiy yo'riqnomada o'choqlarda oilaviy o'choqlilik, bir necha hodisa kuzatilgan xonadonlar va uyushgan jamoalardagi kasallanish maxsus tahlil qilinishi, aloqada bo'lganlar esa tekshirilishi ko'rsatilgan. Teniarinxozda bu tahlil oilada umumiy go'sht manbasini topishga yordam berishi mumkin [2].",
+    "Milliy yo'riqnoma chorvachilik xodimlarining oila a'zolarini ham yiliga bir marta tekshirish ro'yxatiga kiritgan. Shuning uchun aniqlangan bemorning oilasi va ish joyidagi xodimlar so'rov hamda laboratoriya usullarida ko'rikdan o'tkazilishi o'rinli bo'ladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Chorva tomonidagi tekshiruv",
+   "content": [
+    "Hayvonlarda sistitserkoz topilsa, invaziya manbaini va zararlanish darajasini aniqlash uchun hududdagi aholi so'rov va laboratoriya usullarida tekshiriladi, tekshiruv soni DSENM parazitologi tomonidan belgilanadi. Aholi punktida yoki chorva xo'jaligida finnoz qayd etilsa, shu punkt aholisi epidemiologik ko'rsatma bo'yicha tekshiriladi [1].",
+    "Bu tekshiruv ikki tomonlama ishlaydi: odamdan chorvaga va chorvadan odamga yo'nalgan zanjirni topadi. Shu sababli bemor aniqlansa, chorva xo'jaligi ham, finnali go'sht aniqlansa, aholi ham tekshiruvga olinadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Tashqi muhitni sanitariya-gelmintologik tekshirish",
+   "content": [
+    "Yo'riqnomaning exinokokk bo'limida tashqi muhit elementlari yuqish omili sifatida teniidlar onkosferalariga tekshirilishi tavsiflangan: bitta obyektdan 25 ta surtma, 4 ta tuproq, 4 ta sabzavot, 4 ta ko'kat va 4 ta suv namunasi olinadi. Teniarinxoz uchun alohida son me'yori ko'rilgan manbalarda berilmagan [1].",
+    "Chorva xo'jaliklarida esa ogohlantirmasdan yiliga 1-2 marta hayvonlarga ishlatiladigan buyumlar, inventar va xodimlar qo'lidan surtma olinadi, tuxum topilsa, manba aniqlanadi. Surtmani tekshirish usuli yo'riqnomada ko'rsatilmagan; laboratoriya yo'riqnomasida esa perianal qirma uchun Graham, Torgushin va Kevorkov usullari tavsiflangan [1, 5]."
+   ]
+  },
+  {
+   "heading": "Ko'p yillik retrospektiv tahlil",
+   "content": [
+    "Umumiy yo'riqnomada ko'p yillik retrospektiv epidemiologik tahlil kamida oxirgi 5 yilni qamrab olishi, kasallanishning ko'p yillik va mavsumiy dinamikasi, hududlar, yosh, jins va kontingentlar bo'yicha tahlil qilinishi ko'rsatilgan. Shu tarzda xavfli guruhlar aniqlanadi [2].",
+    "Teniarinxoz bo'yicha parazitologlar har yili kasallanishni aniqlanish usuli, hududiy tarqalishi, yoshi, jinsi va ijtimoiy holati, ya'ni yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Bu tahlil yakka hodisa tekshiruvini umumiy rasm bilan bog'laydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Joriy operativ tahlil",
+   "content": [
+    "Umumiy yo'riqnomaga ko'ra operativ yoki joriy tahlil har kuni, o'tgan hafta va oy uchun o'tkaziladi va epidemik jarayon rivoji ustidan doimiy kuzatuvni, sanitariya-epidemiologik fonni va holatga tezkor baho berishni o'z ichiga oladi. Tadbirlar rejasi shu tahlil asosida o'zgartiriladi [2].",
+    "Bu tahlil teniarinxoz uchun alohida tavsiflanmagan, lekin umumiy mantiq bo'yicha bir hududda holatlar to'planishini erta payqashga imkon beradi. Bunday to'planish umumiy go'sht manbasi yoki chorva o'chog'ini ko'rsatishi mumkin, shu sababli o'choq qidiruvi kuchaytiriladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Yuqish omilini aniqlash usullari",
+   "content": [
+    "Umumiy yo'riqnomada yuqish omili odatda kasallanish yuqori hududlarda aniqlanadi va past hududlarda aniqlanmaydi, bu farqlanish usuli deb ataladi. Omil haqidagi xulosani isbotlash uchun epidemik ahamiyatli obyektlarning sanitariya-gigiena barqarorligi baholanadi [2].",
+    "Epidemiologik xulosa laboratoriya natijalari bilan tasdiqlanishi shart. Teniarinxozda bu so'rov, perianal qirma yoki najasda bo'g'imlarni ko'rish natijasi bilan mustahkamlanadi, tur esa onkosferalar bir xil bo'lgani uchun asosan bo'g'im morfologiyasi bilan aniqlanadi [2, 5]."
+   ]
+  },
+  {
+   "heading": "Natijalarni rasmiylashtirish va tadbirlar",
+   "content": [
+    "Epidemik tekshiruv natijalari epidemiologik kartaga ф. 357/u yoziladi. Shundan keyin aniqlangan manbaga ko'ra bemor to'liq davolanadi va dispanser kuzatuviga olinadi, chorvadagi manba bo'yicha esa veterinariya choralari ko'riladi [1].",
+    "Umumiy yo'riqnomada hududiy DSENMlar mutasaddi tashkilotlar bilan birga parazitar kasalliklarni oldini olishning aniq chora-tadbirlar rejasini ishlab chiqishi va bajarilishini nazorat qilishi belgilangan. Teniarinxoz uchun bu reja tekshiruv xulosalaridan kelib chiqib yangilanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Epidemiologik tekshiruv parazitolog-shifokorning klinik tashxis va jamoat salomatligi o'rtasidagi bog'lovchi vazifasidir. U bemorni davolash bilan cheklanmay, uni zararlagan go'sht, chorva va ifloslangan joyni ham aniqlashi kerak [1, 3].",
+    "Shu sababli shifokor so'rov, qirma va bo'g'im topilishi natijalarini aniq yozishi, hodisani xabarnoma va hisob shakllarida to'liq aks ettirishi lozim. Bu keyingi tahlil va chorva xo'jaligi bilan hamkorlik uchun asosiy hujjat bo'ladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Teniarinxoz bo'yicha epidemiologik tekshiruv har bir holatda parazitologlar va veterinariya mutaxassislari tomonidan o'tkaziladi va epidemiologik anamnez, go'sht manbasi, aloqada bo'lganlar, chorva va tashqi muhitni qamrab oladi. Natijalar ф. 357/u kartasiga yozilib, ko'p yillik va joriy tahlil bilan birga chora-tadbirlar rejasini yangilash uchun ishlatiladi [1, 2]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

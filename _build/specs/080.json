@@ -1,73 +1,110 @@
 {
-  "number": 80,
-  "title": "80. Gimenolepidozning etiologiyasi va epidemiologiyasi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Gimenolepidoz pakana tasmasimon gijja Hymenolepis nana qo'zg'atadigan, ichak shikastlanishi, umumiy zaharlanish, allergik reaksiya va dispeptik buzilishlar bilan kechadigan kontagioz antroponozdir. U asosan bolalarda uchraydi va uyushgan jamoalarda epidemiologik jihatdan enterobioz bilan birga ko'rib chiqiladi [3, 4].",
-      "Mavzuda qo'zg'atuvchining nomlanishi va tuzilishi, rivojlanish sikli, tashqi muhitdagi chidamliligi, invaziya manbai va yuqish mexanizmi, yosh hamda geografik xususiyatlari ketma-ket yoritiladi. Oxirida milliy yo'riqnomadagi epidemiologik nazorat va tasdiqlanmagan jihatlar ko'rsatiladi [1, 2, 4]."
-    ]},
-    {"heading": "Qo'zg'atuvchining taksonomiyasi", "content": [
-      "Gimenolepidoz qo'zg'atuvchisi Hymenolepis nana, ya'ni pakana tasmasimon gijja bo'lib, tasmasimon chuvalchanglar sinfiga kiradi. Nomi yunoncha hymen (parda) va lepis (qobiq) so'zlaridan hamda lotincha nana (pakana) so'zidan olingan, chunki strobilaning so'nggi bo'g'imlari juda nozik bo'ladi [1].",
-      "Bo'g'imlar ichak ichida yemirilib, tuxumlar ozod bo'ladi, har bir bo'g'imning jinsiy tizimi mustaqil va germafrodit tuzilgan. Shu sababli najasda ko'pincha bo'g'imlar emas, tuxumlar topiladi, laboratoriya tashxisi esa aynan tuxumni aniqlashga asoslanadi [1]."
-    ]},
-    {"heading": "Morfologiya", "content": [
-      "Pakana gijja uzunligi taxminan 5 sm bo'lgan kichik sestoda bo'lib, boshcha, bo'yin va 160-1000 ta germafrodit bo'g'imdan iborat. Boshchada 4 ta so'rg'ich va 20-40 ta ilmoqdan iborat toj bor [2].",
-      "Yetuk tuxum ellipsoid shaklida, diametri 0,04-0,05 mm, ichida invazion lichinka, ya'ni onkosfera joylashgan. Najas tekshiruvida tuxumning yupqa rangsiz po'sti, ichidagi ilmoqli onkosfera va undan ketgan buralgan iplar morfologik belgi hisoblanadi, o'lchami 40-50 mkm [1]."
-    ]},
-    {"heading": "Odam organizmidagi rivojlanish sikli", "content": [
-      "Gimenolepidozda odam ham yakuniy, ham oraliq xo'jayin bo'lishi mumkin: yetuk gijja ichak bo'shlig'ida, lichinkalar esa ichak vorsinkalarida rivojlanadi. Tuxum og'iz orqali tushgach, onkosfera vorsinkaga kirib, sistiserkoidga aylanadi [1, 2].",
-      "Sistiserkoid 4-7 sutkada invazion lichinkaga o'tadi, onkosfera kirgandan gijja tuxum chiqara boshlaguncha 10-36 sutka o'tadi. Boshqa manbada 14-15 kundan so'ng yetuk gijja shakllanishi yozilgan, bu farq kuzatuv sharoitlari bilan bog'liq bo'lishi mumkin [1, 2]."
-    ]},
-    {"heading": "Hayot davomiyligi va autoinvaziya", "content": [
-      "Bitta gijja avlodining hayoti ko'p hollarda 1-2 oy davom etadi, yetuk gijja ichakda ikki oydan ortiq yashamaydi. Shunga qaramay kasallik cho'zilishi mumkin, chunki autoinvaziya, ya'ni tuxumlar ichakning o'zida lichinkaga aylanib qayta zararlash, mumkin [1, 2].",
-      "Darslikda gimenolepidoz odatda 1-3 oy davom etishi, chunki qayta zararlanishga to'sqinlik qiluvchi immunitet rivojlanishi qayd etilgan. Davolash bayonnomasida esa u qiyin davolanadigan gelmintozlar qatoriga kiritilgan va bu hayot siklining o'ziga xosligi bilan bog'lanadi [2, 3]."
-    ]},
-    {"heading": "Rivojlanishning uch varianti", "content": [
-      "Pakana gijjada rivojlanishning uch varianti mavjud: tuxumning tashqi muhitga chiqishi bilan, faqat odam organizmida tuxumsiz tashqariga chiqmasdan, hamda oraliq xo'jayin ishtirokida. Oraliq xo'jayin vazifasini un qo'ng'izi lichinkalari va ayrim burgalar bajaradi [1].",
-      "Najas bilan chiqqan tuxumlar bunday hasharotlarga tushsa, ular ichida sistiserkoid hosil bo'ladi va 260 kundan ortiq tirik qoladi. Odam bunday hasharotlarni, masalan pishmagan xamir bilan tasodifan yutganda zararlanadi, biroq mo'tadil iqlimda bu yo'lning ahamiyati juda kichik [1]."
-    ]},
-    {"heading": "Kalamush tasmasimon gijjasi", "content": [
-      "Odamda kamdan-kam Hymenolepis diminuta, ya'ni kalamush tasmasimon gijjasi ham gimenolepidoz keltirib chiqaradi. Uning uzunligi 10-60 sm, eni 2,2-4 mm, tuxumi yumaloq, sarg'ish bo'lib, o'lchami 0,06-0,08 x 0,05-0,07 mm [1].",
-      "Oraliq xo'jayinlari un kuyasi qurti, un qo'ng'izi, ayrim tarakan turlari va kalamush burgasi lichinkalaridir. Laboratoriya yo'riqnomasida bu tur bo'g'imlarida 3 tadan urug'don borligi qayd etilgan, kasallik alomatlari esa pakana gijja chaqirganiga o'xshaydi [1, 5]."
-    ]},
-    {"heading": "Tuxumning tashqi muhitdagi chidamliligi", "content": [
-      "Pakana gijja tuxumlari tashqi muhitda quritilganda va yuqori haroratda tez halok bo'ladi. Xona haroratida ular 3-4 kun, suvda 18-20 daraja haroratda 35 kungacha hayotchan qoladi [2].",
-      "Darslikda xlor saqlovchi vositalar tuxumni 5-30 daqiqada o'ldirishi yozilgan, biroq yo'riqnomada enterobioz va gimenolepidoz o'choqlari uchun xlorli eritmalar gijja tuxumiga ta'sir qilmasligi qayd etilgan. Shu sababli o'choqda sovun-soda eritmasi va qaynoq suv kabi yo'riqnomada ko'rsatilgan vositalarga tayanish ma'qul [2, 4]."
-    ]},
-    {"heading": "Invaziya manbai va yuqish mexanizmi", "content": [
-      "Asosiy manba zararlangan odamdir, sichqon va kalamushlardan ham zararlanish mumkin. Yuqishning asosiy mexanizmi najas-og'iz yo'li bo'lib, omillar sifatida iflos qo'llar, ifloslangan maishiy buyumlar, o'yinchoqlar, oziq-ovqat va pashshalar ko'rsatiladi [1, 2].",
-      "Qo'zg'atuvchi tuxumi og'iz orqali tushgach, oshqozon-ichak fermentlari ta'sirida po'sti erib, lichinka ichak vorsinkasiga o'tadi. Shu sababli shaxsiy gigiena ko'nikmalari yetarli bo'lmagan bolalar jamoalarida yuqish ayniqsa oson kechadi [2]."
-    ]},
-    {"heading": "Yosh va ijtimoiy xususiyatlar", "content": [
-      "Gimenolepidoz asosan 4-9 yoshli bolalarni zararlaydi, boshqa manbada 14 yoshgacha bo'lgan bolalar ko'proq kasallanishi va shahar aholisi ko'proq zararlanishi ko'rsatilgan. Bu yosh chegarasidagi farq kuzatilgan guruhlarning turlicha tanlanishi bilan bog'liq bo'lishi mumkin [1, 2].",
-      "Zararlanishning taxminan uchdan bir qismi klinik jihatdan namoyon bo'lmaydi, 10-14 yoshda ko'p bolalar yosh immuniteti hisobiga davolanmasdan qutuladi. Shunga qaramay, bolalar jamoalarida tuxum ajratuvchilar manba bo'lib qolgani uchun ularni aniqlash zarur [1]."
-    ]},
-    {"heading": "Geografik tarqalish", "content": [
-      "Gimenolepidoz hamma joyda uchraydi, Lotin Amerikasi, Shimoliy Afrika, Italiya, Eron, Pokiston, Afg'oniston, O'rta Osiyo, Moldova, Ukraina janubi, Armaniston va Gruziyada keng tarqalgan. O'rta Osiyodagi asosiy gelmintlar qatorida pakana va buqa tasmasimon gijjalari ko'rsatilgan [1].",
-      "Milliy yo'riqnomaga ko'ra respublikada gelmintozlar barcha parazitar kasalliklarning 90 foizini tashkil qiladi, asosiy ichak gelmintozlari qatorida enterobioz va gimenolepidoz ham keltirilgan. Biroq hujjatda gimenolepidoz uchun alohida kasallanish ko'rsatkichi berilmagan [4]."
-    ]},
-    {"heading": "Epidemiologik nazorat va xavf guruhlari", "content": [
-      "Yo'riqnomada enterobioz va gimenolepidozga bolalar muassasalari tarbiyalanuvchilari va xodimlari, 1-4 sinf o'quvchilari, dekret kontingentlari va kasallar bilan muloqotdagilar tekshiriladi. Bola muassasalari xodimlari, boshlang'ich sinf o'quvchilari bayonnomaga ko'ra yiliga bir marta tekshirilishi shart [3, 4].",
-      "Gimenolepidoz bilan zararlanganlar 5-7 kun oralatib 3 marta tekshiriladi va 6 oy dispanser kuzatuvida bo'ladi. Bu talablar kasallikning guruhdagi yashirin tarqalishini aniqlashga va qayta zararlanishni bartaraf etishga qaratilgan [3, 4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Etiologik va epidemiologik bilim parazitologga tuxum o'lchamlari va shakli bo'yicha laboratoriya natijasini to'g'ri izohlash, xavf guruhlarini aniqlash va o'choq tadbirlarini rejalashtirishda yordam beradi. Masalan pakana gijja tuxumi Kato preparatida uzoq saqlanmasligini bilish natijalarni o'z vaqtida o'qishni taqozo etadi [5].",
-      "Epidemiologik zanjirning asosiy bo'g'inlari manba, qo'l va maishiy buyumlar orqali yuqish hamda ta'sirchan bolalar jamoasidir. Tadbirlar shu bo'g'inlarga qaratilganda gimenolepidozni jamoada kamaytirish mumkin [1, 4]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Taqdimot slaydlarida Farg'ona viloyatida 2012-2014 yillardagi tekshiruv natijalari bor, biroq jadval matni buzilgan holda o'qiladi, muallif va nashr ma'lumotlari ko'rsatilmagan. Shu sababli bu raqamlar fakt sifatida keltirilmadi, ularni hududiy statistika bilan solishtirish kerak [6].",
-      "Gimenolepidozning O'zbekiston bo'yicha joriy kasallanish ko'rsatkichi, hududlar kesimidagi tarqalishi va hasharot oraliq xo'jayinlarining mahalliy roli bu manbalarda tasdiqlanmadi. Xlorli vositalarning tuxumga ta'siri bo'yicha darslik va yo'riqnoma o'rtasidagi farq ham alohida aniqlashni talab qiladi [2, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Gimenolepidoz etiologiyasi pakana tasmasimon gijja bilan bog'liq bo'lib, odam ham yakuniy, ham oraliq xo'jayin bo'la oladi. Epidemiologiyasi manba bo'lib zararlangan odam, najas-og'iz yuqish yo'li, bolalarning sezuvchanligi va gigiena kamchiliklari bilan belgilanadi, shu sababli kurashning asosi o'z vaqtida aniqlash, davolash va jamoa gigienasidir [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "Gijja: taqdimot (Презентация. Гижжа.ppt). xayrullokomilov.uz/kutubxona, material ID 1581."
-  ]
+ "number": 80,
+ "title": "80. Gimenolepidozning etiologiyasi va epidemiologiyasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Gimenolepidoz pakana tasmasimon gijja Hymenolepis nana qo'zg'atadigan, ichak shikastlanishi, umumiy zaharlanish, allergik reaksiya va dispeptik buzilishlar bilan kechadigan kontagioz antroponozdir. U asosan bolalarda uchraydi va uyushgan jamoalarda epidemiologik jihatdan enterobioz bilan birga ko'rib chiqiladi [3, 4].",
+    "Mavzuda qo'zg'atuvchining nomlanishi va tuzilishi, rivojlanish sikli, tashqi muhitdagi chidamliligi, invaziya manbai va yuqish mexanizmi, yosh hamda geografik xususiyatlari ketma-ket yoritiladi. Oxirida milliy yo'riqnomadagi epidemiologik nazorat yoritiladi [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining taksonomiyasi",
+   "content": [
+    "Gimenolepidoz qo'zg'atuvchisi Hymenolepis nana, ya'ni pakana tasmasimon gijja bo'lib, tasmasimon chuvalchanglar sinfiga kiradi. Nomi yunoncha hymen (parda) va lepis (qobiq) so'zlaridan hamda lotincha nana (pakana) so'zidan olingan, chunki strobilaning so'nggi bo'g'imlari juda nozik bo'ladi [1].",
+    "Bo'g'imlar ichak ichida yemirilib, tuxumlar ozod bo'ladi, har bir bo'g'imning jinsiy tizimi mustaqil va germafrodit tuzilgan. Shu sababli najasda ko'pincha bo'g'imlar emas, tuxumlar topiladi, laboratoriya tashxisi esa aynan tuxumni aniqlashga asoslanadi [1]."
+   ]
+  },
+  {
+   "heading": "Morfologiya",
+   "content": [
+    "Pakana gijja uzunligi taxminan 5 sm bo'lgan kichik sestoda bo'lib, boshcha, bo'yin va 160-1000 ta germafrodit bo'g'imdan iborat. Boshchada 4 ta so'rg'ich va 20-40 ta ilmoqdan iborat toj bor [2].",
+    "Yetuk tuxum ellipsoid shaklida, diametri 0,04-0,05 mm, ichida invazion lichinka, ya'ni onkosfera joylashgan. Najas tekshiruvida tuxumning yupqa rangsiz po'sti, ichidagi ilmoqli onkosfera va undan ketgan buralgan iplar morfologik belgi hisoblanadi, o'lchami 40-50 mkm [1]."
+   ]
+  },
+  {
+   "heading": "Odam organizmidagi rivojlanish sikli",
+   "content": [
+    "Gimenolepidozda odam ham yakuniy, ham oraliq xo'jayin bo'lishi mumkin: yetuk gijja ichak bo'shlig'ida, lichinkalar esa ichak vorsinkalarida rivojlanadi. Tuxum og'iz orqali tushgach, onkosfera vorsinkaga kirib, sistiserkoidga aylanadi [1, 2].",
+    "Sistiserkoid 4-7 sutkada invazion lichinkaga o'tadi, onkosfera kirgandan gijja tuxum chiqara boshlaguncha 10-36 sutka o'tadi. Boshqa manbada 14-15 kundan so'ng yetuk gijja shakllanishi yozilgan, bu farq kuzatuv sharoitlari bilan bog'liq bo'lishi mumkin [1, 2]."
+   ]
+  },
+  {
+   "heading": "Hayot davomiyligi va autoinvaziya",
+   "content": [
+    "Bitta gijja avlodining hayoti ko'p hollarda 1-2 oy davom etadi, yetuk gijja ichakda ikki oydan ortiq yashamaydi. Shunga qaramay kasallik cho'zilishi mumkin, chunki autoinvaziya, ya'ni tuxumlar ichakning o'zida lichinkaga aylanib qayta zararlash, mumkin [1, 2].",
+    "Darslikda gimenolepidoz odatda 1-3 oy davom etishi, chunki qayta zararlanishga to'sqinlik qiluvchi immunitet rivojlanishi qayd etilgan. Davolash bayonnomasida esa u qiyin davolanadigan gelmintozlar qatoriga kiritilgan va bu hayot siklining o'ziga xosligi bilan bog'lanadi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Rivojlanishning uch varianti",
+   "content": [
+    "Pakana gijjada rivojlanishning uch varianti mavjud: tuxumning tashqi muhitga chiqishi bilan, faqat odam organizmida tuxumsiz tashqariga chiqmasdan, hamda oraliq xo'jayin ishtirokida. Oraliq xo'jayin vazifasini un qo'ng'izi lichinkalari va ayrim burgalar bajaradi [1].",
+    "Najas bilan chiqqan tuxumlar bunday hasharotlarga tushsa, ular ichida sistiserkoid hosil bo'ladi va 260 kundan ortiq tirik qoladi. Odam bunday hasharotlarni, masalan pishmagan xamir bilan tasodifan yutganda zararlanadi, biroq mo'tadil iqlimda bu yo'lning ahamiyati juda kichik [1]."
+   ]
+  },
+  {
+   "heading": "Kalamush tasmasimon gijjasi",
+   "content": [
+    "Odamda kamdan-kam Hymenolepis diminuta, ya'ni kalamush tasmasimon gijjasi ham gimenolepidoz keltirib chiqaradi. Uning uzunligi 10-60 sm, eni 2,2-4 mm, tuxumi yumaloq, sarg'ish bo'lib, o'lchami 0,06-0,08 x 0,05-0,07 mm [1].",
+    "Oraliq xo'jayinlari un kuyasi qurti, un qo'ng'izi, ayrim tarakan turlari va kalamush burgasi lichinkalaridir. Laboratoriya yo'riqnomasida bu tur bo'g'imlarida 3 tadan urug'don borligi qayd etilgan, kasallik alomatlari esa pakana gijja chaqirganiga o'xshaydi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Tuxumning tashqi muhitdagi chidamliligi",
+   "content": [
+    "Pakana gijja tuxumlari tashqi muhitda quritilganda va yuqori haroratda tez halok bo'ladi. Xona haroratida ular 3-4 kun, suvda 18-20 daraja haroratda 35 kungacha hayotchan qoladi [2].",
+    "Darslikda xlor saqlovchi vositalar tuxumni 5-30 daqiqada o'ldirishi yozilgan, biroq yo'riqnomada enterobioz va gimenolepidoz o'choqlari uchun xlorli eritmalar gijja tuxumiga ta'sir qilmasligi qayd etilgan. Shu sababli o'choqda sovun-soda eritmasi va qaynoq suv kabi yo'riqnomada ko'rsatilgan vositalarga tayanish ma'qul [2, 4]."
+   ]
+  },
+  {
+   "heading": "Invaziya manbai va yuqish mexanizmi",
+   "content": [
+    "Asosiy manba zararlangan odamdir, sichqon va kalamushlardan ham zararlanish mumkin. Yuqishning asosiy mexanizmi najas-og'iz yo'li bo'lib, omillar sifatida iflos qo'llar, ifloslangan maishiy buyumlar, o'yinchoqlar, oziq-ovqat va pashshalar ko'rsatiladi [1, 2].",
+    "Qo'zg'atuvchi tuxumi og'iz orqali tushgach, oshqozon-ichak fermentlari ta'sirida po'sti erib, lichinka ichak vorsinkasiga o'tadi. Shu sababli shaxsiy gigiena ko'nikmalari yetarli bo'lmagan bolalar jamoalarida yuqish ayniqsa oson kechadi [2]."
+   ]
+  },
+  {
+   "heading": "Yosh va ijtimoiy xususiyatlar",
+   "content": [
+    "Gimenolepidoz asosan 4-9 yoshli bolalarni zararlaydi, boshqa manbada 14 yoshgacha bo'lgan bolalar ko'proq kasallanishi va shahar aholisi ko'proq zararlanishi ko'rsatilgan. Bu yosh chegarasidagi farq kuzatilgan guruhlarning turlicha tanlanishi bilan bog'liq bo'lishi mumkin [1, 2].",
+    "Zararlanishning taxminan uchdan bir qismi klinik jihatdan namoyon bo'lmaydi, 10-14 yoshda ko'p bolalar yosh immuniteti hisobiga davolanmasdan qutuladi. Shunga qaramay, bolalar jamoalarida tuxum ajratuvchilar manba bo'lib qolgani uchun ularni aniqlash zarur [1]."
+   ]
+  },
+  {
+   "heading": "Geografik tarqalish",
+   "content": [
+    "Gimenolepidoz hamma joyda uchraydi, Lotin Amerikasi, Shimoliy Afrika, Italiya, Eron, Pokiston, Afg'oniston, O'rta Osiyo, Moldova, Ukraina janubi, Armaniston va Gruziyada keng tarqalgan. O'rta Osiyodagi asosiy gelmintlar qatorida pakana va buqa tasmasimon gijjalari ko'rsatilgan [1].",
+    "Milliy yo'riqnomaga ko'ra respublikada gelmintozlar barcha parazitar kasalliklarning 90 foizini tashkil qiladi, asosiy ichak gelmintozlari qatorida enterobioz va gimenolepidoz ham keltirilgan. Biroq hujjatda gimenolepidoz uchun alohida kasallanish ko'rsatkichi berilmagan [4]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik nazorat va xavf guruhlari",
+   "content": [
+    "Yo'riqnomada enterobioz va gimenolepidozga bolalar muassasalari tarbiyalanuvchilari va xodimlari, 1-4 sinf o'quvchilari, dekret kontingentlari va kasallar bilan muloqotdagilar tekshiriladi. Bola muassasalari xodimlari, boshlang'ich sinf o'quvchilari bayonnomaga ko'ra yiliga bir marta tekshirilishi shart [3, 4].",
+    "Gimenolepidoz bilan zararlanganlar 5-7 kun oralatib 3 marta tekshiriladi va 6 oy dispanser kuzatuvida bo'ladi. Bu talablar kasallikning guruhdagi yashirin tarqalishini aniqlashga va qayta zararlanishni bartaraf etishga qaratilgan [3, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Etiologik va epidemiologik bilim parazitologga tuxum o'lchamlari va shakli bo'yicha laboratoriya natijasini to'g'ri izohlash, xavf guruhlarini aniqlash va o'choq tadbirlarini rejalashtirishda yordam beradi. Masalan pakana gijja tuxumi Kato preparatida uzoq saqlanmasligini bilish natijalarni o'z vaqtida o'qishni taqozo etadi [5].",
+    "Epidemiologik zanjirning asosiy bo'g'inlari manba, qo'l va maishiy buyumlar orqali yuqish hamda ta'sirchan bolalar jamoasidir. Tadbirlar shu bo'g'inlarga qaratilganda gimenolepidozni jamoada kamaytirish mumkin [1, 4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Gimenolepidoz etiologiyasi pakana tasmasimon gijja bilan bog'liq bo'lib, odam ham yakuniy, ham oraliq xo'jayin bo'la oladi. Epidemiologiyasi manba bo'lib zararlangan odam, najas-og'iz yuqish yo'li, bolalarning sezuvchanligi va gigiena kamchiliklari bilan belgilanadi, shu sababli kurashning asosi o'z vaqtida aniqlash, davolash va jamoa gigienasidir [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Parazitar kasalliklarni davolash bayonnomalari. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi». xayrullokomilov.uz/kutubxona, material ID 1521."
+ ]
 }

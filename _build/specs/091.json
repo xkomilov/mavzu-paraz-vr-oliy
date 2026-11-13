@@ -1,73 +1,108 @@
 {
-  "number": 91,
-  "title": "91. Askaridoz va trixotsefalyoz bilan zararlanishning yo'llari va omili.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Askaridoz va trixotsefalyoz geogelmintozlar bo'lib, ularning yuqishida odam va tashqi muhit, birinchi navbatda tuproq, o'zaro bog'langan. Yo'riqnomaga ko'ra yuqtirish omillari yuvilmagan sabzavot, meva va ko'katlar bo'lib, bundan tashqari kasalliklar tuproq, suv va iflos qo'llar orqali ham yuqadi [1].",
-      "Mavzuda ikkala gelmintozning yuqish mexanizmi va yo'llari, tuproq, sabzavot, ko'kat, suv hamda maishiy omillarning o'rni, yuqmaydigan yo'llar, omillarni isbotlash usuli va ularning amaliy ahamiyati yoritiladi. Qo'zg'atuvchilar biologiyasi 87 va 89-mavzularda berilgan [1, 2]."
-    ]},
-    {"heading": "Yuqish mexanizmi", "content": [
-      "Trixotsefalyoz va askaridoz uchun yuqish mexanizmi najas-og'iz, asosiy yo'li esa alimentar. Qo'zg'atuvchi odam ichagidan tuxum holida najas bilan chiqadi, tashqi muhitda, asosan tuproqda, yetiladi va yutilgandagina yangi xo'jayinda rivojlanadi. Shu sababli zararlanish tuproqda yetilgan tuxumni yutish orqali yuz beradi [3, 5].",
-      "JSST ta'kidlashicha, tuxumlar tuproqda yetilishi uchun taxminan 3 hafta kerak, shu sababli odamdan odamga bevosita yoki yangi najasdan zararlanish bo'lmaydi. Geogelmintlar xo'jayin organizmida ko'paymaydi, qayta zararlanish faqat tashqi muhitdagi invazion bosqichlar bilan aloqa orqali yuz beradi [4]."
-    ]},
-    {"heading": "Tuproqning markaziy o'rni", "content": [
-      "Sanitar parazitologiya qo'llanmasida geogelmintozlar uchun tuproq yuqish mexanizmining asosiy bo'g'ini deb ataladi: u invazion tuxumlar zahirasi bo'lib, ularni to'g'ridan-to'g'ri yoki qo'shimcha omillar, ya'ni sabzavot, ko'kat, suv va maishiy buyumlar orqali odamga yetkazadi. Bu mexanizm enterobiozdagiga qaraganda murakkabroq [2].",
-      "Tuproq ifloslanish darajasi aholi zararlanishi bilan bog'liq: invazion tuxumlar kam bo'lganda askaridoz bilan zararlanish 10 foizgacha, trixotsefalyoz bilan 15 foizgacha, o'rtacha ifloslanishda 10-40 va 15-45 foiz, kuchli ifloslanishda 40 va 45 foizdan yuqori bo'ladi [2]."
-    ]},
-    {"heading": "Tuproq ifloslanishining sabablari", "content": [
-      "Tuproqni tuxumlar bilan ifloslantiradigan omillar orasida najasni zararsizlantirmasdan o'g'it sifatida ishlatish birinchi o'rinda turadi. Taqdimotda ham askarida va qilbosh gijja tuxumlari najas o'g'it sifatida solingan sabzavot, poliz va bog' tuprog'iga tarqalishi aytilgan; darslikda faqat kompostlangan najas ruxsat etilishi ko'rsatilgan [5, 7, 9].",
-      "Sanitar parazitologiya qo'llanmasida tuproqda tuxum tarqalishining muhim omillari sifatida itlar va cho'chqalarning erkin yurishi, uy-joylarda kanalizatsiya va hojatxonalar yo'qligi, shuningdek tozalanmagan oqova suvlar bilan sug'orish ko'rsatilgan. Issiqxonalarda geogelmint tuxumlari ochiq tuproqda saqlanmaydigan hududlarda ham invazion bosqichgacha yetiladi [2]."
-    ]},
-    {"heading": "Oqova suvlar bilan sug'orish", "content": [
-      "Tozalanmagan oqova suvlarni qishloq xo'jaligida ishlatish tuproqni gelmint tuxumlari bilan ifloslantiradi. Ifloslanish darajasi oqova suv va cho'kmalarni oldindan tayyorlash usullariga, sug'orish usuliga va me'yoriga bog'liq [2].",
-      "Yomg'irlatib yoki egatlab sug'orilganda yuza qatlamda, 5 sm gacha, tuxum eng ko'p to'planadi: 100 g tuproqda 1200 m3/ga me'yorda 22 tagacha, 4800 m3/ga me'yorda 166 tagacha. Yer osti sug'orishida yuza qatlam ifloslanmay, tuxumlar oqova suv beriladigan chuqurlikda to'planadi [2]."
-    ]},
-    {"heading": "Ko'kat, sabzavot va rezavorlar", "content": [
-      "Tadqiqotlarga ko'ra ko'kat, meva, sabzavot va rezavorlar tuxum bilan qanchalik ifloslangan bo'lsa, aholining zararlanishi shunchalik yuqori. Ko'kat har kuni, ko'pincha xom va yuvilmagan holda iste'mol qilinadi, shuning uchun ayniqsa muhim omil hisoblanadi; musbat namunalarning deyarli hammasida invazion tuxum topiladi [2].",
-      "Kartoshka, karam, baqlajon, piyoz, sarimsoq va sholg'om termik ishlov berilgani yoki yaxshi tozalangani sababli kam xavfli. Pomidor va bodring tuxum bilan juda kam ifloslanadi, redis va sabzi esa bundan istisno. Yerga tushgan mevalar va qulupnay yetarlicha yuvilmasa, xavfli hisoblanadi [2]."
-    ]},
-    {"heading": "Suv yo'li", "content": [
-      "Yo'riqnomada suv geogelmintozlarni yuqtirish yo'llaridan biri sifatida ko'rsatilgan, JSST ham ifloslangan suv manbalaridan tuxumning yutilishini yuqish yo'llari qatoriga kiritadi. Taqdimotda suv yo'li alimentar va kontakt-maishiy yo'llar bilan birga sanab o'tilgan [1, 4, 5].",
-      "Sanitar parazitologiya qo'llanmasiga ko'ra yuza suv havzalarining ahamiyati kam: ariq, hovuz yoki daryo suvi tuxumlarni faqat mexanik ko'chiradi, masalan sug'orishda yoki cho'milganda yutilganda. Yuza suvdagi invazion tuxumlar miqdori 1 dm3 da 0,1 dan kam bo'lishi tavsiya etilgan [2]."
-    ]},
-    {"heading": "Kontakt-maishiy yo'l va iflos qo'llar", "content": [
-      "Tuproq bilan ifloslangan qo'llar tuxumni og'izga olib o'tadi. JSST bolalar ifloslangan tuproqda o'ynab, qo'llarini yuvmay og'zini ushlashini alohida yo'l deb ko'rsatadi; bolalar taqdimotida ham tuxum yuvilmagan qo'l orqali tushishi aytilgan [4, 10].",
-      "Darslikda yuqish omillari sifatida tuproq, sabzavot, ko'kat, maishiy va ishlab chiqarish muhiti buyumlari, kamdan-kam suv sanalgan. Atlasda shaxsiy profilaktika oziq-ovqatni pashsha va tarakanlardan himoya qilishni ham o'z ichiga oladi, ya'ni mexanik tashuvchilar ham hisobga olinadi [3, 8]."
-    ]},
-    {"heading": "Yuqmaydigan yo'llar", "content": [
-      "JSST ma'lumotiga ko'ra askarida va qilbosh gijja bevosita odamdan odamga o'tmaydi, chunki najas bilan chiqqan tuxum zararlash qobiliyatiga ega bo'lishi uchun tuproqda taxminan 3 hafta yetilishi kerak. Teri orqali faqat ankilostomidlar lichinkalari kiradi, ya'ni yalang oyoq yurish bu ikki gelmintoz uchun yo'l emas [4].",
-      "Darslikda askaridoz va trixotsefalyozda zararlanish invazion tuxum yutilishi bilan boshlanishi, lichinka esa tuxumdan odam ichagida chiqishi tasvirlangan. Shu sababli yangi najas bilan aloqa invaziya keltirmaydi, xavf tuproqda yetilgan tuxumlardan keladi [3, 4]."
-    ]},
-    {"heading": "Mavsumiylik va iqlim omillari", "content": [
-      "Yo'riqnomada geogelmintozlarni yuqtirish mavsumi yoz-kuz davriga to'g'ri kelishi ko'rsatilgan. Darslikda eng ko'p invazion tuxum tuproqda yoz-kuz oylarida to'planishi, bu davr ommaviy zararlanish mavsumi hisoblanishi aytilgan; tuxum yetilishi tuproq harorati, namligi va kislorodga bog'liq [1, 3].",
-      "O'rta kengliklarda askaridoz bilan zararlanish mavsumi apreldan oktyabrgacha, subtropik va tropiklarda esa yil bo'yi davom etadi. Darslikda qilbosh gijja tuxumlari sovuqqa askarida tuxumlaridan kamroq, qurishga esa chidamliroq deyilgan; bu farq ikki gelmintozning tarqalish areali va ommaviy zararlanish mavsumi davomiyligiga bog'langan [3, 7]."
-    ]},
-    {"heading": "Xavf guruhlari va kasbiy omillar", "content": [
-      "Darslikda xavf guruhlari sifatida bog'bonlar, polizchilar, yer ishlari bilan band shaxslar, meva-sabzavot korxonalari va do'konlari xodimlari ko'rsatilgan. Taqdimotda trixotsefalyoz uchun yer bilan ishlovchilar hamda kanalizatsiya tarmoqlariga xizmat ko'rsatuvchilar ham qayd etilgan [3, 5].",
-      "Yo'riqnomada aholini tanlab tekshirishga 7-14 yoshli bolalar, 3-6 yoshli maktabgacha bolalar, fermer xo'jaligi ishchilari, sabzavot yetishtiruvchilar va ko'rsatma bo'yicha shifoxona hamda ambulatoriya bemorlari kiritilgan. Bolalar ko'proq kasallanishi gigiena qoidalariga rioya qilmasligi bilan bog'langan [1, 7]."
-    ]},
-    {"heading": "Yuqish omillarini isbotlash", "content": [
-      "Epidemiologik nazorat yo'riqnomasi ma'lum kasallik omili odatda kasallanish yuqori hududlarda topilib, past hududlarda topilmasligini (farqlanish usuli) ko'rsatadi. Omil haqidagi xulosa epidemiologik ahamiyatli obyektlar sanitariya-gigiyenik barqarorligini baholash va laboratoriya natijalari bilan tasdiqlanishi shart [6].",
-      "Parazitolog tekshiruvda yuqish sabablari, hovli sanitariya va hojatxona holati, uy hayvonlari, suv ta'minoti va tomorqadagi ekinlar mavjudligini hisobga oladi. Yo'riqnomaga ko'ra omillar mavjud emas, lekin manba bor o'choq «yolg'on o'choq» hisoblanadi, ya'ni omillarni aniqlash o'choq turini belgilaydi [1]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "O'zbekiston sharoitida qaysi yo'l yoki omil (tuproq, ko'kat, suv yoki qo'l) askaridoz va trixotsefalyoz zararlanishida ustun ekani bo'yicha mahalliy tadqiqot tekshirilgan manbalarda topilmadi. Keltirilgan nisbatlar asosan Rossiya adabiyotiga tayanadi, shuning uchun ularni O'zbekistonga ko'chirish mumkin emas [2, 3].",
-      "Bitta taqdimotda askarida va qilbosh gijja tuxumlaridan tuproqda lichinkalar chiqib, og'iz va teri orqali organizmga kiradi deyilgan. Bu JSST va darsliklarga zid, shuning uchun qabul qilinmadi. Sanitar parazitologiya qo'llanmasidagi yuza suv me'yorlari ham O'zbekiston normativi emas [9, 2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Askaridoz va trixotsefalyozda zararlanish tuproqdagi invazion tuxumlarning ovqat, ko'kat, suv, qo'l va maishiy buyumlar orqali og'izga tushishi bilan sodir bo'ladi. Odamdan odamga va teri orqali yuqish yo'q, shuning uchun tuproq, oziq-ovqat va suv sanitariyasi hamda shaxsiy gigiena asosiy chora hisoblanadi [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
-    "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
-    "Gijja (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1581.",
-    "Трихоцефалёз у детей (taqdimot, talaba ishi). xayrullokomilov.uz/kutubxona, material ID 1591."
-  ]
+ "number": 91,
+ "title": "91. Askaridoz va trixotsefalyoz bilan zararlanishning yo'llari va omili.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Askaridoz va trixotsefalyoz geogelmintozlar bo'lib, ularning yuqishida odam va tashqi muhit, birinchi navbatda tuproq, o'zaro bog'langan. Yo'riqnomaga ko'ra yuqtirish omillari yuvilmagan sabzavot, meva va ko'katlar bo'lib, bundan tashqari kasalliklar tuproq, suv va iflos qo'llar orqali ham yuqadi [1].",
+    "Mavzuda ikkala gelmintozning yuqish mexanizmi va yo'llari, tuproq, sabzavot, ko'kat, suv hamda maishiy omillarning o'rni, yuqmaydigan yo'llar, omillarni isbotlash usuli va ularning amaliy ahamiyati yoritiladi. Qo'zg'atuvchilar biologiyasi 87 va 89-mavzularda berilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Yuqish mexanizmi",
+   "content": [
+    "Trixotsefalyoz va askaridoz uchun yuqish mexanizmi najas-og'iz, asosiy yo'li esa alimentar. Qo'zg'atuvchi odam ichagidan tuxum holida najas bilan chiqadi, tashqi muhitda, asosan tuproqda, yetiladi va yutilgandagina yangi xo'jayinda rivojlanadi. Shu sababli zararlanish tuproqda yetilgan tuxumni yutish orqali yuz beradi [3, 5].",
+    "JSST ta'kidlashicha, tuxumlar tuproqda yetilishi uchun taxminan 3 hafta kerak, shu sababli odamdan odamga bevosita yoki yangi najasdan zararlanish bo'lmaydi. Geogelmintlar xo'jayin organizmida ko'paymaydi, qayta zararlanish faqat tashqi muhitdagi invazion bosqichlar bilan aloqa orqali yuz beradi [4]."
+   ]
+  },
+  {
+   "heading": "Tuproqning markaziy o'rni",
+   "content": [
+    "Sanitar parazitologiya qo'llanmasida geogelmintozlar uchun tuproq yuqish mexanizmining asosiy bo'g'ini deb ataladi: u invazion tuxumlar zahirasi bo'lib, ularni to'g'ridan-to'g'ri yoki qo'shimcha omillar, ya'ni sabzavot, ko'kat, suv va maishiy buyumlar orqali odamga yetkazadi. Bu mexanizm enterobiozdagiga qaraganda murakkabroq [2].",
+    "Tuproq ifloslanish darajasi aholi zararlanishi bilan bog'liq: invazion tuxumlar kam bo'lganda askaridoz bilan zararlanish 10 foizgacha, trixotsefalyoz bilan 15 foizgacha, o'rtacha ifloslanishda 10-40 va 15-45 foiz, kuchli ifloslanishda 40 va 45 foizdan yuqori bo'ladi [2]."
+   ]
+  },
+  {
+   "heading": "Tuproq ifloslanishining sabablari",
+   "content": [
+    "Tuproqni tuxumlar bilan ifloslantiradigan omillar orasida najasni zararsizlantirmasdan o'g'it sifatida ishlatish birinchi o'rinda turadi. Taqdimotda ham askarida va qilbosh gijja tuxumlari najas o'g'it sifatida solingan sabzavot, poliz va bog' tuprog'iga tarqalishi aytilgan; darslikda faqat kompostlangan najas ruxsat etilishi ko'rsatilgan [5, 7, 9].",
+    "Sanitar parazitologiya qo'llanmasida tuproqda tuxum tarqalishining muhim omillari sifatida itlar va cho'chqalarning erkin yurishi, uy-joylarda kanalizatsiya va hojatxonalar yo'qligi, shuningdek tozalanmagan oqova suvlar bilan sug'orish ko'rsatilgan. Issiqxonalarda geogelmint tuxumlari ochiq tuproqda saqlanmaydigan hududlarda ham invazion bosqichgacha yetiladi [2]."
+   ]
+  },
+  {
+   "heading": "Oqova suvlar bilan sug'orish",
+   "content": [
+    "Tozalanmagan oqova suvlarni qishloq xo'jaligida ishlatish tuproqni gelmint tuxumlari bilan ifloslantiradi. Ifloslanish darajasi oqova suv va cho'kmalarni oldindan tayyorlash usullariga, sug'orish usuliga va me'yoriga bog'liq [2].",
+    "Yomg'irlatib yoki egatlab sug'orilganda yuza qatlamda, 5 sm gacha, tuxum eng ko'p to'planadi: 100 g tuproqda 1200 m3/ga me'yorda 22 tagacha, 4800 m3/ga me'yorda 166 tagacha. Yer osti sug'orishida yuza qatlam ifloslanmay, tuxumlar oqova suv beriladigan chuqurlikda to'planadi [2]."
+   ]
+  },
+  {
+   "heading": "Ko'kat, sabzavot va rezavorlar",
+   "content": [
+    "Tadqiqotlarga ko'ra ko'kat, meva, sabzavot va rezavorlar tuxum bilan qanchalik ifloslangan bo'lsa, aholining zararlanishi shunchalik yuqori. Ko'kat har kuni, ko'pincha xom va yuvilmagan holda iste'mol qilinadi, shuning uchun ayniqsa muhim omil hisoblanadi; musbat namunalarning deyarli hammasida invazion tuxum topiladi [2].",
+    "Kartoshka, karam, baqlajon, piyoz, sarimsoq va sholg'om termik ishlov berilgani yoki yaxshi tozalangani sababli kam xavfli. Pomidor va bodring tuxum bilan juda kam ifloslanadi, redis va sabzi esa bundan istisno. Yerga tushgan mevalar va qulupnay yetarlicha yuvilmasa, xavfli hisoblanadi [2]."
+   ]
+  },
+  {
+   "heading": "Suv yo'li",
+   "content": [
+    "Yo'riqnomada suv geogelmintozlarni yuqtirish yo'llaridan biri sifatida ko'rsatilgan, JSST ham ifloslangan suv manbalaridan tuxumning yutilishini yuqish yo'llari qatoriga kiritadi. Taqdimotda suv yo'li alimentar va kontakt-maishiy yo'llar bilan birga sanab o'tilgan [1, 4, 5].",
+    "Sanitar parazitologiya qo'llanmasiga ko'ra yuza suv havzalarining ahamiyati kam: ariq, hovuz yoki daryo suvi tuxumlarni faqat mexanik ko'chiradi, masalan sug'orishda yoki cho'milganda yutilganda. Yuza suvdagi invazion tuxumlar miqdori 1 dm3 da 0,1 dan kam bo'lishi tavsiya etilgan [2]."
+   ]
+  },
+  {
+   "heading": "Kontakt-maishiy yo'l va iflos qo'llar",
+   "content": [
+    "Tuproq bilan ifloslangan qo'llar tuxumni og'izga olib o'tadi. JSST bolalar ifloslangan tuproqda o'ynab, qo'llarini yuvmay og'zini ushlashini alohida yo'l deb ko'rsatadi; bolalar taqdimotida ham tuxum yuvilmagan qo'l orqali tushishi aytilgan [4, 10].",
+    "Darslikda yuqish omillari sifatida tuproq, sabzavot, ko'kat, maishiy va ishlab chiqarish muhiti buyumlari, kamdan-kam suv sanalgan. Atlasda shaxsiy profilaktika oziq-ovqatni pashsha va tarakanlardan himoya qilishni ham o'z ichiga oladi, ya'ni mexanik tashuvchilar ham hisobga olinadi [3, 8]."
+   ]
+  },
+  {
+   "heading": "Yuqmaydigan yo'llar",
+   "content": [
+    "JSST ma'lumotiga ko'ra askarida va qilbosh gijja bevosita odamdan odamga o'tmaydi, chunki najas bilan chiqqan tuxum zararlash qobiliyatiga ega bo'lishi uchun tuproqda taxminan 3 hafta yetilishi kerak. Teri orqali faqat ankilostomidlar lichinkalari kiradi, ya'ni yalang oyoq yurish bu ikki gelmintoz uchun yo'l emas [4].",
+    "Darslikda askaridoz va trixotsefalyozda zararlanish invazion tuxum yutilishi bilan boshlanishi, lichinka esa tuxumdan odam ichagida chiqishi tasvirlangan. Shu sababli yangi najas bilan aloqa invaziya keltirmaydi, xavf tuproqda yetilgan tuxumlardan keladi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Mavsumiylik va iqlim omillari",
+   "content": [
+    "Yo'riqnomada geogelmintozlarni yuqtirish mavsumi yoz-kuz davriga to'g'ri kelishi ko'rsatilgan. Darslikda eng ko'p invazion tuxum tuproqda yoz-kuz oylarida to'planishi, bu davr ommaviy zararlanish mavsumi hisoblanishi aytilgan; tuxum yetilishi tuproq harorati, namligi va kislorodga bog'liq [1, 3].",
+    "O'rta kengliklarda askaridoz bilan zararlanish mavsumi apreldan oktyabrgacha, subtropik va tropiklarda esa yil bo'yi davom etadi. Darslikda qilbosh gijja tuxumlari sovuqqa askarida tuxumlaridan kamroq, qurishga esa chidamliroq deyilgan; bu farq ikki gelmintozning tarqalish areali va ommaviy zararlanish mavsumi davomiyligiga bog'langan [3, 7]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari va kasbiy omillar",
+   "content": [
+    "Darslikda xavf guruhlari sifatida bog'bonlar, polizchilar, yer ishlari bilan band shaxslar, meva-sabzavot korxonalari va do'konlari xodimlari ko'rsatilgan. Taqdimotda trixotsefalyoz uchun yer bilan ishlovchilar hamda kanalizatsiya tarmoqlariga xizmat ko'rsatuvchilar ham qayd etilgan [3, 5].",
+    "Yo'riqnomada aholini tanlab tekshirishga 7-14 yoshli bolalar, 3-6 yoshli maktabgacha bolalar, fermer xo'jaligi ishchilari, sabzavot yetishtiruvchilar va ko'rsatma bo'yicha shifoxona hamda ambulatoriya bemorlari kiritilgan. Bolalar ko'proq kasallanishi gigiena qoidalariga rioya qilmasligi bilan bog'langan [1, 7]."
+   ]
+  },
+  {
+   "heading": "Yuqish omillarini isbotlash",
+   "content": [
+    "Epidemiologik nazorat yo'riqnomasi ma'lum kasallik omili odatda kasallanish yuqori hududlarda topilib, past hududlarda topilmasligini (farqlanish usuli) ko'rsatadi. Omil haqidagi xulosa epidemiologik ahamiyatli obyektlar sanitariya-gigiyenik barqarorligini baholash va laboratoriya natijalari bilan tasdiqlanishi shart [6].",
+    "Parazitolog tekshiruvda yuqish sabablari, hovli sanitariya va hojatxona holati, uy hayvonlari, suv ta'minoti va tomorqadagi ekinlar mavjudligini hisobga oladi. Yo'riqnomaga ko'ra omillar mavjud emas, lekin manba bor o'choq «yolg'on o'choq» hisoblanadi, ya'ni omillarni aniqlash o'choq turini belgilaydi [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Askaridoz va trixotsefalyozda zararlanish tuproqdagi invazion tuxumlarning ovqat, ko'kat, suv, qo'l va maishiy buyumlar orqali og'izga tushishi bilan sodir bo'ladi. Odamdan odamga va teri orqali yuqish yo'q, shuning uchun tuproq, oziq-ovqat va suv sanitariyasi hamda shaxsiy gigiena asosiy chora hisoblanadi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
+  "Новикова Е.Е. Власоглав - Трихоцефалёз (taqdimot, КГМУ). xayrullokomilov.uz/kutubxona, material ID 1580.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Gijja (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1581.",
+  "Трихоцефалёз у детей (taqdimot, talaba ishi). xayrullokomilov.uz/kutubxona, material ID 1591."
+ ]
 }

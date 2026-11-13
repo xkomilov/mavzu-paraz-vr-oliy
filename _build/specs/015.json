@@ -1,108 +1,108 @@
 {
-  "number": 15,
-  "title": "15. Anofeles va Kuleks chivinlarining asosiy farqi (tuxumi, lichinkasi, g'umbagi, chivinlarning imagosi)",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Anopheles va Culex turkumlari Culicidae oilasiga kiradi, lekin ular turli kenja oilalarga mansub: Anopheles Anophelinae, Culex esa Culicinae kenja oilasiga. Bu ikki turkum rivojlanishning barcha bosqichlarida bir-biridan farq qiladi, bu farqlar bezgak tashuvchisini tezkor aniqlashda ishlatiladi [1, 2].",
-        "Mavzuda avval chivinlarning umumiy rivojlanish tsikli ko'rib chiqiladi. So'ng tuxum, lichinka, g'umbak va imago bosqichlari bo'yicha Anopheles va Culex o'rtasidagi asosiy farqlar yoritiladi. Oxirida bu farqlarning tibbiy va amaliy ahamiyati bayon etiladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Culicidae oilasi va rivojlanish tsikli",
-      "content": [
-        "Culicidae oilasi uch kenja oilaga bo'linadi: Anophelinae, Toxorhynchitinae va Culicinae. MDH hududida Culicinae kenja oilasiga Aedes, Culex, Mansonia, Culiseta kabi urug'lar kiradi. Anopheles esa Anophelinae kenja oilasining urug'i bo'lib, bezgak plazmodiylarining maxsus tashuvchisidir [1].",
-        "Chivinlar to'liq o'zgarish bilan rivojlanadi: tuxum, lichinka, g'umbak va imago. Dastlabki uch bosqich suvda, imago esa havoda yashaydi. Bu geterotop xususiyat sababli suvdagi bosqichlar va voyaga yetgan chivinlarning tuzilishi hamda yashash tarzi turlicha bo'ladi [1, 2, 3]."
-      ]
-    },
-    {
-      "heading": "Tuxum: Anopheles",
-      "content": [
-        "Anopheles tuxumi nisbatan kichik, 0,6-0,8 mm, cho'ziq-oval shaklda. Uning yuqori yuzasi yassi, pastki qismi esa bo'rtib chiqqan bo'ladi. Tuxum o'rtasining ikki yonida eksoxoriondan hosil bo'lgan ikkita suzgich va xoshiya joylashgan. Bu tuxumni suv yuzasida ushlab turadi [1, 2].",
-        "Tuxum qobig'ida mikropil teshikchalar bo'lib, ular spermatozoid kirishini osonlashtiradi. Eksoxorion yuzasidagi naqshlar turlar bo'yicha farq qiladi, shuning uchun Anopheles turlarini tuxum tuzilishiga qarab ham aniqlash mumkin. Bir marta qo'yishda urg'ochi 100-500 tuxum tashlaydi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Tuxum: Culex",
-      "content": [
-        "Culex tuxumi cho'ziq shaklda bo'lib, bir uchi kengroq va to'mtoq, ikkinchi uchi esa torayganroq bo'ladi. Kengaygan uchida likopchasimon toj bor, u yordamida tuxum suv yuzasida vertikal holatda turadi. Anopheles tuxumidagi yon suzgichlar bilan bu tuxum tuzilishi farq qiladi [2].",
-        "Culicinae tuxumlari Anopheles tuxumlariga qaraganda ancha sodda tuzilgan deb ham tavsiflanadi. Culex urg'ochisi qo'yish vaqtida tuxumlarni yopishtirib, zich massa shaklida suv ustiga qo'yadi. Culex turkumi vakillari 500 dan ortiq tuxum qo'yadi, bu Anopheles ko'rsatkichidan yuqori [1, 2]."
-      ]
-    },
-    {
-      "heading": "Tuxum qo'yish usuli",
-      "content": [
-        "Anopheles urg'ochisi tuxumlarni suv yuzasiga qo'yadi. Ular yakka-yakka suzib yuradi yoki bir necha dona bo'lib bir-biriga ilashadi, lekin yopishmaydi. Culex, Mansonia va Culiseta urg'ochilari esa tuxumlarni qo'yish paytida yopishtirib, zich massa hosil qiladi [2].",
-        "Demak, suv yuzasida tuxumlarning yakka yoki zich massa holida joylashishi turkum belgisi bo'lib xizmat qiladi. Aedes urg'ochisi tuxumlarni yakka-yakka sayoz suvga yoki nam tuproqqa qo'yadi, ya'ni uchinchi, alohida usul kuzatiladi. Qo'yilgan tuxum soni ham turkumlarda har xil [2]."
-      ]
-    },
-    {
-      "heading": "Lichinka: Anopheles",
-      "content": [
-        "Anopheles lichinkasi tanasi uch qismdan iborat: bosh kapsula, uch bo'g'imli ko'krak va to'qqiz bo'g'imli qorincha. Boshi yuqoridan qaralganda cho'ziq tuxumsimon bo'lib, Culex va Aedes lichinkalaridan shu belgisi bilan ajraladi. Qorinchaning sakkizinchi bo'g'imida nafas olish uchun stigmal plastinka joylashgan [1, 2].",
-        "Anopheles lichinkasida nafas olish naychasi, ya'ni sifon bo'lmaydi. Qorincha bo'g'imlarida palmasimon tuklar yaxshi rivojlangan, ular lichinkani suv yuzasida ushlab turishga yordam beradi. Lichinka boshi keng bo'lib, suv yuzasidagi zarrachalarni filtrlab oziqlanishga moslashgan [1, 2]."
-      ]
-    },
-    {
-      "heading": "Lichinka: Culex",
-      "content": [
-        "Culicinae, shu jumladan Culex lichinkasida sakkizinchi qorin bo'g'imining orqa tomonidan nafas olish naychasi, ya'ni sifon chiqadi. Sifon uchida nafas teshigi joylashgan. Anopheles lichinkasida esa shu bo'g'imda sifon o'rniga bir juft nafas teshigi bor stigmal plastinka turadi [2].",
-        "Demak, lichinkalarni turkumlarga ajratishda nafas olish a'zosining tuzilishi asosiy morfologik belgilardan biri hisoblanadi. Culex lichinkasi sifonli, Anopheles lichinkasi sifonsiz. Bundan tashqari Anopheles lichinkasining bosh shakli ham Culex va Aedes lichinkalaridan farq qiladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Lichinkalarning suvdagi holati",
-      "content": [
-        "Bezgak chivinlarining lichinkalari suv yuzasiga parallel joylashadi. Ularni ko'krak o'siqlari, stigmal plastinkalar va palmasimon tuklar ushlab turadi. Shu sababli Anopheles lichinkasi suv yuzasi bilan bir tekis chiziq hosil qilib turadi [2].",
-        "Bezgak tashimaydigan chivinlarning lichinkalari esa suv yuzasiga nisbatan burchak ostida joylashadi, sifon uchi bilan yuzaga yopishib turadi. Lichinka to'rt marta po'st tashlab, g'umbakka aylanadi. Bu holatdagi farq suv havzalarida lichinkalarni dala sharoitida tezda farqlash imkonini beradi [2, 3]."
-      ]
-    },
-    {
-      "heading": "G'umbak",
-      "content": [
-        "G'umbak bosqichida chivin kam harakatli bo'ladi, ichki a'zolari qayta shakllanadi, so'ng g'umbak oxirgi marta po'st tashlab imagoga aylanadi. G'umbak tanasi keng bosh-ko'krak va ingichka to'qqiz bo'g'imli qorinchadan iborat. Bosh-ko'krak orqasida bir juft nafas olish naychalari bor [1, 2].",
-        "Anopheles g'umbagida nafas naychalari yuqori qismida kengaygan, voronkasimon shaklda bo'ladi. Culex va boshqa Culicinae g'umbaklarida esa nafas naychalari silindrsimon. Rasmlarda ham Anopheles g'umbagi va Culicinae g'umbagi nafas naychalari bo'yicha ajratib ko'rsatilgan [1, 2]."
-      ]
-    },
-    {
-      "heading": "Imago: tashqi belgilar",
-      "content": [
-        "Voyaga yetgan chivinlarning tanasi bosh, uch bo'g'imli ko'krak va qorinchadan iborat. Bezgak chivinlarida faqat bir juft yuqori qanot saqlangan, pastki qanotning qisqa qoldig'i esa uchganda ovoz chiqaruvchi vizildoq a'zoga aylangan. Qanot tomirlari tuzilishi ham ikki turkumda farq qiladi [1, 2].",
-        "Anopheles da qanotning old tomiri umumiy poyasi mustaqil ravishda qanot o'rtasidan boshlanadi. Culex da umumiy poya birinchi radial tomirdan boshlanadi. Bundan tashqari ko'p bezgak chivinlarida qanotlarda tangachalar yig'indisidan hosil bo'lgan dog'lar bor, bu turni aniqlashda muhim belgidir [1, 2]."
-      ]
-    },
-    {
-      "heading": "Imago: o'tirish holati va xulq",
-      "content": [
-        "Anopheles chivinlarini o'tirishiga qarab boshqa chivinlardan osongina ajratish mumkin: ular o'tirgan sirtga nisbatan 45 daraja burchak hosil qiladi. Bunday o'tirish qishlovdagi chivinlarda yozgidan farq qiladi. Aksariyat bezgak chivinlari uchganda to'satdan sakrashi bilan ham ajraladi [1].",
-        "Malakali mutaxassis uchish vaqtida chiqargan ovoziga qarab ham bezgak chivinini Aedes va Culex dan ajrata oladi. Erkak chivinlar qon so'rmaydi va faqat o'simlik shirasi bilan oziqlanadi, qon so'rish urg'ochilarga xos. Bu xususiyat ikkala turkum uchun umumiy [1]."
-      ]
-    },
-    {
-      "heading": "Tibbiy ahamiyatidagi farq",
-      "content": [
-        "Anopheles turkumi chivinlari odamda bezgak qo'zg'atuvchisi Plasmodium ning maxsus tashuvchilari hisoblanadi va filyariatoz tashuvchilari bo'lishi mumkin. Culex turkumi esa arbovirus infeksiyalari bilan bog'liq: Culex pipiens Yapon ensefalitining maxsus tashuvchilaridan biri sifatida ko'rsatilgan [1, 2].",
-        "Shunday qilib, Anopheles va Culex orasidagi morfologik farq amaliy ahamiyatga ega: topilgan lichinka yoki chivin turkum belgilari bo'yicha bezgak xavfi nuqtai nazaridan baholanadi. Biroq har bir Anopheles turi bezgakni baravar yuqtirmaydi, shu sabab tur darajasida aniqlash zarur [1, 2]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Entomologik kuzatuvda suv havzalaridan olingan lichinkalar sifon yoki stigmal plastinka bo'yicha ajratiladi. Bu bezgak xavfi bo'lgan anofelogen havzalarni belgilashga yordam beradi. Bezgak chivinlari lichinkalari oldingi uch bosqichda suvda rivojlanishi sababli lichinkaga qarshi tadbirlar aynan shu havzalarga qaratiladi [2, 3].",
-        "Shuningdek, turni aniqlash faqat turkum belgisi bilan cheklanmaydi: tuxum, lichinka va imagoning tashqi morfologik belgilariga qaraladi, kerak bo'lsa kariosistematik va molekulyar-genetik usullar qo'llanadi. Bu o'xshash egizak turlarda ayniqsa muhim [1]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Anopheles va Culex tuxumi (yon suzgichli, yakka-yakka va likopchali, zich massa), lichinkasi (sifonsiz, suv yuzasiga parallel va sifonli, burchakli), g'umbagi (voronkasimon va silindrsimon nafas naychasi) hamda imagosining o'tirishi (45 daraja burchak) bilan farq qiladi. Bu belgilar bezgak tashuvchisini ajratishga imkon beradi [1, 2]."
-      ]
-    }
-  ],
-  "references": [
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547."
-  ]
+ "number": 15,
+ "title": "15. Anofeles va Kuleks chivinlarining asosiy farqi (tuxumi, lichinkasi, g'umbagi, chivinlarning imagosi)",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Anopheles va Culex turkumlari Culicidae oilasiga kiradi, lekin ular turli kenja oilalarga mansub: Anopheles Anophelinae, Culex esa Culicinae kenja oilasiga. Bu ikki turkum rivojlanishning barcha bosqichlarida bir-biridan farq qiladi, bu farqlar bezgak tashuvchisini tezkor aniqlashda ishlatiladi [1, 2].",
+    "Mavzuda avval chivinlarning umumiy rivojlanish tsikli ko'rib chiqiladi. So'ng tuxum, lichinka, g'umbak va imago bosqichlari bo'yicha Anopheles va Culex o'rtasidagi asosiy farqlar yoritiladi. Oxirida bu farqlarning tibbiy va amaliy ahamiyati bayon etiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Culicidae oilasi va rivojlanish tsikli",
+   "content": [
+    "Culicidae oilasi uch kenja oilaga bo'linadi: Anophelinae, Toxorhynchitinae va Culicinae. MDH hududida Culicinae kenja oilasiga Aedes, Culex, Mansonia, Culiseta kabi urug'lar kiradi. Anopheles esa Anophelinae kenja oilasining urug'i bo'lib, bezgak plazmodiylarining maxsus tashuvchisidir [1].",
+    "Chivinlar to'liq o'zgarish bilan rivojlanadi: tuxum, lichinka, g'umbak va imago. Dastlabki uch bosqich suvda, imago esa havoda yashaydi. Bu geterotop xususiyat sababli suvdagi bosqichlar va voyaga yetgan chivinlarning tuzilishi hamda yashash tarzi turlicha bo'ladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Tuxum: Anopheles",
+   "content": [
+    "Anopheles tuxumi nisbatan kichik, 0,6-0,8 mm, cho'ziq-oval shaklda. Uning yuqori yuzasi yassi, pastki qismi esa bo'rtib chiqqan bo'ladi. Tuxum o'rtasining ikki yonida eksoxoriondan hosil bo'lgan ikkita suzgich va xoshiya joylashgan. Bu tuxumni suv yuzasida ushlab turadi [1, 2].",
+    "Tuxum qobig'ida mikropil teshikchalar bo'lib, ular spermatozoid kirishini osonlashtiradi. Eksoxorion yuzasidagi naqshlar turlar bo'yicha farq qiladi, shuning uchun Anopheles turlarini tuxum tuzilishiga qarab ham aniqlash mumkin. Bir marta qo'yishda urg'ochi 100-500 tuxum tashlaydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Tuxum: Culex",
+   "content": [
+    "Culex tuxumi cho'ziq shaklda bo'lib, bir uchi kengroq va to'mtoq, ikkinchi uchi esa torayganroq bo'ladi. Kengaygan uchida likopchasimon toj bor, u yordamida tuxum suv yuzasida vertikal holatda turadi. Anopheles tuxumidagi yon suzgichlar bilan bu tuxum tuzilishi farq qiladi [2].",
+    "Culicinae tuxumlari Anopheles tuxumlariga qaraganda ancha sodda tuzilgan deb ham tavsiflanadi. Culex urg'ochisi qo'yish vaqtida tuxumlarni yopishtirib, zich massa shaklida suv ustiga qo'yadi. Culex turkumi vakillari 500 dan ortiq tuxum qo'yadi, bu Anopheles ko'rsatkichidan yuqori [1, 2]."
+   ]
+  },
+  {
+   "heading": "Tuxum qo'yish usuli",
+   "content": [
+    "Anopheles urg'ochisi tuxumlarni suv yuzasiga qo'yadi. Ular yakka-yakka suzib yuradi yoki bir necha dona bo'lib bir-biriga ilashadi, lekin yopishmaydi. Culex, Mansonia va Culiseta urg'ochilari esa tuxumlarni qo'yish paytida yopishtirib, zich massa hosil qiladi [2].",
+    "Demak, suv yuzasida tuxumlarning yakka yoki zich massa holida joylashishi turkum belgisi bo'lib xizmat qiladi. Aedes urg'ochisi tuxumlarni yakka-yakka sayoz suvga yoki nam tuproqqa qo'yadi, ya'ni uchinchi, alohida usul kuzatiladi. Qo'yilgan tuxum soni ham turkumlarda har xil [2]."
+   ]
+  },
+  {
+   "heading": "Lichinka: Anopheles",
+   "content": [
+    "Anopheles lichinkasi tanasi uch qismdan iborat: bosh kapsula, uch bo'g'imli ko'krak va to'qqiz bo'g'imli qorincha. Boshi yuqoridan qaralganda cho'ziq tuxumsimon bo'lib, Culex va Aedes lichinkalaridan shu belgisi bilan ajraladi. Qorinchaning sakkizinchi bo'g'imida nafas olish uchun stigmal plastinka joylashgan [1, 2].",
+    "Anopheles lichinkasida nafas olish naychasi, ya'ni sifon bo'lmaydi. Qorincha bo'g'imlarida palmasimon tuklar yaxshi rivojlangan, ular lichinkani suv yuzasida ushlab turishga yordam beradi. Lichinka boshi keng bo'lib, suv yuzasidagi zarrachalarni filtrlab oziqlanishga moslashgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Lichinka: Culex",
+   "content": [
+    "Culicinae, shu jumladan Culex lichinkasida sakkizinchi qorin bo'g'imining orqa tomonidan nafas olish naychasi, ya'ni sifon chiqadi. Sifon uchida nafas teshigi joylashgan. Anopheles lichinkasida esa shu bo'g'imda sifon o'rniga bir juft nafas teshigi bor stigmal plastinka turadi [2].",
+    "Demak, lichinkalarni turkumlarga ajratishda nafas olish a'zosining tuzilishi asosiy morfologik belgilardan biri hisoblanadi. Culex lichinkasi sifonli, Anopheles lichinkasi sifonsiz. Bundan tashqari Anopheles lichinkasining bosh shakli ham Culex va Aedes lichinkalaridan farq qiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Lichinkalarning suvdagi holati",
+   "content": [
+    "Bezgak chivinlarining lichinkalari suv yuzasiga parallel joylashadi. Ularni ko'krak o'siqlari, stigmal plastinkalar va palmasimon tuklar ushlab turadi. Shu sababli Anopheles lichinkasi suv yuzasi bilan bir tekis chiziq hosil qilib turadi [2].",
+    "Bezgak tashimaydigan chivinlarning lichinkalari esa suv yuzasiga nisbatan burchak ostida joylashadi, sifon uchi bilan yuzaga yopishib turadi. Lichinka to'rt marta po'st tashlab, g'umbakka aylanadi. Bu holatdagi farq suv havzalarida lichinkalarni dala sharoitida tezda farqlash imkonini beradi [2, 3]."
+   ]
+  },
+  {
+   "heading": "G'umbak",
+   "content": [
+    "G'umbak bosqichida chivin kam harakatli bo'ladi, ichki a'zolari qayta shakllanadi, so'ng g'umbak oxirgi marta po'st tashlab imagoga aylanadi. G'umbak tanasi keng bosh-ko'krak va ingichka to'qqiz bo'g'imli qorinchadan iborat. Bosh-ko'krak orqasida bir juft nafas olish naychalari bor [1, 2].",
+    "Anopheles g'umbagida nafas naychalari yuqori qismida kengaygan, voronkasimon shaklda bo'ladi. Culex va boshqa Culicinae g'umbaklarida esa nafas naychalari silindrsimon. Rasmlarda ham Anopheles g'umbagi va Culicinae g'umbagi nafas naychalari bo'yicha ajratib ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Imago: tashqi belgilar",
+   "content": [
+    "Voyaga yetgan chivinlarning tanasi bosh, uch bo'g'imli ko'krak va qorinchadan iborat. Bezgak chivinlarida faqat bir juft yuqori qanot saqlangan, pastki qanotning qisqa qoldig'i esa uchganda ovoz chiqaruvchi vizildoq a'zoga aylangan. Qanot tomirlari tuzilishi ham ikki turkumda farq qiladi [1, 2].",
+    "Anopheles da qanotning old tomiri umumiy poyasi mustaqil ravishda qanot o'rtasidan boshlanadi. Culex da umumiy poya birinchi radial tomirdan boshlanadi. Bundan tashqari ko'p bezgak chivinlarida qanotlarda tangachalar yig'indisidan hosil bo'lgan dog'lar bor, bu turni aniqlashda muhim belgidir [1, 2]."
+   ]
+  },
+  {
+   "heading": "Imago: o'tirish holati va xulq",
+   "content": [
+    "Anopheles chivinlarini o'tirishiga qarab boshqa chivinlardan osongina ajratish mumkin: ular o'tirgan sirtga nisbatan 45 daraja burchak hosil qiladi. Bunday o'tirish qishlovdagi chivinlarda yozgidan farq qiladi. Aksariyat bezgak chivinlari uchganda to'satdan sakrashi bilan ham ajraladi [1].",
+    "Malakali mutaxassis uchish vaqtida chiqargan ovoziga qarab ham bezgak chivinini Aedes va Culex dan ajrata oladi. Erkak chivinlar qon so'rmaydi va faqat o'simlik shirasi bilan oziqlanadi, qon so'rish urg'ochilarga xos. Bu xususiyat ikkala turkum uchun umumiy [1]."
+   ]
+  },
+  {
+   "heading": "Tibbiy ahamiyatidagi farq",
+   "content": [
+    "Anopheles turkumi chivinlari odamda bezgak qo'zg'atuvchisi Plasmodium ning maxsus tashuvchilari hisoblanadi va filyariatoz tashuvchilari bo'lishi mumkin. Culex turkumi esa arbovirus infeksiyalari bilan bog'liq: Culex pipiens Yapon ensefalitining maxsus tashuvchilaridan biri sifatida ko'rsatilgan [1, 2].",
+    "Shunday qilib, Anopheles va Culex orasidagi morfologik farq amaliy ahamiyatga ega: topilgan lichinka yoki chivin turkum belgilari bo'yicha bezgak xavfi nuqtai nazaridan baholanadi. Biroq har bir Anopheles turi bezgakni baravar yuqtirmaydi, shu sabab tur darajasida aniqlash zarur [1, 2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Entomologik kuzatuvda suv havzalaridan olingan lichinkalar sifon yoki stigmal plastinka bo'yicha ajratiladi. Bu bezgak xavfi bo'lgan anofelogen havzalarni belgilashga yordam beradi. Bezgak chivinlari lichinkalari oldingi uch bosqichda suvda rivojlanishi sababli lichinkaga qarshi tadbirlar aynan shu havzalarga qaratiladi [2, 3].",
+    "Shuningdek, turni aniqlash faqat turkum belgisi bilan cheklanmaydi: tuxum, lichinka va imagoning tashqi morfologik belgilariga qaraladi, kerak bo'lsa kariosistematik va molekulyar-genetik usullar qo'llanadi. Bu o'xshash egizak turlarda ayniqsa muhim [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Anopheles va Culex tuxumi (yon suzgichli, yakka-yakka va likopchali, zich massa), lichinkasi (sifonsiz, suv yuzasiga parallel va sifonli, burchakli), g'umbagi (voronkasimon va silindrsimon nafas naychasi) hamda imagosining o'tirishi (45 daraja burchak) bilan farq qiladi. Bu belgilar bezgak tashuvchisini ajratishga imkon beradi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547."
+ ]
 }

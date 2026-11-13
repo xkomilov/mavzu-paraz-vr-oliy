@@ -1,72 +1,110 @@
 {
-  "number": 72,
-  "title": "72. Gelmintlarning rivojlanish davrining biologik xususiyatiga bog'liq holda klassifikatsiyasi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Gelmintlarning rivojlanish davri tuxum va lichinkaning tashqi muhitda qanday o'tishi hamda oraliq xo'jayin kerak yoki kerak emasligi bilan farqlanadi. Shu biologik belgilarga ko'ra gelmintlar va ular qo'zg'atadigan kasalliklar geogelmintoz, biogelmintoz va kontagioz (kontakt) gelmintozlarga bo'linadi [2, 3].",
-      "Ushbu mavzuda tasnifning asosi, har bir guruhning biologik belgilari va misollari, chegara holatlar hamda manbalardagi farqlar ketma-ket ko'rib chiqiladi. Oxirida tasnifning O'zbekistondagi milliy yo'riqnoma va profilaktika tadbirlari bilan bog'liqligi yoritiladi [1, 2, 4]."
-    ]},
-    {"heading": "Tasnif asosi", "content": [
-      "Zoologik tasnif gelmintni trematoda, sestoda yoki nematodaga ajratadi, epidemiologik tasnif esa invaziya qanday yuqishiga qaraydi. Darslikda zararlanish mexanizmi va yuqish omillarini tuxum yoki lichinkaning odam organizmidan tashqarida rivojlanish sharoitlari belgilashi, shu sababli uch guruh ajratilishi ko'rsatilgan [1, 2].",
-      "Tasnifning ikkinchi mezoni tuxum va lichinkaning erta bosqichda tashqi muhitga bo'lgan talabidir. Manbada yuqish yo'li, tashqi muhitda mavjud bo'lish usuli va kasallikning inson patologiyasidagi ahamiyati bo'yicha guruhlash tamoyillari ham qo'llanishi ta'kidlangan [2]."
-    ]},
-    {"heading": "Geogelmintlar", "content": [
-      "Geogelmintozlarda voyaga yetgan gijja odamda parazitlik qiladi, odam esa yetilmagan tuxum va lichinkalarni tashqi muhitga, odatda tuproqqa chiqaradi. U yerda ular yetilib invazion bo'ladi va shundan keyingina sog'lom odamga o'tadi; bunday rivojlanish yo'li to'g'ridan-to'g'ri deb ataladi [2].",
-      "Yuqish omillari sifatida tuproq, suv, oziq-ovqat, o'yinchoq, maishiy buyumlar va qo'llar xizmat qiladi. Geogelmintlar xo'jayin almashtirmasdan rivojlanadi, ko'pchiligi faqat odamda parazitlik qilgani uchun odam deyarli yagona invaziya manbai hisoblanadi [1, 2]."
-    ]},
-    {"heading": "Geogelmintozlarning kichik guruhlari", "content": [
-      "Peroral antroponozlarga askaridoz va trixotsefalyoz, perkutan antroponozlarga ankilostomidoz va strongiloidoz kiritiladi. Birinchi guruhda zararlanish yetilgan tuxumni oziq-ovqat, suv yoki iflos qo'l bilan yutganda, ikkinchisida lichinkaning teri orqali kirishi bilan sodir bo'ladi [2].",
-      "Strongiloidozda rivojlanish tsikli ba'zan tashqi muhitga chiqmasdan, odam organizmining o'zida tugashi mumkin. Taqdimotda esa ankilostoma, nekator va strongiloidozda ichak ichida o'z-o'zidan qayta yuqtirish, ya'ni autosuperinvaziya kuzatilishi ham alohida ta'kidlangan [2, 3]."
-    ]},
-    {"heading": "Tuxum yetilishining shartlari", "content": [
-      "Askarida tuxumlari tuproqda 10-12 darajadan 36 darajagacha bo'lgan haroratda va yetarli namlikda yetiladi. Optimal 24 daraja haroratda invazion lichinka 14 kunda paydo bo'ladi, mo'tadil iqlimda esa yetilish odatda 40-60 kun davom etadi [1].",
-      "Loyli, qora tuproqli va balchiqli tuproqlar tuxum rivojlanishi uchun qumli va tez qiziydigan tuproqlardan qulayroq. Tuxumlar -30 darajagacha sovuqqa chidaydi, organik moddalarga kambag'al mo'tadil iqlim tuproqlarida 20 sm chuqurlikda 5-7 yil tirik qoladi [1]."
-    ]},
-    {"heading": "Biogelmintlar", "content": [
-      "Biogelmintozlar qo'zg'atuvchilarining rivojlanishi uchun oraliq, ba'zan esa qo'shimcha xo'jayin ham zarur. Odam odatda oraliq xo'jayin bo'lgan baliq yoki hayvon go'shtini iste'mol qilganda zararlanadi, lichinkalar esa bir yoki ikki oraliq xo'jayinda rivojlanadi, jinsiy yetuk davr oxirgi xo'jayinda shakllanadi [2].",
-      "Bu guruhga trematodozlar, sestodozlar va ayrim nematodozlar kiradi: shistosomozlar, opistorxoz, teniarinxoz, tenioz, alveokokkoz, exinokokkoz, difillobotrioz, trixinellyoz va onkoserkoz. Gelmintlarning oxirgi xo'jayindagi umri bir necha haftadan (ostritsa) bir necha yilgacha (tsepenlar) va o'nlab yilgacha (opistorxlar) boradi [2]."
-    ]},
-    {"heading": "Biogelmintozlarning kichik guruhlari", "content": [
-      "Biogelmintozlar yuqish yo'li va manbasiga ko'ra peroral antroponozlar (teniarinxoz, tenioz, difillobotrioz) hamda peroral zoonozlar (exinokokkoz, alveokokkoz, opistorxoz, trixinellyoz, fassiolyoz) ga bo'linadi. Perkutan shakllar ham mavjud va ularda lichinka teri orqali kiradi [2].",
-      "Perkutan antroponozlarga ichak va siydik-tanosil shistosomozi, vuxerrerioz hamda onkoserkoz, perkutan zoonozlarga esa yapon shistosomozi kiradi. Bunday bo'linish biogelmintozning qaysi oraliq xo'jayin va qaysi manba bilan bog'liqligini bilib, profilaktikani to'g'ri yo'naltirishga imkon beradi [2]."
-    ]},
-    {"heading": "Chegara holatlar", "content": [
-      "Trixinellada rivojlanishning barcha bosqichlari bitta xo'jayinda, ya'ni odam yoki uy va yovvoyi sutemizuvchida o'tadi, shunga qaramay manbada u biogelmintozlar qatoriga kiritilgan. Mitti gijjada (gimenolepidoz) odam ham oxirgi, ham oraliq xo'jayin vazifasini bajaradi [1].",
-      "Qo'zg'atuvchisi odamda ham, hayvonda ham parazitlik qila oladigan gelmintozlar gelmintozoonozlar deyiladi. Odam va uy hayvonlariga bog'liq bo'lmay yovvoyi hayvonlar orasida aylanadiganlari tabiiy o'choqli gelmintozlar hisoblanadi, masalan alveokokkoz va trixinellyoz [1]."
-    ]},
-    {"heading": "Kontagioz gelmintlar", "content": [
-      "Kontagioz guruh tushunchasi taqdimotda 1952 yilda S.S. Shulman ajratgan, lotincha contactus (muloqot) so'zidan olingan deb ko'rsatilgan. Bunday qo'zg'atuvchilar bemordan ajralgan zahoti yuqishga moslashgan, odam yaqinida rivojlanadi va atrofdagi buyumlar orqali yuqadi [3].",
-      "Darslikda ham kontagioz guruh geogelmintozlar kabi oraliq xo'jayinsiz yetiladi, lekin tuxumlari ajralish paytidayoq yuqumli bo'ladi deyilgan; unga mitti gijja va ostritsa kiradi. Davolash bayonnomasida enterobioz antroponoz kontaktli ichak gelmintozi deb ta'riflanadi [2, 5]."
-    ]},
-    {"heading": "Manbalardagi farqlar", "content": [
-      "Ostritsaning o'rni manbalarda bir xil emas. Rus tilidagi darslikning bir joyida geogelmintlar qatorida askarida, vlasoglav, ostritsa, ankilostoma va ichak ugritsasi sanalgan, boshqa joyida esa kontagioz guruhga mitti gijja bilan birga kiritilgan [2].",
-      "Taqdimot va milliy bayonnoma enterobiozni aniq kontakt yo'li bilan yuqadigan gelmintoz deb hisoblaydi. Shu sababli bu mavzuda ostritsa kontagioz guruhga kiritildi, geogelmintlar qatorida sanalishi esa manbalardagi muqobil yondashuv sifatida qayd etiladi [2, 3, 5]."
-    ]},
-    {"heading": "Milliy yo'riqnomada tasnif", "content": [
-      "O'zbekiston yo'riqnomasida geogelmintozlar sifatida askaridoz va trixotsefalyoz ko'rsatilgan, invaziya manbai zararlangan odam, yuqish mavsumi esa yoz-kuz davriga to'g'ri keladi. Asosiy yuqish omillari yuvilmagan sabzavot, meva va ko'katlar, shuningdek tuproq, suv va iflos qo'llardir [4].",
-      "Biogelmintozlarda teniarinxoz va tenioz xom yoki chala pishgan go'sht, jumladan kabob, chuchvara, somsa, manti va ijjan orqali yuqishi, exinokokkoz, fassiolyoz, trixinellyoz va baliq orqali yuqadigan gelmintozlar alohida bo'limlarda berilgan. Enterobioz va gimenolepidoz esa muloqot orqali yuqadiganlar sifatida ajratilgan [4]."
-    ]},
-    {"heading": "Tasnifning profilaktikaga ta'siri", "content": [
-      "Geogelmintozlar yo'riqnomada avvalo sanitariya muammosi sifatida baholanadi. 30 foiz va undan yuqori zararlangan intensiv o'choqlarda aholiga yiliga 2 marta ommaviy degelmintizatsiya o'tkaziladi, o'rta intensiv o'choqlarda esa faqat invaziya aniqlangan mikroo'choqlarda [4].",
-      "Biogelmintozlar profilaktikasi tibbiy-veterinariya kompleks tadbirlaridan iborat. Muloqot orqali yuqadigan gelmintozlarda esa asosiy chora yuqtirish mexanizmini uzish, ya'ni shaxsiy gigiena, choyshab va ich kiyimni dazmollash, namli tozalash hamda oila a'zolari va jamoani bir vaqtda davolashdir [4, 5]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor aniqlangan gelmintozning biologik guruhini bilsa, o'choqda nima tekshirilishini darhol rejalashtiradi. Geogelmintozda tuproq, sabzavot va suv, biogelmintozda oraliq xo'jayin mahsuloti, kontagioz gelmintozda esa jamoa va oila a'zolari hamda ro'zg'or buyumlari o'rganiladi [2, 4].",
-      "Tasnif tekshiruv usulini ham belgilaydi. Geogelmintozlarda va muloqot gelmintozlarida yoshga qarab guruhlar tanlanadi, biogelmintozlarda esa veterinariya xizmati bilan birgalikda manba qidiriladi; bunday hamkorlik milliy yo'riqnomada teniidozlar va exinokokkoz uchun alohida talab qilingan [4]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Ko'rilgan manbalarda geogelmintoz va biogelmintoz atamalarini kim kiritgani aniq ko'rsatilmagan; faqat kontagioz guruh S.S. Shulman nomi va 1952 yil bilan bog'langan, bu ham yagona taqdimotga asoslanadi va boshqa manbada tasdiqlanmagan [3].",
-      "Taqdimotdagi bir jumlani askarida va qilbosh gijja lichinkalari teri orqali ham kiradi deb o'qish mumkin, lekin boshqa manbalar bu kasalliklarni peroral deb tasniflaydi. Shu sababli teri orqali kirish faqat ankilostoma, nekator va strongiloid uchun qabul qilindi [2, 3]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Gelmintlar rivojlanish davrining biologik xususiyatiga ko'ra geogelmintlar (tuproqda yetiladi), biogelmintlar (oraliq xo'jayin zarur) va kontagioz gelmintlar (tuxum ajralishi bilan yuqumli) ga bo'linadi. Bu tasnif yuqish omilini, o'choqni tekshirish yo'nalishini va profilaktika choralarini belgilaydi [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Parazitar kasalliklarni davolash bayonnomalari (enterobiozni davolash bayonnomasi, B80). xayrullokomilov.uz/kutubxona, material ID 1559."
-  ]
+ "number": 72,
+ "title": "72. Gelmintlarning rivojlanish davrining biologik xususiyatiga bog'liq holda klassifikatsiyasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Gelmintlarning rivojlanish davri tuxum va lichinkaning tashqi muhitda qanday o'tishi hamda oraliq xo'jayin kerak yoki kerak emasligi bilan farqlanadi. Shu biologik belgilarga ko'ra gelmintlar va ular qo'zg'atadigan kasalliklar geogelmintoz, biogelmintoz va kontagioz (kontakt) gelmintozlarga bo'linadi [2, 3].",
+    "Ushbu mavzuda tasnifning asosi, har bir guruhning biologik belgilari va misollari, chegara holatlar hamda manbalardagi farqlar ketma-ket ko'rib chiqiladi. Oxirida tasnifning O'zbekistondagi milliy yo'riqnoma va profilaktika tadbirlari bilan bog'liqligi yoritiladi [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Tasnif asosi",
+   "content": [
+    "Zoologik tasnif gelmintni trematoda, sestoda yoki nematodaga ajratadi, epidemiologik tasnif esa invaziya qanday yuqishiga qaraydi. Darslikda zararlanish mexanizmi va yuqish omillarini tuxum yoki lichinkaning odam organizmidan tashqarida rivojlanish sharoitlari belgilashi, shu sababli uch guruh ajratilishi ko'rsatilgan [1, 2].",
+    "Tasnifning ikkinchi mezoni tuxum va lichinkaning erta bosqichda tashqi muhitga bo'lgan talabidir. Manbada yuqish yo'li, tashqi muhitda mavjud bo'lish usuli va kasallikning inson patologiyasidagi ahamiyati bo'yicha guruhlash tamoyillari ham qo'llanishi ta'kidlangan [2]."
+   ]
+  },
+  {
+   "heading": "Geogelmintlar",
+   "content": [
+    "Geogelmintozlarda voyaga yetgan gijja odamda parazitlik qiladi, odam esa yetilmagan tuxum va lichinkalarni tashqi muhitga, odatda tuproqqa chiqaradi. U yerda ular yetilib invazion bo'ladi va shundan keyingina sog'lom odamga o'tadi; bunday rivojlanish yo'li to'g'ridan-to'g'ri deb ataladi [2].",
+    "Yuqish omillari sifatida tuproq, suv, oziq-ovqat, o'yinchoq, maishiy buyumlar va qo'llar xizmat qiladi. Geogelmintlar xo'jayin almashtirmasdan rivojlanadi, ko'pchiligi faqat odamda parazitlik qilgani uchun odam deyarli yagona invaziya manbai hisoblanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Geogelmintozlarning kichik guruhlari",
+   "content": [
+    "Peroral antroponozlarga askaridoz va trixotsefalyoz, perkutan antroponozlarga ankilostomidoz va strongiloidoz kiritiladi. Birinchi guruhda zararlanish yetilgan tuxumni oziq-ovqat, suv yoki iflos qo'l bilan yutganda, ikkinchisida lichinkaning teri orqali kirishi bilan sodir bo'ladi [2].",
+    "Strongiloidozda rivojlanish tsikli ba'zan tashqi muhitga chiqmasdan, odam organizmining o'zida tugashi mumkin. Taqdimotda esa ankilostoma, nekator va strongiloidozda ichak ichida o'z-o'zidan qayta yuqtirish, ya'ni autosuperinvaziya kuzatilishi ham alohida ta'kidlangan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Tuxum yetilishining shartlari",
+   "content": [
+    "Askarida tuxumlari tuproqda 10-12 darajadan 36 darajagacha bo'lgan haroratda va yetarli namlikda yetiladi. Optimal 24 daraja haroratda invazion lichinka 14 kunda paydo bo'ladi, mo'tadil iqlimda esa yetilish odatda 40-60 kun davom etadi [1].",
+    "Loyli, qora tuproqli va balchiqli tuproqlar tuxum rivojlanishi uchun qumli va tez qiziydigan tuproqlardan qulayroq. Tuxumlar -30 darajagacha sovuqqa chidaydi, organik moddalarga kambag'al mo'tadil iqlim tuproqlarida 20 sm chuqurlikda 5-7 yil tirik qoladi [1]."
+   ]
+  },
+  {
+   "heading": "Biogelmintlar",
+   "content": [
+    "Biogelmintozlar qo'zg'atuvchilarining rivojlanishi uchun oraliq, ba'zan esa qo'shimcha xo'jayin ham zarur. Odam odatda oraliq xo'jayin bo'lgan baliq yoki hayvon go'shtini iste'mol qilganda zararlanadi, lichinkalar esa bir yoki ikki oraliq xo'jayinda rivojlanadi, jinsiy yetuk davr oxirgi xo'jayinda shakllanadi [2].",
+    "Bu guruhga trematodozlar, sestodozlar va ayrim nematodozlar kiradi: shistosomozlar, opistorxoz, teniarinxoz, tenioz, alveokokkoz, exinokokkoz, difillobotrioz, trixinellyoz va onkoserkoz. Gelmintlarning oxirgi xo'jayindagi umri bir necha haftadan (ostritsa) bir necha yilgacha (tsepenlar) va o'nlab yilgacha (opistorxlar) boradi [2]."
+   ]
+  },
+  {
+   "heading": "Biogelmintozlarning kichik guruhlari",
+   "content": [
+    "Biogelmintozlar yuqish yo'li va manbasiga ko'ra peroral antroponozlar (teniarinxoz, tenioz, difillobotrioz) hamda peroral zoonozlar (exinokokkoz, alveokokkoz, opistorxoz, trixinellyoz, fassiolyoz) ga bo'linadi. Perkutan shakllar ham mavjud va ularda lichinka teri orqali kiradi [2].",
+    "Perkutan antroponozlarga ichak va siydik-tanosil shistosomozi, vuxerrerioz hamda onkoserkoz, perkutan zoonozlarga esa yapon shistosomozi kiradi. Bunday bo'linish biogelmintozning qaysi oraliq xo'jayin va qaysi manba bilan bog'liqligini bilib, profilaktikani to'g'ri yo'naltirishga imkon beradi [2]."
+   ]
+  },
+  {
+   "heading": "Chegara holatlar",
+   "content": [
+    "Trixinellada rivojlanishning barcha bosqichlari bitta xo'jayinda, ya'ni odam yoki uy va yovvoyi sutemizuvchida o'tadi, shunga qaramay manbada u biogelmintozlar qatoriga kiritilgan. Mitti gijjada (gimenolepidoz) odam ham oxirgi, ham oraliq xo'jayin vazifasini bajaradi [1].",
+    "Qo'zg'atuvchisi odamda ham, hayvonda ham parazitlik qila oladigan gelmintozlar gelmintozoonozlar deyiladi. Odam va uy hayvonlariga bog'liq bo'lmay yovvoyi hayvonlar orasida aylanadiganlari tabiiy o'choqli gelmintozlar hisoblanadi, masalan alveokokkoz va trixinellyoz [1]."
+   ]
+  },
+  {
+   "heading": "Kontagioz gelmintlar",
+   "content": [
+    "Kontagioz guruh tushunchasi taqdimotda 1952 yilda S.S. Shulman ajratgan, lotincha contactus (muloqot) so'zidan olingan deb ko'rsatilgan. Bunday qo'zg'atuvchilar bemordan ajralgan zahoti yuqishga moslashgan, odam yaqinida rivojlanadi va atrofdagi buyumlar orqali yuqadi [3].",
+    "Darslikda ham kontagioz guruh geogelmintozlar kabi oraliq xo'jayinsiz yetiladi, lekin tuxumlari ajralish paytidayoq yuqumli bo'ladi deyilgan; unga mitti gijja va ostritsa kiradi. Davolash bayonnomasida enterobioz antroponoz kontaktli ichak gelmintozi deb ta'riflanadi [2, 5]."
+   ]
+  },
+  {
+   "heading": "Manbalardagi farqlar",
+   "content": [
+    "Ostritsaning o'rni manbalarda bir xil emas. Rus tilidagi darslikning bir joyida geogelmintlar qatorida askarida, vlasoglav, ostritsa, ankilostoma va ichak ugritsasi sanalgan, boshqa joyida esa kontagioz guruhga mitti gijja bilan birga kiritilgan [2].",
+    "Taqdimot va milliy bayonnoma enterobiozni aniq kontakt yo'li bilan yuqadigan gelmintoz deb hisoblaydi. Shu sababli bu mavzuda ostritsa kontagioz guruhga kiritildi, geogelmintlar qatorida sanalishi esa manbalardagi muqobil yondashuv sifatida qayd etiladi [2, 3, 5]."
+   ]
+  },
+  {
+   "heading": "Milliy yo'riqnomada tasnif",
+   "content": [
+    "O'zbekiston yo'riqnomasida geogelmintozlar sifatida askaridoz va trixotsefalyoz ko'rsatilgan, invaziya manbai zararlangan odam, yuqish mavsumi esa yoz-kuz davriga to'g'ri keladi. Asosiy yuqish omillari yuvilmagan sabzavot, meva va ko'katlar, shuningdek tuproq, suv va iflos qo'llardir [4].",
+    "Biogelmintozlarda teniarinxoz va tenioz xom yoki chala pishgan go'sht, jumladan kabob, chuchvara, somsa, manti va ijjan orqali yuqishi, exinokokkoz, fassiolyoz, trixinellyoz va baliq orqali yuqadigan gelmintozlar alohida bo'limlarda berilgan. Enterobioz va gimenolepidoz esa muloqot orqali yuqadiganlar sifatida ajratilgan [4]."
+   ]
+  },
+  {
+   "heading": "Tasnifning profilaktikaga ta'siri",
+   "content": [
+    "Geogelmintozlar yo'riqnomada avvalo sanitariya muammosi sifatida baholanadi. 30 foiz va undan yuqori zararlangan intensiv o'choqlarda aholiga yiliga 2 marta ommaviy degelmintizatsiya o'tkaziladi, o'rta intensiv o'choqlarda esa faqat invaziya aniqlangan mikroo'choqlarda [4].",
+    "Biogelmintozlar profilaktikasi tibbiy-veterinariya kompleks tadbirlaridan iborat. Muloqot orqali yuqadigan gelmintozlarda esa asosiy chora yuqtirish mexanizmini uzish, ya'ni shaxsiy gigiena, choyshab va ich kiyimni dazmollash, namli tozalash hamda oila a'zolari va jamoani bir vaqtda davolashdir [4, 5]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor aniqlangan gelmintozning biologik guruhini bilsa, o'choqda nima tekshirilishini darhol rejalashtiradi. Geogelmintozda tuproq, sabzavot va suv, biogelmintozda oraliq xo'jayin mahsuloti, kontagioz gelmintozda esa jamoa va oila a'zolari hamda ro'zg'or buyumlari o'rganiladi [2, 4].",
+    "Tasnif tekshiruv usulini ham belgilaydi. Geogelmintozlarda va muloqot gelmintozlarida yoshga qarab guruhlar tanlanadi, biogelmintozlarda esa veterinariya xizmati bilan birgalikda manba qidiriladi; bunday hamkorlik milliy yo'riqnomada teniidozlar va exinokokkoz uchun alohida talab qilingan [4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Gelmintlar rivojlanish davrining biologik xususiyatiga ko'ra geogelmintlar (tuproqda yetiladi), biogelmintlar (oraliq xo'jayin zarur) va kontagioz gelmintlar (tuxum ajralishi bilan yuqumli) ga bo'linadi. Bu tasnif yuqish omilini, o'choqni tekshirish yo'nalishini va profilaktika choralarini belgilaydi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari (enterobiozni davolash bayonnomasi, B80). xayrullokomilov.uz/kutubxona, material ID 1559."
+ ]
 }

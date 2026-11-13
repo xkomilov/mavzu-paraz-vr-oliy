@@ -1,69 +1,101 @@
 {
-  "number": 52,
-  "title": "52. Antroponoz teri leyshmaniozini tashxisi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Antroponoz teri leyshmaniozining (ATL) tashxisi klinik-epidemiologik ma'lumotlarga asoslanadi va albatta qo'zg'atuvchini laboratoriyada aniqlash bilan tasdiqlanadi. Tashxisning to'g'ri va o'z vaqtida qo'yilishi bemorni davolash bilan birga uning manba sifatidagi rolini cheklashga imkon beradi [1, 8].",
-      "Ushbu mavzuda tashxisning klinik-epidemiologik asoslari, namuna olish va mikroskopiya texnikasi, qo'shimcha usullar, JSST va milliy holat ta'riflari, differensial tashxis hamda tasdiqlash tartibi ko'rib chiqiladi. Manbalar o'rtasidagi farqlar va tasdiqlanmagan jihatlar oxirida ko'rsatiladi [1, 2, 7]."
-    ]},
-    {"heading": "Tashxisga yondashuv", "content": [
-      "JSST ma'lumotiga ko'ra teri va shilliq qavat leyshmaniozida serologik testlarning qiymati cheklangan, tashxis klinik ko'rinish va parazitologik testlar bilan tasdiqlanadi. Shu sababli ATL tashxisining asosiy usuli yaradan olingan materialda qo'zg'atuvchini mikroskopda ko'rishdir [8].",
-      "Yo'riqnomada laboratoriya tekshiruvi teri lezyonining xarakterli ko'rinishi, bemorning teri leyshmaniozi o'chog'ida, endemik hududda va yuqish mavsumida bo'lgani aniqlanganda o'tkazilishi ko'rsatilgan. Ya'ni parazitologik tekshiruvga klinik-epidemiologik shubha asos bo'ladi [1]."
-    ]},
-    {"heading": "Klinik belgilar", "content": [
-      "Polejayeva va hammualliflariga ko'ra chaqish joyida dastlab diametri 2-3 mm li bo'rtma paydo bo'ladi, 3-4 oyda u 5-10 mm ga yetadi. Keyin yuzasida po'stloq hosil bo'lib, uning tagida chuqurchasimon yara ochiladi, yaralanish va chandiqlanish jarayoni o'rtacha bir yil davom etadi [5].",
-      "Pavlovich darsligida eski dunyo leyshmaniozlarida elementlar yuz, bo'yin va oyoq-qo'llarda joylashishi, ATL da 3-5 oyda yaralanib, bir yilda chandiqlanishi aytilgan. Latyshev jadvalida ATL da yara 3-6 oy va undan keyin hosil bo'lishi, yuzda oyoqqa qaraganda ko'proq uchrashi ko'rsatilgan [1, 6]."
-    ]},
-    {"heading": "Anamnez va retrospektiv ma'lumotlar", "content": [
-      "Polejayeva va hammualliflari tashxisda bemorning endemik hududda bo'lgani haqidagi anamnez katta ahamiyatga ega ekanini ta'kidlaydi. Yuqori qatlamlarda yallig'lanish reaksiyasi bilan kechmaydigan bo'rtmalar paydo bo'lsa, ularning chetidan olingan materialda mikroskopik tekshiruv o'tkaziladi [5].",
-      "Yo'riqnomada tahlil jarayonida retrospektiv ma'lumot, ya'ni kasallikni boshdan kechirganidan dalolat beruvchi yara chandiqlarining mavjudligi ham e'tiborga olinishi aytilgan. Epidemiologik tekshirish kartasida chandiqlar soni va joylashuvi, oldin shu kasallik bilan og'rigani so'raladi [1, 10]."
-    ]},
-    {"heading": "Material olish va namuna tayyorlash", "content": [
-      "Yo'riqnomaga ko'ra tashxis leyshmaniyalar yara tubidagi do'mboqchadan va infiltrat chetidan olingan namunada aniqlangandagina tasdiqlanadi. Davolash bayonnomasida ATL tashxisi uchun material yara atrofidagi yallig'langan do'mboqcha to'qimasidan olingan kirindi bo'lib, undan Romanovskiy-Gimza usulida surtma tayyorlanadi [1, 3].",
-      "Laboratoriya yo'riqnomasida bo'rtma yoki infiltrat joyi spirtli paxta bilan artiladi, steril skalpel bilan yuza kesiladi va qon oqishi to'xtatilgach, kesim tubi va chetlaridan qirindi olinadi. Qirindi darhol buyum oynasiga o'tkazilib, bir necha surtma tayyorlanadi [2]."
-    ]},
-    {"heading": "Surtmani bo'yash va mikroskopiya", "content": [
-      "Tayyorlangan surtma ochiq havoda quritiladi, metanol yoki Nikiforov aralashmasida fiksatsiya qilinadi va Romanovskiy usulida bo'yaladi. Mikroskop immersiya moyi bilan, 90 yoki 100 marta kattalashtiruvchi obyektiv va 7 yoki 10 marta okulyar bilan ko'riladi, ya'ni bezgak qon surtmasi kabi ishlanadi [2].",
-      "Natijada makrofaglar ichida yoki hujayradan tashqarida 3-5 mkm li dumaloq, oval yoki cho'ziq tanachalar topiladi: sitoplazma to'q havorang, yadro qizil-binafsha, kinetoplast esa yadrodan to'qroq bo'yaladi. Preparat och binafsha bo'lib, epitelial hujayralar va tuzilmasiz bo'laklar ko'rinsa, surtma juda yuza olingan, qayta olinishi kerak [2]."
-    ]},
-    {"heading": "Topilma ehtimoli va xatolar", "content": [
-      "Laboratoriya yo'riqnomasiga ko'ra bo'rtmalarda va yara infiltrati chetlarida leyshmaniyalar kasallikning boshlang'ich bosqichida oson topiladi. Yiringli yaralarda o'zgargan va parchalangan shakllar uchraydi, shu sababli tashxis qo'yish qiyinlashadi, yaralar bitish bosqichida esa parazitlar kam hollarda aniqlanadi [2].",
-      "Tuberkuloidli shakldagi bo'rtmalarda leyshmaniyalar qiyinchilik bilan topiladi, shuning uchun bu shaklda tashxis qo'yish qiyinligini bilish muhim. Yo'riqnomada ATL ning tuberkuloidli shakli surunkali kechishi, bir necha yil davom etishi mumkinligi ham ta'kidlangan [1, 2]."
-    ]},
-    {"heading": "Qo'shimcha laboratoriya usullari", "content": [
-      "Yo'riqnomada tashxis laboratoriya oq sichqonlari va xomyaklarda o'tkazilgan biologik sinama natijasida olingan namunalarda hamda leyshmaniya kulturasi aniqlanganda ham qo'yilishi mumkinligi aytilgan. Pavlovich darsligida kultura NNN muhitida o'stirilib, promastigotalar yulduzsimon bog'lamlar ko'rinishida topilishi yozilgan [1, 6].",
-      "Leyshmanin bilan teri allergik sinamasi ATL da kasallik boshlanganidan 6 oy o'tgach musbat bo'lishi Latyshev jadvalida ko'rsatilgan. MSD ma'lumotnomasiga ko'ra tashxis surtma yoki kulturada parazitlarni aniqlashga va ma'lumot markazlarida PCR dan foydalanishga asoslanadi, serologik testlar teri leyshmaniozida yordam bermaydi [1, 9]."
-    ]},
-    {"heading": "Holat ta'rifi va tasdiqlash tartibi", "content": [
-      "JSST ning tavsiya etilgan holat ta'rifiga ko'ra teri leyshmaniozi holati klinik belgilar (teri yoki shilliq qavat lezyonlari) bilan birga parazitologik tasdiq (musbat surtma yoki kultura) mavjud bo'lgan shaxs hisoblanadi. Faqat teri-shilliq qavat shaklida serologik tasdiq ham qabul qilinadi [7].",
-      "O'zbekistondagi nazorat algoritmida shubhali holatlarni laboratoriya yo'li bilan tasdiqlash majburiy, ekspress usullar musbat bo'lsa mikroskopiya bilan tasdiqlanadi, natijalar mos kelmaganda PCR o'tkaziladi. Yo'riqnomaga ko'ra shubhali bemorlar surtmalarining 100 foizi musbat va shubhali, 10 foizi manfiy namunalar DSENM parazitologiya laboratoriyasiga yuboriladi [1, 7]."
-    ]},
-    {"heading": "Differensial tashxis va standartlar", "content": [
-      "Yo'riqnomada ATL ni epitelioma, moxov (lepra), zahm va tropik yaralar bilan taqqoslab ajratish ko'rsatilgan. Bu kasalliklar teridagi yaralar bilan kechgani uchun faqat klinik ko'rinish asosida tashxis qo'yish xato bo'lishi mumkin va laboratoriya tasdig'i zarur [1].",
-      "Davolash standartida B55.1 kodi ostidagi teri leyshmaniozlari (antroponoz va zoonoz) uchun umumiy qon tahlili va yaraning zararlangan qismidan surtma tekshirish ko'rsatilgan. Bayonnomada minimal ro'yxat parazitologik, serologik va umumiy klinik tekshirishdan iborat [3, 4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor shubhali bemorda birinchi yordamni ko'rsatib, yaraga quruq bog'lam qo'yadi va DSENM ga shoshilinch xabarnoma beradi. DSENM xodimi namuna olish uchun manzilga boradi va bemor bilan birga yashovchi yoki ishlovchi shaxslarni so'rov va ko'rikdan o'tkazadi [1].",
-      "Respublika markazi taqdimotiga ko'ra leyshmaniozning har bir holati WHO ning standart ta'rifi asosida ro'yxatga olinishi va 058/U shakli bo'yicha xabar qilinishi, laboratoriyada tasdiqlangan holatlarda 24 soat ichida davo boshlanishi lozim. Dispanser nazorati ham ko'zda tutilgan [7]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Ko'rilgan manbalarda O'zbekiston sharoitida mikroskopiya, kultura yoki PCR ning ATL uchun sezgirligi va o'ziga xosligi bo'yicha raqamlar berilmagan. Shuningdek viloyat laboratoriyalarida PCR ning ATL bo'yicha amaliy qo'llanilishi tasdiqlanmadi, shuning uchun bu jihatlar fakt sifatida yozilmadi [2, 7].",
-      "Yo'riqnomaning ATL bo'limidagi laboratoriya tekshiruvi bandi matnda xato bilan «VL ga» deb boshlangan, mazmunan teri leyshmaniozi nazarda tutilgan. Shuningdek ATL bo'yicha leyshmanin sinamasining hozirgi amaliyotdagi o'rni va ahamiyati manbalarda ochiq yoritilmagan [1, 6]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "ATL tashxisi klinik-epidemiologik ma'lumotlarga asoslanadi va yara tubidagi do'mboqcha hamda infiltrat chetidan olingan surtmada Romanovskiy usulida leyshmaniyalarni aniqlash bilan tasdiqlanadi. Zarurat tug'ilganda kultura, biologik sinama va PCR qo'llanadi, differensial tashxis epitelioma, moxov, zahm va tropik yaralar bilan o'tkaziladi [1, 2, 7, 8]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari. O'zR SSV buyrug'iga ilova, 2016. xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "Richard D. Pirson. Leyshmanioz. MSD ma'lumotnomasi, professional versiya (tarkib 2019 yil may oyida o'zgartirilgan). xayrullokomilov.uz/kutubxona, material ID 1536.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
-  ]
+ "number": 52,
+ "title": "52. Antroponoz teri leyshmaniozini tashxisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Antroponoz teri leyshmaniozining (ATL) tashxisi klinik-epidemiologik ma'lumotlarga asoslanadi va albatta qo'zg'atuvchini laboratoriyada aniqlash bilan tasdiqlanadi. Tashxisning to'g'ri va o'z vaqtida qo'yilishi bemorni davolash bilan birga uning manba sifatidagi rolini cheklashga imkon beradi [1, 8].",
+    "Ushbu mavzuda tashxisning klinik-epidemiologik asoslari, namuna olish va mikroskopiya texnikasi, qo'shimcha usullar, JSST va milliy holat ta'riflari, differensial tashxis hamda tasdiqlash tartibi ko'rib chiqiladi. Manbalar o'rtasidagi farqlar ham ko'rsatiladi [1, 2, 7]."
+   ]
+  },
+  {
+   "heading": "Tashxisga yondashuv",
+   "content": [
+    "JSST ma'lumotiga ko'ra teri va shilliq qavat leyshmaniozida serologik testlarning qiymati cheklangan, tashxis klinik ko'rinish va parazitologik testlar bilan tasdiqlanadi. Shu sababli ATL tashxisining asosiy usuli yaradan olingan materialda qo'zg'atuvchini mikroskopda ko'rishdir [8].",
+    "Yo'riqnomada laboratoriya tekshiruvi teri lezyonining xarakterli ko'rinishi, bemorning teri leyshmaniozi o'chog'ida, endemik hududda va yuqish mavsumida bo'lgani aniqlanganda o'tkazilishi ko'rsatilgan. Ya'ni parazitologik tekshiruvga klinik-epidemiologik shubha asos bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Klinik belgilar",
+   "content": [
+    "Polejayeva va hammualliflariga ko'ra chaqish joyida dastlab diametri 2-3 mm li bo'rtma paydo bo'ladi, 3-4 oyda u 5-10 mm ga yetadi. Keyin yuzasida po'stloq hosil bo'lib, uning tagida chuqurchasimon yara ochiladi, yaralanish va chandiqlanish jarayoni o'rtacha bir yil davom etadi [5].",
+    "Pavlovich darsligida eski dunyo leyshmaniozlarida elementlar yuz, bo'yin va oyoq-qo'llarda joylashishi, ATL da 3-5 oyda yaralanib, bir yilda chandiqlanishi aytilgan. Latyshev jadvalida ATL da yara 3-6 oy va undan keyin hosil bo'lishi, yuzda oyoqqa qaraganda ko'proq uchrashi ko'rsatilgan [1, 6]."
+   ]
+  },
+  {
+   "heading": "Anamnez va retrospektiv ma'lumotlar",
+   "content": [
+    "Polejayeva va hammualliflari tashxisda bemorning endemik hududda bo'lgani haqidagi anamnez katta ahamiyatga ega ekanini ta'kidlaydi. Yuqori qatlamlarda yallig'lanish reaksiyasi bilan kechmaydigan bo'rtmalar paydo bo'lsa, ularning chetidan olingan materialda mikroskopik tekshiruv o'tkaziladi [5].",
+    "Yo'riqnomada tahlil jarayonida retrospektiv ma'lumot, ya'ni kasallikni boshdan kechirganidan dalolat beruvchi yara chandiqlarining mavjudligi ham e'tiborga olinishi aytilgan. Epidemiologik tekshirish kartasida chandiqlar soni va joylashuvi, oldin shu kasallik bilan og'rigani so'raladi [1, 10]."
+   ]
+  },
+  {
+   "heading": "Material olish va namuna tayyorlash",
+   "content": [
+    "Yo'riqnomaga ko'ra tashxis leyshmaniyalar yara tubidagi do'mboqchadan va infiltrat chetidan olingan namunada aniqlangandagina tasdiqlanadi. Davolash bayonnomasida ATL tashxisi uchun material yara atrofidagi yallig'langan do'mboqcha to'qimasidan olingan kirindi bo'lib, undan Romanovskiy-Gimza usulida surtma tayyorlanadi [1, 3].",
+    "Laboratoriya yo'riqnomasida bo'rtma yoki infiltrat joyi spirtli paxta bilan artiladi, steril skalpel bilan yuza kesiladi va qon oqishi to'xtatilgach, kesim tubi va chetlaridan qirindi olinadi. Qirindi darhol buyum oynasiga o'tkazilib, bir necha surtma tayyorlanadi [2]."
+   ]
+  },
+  {
+   "heading": "Surtmani bo'yash va mikroskopiya",
+   "content": [
+    "Tayyorlangan surtma ochiq havoda quritiladi, metanol yoki Nikiforov aralashmasida fiksatsiya qilinadi va Romanovskiy usulida bo'yaladi. Mikroskop immersiya moyi bilan, 90 yoki 100 marta kattalashtiruvchi obyektiv va 7 yoki 10 marta okulyar bilan ko'riladi, ya'ni bezgak qon surtmasi kabi ishlanadi [2].",
+    "Natijada makrofaglar ichida yoki hujayradan tashqarida 3-5 mkm li dumaloq, oval yoki cho'ziq tanachalar topiladi: sitoplazma to'q havorang, yadro qizil-binafsha, kinetoplast esa yadrodan to'qroq bo'yaladi. Preparat och binafsha bo'lib, epitelial hujayralar va tuzilmasiz bo'laklar ko'rinsa, surtma juda yuza olingan, qayta olinishi kerak [2]."
+   ]
+  },
+  {
+   "heading": "Topilma ehtimoli va xatolar",
+   "content": [
+    "Laboratoriya yo'riqnomasiga ko'ra bo'rtmalarda va yara infiltrati chetlarida leyshmaniyalar kasallikning boshlang'ich bosqichida oson topiladi. Yiringli yaralarda o'zgargan va parchalangan shakllar uchraydi, shu sababli tashxis qo'yish qiyinlashadi, yaralar bitish bosqichida esa parazitlar kam hollarda aniqlanadi [2].",
+    "Tuberkuloidli shakldagi bo'rtmalarda leyshmaniyalar qiyinchilik bilan topiladi, shuning uchun bu shaklda tashxis qo'yish qiyinligini bilish muhim. Yo'riqnomada ATL ning tuberkuloidli shakli surunkali kechishi, bir necha yil davom etishi mumkinligi ham ta'kidlangan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qo'shimcha laboratoriya usullari",
+   "content": [
+    "Yo'riqnomada tashxis laboratoriya oq sichqonlari va xomyaklarda o'tkazilgan biologik sinama natijasida olingan namunalarda hamda leyshmaniya kulturasi aniqlanganda ham qo'yilishi mumkinligi aytilgan. Pavlovich darsligida kultura NNN muhitida o'stirilib, promastigotalar yulduzsimon bog'lamlar ko'rinishida topilishi yozilgan [1, 6].",
+    "Leyshmanin bilan teri allergik sinamasi ATL da kasallik boshlanganidan 6 oy o'tgach musbat bo'lishi Latyshev jadvalida ko'rsatilgan. MSD ma'lumotnomasiga ko'ra tashxis surtma yoki kulturada parazitlarni aniqlashga va ma'lumot markazlarida PCR dan foydalanishga asoslanadi, serologik testlar teri leyshmaniozida yordam bermaydi [1, 9]."
+   ]
+  },
+  {
+   "heading": "Holat ta'rifi va tasdiqlash tartibi",
+   "content": [
+    "JSST ning tavsiya etilgan holat ta'rifiga ko'ra teri leyshmaniozi holati klinik belgilar (teri yoki shilliq qavat lezyonlari) bilan birga parazitologik tasdiq (musbat surtma yoki kultura) mavjud bo'lgan shaxs hisoblanadi. Faqat teri-shilliq qavat shaklida serologik tasdiq ham qabul qilinadi [7].",
+    "O'zbekistondagi nazorat algoritmida shubhali holatlarni laboratoriya yo'li bilan tasdiqlash majburiy, ekspress usullar musbat bo'lsa mikroskopiya bilan tasdiqlanadi, natijalar mos kelmaganda PCR o'tkaziladi. Yo'riqnomaga ko'ra shubhali bemorlar surtmalarining 100 foizi musbat va shubhali, 10 foizi manfiy namunalar DSENM parazitologiya laboratoriyasiga yuboriladi [1, 7]."
+   ]
+  },
+  {
+   "heading": "Differensial tashxis va standartlar",
+   "content": [
+    "Yo'riqnomada ATL ni epitelioma, moxov (lepra), zahm va tropik yaralar bilan taqqoslab ajratish ko'rsatilgan. Bu kasalliklar teridagi yaralar bilan kechgani uchun faqat klinik ko'rinish asosida tashxis qo'yish xato bo'lishi mumkin va laboratoriya tasdig'i zarur [1].",
+    "Davolash standartida B55.1 kodi ostidagi teri leyshmaniozlari (antroponoz va zoonoz) uchun umumiy qon tahlili va yaraning zararlangan qismidan surtma tekshirish ko'rsatilgan. Bayonnomada minimal ro'yxat parazitologik, serologik va umumiy klinik tekshirishdan iborat [3, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor shubhali bemorda birinchi yordamni ko'rsatib, yaraga quruq bog'lam qo'yadi va DSENM ga shoshilinch xabarnoma beradi. DSENM xodimi namuna olish uchun manzilga boradi va bemor bilan birga yashovchi yoki ishlovchi shaxslarni so'rov va ko'rikdan o'tkazadi [1].",
+    "Respublika markazi taqdimotiga ko'ra leyshmaniozning har bir holati WHO ning standart ta'rifi asosida ro'yxatga olinishi va 058/U shakli bo'yicha xabar qilinishi, laboratoriyada tasdiqlangan holatlarda 24 soat ichida davo boshlanishi lozim. Dispanser nazorati ham ko'zda tutilgan [7]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "ATL tashxisi klinik-epidemiologik ma'lumotlarga asoslanadi va yara tubidagi do'mboqcha hamda infiltrat chetidan olingan surtmada Romanovskiy usulida leyshmaniyalarni aniqlash bilan tasdiqlanadi. Zarurat tug'ilganda kultura, biologik sinama va PCR qo'llanadi, differensial tashxis epitelioma, moxov, zahm va tropik yaralar bilan o'tkaziladi [1, 2, 7, 8]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari. O'zR SSV buyrug'iga ilova, 2016. xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "Richard D. Pirson. Leyshmanioz. MSD ma'lumotnomasi, professional versiya (tarkib 2019 yil may oyida o'zgartirilgan). xayrullokomilov.uz/kutubxona, material ID 1536.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
+ ]
 }

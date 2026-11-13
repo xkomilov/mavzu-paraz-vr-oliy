@@ -1,125 +1,118 @@
 {
-  "number": 115,
-  "title": "115. Fassiolyoz bilan zararlanishning yo'llari va omili.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Fassiolyoz jigar va o't yo'llarini shikastlaydigan trematodoz bo'lib, odamga u asosan hayvonlardan tarqalgan o'choqlar orqali yuqadi. Zararlanish yo'li va omilini bilish kasallikni oldindan taxmin qilish, anamnezni to'g'ri yig'ish va profilaktikani to'g'ri yo'naltirish uchun hal qiluvchi ahamiyatga ega [1, 2, 5].",
-        "Mavzuda avval yuqishning umumiy mexanizmi, so'ng alohida omillar ketma-ket yoritiladi: suv o'simliklari, ko'katlar, suv, sug'orish, xom jigar, oilaviy klasterlar va sanitariya sharoiti. Oxirida parazitolog-shifokor uchun amaliy xulosa va tasdiqlanmagan jihatlar keltiriladi [1, 2, 3]."
-      ]
-    },
-    {
-      "heading": "Yuqishning umumiy mexanizmi",
-      "content": [
-        "Fassiolyoz peroral biogelmintoz hisoblanadi, ya'ni qo'zg'atuvchi odam organizmiga og'iz orqali, invazion lichinka yutilganda tushadi. Milliy yo'riqnomada kasallik jigar va o't yo'llarini zararlaydigan trematodoz sifatida ta'riflangan, odam esa yakuniy xo'jayinlar orasida kam uchrovchi xo'jayin deb ko'rsatilgan [1].",
-        "JSST ma'lumotiga ko'ra Fasciola turlariga ikkinchi oraliq xo'jayin kerak emas, shu sababli odam parazit lichinkalari yopishgan chuchuk suv o'simliklarini yutganda zararlanadi. Boshqa trematodozlardan farqi shundaki, baliq yoki qisqichbaqasimonni emas, o'simlikni iste'mol qilish xavfli hisoblanadi [5]."
-      ]
-    },
-    {
-      "heading": "Invazion bosqich: adoleskariy",
-      "content": [
-        "Odam uchun yuqumli bosqich adoleskariy, ya'ni suvdagi o'simliklar yuzasida kapsulaga o'ralgan lichinkadir. Milliy yo'riqnomada adoleskariy suvda va nam tuproqda 2 yilgacha yashashi qayd etilgan, bu esa o'chog'ning uzoq muddat xavfli qolishini bildiradi [1].",
-        "Atlasda esa adoleskariylar 2-3 yil davomida invazionligini saqlashi yozilgan. Ikki manba orasidagi bu farq hayot muddatini baholashdagi usullar farqidan kelib chiqishi mumkin, lekin amaliy xulosa bir xil: nam muhitda lichinkalar uzoq vaqt xavf tug'diradi [1, 3]."
-      ]
-    },
-    {
-      "heading": "Invaziya manbai: hayvonlar",
-      "content": [
-        "Odam fassiolyozga asosan zararlangan hayvonlar orqali bog'lanadi, chunki parazit tuxumlarini muhitga yirik va mayda shoxli hayvonlar, otlar va boshqa sut emizuvchilar chiqaradi. Yo'riqnomada ularning zararlangan hayvonlar manba bo'lib xizmat qilishi alohida ta'kidlangan [1].",
-        "Atlasda yakuniy xo'jayin sifatida yirik va mayda mol ko'rsatilgan, odam esa kam uchraydi. JSST ham tabiiy yakuniy xo'jayinlar qatoriga qo'y, qoramol va boshqa o'txo'r hayvonlarni kiritadi, shuning uchun hayvonlar kasalligi odam xavfining zaruriy sharti hisoblanadi [3, 5]."
-      ]
-    },
-    {
-      "heading": "Suv o'simliklari va suv ko'kati",
-      "content": [
-        "Odamlardagi holatlarning ko'pchiligi xom suv ko'kati, ya'ni watercress iste'moli bilan bog'liq. Dalton kitobida Yevropada yovvoyi suv ko'kati odamdagi zararlanishning asosiy manbai ekani qayd etilgan, Fransiyada o'tkazilgan tekshiruvda 23 holat uy sharoitida o'stirilgan, 8 holat yovvoyi, 2 holat sotuvdagi suv ko'katiga bog'langan [2].",
-        "Zararlanishda ishtirok etadigan o'simlik turi hududga va aholi ovqatlanish odatiga qarab farq qiladi. Masalan, Eronda boshqa bargli o'simliklar va yalpiz turlari ham ko'rsatilgan, Boliviyada esa bir necha chuchuk suv o'simligi invaziya vositasi bo'lishi aytilgan [2]."
-      ]
-    },
-    {
-      "heading": "Yuvilmagan ko'kat, sho'vul va salat",
-      "content": [
-        "Milliy yo'riqnomaga ko'ra odam sho'vul, tomorqa ko'katlari va salat o'tlarini yuvmasdan iste'mol qilganda zararlanadi. Ayniqsa o'tkir davrda anamnezda ovqatga yuvilmagan salat o'tlari va sho'vul qo'shilgani aniqlanishi tashxis uchun muhim belgi hisoblanadi [1].",
-        "Atlasda ham shaxsiy profilaktika qoidasi shu omilga asoslangan: ochiq suv havzalaridan xom suv ichmaslik va yovvoyi o'simliklarni xom holda yemaslik tavsiya etiladi. Demak, oddiy ko'kat ham, yovvoyi o'simlik ham, agar suv bilan aloqada bo'lgan bo'lsa, xavfli omil bo'ladi [3]."
-      ]
-    },
-    {
-      "heading": "Suv orqali zararlanish",
-      "content": [
-        "Suv fassiolyoz yuqishida ikkinchi muhim omil sifatida ko'p tilga olinadi. Yo'riqnomada odam turg'un suvdan ichganda ham zararlanishi ko'rsatilgan, atlas va darslikda esa suv, suv havzalari va sug'oriladigan yerlardagi ko'kat hamda lichinkali suvda yuvilgan sabzavot-mevalar asosiy omil deyilgan [1, 3, 4].",
-        "Dalton kitobiga ko'ra ayrim lichinkalar suvda suzib yuradi: bunday metaserkariylarning ulushi odatda 10 foizdan kam, Boliviya tekshiruvida esa 13 foiz topilgan. Shuning uchun tabiiy suvni qaynatmasdan ichish endemik hududlarda aniq xavf tug'diradi [2]."
-      ]
-    },
-    {
-      "heading": "Cho'milish va idish-tovoqni yuvish",
-      "content": [
-        "Yo'riqnomada odam turg'un suvlarda ko'kat, sabzavot va mevalarni yuvganda yoki cho'milganda adoleskariyni yutib zararlanishi mumkinligi aytilgan. Bu holat ayniqsa dala sharoitida va suv havzasi yaqinida ishlaydigan, dam oladigan odamlar uchun real xavf hisoblanadi [1].",
-        "Dalton kitobida Xitoyda sabzavotlar doim pishirib yeyilgani uchun zararlanish kam uchrashi, u boshqa yo'llar bilan, ya'ni qaynatilmagan ichimlik suvi yoki lichinka tushgan kesish taxtasi va oshxona buyumlari orqali bo'lishi mumkinligi yozilgan [2]."
-      ]
-    },
-    {
-      "heading": "Sug'orish suvi va bozor mahsulotlari",
-      "content": [
-        "Kitobda lichinkali suv bilan sug'orilgan salatlar orqali zararlanish ham tasvirlangan. Bu yo'l ko'katni o'zi suv o'simligi bo'lmasa ham xavfli bo'lishini ko'rsatadi, chunki xavf o'simlik turida emas, sug'orish manbaining ifloslanganligida bo'ladi [2].",
-        "Bozorda sotiladigan ko'katlar ham omil bo'lishi mumkin. Dalton kitobida Samarqand bozoridagi yashil sabzavotlarning 10,5 foizida kapsulalangan metaserkariylar topilgani ikkilamchi manba sifatida keltirilgan, ammo bu 1988 yilga oid ma'lumot va hozirgi holatni baholash uchun asos bo'la olmaydi [2]."
-      ]
-    },
-    {
-      "heading": "Xom jigar va tranzit tuxumlar",
-      "content": [
-        "Kitobda tajribaviy ma'lumotlarga tayanib, yetilmagan qurtlar bor yangi jigardan tayyorlangan xom taomlarni yegan odam ham zararlanishi mumkinligi aytilgan. Shu sababli xom yoki yaxshi pishirilmagan hayvon jigari nazariy xavf omillari qatoriga kiritiladi [2].",
-        "Boshqa tomondan, zararlangan jigar yeyilganda najasda tranzit tuxumlar paydo bo'lishi mumkin va ular kasallik emas, oddiy o'tish belgisidir. Shuning uchun tekshiruvdan bir kun oldin mol jigarini ovqatdan chiqarish, natijani esa sinchiklab baholash zarur [1, 3]."
-      ]
-    },
-    {
-      "heading": "Dasturxonda va dalada zararlanish",
-      "content": [
-        "Dalton kitobida zararlanishning ikki xil sharoiti ajratilgan: dasturxonda, ya'ni odatdagi ovqat tarkibidagi sabzavot orqali va dalada, ya'ni tabiatdan olingan, odatda ovqatga kirmaydigan o'simlikni chaynash orqali. Har ikki holda aybdor o'simlik turlari bir xil bo'lishi shart emas [2].",
-        "Ba'zi lichinkali o'simliklar aholi ovqatida shunchalik muhimki, ular maxsus ekiladi va bozorda sotiladi. Natijada kasallik o'chog'idan uzoqda yashovchi odam ham zararlanishi mumkin, bu esa epidemiologik tekshiruvda sotib olingan mahsulot manbasini aniqlash zarurligini ko'rsatadi [2]."
-      ]
-    },
-    {
-      "heading": "Oilaviy klasterlar va kasbiy guruhlar",
-      "content": [
-        "Dalton kitobiga ko'ra zararlanish oila doirasida jamlanadi, chunki oila a'zolari bir xil ifloslangan ovqatni iste'mol qiladi. Misol uchun Misrda kamida bitta zararlangan odami bor 25 oilaning 20 foizida ikki kishi, yana 20 foizida uch kishi kasallangan [2].",
-        "Kasallik asosan qishloq joylarga xos, chorvachilik va qo'ychilik kasblari boshqalarga qaraganda ko'proq zararlanadi. Shu sababli bir bemor aniqlanganda uning oilasi va hamkasblarini tekshirish hamda umumiy ovqat va suv manbasini topish tavsiya etiladi [2]."
-      ]
-    },
-    {
-      "heading": "Sanitariya va oziq-ovqat gigiyenasi omillari",
-      "content": [
-        "JSST fassiolyoz kabi oziq-ovqat orqali yuqadigan trematodozlar xavfini yetarli bo'lmagan sanitariya, oziq-ovqat gigiyenasi, xavfsiz ichimlik suvining kamligi va madaniy ovqatlanish odatlari bilan bog'laydi. Bu omillar hududda o'chog'larning saqlanishini ham, qayta zararlanishni ham tushuntiradi [5].",
-        "Bundan tashqari, JSST bir sog'liq yondashuvini tavsiya etadi: inson, hayvon va atrof-muhit tomonlarini birga ko'rish kerak. Chunki dori bilan davolash faqat bemorga yordam beradi, yuqish omili esa suv, o'simlik va hayvon zanjirida saqlanib qolaveradi [5]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Yo'riqnomada o'tkir fazani aniqlash qiyin ekani, tashxis anamnestik, epidemiologik va klinik ma'lumotlarga tayanishi aytilgan. Shu sababli shifokor bemordan yuvilmagan ko'kat, sho'vul, turg'un suv va cho'milish haqida albatta so'rashi lozim [1].",
-        "Tuxum faqat zararlanishdan 2,5-3 oy o'tgach topiladi, shuning uchun erta davrda serologik usullar kerak bo'ladi. Laboratoriya yo'riqnomasida ham najas va o't suyuqligini tekshirish tavsiya etilgan, natija esa tranzit tuxum ehtimolini hisobga olib baholanadi [1, 6]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda O'zbekiston bo'yicha zararlanish omillarining ulushi, ya'ni qaysi o'simlik yoki suv manbai ko'proq aybdorligi to'g'risida joriy ma'lumot topilmadi. Samarqand bozoridagi ko'katlarga oid raqam ham eski va boshqa mamlakat kitobidagi ikkilamchi ma'lumotdir [2].",
-        "Shuningdek, adoleskariy yashovchanligi muddati manbalarda turlicha: 2 yilgacha va 2-3 yil. Suzib yuruvchi metaserkariylarning aniq ulushi ham tadqiqotga qarab 10 foizdan kam yoki 13 foiz deb berilgan, shu sababli yagona qiymat sifatida qabul qilish to'g'ri emas [1, 2, 3]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Fassiolyozning asosiy zararlanish yo'li oral bo'lib, omillar qatoriga suv o'simliklari, yuvilmagan ko'kat, ochiq suv, sug'orish suvi va xom jigar kiradi. Manba hayvonlar, xavfni oshiradigan holatlar esa sanitariya va oziq-ovqat gigiyenasi hamda hududiy ovqatlanish odatlaridir [1, 2, 5]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Dalton J.P. (ed.). Fasciolosis. Wallingford: CABI Publishing, 1999 (shu jumladan Mas-Coma S., Bargues M.D., Esteban J.G. Human fasciolosis). xayrullokomilov.uz/kutubxona, material ID 1534.",
-    "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521."
-  ]
+ "number": 115,
+ "title": "115. Fassiolyoz bilan zararlanishning yo'llari va omili.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Fassiolyoz jigar va o't yo'llarini shikastlaydigan trematodoz bo'lib, odamga u asosan hayvonlardan tarqalgan o'choqlar orqali yuqadi. Zararlanish yo'li va omilini bilish kasallikni oldindan taxmin qilish, anamnezni to'g'ri yig'ish va profilaktikani to'g'ri yo'naltirish uchun hal qiluvchi ahamiyatga ega [1, 2, 5].",
+    "Mavzuda avval yuqishning umumiy mexanizmi, so'ng alohida omillar ketma-ket yoritiladi: suv o'simliklari, ko'katlar, suv, sug'orish, xom jigar, oilaviy klasterlar va sanitariya sharoiti. Oxirida amaliy ahamiyati keltiriladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Yuqishning umumiy mexanizmi",
+   "content": [
+    "Fassiolyoz peroral biogelmintoz hisoblanadi, ya'ni qo'zg'atuvchi odam organizmiga og'iz orqali, invazion lichinka yutilganda tushadi. Milliy yo'riqnomada kasallik jigar va o't yo'llarini zararlaydigan trematodoz sifatida ta'riflangan, odam esa yakuniy xo'jayinlar orasida kam uchrovchi xo'jayin deb ko'rsatilgan [1].",
+    "JSST ma'lumotiga ko'ra Fasciola turlariga ikkinchi oraliq xo'jayin kerak emas, shu sababli odam parazit lichinkalari yopishgan chuchuk suv o'simliklarini yutganda zararlanadi. Boshqa trematodozlardan farqi shundaki, baliq yoki qisqichbaqasimonni emas, o'simlikni iste'mol qilish xavfli hisoblanadi [5]."
+   ]
+  },
+  {
+   "heading": "Invazion bosqich: adoleskariy",
+   "content": [
+    "Odam uchun yuqumli bosqich adoleskariy, ya'ni suvdagi o'simliklar yuzasida kapsulaga o'ralgan lichinkadir. Milliy yo'riqnomada adoleskariy suvda va nam tuproqda 2 yilgacha yashashi qayd etilgan, bu esa o'chog'ning uzoq muddat xavfli qolishini bildiradi [1].",
+    "Atlasda esa adoleskariylar 2-3 yil davomida invazionligini saqlashi yozilgan. Ikki manba orasidagi bu farq hayot muddatini baholashdagi usullar farqidan kelib chiqishi mumkin, lekin amaliy xulosa bir xil: nam muhitda lichinkalar uzoq vaqt xavf tug'diradi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Invaziya manbai: hayvonlar",
+   "content": [
+    "Odam fassiolyozga asosan zararlangan hayvonlar orqali bog'lanadi, chunki parazit tuxumlarini muhitga yirik va mayda shoxli hayvonlar, otlar va boshqa sut emizuvchilar chiqaradi. Yo'riqnomada ularning zararlangan hayvonlar manba bo'lib xizmat qilishi alohida ta'kidlangan [1].",
+    "Atlasda yakuniy xo'jayin sifatida yirik va mayda mol ko'rsatilgan, odam esa kam uchraydi. JSST ham tabiiy yakuniy xo'jayinlar qatoriga qo'y, qoramol va boshqa o'txo'r hayvonlarni kiritadi, shuning uchun hayvonlar kasalligi odam xavfining zaruriy sharti hisoblanadi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Suv o'simliklari va suv ko'kati",
+   "content": [
+    "Odamlardagi holatlarning ko'pchiligi xom suv ko'kati, ya'ni watercress iste'moli bilan bog'liq. Dalton kitobida Yevropada yovvoyi suv ko'kati odamdagi zararlanishning asosiy manbai ekani qayd etilgan, Fransiyada o'tkazilgan tekshiruvda 23 holat uy sharoitida o'stirilgan, 8 holat yovvoyi, 2 holat sotuvdagi suv ko'katiga bog'langan [2].",
+    "Zararlanishda ishtirok etadigan o'simlik turi hududga va aholi ovqatlanish odatiga qarab farq qiladi. Masalan, Eronda boshqa bargli o'simliklar va yalpiz turlari ham ko'rsatilgan, Boliviyada esa bir necha chuchuk suv o'simligi invaziya vositasi bo'lishi aytilgan [2]."
+   ]
+  },
+  {
+   "heading": "Yuvilmagan ko'kat, sho'vul va salat",
+   "content": [
+    "Milliy yo'riqnomaga ko'ra odam sho'vul, tomorqa ko'katlari va salat o'tlarini yuvmasdan iste'mol qilganda zararlanadi. Ayniqsa o'tkir davrda anamnezda ovqatga yuvilmagan salat o'tlari va sho'vul qo'shilgani aniqlanishi tashxis uchun muhim belgi hisoblanadi [1].",
+    "Atlasda ham shaxsiy profilaktika qoidasi shu omilga asoslangan: ochiq suv havzalaridan xom suv ichmaslik va yovvoyi o'simliklarni xom holda yemaslik tavsiya etiladi. Demak, oddiy ko'kat ham, yovvoyi o'simlik ham, agar suv bilan aloqada bo'lgan bo'lsa, xavfli omil bo'ladi [3]."
+   ]
+  },
+  {
+   "heading": "Suv orqali zararlanish",
+   "content": [
+    "Suv fassiolyoz yuqishida ikkinchi muhim omil sifatida ko'p tilga olinadi. Yo'riqnomada odam turg'un suvdan ichganda ham zararlanishi ko'rsatilgan, atlas va darslikda esa suv, suv havzalari va sug'oriladigan yerlardagi ko'kat hamda lichinkali suvda yuvilgan sabzavot-mevalar asosiy omil deyilgan [1, 3, 4].",
+    "Dalton kitobiga ko'ra ayrim lichinkalar suvda suzib yuradi: bunday metaserkariylarning ulushi odatda 10 foizdan kam, Boliviya tekshiruvida esa 13 foiz topilgan. Shuning uchun tabiiy suvni qaynatmasdan ichish endemik hududlarda aniq xavf tug'diradi [2]."
+   ]
+  },
+  {
+   "heading": "Cho'milish va idish-tovoqni yuvish",
+   "content": [
+    "Yo'riqnomada odam turg'un suvlarda ko'kat, sabzavot va mevalarni yuvganda yoki cho'milganda adoleskariyni yutib zararlanishi mumkinligi aytilgan. Bu holat ayniqsa dala sharoitida va suv havzasi yaqinida ishlaydigan, dam oladigan odamlar uchun real xavf hisoblanadi [1].",
+    "Dalton kitobida Xitoyda sabzavotlar doim pishirib yeyilgani uchun zararlanish kam uchrashi, u boshqa yo'llar bilan, ya'ni qaynatilmagan ichimlik suvi yoki lichinka tushgan kesish taxtasi va oshxona buyumlari orqali bo'lishi mumkinligi yozilgan [2]."
+   ]
+  },
+  {
+   "heading": "Sug'orish suvi va bozor mahsulotlari",
+   "content": [
+    "Kitobda lichinkali suv bilan sug'orilgan salatlar orqali zararlanish ham tasvirlangan. Bu yo'l ko'katni o'zi suv o'simligi bo'lmasa ham xavfli bo'lishini ko'rsatadi, chunki xavf o'simlik turida emas, sug'orish manbaining ifloslanganligida bo'ladi [2].",
+    "Bozorda sotiladigan ko'katlar ham omil bo'lishi mumkin. Dalton kitobida Samarqand bozoridagi yashil sabzavotlarning 10,5 foizida kapsulalangan metaserkariylar topilgani ikkilamchi manba sifatida keltirilgan, ammo bu 1988 yilga oid ma'lumot va hozirgi holatni baholash uchun asos bo'la olmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Xom jigar va tranzit tuxumlar",
+   "content": [
+    "Kitobda tajribaviy ma'lumotlarga tayanib, yetilmagan qurtlar bor yangi jigardan tayyorlangan xom taomlarni yegan odam ham zararlanishi mumkinligi aytilgan. Shu sababli xom yoki yaxshi pishirilmagan hayvon jigari nazariy xavf omillari qatoriga kiritiladi [2].",
+    "Boshqa tomondan, zararlangan jigar yeyilganda najasda tranzit tuxumlar paydo bo'lishi mumkin va ular kasallik emas, oddiy o'tish belgisidir. Shuning uchun tekshiruvdan bir kun oldin mol jigarini ovqatdan chiqarish, natijani esa sinchiklab baholash zarur [1, 3]."
+   ]
+  },
+  {
+   "heading": "Dasturxonda va dalada zararlanish",
+   "content": [
+    "Dalton kitobida zararlanishning ikki xil sharoiti ajratilgan: dasturxonda, ya'ni odatdagi ovqat tarkibidagi sabzavot orqali va dalada, ya'ni tabiatdan olingan, odatda ovqatga kirmaydigan o'simlikni chaynash orqali. Har ikki holda aybdor o'simlik turlari bir xil bo'lishi shart emas [2].",
+    "Ba'zi lichinkali o'simliklar aholi ovqatida shunchalik muhimki, ular maxsus ekiladi va bozorda sotiladi. Natijada kasallik o'chog'idan uzoqda yashovchi odam ham zararlanishi mumkin, bu esa epidemiologik tekshiruvda sotib olingan mahsulot manbasini aniqlash zarurligini ko'rsatadi [2]."
+   ]
+  },
+  {
+   "heading": "Oilaviy klasterlar va kasbiy guruhlar",
+   "content": [
+    "Dalton kitobiga ko'ra zararlanish oila doirasida jamlanadi, chunki oila a'zolari bir xil ifloslangan ovqatni iste'mol qiladi. Misol uchun Misrda kamida bitta zararlangan odami bor 25 oilaning 20 foizida ikki kishi, yana 20 foizida uch kishi kasallangan [2].",
+    "Kasallik asosan qishloq joylarga xos, chorvachilik va qo'ychilik kasblari boshqalarga qaraganda ko'proq zararlanadi. Shu sababli bir bemor aniqlanganda uning oilasi va hamkasblarini tekshirish hamda umumiy ovqat va suv manbasini topish tavsiya etiladi [2]."
+   ]
+  },
+  {
+   "heading": "Sanitariya va oziq-ovqat gigiyenasi omillari",
+   "content": [
+    "JSST fassiolyoz kabi oziq-ovqat orqali yuqadigan trematodozlar xavfini yetarli bo'lmagan sanitariya, oziq-ovqat gigiyenasi, xavfsiz ichimlik suvining kamligi va madaniy ovqatlanish odatlari bilan bog'laydi. Bu omillar hududda o'chog'larning saqlanishini ham, qayta zararlanishni ham tushuntiradi [5].",
+    "Bundan tashqari, JSST bir sog'liq yondashuvini tavsiya etadi: inson, hayvon va atrof-muhit tomonlarini birga ko'rish kerak. Chunki dori bilan davolash faqat bemorga yordam beradi, yuqish omili esa suv, o'simlik va hayvon zanjirida saqlanib qolaveradi [5]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Yo'riqnomada o'tkir fazani aniqlash qiyin ekani, tashxis anamnestik, epidemiologik va klinik ma'lumotlarga tayanishi aytilgan. Shu sababli shifokor bemordan yuvilmagan ko'kat, sho'vul, turg'un suv va cho'milish haqida albatta so'rashi lozim [1].",
+    "Tuxum faqat zararlanishdan 2,5-3 oy o'tgach topiladi, shuning uchun erta davrda serologik usullar kerak bo'ladi. Laboratoriya yo'riqnomasida ham najas va o't suyuqligini tekshirish tavsiya etilgan, natija esa tranzit tuxum ehtimolini hisobga olib baholanadi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Fassiolyozning asosiy zararlanish yo'li oral bo'lib, omillar qatoriga suv o'simliklari, yuvilmagan ko'kat, ochiq suv, sug'orish suvi va xom jigar kiradi. Manba hayvonlar, xavfni oshiradigan holatlar esa sanitariya va oziq-ovqat gigiyenasi hamda hududiy ovqatlanish odatlaridir [1, 2, 5]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Dalton J.P. (ed.). Fasciolosis. Wallingford: CABI Publishing, 1999 (shu jumladan Mas-Coma S., Bargues M.D., Esteban J.G. Human fasciolosis). xayrullokomilov.uz/kutubxona, material ID 1534.",
+  "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521."
+ ]
 }

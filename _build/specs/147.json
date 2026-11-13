@@ -1,71 +1,109 @@
 {
-  "number": 147,
-  "title": "147. Bezgak kasalliklarini o'choqlari va holatlarida epidemiologik klassifikatsiya",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Bezgakda epidemiologik klassifikatsiya ikki ob'ektga qo'llanadi: alohida kasallanish holatiga va butun o'choqqa. Holat tasnifi infeksiya qayerda va qanday yo'l bilan yuqqanini, o'choq tasnifi esa yuqish xavfi va tadbirlar hajmini aniqlaydi. Ikkalasi o'zaro bog'liq, lekin bir narsa emas [1, 2].",
-      "Ushbu mavzuda avval holatlar, so'ng o'choqlar tasnifi ko'rib chiqiladi: milliy yo'riqnoma, uslubiy qo'llanma, epidemiologik tekshiruv kartasi va JSSTning holat turlari. O'choqlarning faollik bo'yicha JSST turlari alohida masala bo'lib, bu yerda faqat milliy tasnif bilan taqqoslanadi [1, 2, 3]."
-    ]},
-    {"heading": "Tasnifning maqsadi", "content": [
-      "Uslubiy qo'llanmada kasallanish ko'rsatkichining o'zi kam ahamiyatga ega ekani aytilgan, chunki muhimi holatlar soni emas, hududda necha kishi zararlangani. Buni aniqlash uchun kasallik epidemiologik sinf bo'yicha tahlil qilinadi, ya'ni mahalliy, olib kelingan va emlangan holatlar alohida olinadi [2].",
-      "Undan ham muhimi o'choqlar holatini monitoring qilish. Epidemiologik tekshiruv ma'lumotlari o'choqlarni tasniflashda ishlatiladi va har bir o'choq faollik darajasiga qarab toifaga kiritiladi. Yangi va sog'lomlashtirilgan o'choqlar sonining dinamikasi dastur muvaffaqiyatining eng yaxshi ko'rsatkichi hisoblanadi [2]."
-    ]},
-    {"heading": "Holatlarning milliy yo'riqnomadagi tasnifi", "content": [
-      "Yo'riqnomada aniqlangan holat olib kelingan, mahalliy, emlangan yoki qaytalangan deb tasniflanadi. Tasnif epidemiologik tekshiruv natijasida o'choq tasnifi bilan birga keltiriladi va o'choq pasportiga kiritiladi [1].",
-      "Bunday tasnif tadbirlar yo'nalishini belgilaydi: olib kelingan holatda yuqish manbai boshqa joyda, mahalliy holatda esa o'sha hududda chivin orqali yuqish bor. Shuning uchun mahalliy holat o'choqdagi chivinlarga qarshi va aholini qamrovchi choralarni talab qiladi [1, 2]."
-    ]},
-    {"heading": "Uslubiy qo'llanmadagi holat toifalari", "content": [
-      "Uslubiy qo'llanmada JSST har bir bezgak holatini aniqlash va tasnifiy guruhdagi o'rnini belgilashni tavsiya etishi aytilgan. Toifalar: olib kelingan, olib kelingandan keyingi ikkilamchi, mahalliy, retsidiv va shizont, ya'ni sun'iy yuqtirilgan holat [2].",
-      "Olib kelingan holat boshqa davlat yoki mamlakatning boshqa ma'muriy hududidan keladi. Olib kelingandan keyingi ikkilamchi holatda mahalliy aholiga olib kelingan holatdan, mahalliy holatda esa ikkilamchi holatdan bezgak yuqadi. Retsidiv ilgari yuqtirilgan holat, shizont esa qon quyish yoki steril bo'lmagan asboblar orqali yuqadi [2]."
-    ]},
-    {"heading": "Holatni identifikatsiya qilish", "content": [
-      "Holatni tasniflashda barcha ma'lumot, xususan klinik va parazitologik tekshiruv natijalari, qo'llanadi, ayniqsa oxirgi 2 yildagi epidemiologik anamnezni aniqlash muhim. Yangi yuqqan uch kunlik bezgakni uzoq vaqtdan keyingi retsidivlardan farqlash qiyin [2].",
-      "Kasallik boshlangan sana va joriy yilda yuqish mavsumi boshlangan sanani aniqlab, deyarli har doim holatni identifikatsiya qilish mumkin. Zarur ma'lumot bo'lmasa holat noma'lum holatlar toifasiga kiritiladi. Bu amaliyotda tasnifni taxminga asoslab qo'ymaslik uchun muhim [2]."
-    ]},
-    {"heading": "Epidemiologik tekshiruv kartasida tasnif", "content": [
-      "Epidemiologik tekshiruv kartasini to'ldirish yo'riqnomasiga ko'ra yakuniy tashxisda holatning turi (uch kunlik, tropik, to'rt kunlik, ovale), kelib chiqishi va namoyon bo'lish shakli ko'rsatiladi. Kelib chiqishi: mahalliy, olib kelingan holatdan ikkilamchi yuqqan, chetdan kirgan, respublikaning boshqa tumanlaridan kirgan va emlangan [3].",
-      "Namoyon bo'lish shakli erta, ya'ni birlamchi qisqa yashirin davrli, kechikkan, ya'ni uzoq yashirin davrli, qaytalangan va parazit tashuvchi bo'lishi mumkin. Bu tasnif milliy hujjatlarda hisobot va o'choqni epidemiologik tahlil qilishda ishlatiladi [3]."
-    ]},
-    {"heading": "JSSTning holat turlari", "content": [
-      "JSST 2017 yildagi hujjatida bezgak holatini kelib chiqishiga qarab mahalliy yuqqan (indigenous), kiritilgan (introduced), olib kelingan (imported), sun'iy yuqqan (induced), qaytalangan va rekrudessent turlarga ajratadi. Mahalliy yuqqan holat indigenous, introduced, relapsing yoki recrudescent bo'lishi mumkin [4].",
-      "Kiritilgan holat olib kelingan holat bilan epidemiologik bog'langan birinchi avlod mahalliy yuqishi. Induced holat qon quyish yoki parenteral inokulyatsiya bilan bog'liq, relapsing holat P. vivax yoki P. ovale gipnozoitlarining faollashuvi bilan. Bu tur milliy tasnifga qisman mos keladi [2, 4]."
-    ]},
-    {"heading": "O'choqlarning tuzilishi va funksional tasnifi", "content": [
-      "Uslubiy qo'llanmada o'choqlar bir qator belgilar bo'yicha tasniflanadi. Tuzilishi jihatidan oddiy (bitta tur qo'zg'atuvchi) va murakkab (bir necha tur) o'choqlar farqlanadi, o'choqlar to'liq ajralgan yoki qo'shni o'choqlar bilan tutashgan bo'lishi mumkin [2].",
-      "Funksional jihatdan o'choq mustaqil yoki qaram bo'ladi. Mustaqil o'choq o'zini o'zi yangilab uzoq saqlanadi, qaram o'choq esa infeksiya tashqaridan kirishi hisobiga mavsumiy yoki qisqa vaqt paydo bo'ladi. Qaram o'choqning eng yuqori nuqtasi yolg'ondakam o'choq bo'lib, unda faqat tashqaridan olib kelingan kasallik bor [2]."
-    ]},
-    {"heading": "Endemiklik darajasi bo'yicha", "content": [
-      "Endemik o'choqlar, ya'ni zararlanish barqarorlashgan hududlar, JSSTning 1950 yildagi tasnifiga ko'ra 2-9 yoshdagi bolalarda taloq indeksi bo'yicha 4 darajaga bo'linadi: gipoendemiya (10 foizgacha), mezoendemiya (11-50), giperendemiya (51-75) va golaendemiya (76 foizdan yuqori) [2].",
-      "Endemiklik qancha yuqori bo'lsa, epidemik jarayon shuncha barqaror bo'ladi, kasallanish yosh bolalarga ko'proq to'g'ri keladi va epidemiya ehtimoli kam. Uslubiy qo'llanmada bezgak arealini endemik, endemo-epidemik va epidemik hududlarga bo'lish ham keltirilgan [2]."
-    ]},
-    {"heading": "Faollik bo'yicha o'choq toifalari", "content": [
-      "Uslubiy qo'llanmada o'choqlar mahalliy yuqish mavjudligiga qarab, yuqish ehtimoli bartaraf etilgan bo'lsa undan o'tgan muddatga ko'ra 6 toifaga ajratiladi: sog'lomlashtirilgan, yangi potensial, yangi faol, yangi endemik (tiklanayotgan), qoldiq faol va qoldiq nimjon. Tasnif oxirgi 2-3 yillik vaziyat tahliliga asoslanadi [2].",
-      "Yo'riqnomada esa o'choq yolg'on, potensial, faol va faol bo'lmagan toifalarga ajratiladi, tadbir jadvallarida yana yangi faol, qoldiq faol va sog'lomlashtirilgan o'choqlar ham ko'rsatilgan. Toifalash kasallik qayd etilishidan oldingi va keyingi epidemiologik hamda entomologik holat asosida bajariladi [1]."
-    ]},
-    {"heading": "Tasnifning tadbirlarga ta'siri", "content": [
-      "Yo'riqnomada tadbirlar hajmi o'choq turiga bog'liq: mahalliy faol o'choqlarda tadbirlar hajmi juda katta, yolg'on o'choqlarda kamroq. Yolg'on o'choqdan boshqa barcha o'choqlarda sog'lomlashtirish tadbirlari 3 yil davomida o'tkaziladi [1].",
-      "Uslubiy qo'llanmada tadbirlar taktikasi o'choq turlariga mos tanlanishi, o'choqlarni bir turdagi zonalarga ajratish, ya'ni stratifikatsiya, mos choralarni tanlashning asosi ekani ta'kidlangan. Stratifikatsiyaning minimal operativ birligi sifatida o'choq olinishi mumkin [2]."
-    ]},
-    {"heading": "JSST o'choq tasnifi bilan farq", "content": [
-      "JSSTning 2017 yildagi o'choq tasnifi faqat uch tur (faol, qoldiq nofaol, tugatilgan) bilan cheklanadi va oxirgi mahalliy yuqqan holat sanasiga tayanadi. Milliy tasnif esa 4 yoki 6 toifani ishlatadi va potensial hamda yolg'on o'choq tushunchalarini ham o'z ichiga oladi [2, 4].",
-      "Demak JSST turlari yuqish vaqtiga, milliy toifalar esa yuqish imkoniyati, tadbirlar va chivin omillariga ham bog'liq. Holat tasnifi o'choq tasnifining kirish ma'lumoti bo'lgani uchun avval holat to'g'ri belgilanadi, so'ng o'choq toifasi aniqlanadi [1, 2, 4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor har bir yangi holat bo'yicha epidemiologik tekshiruv o'tkazib, holat va o'choq tasnifini asoslashi kerak. Noto'g'ri tasnif, masalan olib kelingan holatni mahalliy deb yozish, noto'g'ri tadbirlar hajmiga va hisobotlarda o'choqlar sonining buzilishiga olib keladi [1, 2].",
-      "Shuningdek u tasnifni bir tizimda yuritishi kerak: milliy kartada milliy toifalar, xalqaro hisobotda JSST turlari. Tasnifdagi har bir qaror epidemiologik tekshiruv kartasi va o'choq pasportida asoslangan bo'lishi lozim [1, 3]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Yo'riqnomada yolg'on, potensial, faol va faol bo'lmagan o'choqlarning aniq mezonlari berilmagan, uslubiy qo'llanmada esa olti toifa nomlari bor, lekin ularning ta'riflari to'liq yozilmagan. Shu sababli bu toifalarning o'zaro mosligi manbalardan tasdiqlanmadi [1, 2].",
-      "Kutubxona manbalarida O'zbekiston bo'yicha o'choqlar soni va holatlarning sinflar bo'yicha taqsimoti topilmadi. Uslubiy qo'llanma uch toifali soddalashtirilgan tasnifni «odatdagi 5 ta o'rniga 3 ta» deb keltiradi, 5 toifa ro'yxati esa matnda aniq berilmagan [2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Bezgakda epidemiologik klassifikatsiya holatlarda (mahalliy, olib kelingan, ikkilamchi, retsidiv, emlangan) va o'choqlarda (tuzilishi, funksiyasi, endemikligi, faolligi) amalga oshiriladi. U tadbirlar hajmini belgilaydi, JSST va milliy tasniflar bir-biridan farq qiladi, shu sababli har bir o'choq va holat epidemiologik tekshiruv asosida baholanadi [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati» (epidemiologik tekshiruv kartasini to'ldirish yo'riqnomasi). xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "World Health Organization. A framework for malaria elimination. Geneva: WHO, 2017. https://www.who.int/publications/i/item/9789241511988"
-  ]
+ "number": 147,
+ "title": "147. Bezgak kasalliklarini o'choqlari va holatlarida epidemiologik klassifikatsiya",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Bezgakda epidemiologik klassifikatsiya ikki ob'ektga qo'llanadi: alohida kasallanish holatiga va butun o'choqqa. Holat tasnifi infeksiya qayerda va qanday yo'l bilan yuqqanini, o'choq tasnifi esa yuqish xavfi va tadbirlar hajmini aniqlaydi. Ikkalasi o'zaro bog'liq, lekin bir narsa emas [1, 2].",
+    "Ushbu mavzuda avval holatlar, so'ng o'choqlar tasnifi ko'rib chiqiladi: milliy yo'riqnoma, uslubiy qo'llanma, epidemiologik tekshiruv kartasi va JSSTning holat turlari. O'choqlarning faollik bo'yicha JSST turlari alohida masala bo'lib, bu yerda faqat milliy tasnif bilan taqqoslanadi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Tasnifning maqsadi",
+   "content": [
+    "Uslubiy qo'llanmada kasallanish ko'rsatkichining o'zi kam ahamiyatga ega ekani aytilgan, chunki muhimi holatlar soni emas, hududda necha kishi zararlangani. Buni aniqlash uchun kasallik epidemiologik sinf bo'yicha tahlil qilinadi, ya'ni mahalliy, olib kelingan va emlangan holatlar alohida olinadi [2].",
+    "Undan ham muhimi o'choqlar holatini monitoring qilish. Epidemiologik tekshiruv ma'lumotlari o'choqlarni tasniflashda ishlatiladi va har bir o'choq faollik darajasiga qarab toifaga kiritiladi. Yangi va sog'lomlashtirilgan o'choqlar sonining dinamikasi dastur muvaffaqiyatining eng yaxshi ko'rsatkichi hisoblanadi [2]."
+   ]
+  },
+  {
+   "heading": "Holatlarning milliy yo'riqnomadagi tasnifi",
+   "content": [
+    "Yo'riqnomada aniqlangan holat olib kelingan, mahalliy, emlangan yoki qaytalangan deb tasniflanadi. Tasnif epidemiologik tekshiruv natijasida o'choq tasnifi bilan birga keltiriladi va o'choq pasportiga kiritiladi [1].",
+    "Bunday tasnif tadbirlar yo'nalishini belgilaydi: olib kelingan holatda yuqish manbai boshqa joyda, mahalliy holatda esa o'sha hududda chivin orqali yuqish bor. Shuning uchun mahalliy holat o'choqdagi chivinlarga qarshi va aholini qamrovchi choralarni talab qiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Uslubiy qo'llanmadagi holat toifalari",
+   "content": [
+    "Uslubiy qo'llanmada JSST har bir bezgak holatini aniqlash va tasnifiy guruhdagi o'rnini belgilashni tavsiya etishi aytilgan. Toifalar: olib kelingan, olib kelingandan keyingi ikkilamchi, mahalliy, retsidiv va shizont, ya'ni sun'iy yuqtirilgan holat [2].",
+    "Olib kelingan holat boshqa davlat yoki mamlakatning boshqa ma'muriy hududidan keladi. Olib kelingandan keyingi ikkilamchi holatda mahalliy aholiga olib kelingan holatdan, mahalliy holatda esa ikkilamchi holatdan bezgak yuqadi. Retsidiv ilgari yuqtirilgan holat, shizont esa qon quyish yoki steril bo'lmagan asboblar orqali yuqadi [2]."
+   ]
+  },
+  {
+   "heading": "Holatni identifikatsiya qilish",
+   "content": [
+    "Holatni tasniflashda barcha ma'lumot, xususan klinik va parazitologik tekshiruv natijalari, qo'llanadi, ayniqsa oxirgi 2 yildagi epidemiologik anamnezni aniqlash muhim. Yangi yuqqan uch kunlik bezgakni uzoq vaqtdan keyingi retsidivlardan farqlash qiyin [2].",
+    "Kasallik boshlangan sana va joriy yilda yuqish mavsumi boshlangan sanani aniqlab, deyarli har doim holatni identifikatsiya qilish mumkin. Zarur ma'lumot bo'lmasa holat noma'lum holatlar toifasiga kiritiladi. Bu amaliyotda tasnifni taxminga asoslab qo'ymaslik uchun muhim [2]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik tekshiruv kartasida tasnif",
+   "content": [
+    "Epidemiologik tekshiruv kartasini to'ldirish yo'riqnomasiga ko'ra yakuniy tashxisda holatning turi (uch kunlik, tropik, to'rt kunlik, ovale), kelib chiqishi va namoyon bo'lish shakli ko'rsatiladi. Kelib chiqishi: mahalliy, olib kelingan holatdan ikkilamchi yuqqan, chetdan kirgan, respublikaning boshqa tumanlaridan kirgan va emlangan [3].",
+    "Namoyon bo'lish shakli erta, ya'ni birlamchi qisqa yashirin davrli, kechikkan, ya'ni uzoq yashirin davrli, qaytalangan va parazit tashuvchi bo'lishi mumkin. Bu tasnif milliy hujjatlarda hisobot va o'choqni epidemiologik tahlil qilishda ishlatiladi [3]."
+   ]
+  },
+  {
+   "heading": "JSSTning holat turlari",
+   "content": [
+    "JSST 2017 yildagi hujjatida bezgak holatini kelib chiqishiga qarab mahalliy yuqqan (indigenous), kiritilgan (introduced), olib kelingan (imported), sun'iy yuqqan (induced), qaytalangan va rekrudessent turlarga ajratadi. Mahalliy yuqqan holat indigenous, introduced, relapsing yoki recrudescent bo'lishi mumkin [4].",
+    "Kiritilgan holat olib kelingan holat bilan epidemiologik bog'langan birinchi avlod mahalliy yuqishi. Induced holat qon quyish yoki parenteral inokulyatsiya bilan bog'liq, relapsing holat P. vivax yoki P. ovale gipnozoitlarining faollashuvi bilan. Bu tur milliy tasnifga qisman mos keladi [2, 4]."
+   ]
+  },
+  {
+   "heading": "O'choqlarning tuzilishi va funksional tasnifi",
+   "content": [
+    "Uslubiy qo'llanmada o'choqlar bir qator belgilar bo'yicha tasniflanadi. Tuzilishi jihatidan oddiy (bitta tur qo'zg'atuvchi) va murakkab (bir necha tur) o'choqlar farqlanadi, o'choqlar to'liq ajralgan yoki qo'shni o'choqlar bilan tutashgan bo'lishi mumkin [2].",
+    "Funksional jihatdan o'choq mustaqil yoki qaram bo'ladi. Mustaqil o'choq o'zini o'zi yangilab uzoq saqlanadi, qaram o'choq esa infeksiya tashqaridan kirishi hisobiga mavsumiy yoki qisqa vaqt paydo bo'ladi. Qaram o'choqning eng yuqori nuqtasi yolg'ondakam o'choq bo'lib, unda faqat tashqaridan olib kelingan kasallik bor [2]."
+   ]
+  },
+  {
+   "heading": "Endemiklik darajasi bo'yicha",
+   "content": [
+    "Endemik o'choqlar, ya'ni zararlanish barqarorlashgan hududlar, JSSTning 1950 yildagi tasnifiga ko'ra 2-9 yoshdagi bolalarda taloq indeksi bo'yicha 4 darajaga bo'linadi: gipoendemiya (10 foizgacha), mezoendemiya (11-50), giperendemiya (51-75) va golaendemiya (76 foizdan yuqori) [2].",
+    "Endemiklik qancha yuqori bo'lsa, epidemik jarayon shuncha barqaror bo'ladi, kasallanish yosh bolalarga ko'proq to'g'ri keladi va epidemiya ehtimoli kam. Uslubiy qo'llanmada bezgak arealini endemik, endemo-epidemik va epidemik hududlarga bo'lish ham keltirilgan [2]."
+   ]
+  },
+  {
+   "heading": "Faollik bo'yicha o'choq toifalari",
+   "content": [
+    "Uslubiy qo'llanmada o'choqlar mahalliy yuqish mavjudligiga qarab, yuqish ehtimoli bartaraf etilgan bo'lsa undan o'tgan muddatga ko'ra 6 toifaga ajratiladi: sog'lomlashtirilgan, yangi potensial, yangi faol, yangi endemik (tiklanayotgan), qoldiq faol va qoldiq nimjon. Tasnif oxirgi 2-3 yillik vaziyat tahliliga asoslanadi [2].",
+    "Yo'riqnomada esa o'choq yolg'on, potensial, faol va faol bo'lmagan toifalarga ajratiladi, tadbir jadvallarida yana yangi faol, qoldiq faol va sog'lomlashtirilgan o'choqlar ham ko'rsatilgan. Toifalash kasallik qayd etilishidan oldingi va keyingi epidemiologik hamda entomologik holat asosida bajariladi [1]."
+   ]
+  },
+  {
+   "heading": "Tasnifning tadbirlarga ta'siri",
+   "content": [
+    "Yo'riqnomada tadbirlar hajmi o'choq turiga bog'liq: mahalliy faol o'choqlarda tadbirlar hajmi juda katta, yolg'on o'choqlarda kamroq. Yolg'on o'choqdan boshqa barcha o'choqlarda sog'lomlashtirish tadbirlari 3 yil davomida o'tkaziladi [1].",
+    "Uslubiy qo'llanmada tadbirlar taktikasi o'choq turlariga mos tanlanishi, o'choqlarni bir turdagi zonalarga ajratish, ya'ni stratifikatsiya, mos choralarni tanlashning asosi ekani ta'kidlangan. Stratifikatsiyaning minimal operativ birligi sifatida o'choq olinishi mumkin [2]."
+   ]
+  },
+  {
+   "heading": "JSST o'choq tasnifi bilan farq",
+   "content": [
+    "JSSTning 2017 yildagi o'choq tasnifi faqat uch tur (faol, qoldiq nofaol, tugatilgan) bilan cheklanadi va oxirgi mahalliy yuqqan holat sanasiga tayanadi. Milliy tasnif esa 4 yoki 6 toifani ishlatadi va potensial hamda yolg'on o'choq tushunchalarini ham o'z ichiga oladi [2, 4].",
+    "Demak JSST turlari yuqish vaqtiga, milliy toifalar esa yuqish imkoniyati, tadbirlar va chivin omillariga ham bog'liq. Holat tasnifi o'choq tasnifining kirish ma'lumoti bo'lgani uchun avval holat to'g'ri belgilanadi, so'ng o'choq toifasi aniqlanadi [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor har bir yangi holat bo'yicha epidemiologik tekshiruv o'tkazib, holat va o'choq tasnifini asoslashi kerak. Noto'g'ri tasnif, masalan olib kelingan holatni mahalliy deb yozish, noto'g'ri tadbirlar hajmiga va hisobotlarda o'choqlar sonining buzilishiga olib keladi [1, 2].",
+    "Shuningdek u tasnifni bir tizimda yuritishi kerak: milliy kartada milliy toifalar, xalqaro hisobotda JSST turlari. Tasnifdagi har bir qaror epidemiologik tekshiruv kartasi va o'choq pasportida asoslangan bo'lishi lozim [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Bezgakda epidemiologik klassifikatsiya holatlarda (mahalliy, olib kelingan, ikkilamchi, retsidiv, emlangan) va o'choqlarda (tuzilishi, funksiyasi, endemikligi, faolligi) amalga oshiriladi. U tadbirlar hajmini belgilaydi, JSST va milliy tasniflar bir-biridan farq qiladi, shu sababli har bir o'choq va holat epidemiologik tekshiruv asosida baholanadi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati» (epidemiologik tekshiruv kartasini to'ldirish yo'riqnomasi). xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "World Health Organization. A framework for malaria elimination. Geneva: WHO, 2017. https://www.who.int/publications/i/item/9789241511988"
+ ]
 }

@@ -1,63 +1,95 @@
 {
-  "number": 69,
-  "title": "69. Kanali qaytalama terlamaning (KQT)joylashuvi va tugatilishiga qarshi tashkillashtirilgan va o'tkazilgan epidemik chora-tadbirlar.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Kanali qaytalama terlama o'chog'i joyli va o'zgarmas bo'lgani uchun tashuvchi kanalardan tozalash uchun uzoq yillar davomida kurash olib borish kerak. Ko'p yillik tajriba KQT bo'yicha endemik aholi yashash joylarini kasallikdan xalos qilish mumkinligini ko'rsatadi [1].",
-      "Ushbu mavzuda chora-tadbirlarni rejalashtirish va tashkil etish, o'choqni epidemiologik tekshirish, kanalarga qarshi kimyoviy va mexanik usullar, ishlov taktikasi, samaradorlik nazorati hamda o'choqni tugatilgan deb hisoblash mezonlari ketma-ket ko'rib chiqiladi [1, 2, 3]."
-    ]},
-    {"heading": "Rejalashtirish tamoyillari", "content": [
-      "Uslubiy qo'llanmaga ko'ra yagona kasallikka qarshi kurash va oldini olish choralari odam va hayvonlar uchun to'g'ridan-to'g'ri manba bo'lgan O. papillipes kanalariga qarshi kurashdir. Kanalar bor o'choqlarda 2-3 yil davomida samaradorlikni tekshirgan holda ko'p marta ishlov o'tkaziladi [1].",
-      "Kurash kengqamrovli bo'lishi, ya'ni har yili nafaqat kanalar aniqlangan joyda, balki KQT yuqish xavfi yuqori barcha hovlilar va qo'shni hovlilarda ham ishlov o'tkazilishi zarur. Samaradorlikni tekshirish uchun xona va hovlilarda kanalarga tekshiruv o'tkaziladi, qurilishda zamonaviy beton asos qo'llanadi [1]."
-    ]},
-    {"heading": "Tashkiliy tuzilma", "content": [
-      "KQT ga qarshi kurash va oldini olish tadbirlari shahar va tuman DSENMlari tomonidan, viloyat, Respublika DSENM va L.M.Isayev nomidagi tibbiy parazitologiya ilmiy-tadqiqot instituti uslubiy rahbarligida rejalashtiriladi, tashkil etiladi va o'tkaziladi. Barcha ishlar parazitolog va entomolog rahbarligida bajariladi [1].",
-      "Reja barcha tadbirlar, hajmi, muddati va bajaruvchilarni ko'rsatishi shart; u shahar va tuman hokimliklarining qarorlari bilan tasdiqlanadi. Endemik tumanlarda entomolog yordamchisi va 3-5 nafar dezinfektordan iborat maxsus brigadalar tuzish maqsadga muvofiq deb ko'rsatilgan [1]."
-    ]},
-    {"heading": "Bemorni aniqlash va o'choqni epidemiologik tekshirish", "content": [
-      "Bemor aniqlangach shahar yoki tuman DSENMga shoshilinch xabarnoma yuboriladi. O'choqni parazitolog va entomolog, ular bo'lmasa epidemiolog yoki yordamchilar tekshiradi va epidemiologik tekshiruv kartasini to'ldiradi; asosiy maqsad bemorning kasallangan joyini aniqlashdir [1].",
-      "Mikro o'choq va qo'shni hovlilar O. papillipes ga tekshiriladi; hudud bo'yicha o'nlab xonadonlar kanalar sonini aniqlash uchun ko'rib chiqiladi. Kartada ishlovdan oldin va keyin O. papillipes necha marta, qancha aniqlangani hamda atrofdagi binolarning rejali tekshiruvi va ishlovi qayd etiladi [1, 2]."
-    ]},
-    {"heading": "Kimyoviy usul", "content": [
-      "O. papillipes yashaydigan joylarni, ya'ni hovlidagi qurilish inshootlarini insektitsidlar bilan ishlash kimyoviy usulning asosi hisoblanadi. Suspenziya yoki emulsiya devorning pastki qismiga 0,5 m balandlikda, tuproqli polga, devor teshiklari, yoriqlari, kemiruvchi inlariga chuqurroq kiritib sepiladi; 1 kv.m ga 200 ml ishchi eritma yetarli [1].",
-      "Qoldiq ta'siri 3-4 oygacha bo'lsa yiliga 2 marta, 6 oygacha bo'lsa yiliga 1 marta ishlov o'tkaziladi; rejali ishlar yilning issiq davrida, mart-noyabrda bajariladi. Ishlov oralig'i qoldiq ta'sir muddatidan kam bo'lmasligi lozim, kam kanali xonalarda bir marta ishlov kanalarni yo'qotishi mumkin [1]."
-    ]},
-    {"heading": "Mexanik va birgalikdagi usul", "content": [
-      "Ekologik toza mexanik usulda xonalar tozalanib, mebel va polning ostidagi chiqindi haftada bir marta olinadi va maxsus chuqurga tashlanadi; chuqur suv bilan namlanadi va to'lgach 10-15 sm tuproq bilan ko'miladi. Bu usul 2-3 yil qo'llanganda kanalar soni kamayadi [1].",
-      "Kimyoviy va mexanik usullar birgalikda qo'llanganda xonadonlar kanalardan tezroq tozalanadi. Ishlovdan oldin xona tozalanadi, ishlov oralarida esa kanalar yashirin joylaridan chiqib polga tegishi uchun (odam yashaydigan xonalardan tashqari) tozalash o'tkazilmaydi [1]."
-    ]},
-    {"heading": "Ishlov taktikasi", "content": [
-      "Ishlov taktikasi kanalar soniga qarab tanlanadi. O. papillipes xonadonlarning 20 foizidan kam qismida tarqalgan (KQT gipoendemik) o'choqlarda tanlab ishlov qo'llanadi, ishlov kanalar aniqlangan va qo'shni xonadonlarda o'tkaziladi [1].",
-      "Xonadonlarning 20 foizdan ortig'ida kanalar tarqalgan o'choqlarda ommaviy ishlov o'tkaziladi. Giperendemik o'choqlarda yashash va yotoq xonalarini ishlash shoshilinch chora sifatida kasallik paydo bo'lishining oldini olish, kasallanish oshganda uni kamaytirish va ommaviy ishlov imkoni bo'lmaganda qo'llanadi [1]."
-    ]},
-    {"heading": "Samaradorlik nazorati", "content": [
-      "Ishlovning sifati 2-3 kundan keyin xona polining turli joylari, mikrobiotoplar, kemiruvchi inlari va devorlarning pastki qismidan olingan namunalarda tekshiriladi. Insektitsid samaradorligi 2-3-4 oydan keyin yoki navbatdagi ishlovdan oldin, shuningdek bir yildan keyin kanalar sonini taqqoslash bilan baholanadi [1].",
-      "Ko'rsatkichlar: kanalar sonining kamayishi, o'lik yoki falaj kanalar topilishi, nazoratda kana lichinkalari va yosh nimfalar yo'qligi, aholining chaqish haqida shikoyati yo'qligi. Ishlov to'xtatilishi nazorat natijalariga ko'ra hal qilinadi [1]."
-    ]},
-    {"heading": "Tugatilganlik mezonlari", "content": [
-      "Dorilangandan bir yil o'tib sinchiklab tekshirilganda kanalar topilmasa va aholi chaqishdan shikoyat qilmasa, ishlov to'xtatiladi va hovli O. papillipes dan tozalangan hisoblanadi. Ikkilamchi ishlovdan keyin kanalar topilmasa ham, bir yil oralig'i bilan ikki marta tekshiruv o'tkaziladi [1].",
-      "Yo'riqnomada KQT yo'qligi o'choq tugatilganini bildirmaydi: mezon hududdagi barcha hovli va inshootlarning O. papillipes dan to'liq tozalanishidir. Hududda bitta hovlida ham kana topilsa, hudud tozalangan deb hisoblanmaydi. Mikro o'choqda tashuvchi kanalarning yo'qligi to'liq sog'lomlashtirishning mutlaq ko'rsatkichi hisoblanadi [1]."
-    ]},
-    {"heading": "Hisob va hisobot", "content": [
-      "Ishlar hovli bo'yicha ko'p yillik hisob kartasida yuritiladi: hovli rejasi, xonalar belgisi, kanalar topilgan joy va bosqichi (lichinka, nimfa, yetuk), ishlov sanasi, insektitsid turi va 1 kv.m sarfi, takroriy tekshiruvlar. Kartalar hudud kanalardan tozalanguncha DSENMda saqlanadi [1].",
-      "Yakuniy ma'lumot o'choq tugagandan keyin 7 kundan kechiktirmay olinishi, unga ishlov sanasi, tashuvchi hasharotlarga qarshi tadbirlar o'tkazilgan sana, joy va to'liqlik, sarflangan zaharli kimyoviy moddalar nomi va miqdori kiritilishi kerak. Ambulator va kasallik tarixidan ko'chirmalar ham topshiriladi [2]."
-    ]},
-    {"heading": "Amaliy tajriba va muammolar", "content": [
-      "Farg'ona viloyati DSENM taqdimotida 2013 yil davomida O. papillipes ga qarshi 768593 kv.m xonadonlarda dezinseksiya o'tkazilgani qayd etilgan. Ayni vaqtda ommaviy zararsizlantirish preparatlar yetishmasligi, fosfororganik birikmalar ta'sir muddatining qisqaligi va kanalar hayot tsikli bir xil emasligi sababli bajarilmagan [3].",
-      "Qo'llanmaga ko'ra zamonaviy piretroid va fosfororganik insektitsidlarning ko'pchiligi 1-3 oy qoldiq ta'sirga ega, shuning uchun ishlov sonini ko'paytirish kerak. Respublika taqdimotida kanalarga qarshi kompleks vektor nazorati usullari: muhitni sog'lomlashtirish, binolarni ichkaridan ishlash va himoya vositalari sanalgan [1, 4]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Qo'llanmada tavsiya etilgan insektitsidlar ro'yxati va konsentratsiyalari 2- va 3-ilovalarga havola qilingan, ammo ushbu ilovalar ko'rilgan matnda yo'q. Shu sababli aniq preparat nomi va ishchi eritma konsentratsiyalari bu yerda keltirilmadi [1].",
-      "Qo'llanmada GXTsG va DDT eng kuchli qoldiq ta'sirli deb tavsiflangan, lekin ularning hozirgi ruxsat etilganligi manbada ko'rsatilmagan va tavsiya qilinmaydi. 20 foizlik chegarani gipoendemik va ommaviy ishlov ajratish mezoni sifatida amalda qo'llash tartibi ham aniq izohlanmagan [1]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "KQT o'chog'ini lokalizatsiya qilish va tugatish uchun bemor aniqlangach epidemiologik tekshiruv o'tkaziladi, O. papillipes ga qarshi kimyoviy, mexanik yoki birgalikdagi ishlov kanalar soniga qarab tanlab yoki ommaviy qo'llanadi, samaradorlik nazorat qilinadi va barcha hovli kanalardan tozalangandagina o'choq tugatilgan hisoblanadi [1, 2]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597."
-  ]
+ "number": 69,
+ "title": "69. Kanali qaytalama terlamaning (KQT)joylashuvi va tugatilishiga qarshi tashkillashtirilgan va o'tkazilgan epidemik chora-tadbirlar.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Kanali qaytalama terlama o'chog'i joyli va o'zgarmas bo'lgani uchun tashuvchi kanalardan tozalash uchun uzoq yillar davomida kurash olib borish kerak. Ko'p yillik tajriba KQT bo'yicha endemik aholi yashash joylarini kasallikdan xalos qilish mumkinligini ko'rsatadi [1].",
+    "Ushbu mavzuda chora-tadbirlarni rejalashtirish va tashkil etish, o'choqni epidemiologik tekshirish, kanalarga qarshi kimyoviy va mexanik usullar, ishlov taktikasi, samaradorlik nazorati hamda o'choqni tugatilgan deb hisoblash mezonlari ketma-ket ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Rejalashtirish tamoyillari",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra yagona kasallikka qarshi kurash va oldini olish choralari odam va hayvonlar uchun to'g'ridan-to'g'ri manba bo'lgan O. papillipes kanalariga qarshi kurashdir. Kanalar bor o'choqlarda 2-3 yil davomida samaradorlikni tekshirgan holda ko'p marta ishlov o'tkaziladi [1].",
+    "Kurash kengqamrovli bo'lishi, ya'ni har yili nafaqat kanalar aniqlangan joyda, balki KQT yuqish xavfi yuqori barcha hovlilar va qo'shni hovlilarda ham ishlov o'tkazilishi zarur. Samaradorlikni tekshirish uchun xona va hovlilarda kanalarga tekshiruv o'tkaziladi, qurilishda zamonaviy beton asos qo'llanadi [1]."
+   ]
+  },
+  {
+   "heading": "Tashkiliy tuzilma",
+   "content": [
+    "KQT ga qarshi kurash va oldini olish tadbirlari shahar va tuman DSENMlari tomonidan, viloyat, Respublika DSENM va L.M.Isayev nomidagi tibbiy parazitologiya ilmiy-tadqiqot instituti uslubiy rahbarligida rejalashtiriladi, tashkil etiladi va o'tkaziladi. Barcha ishlar parazitolog va entomolog rahbarligida bajariladi [1].",
+    "Reja barcha tadbirlar, hajmi, muddati va bajaruvchilarni ko'rsatishi shart; u shahar va tuman hokimliklarining qarorlari bilan tasdiqlanadi. Endemik tumanlarda entomolog yordamchisi va 3-5 nafar dezinfektordan iborat maxsus brigadalar tuzish maqsadga muvofiq deb ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Bemorni aniqlash va o'choqni epidemiologik tekshirish",
+   "content": [
+    "Bemor aniqlangach shahar yoki tuman DSENMga shoshilinch xabarnoma yuboriladi. O'choqni parazitolog va entomolog, ular bo'lmasa epidemiolog yoki yordamchilar tekshiradi va epidemiologik tekshiruv kartasini to'ldiradi; asosiy maqsad bemorning kasallangan joyini aniqlashdir [1].",
+    "Mikro o'choq va qo'shni hovlilar O. papillipes ga tekshiriladi; hudud bo'yicha o'nlab xonadonlar kanalar sonini aniqlash uchun ko'rib chiqiladi. Kartada ishlovdan oldin va keyin O. papillipes necha marta, qancha aniqlangani hamda atrofdagi binolarning rejali tekshiruvi va ishlovi qayd etiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Kimyoviy usul",
+   "content": [
+    "O. papillipes yashaydigan joylarni, ya'ni hovlidagi qurilish inshootlarini insektitsidlar bilan ishlash kimyoviy usulning asosi hisoblanadi. Suspenziya yoki emulsiya devorning pastki qismiga 0,5 m balandlikda, tuproqli polga, devor teshiklari, yoriqlari, kemiruvchi inlariga chuqurroq kiritib sepiladi; 1 kv.m ga 200 ml ishchi eritma yetarli [1].",
+    "Qoldiq ta'siri 3-4 oygacha bo'lsa yiliga 2 marta, 6 oygacha bo'lsa yiliga 1 marta ishlov o'tkaziladi; rejali ishlar yilning issiq davrida, mart-noyabrda bajariladi. Ishlov oralig'i qoldiq ta'sir muddatidan kam bo'lmasligi lozim, kam kanali xonalarda bir marta ishlov kanalarni yo'qotishi mumkin [1]."
+   ]
+  },
+  {
+   "heading": "Mexanik va birgalikdagi usul",
+   "content": [
+    "Ekologik toza mexanik usulda xonalar tozalanib, mebel va polning ostidagi chiqindi haftada bir marta olinadi va maxsus chuqurga tashlanadi; chuqur suv bilan namlanadi va to'lgach 10-15 sm tuproq bilan ko'miladi. Bu usul 2-3 yil qo'llanganda kanalar soni kamayadi [1].",
+    "Kimyoviy va mexanik usullar birgalikda qo'llanganda xonadonlar kanalardan tezroq tozalanadi. Ishlovdan oldin xona tozalanadi, ishlov oralarida esa kanalar yashirin joylaridan chiqib polga tegishi uchun (odam yashaydigan xonalardan tashqari) tozalash o'tkazilmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Ishlov taktikasi",
+   "content": [
+    "Ishlov taktikasi kanalar soniga qarab tanlanadi. O. papillipes xonadonlarning 20 foizidan kam qismida tarqalgan (KQT gipoendemik) o'choqlarda tanlab ishlov qo'llanadi, ishlov kanalar aniqlangan va qo'shni xonadonlarda o'tkaziladi [1].",
+    "Xonadonlarning 20 foizdan ortig'ida kanalar tarqalgan o'choqlarda ommaviy ishlov o'tkaziladi. Giperendemik o'choqlarda yashash va yotoq xonalarini ishlash shoshilinch chora sifatida kasallik paydo bo'lishining oldini olish, kasallanish oshganda uni kamaytirish va ommaviy ishlov imkoni bo'lmaganda qo'llanadi [1]."
+   ]
+  },
+  {
+   "heading": "Samaradorlik nazorati",
+   "content": [
+    "Ishlovning sifati 2-3 kundan keyin xona polining turli joylari, mikrobiotoplar, kemiruvchi inlari va devorlarning pastki qismidan olingan namunalarda tekshiriladi. Insektitsid samaradorligi 2-3-4 oydan keyin yoki navbatdagi ishlovdan oldin, shuningdek bir yildan keyin kanalar sonini taqqoslash bilan baholanadi [1].",
+    "Ko'rsatkichlar: kanalar sonining kamayishi, o'lik yoki falaj kanalar topilishi, nazoratda kana lichinkalari va yosh nimfalar yo'qligi, aholining chaqish haqida shikoyati yo'qligi. Ishlov to'xtatilishi nazorat natijalariga ko'ra hal qilinadi [1]."
+   ]
+  },
+  {
+   "heading": "Tugatilganlik mezonlari",
+   "content": [
+    "Dorilangandan bir yil o'tib sinchiklab tekshirilganda kanalar topilmasa va aholi chaqishdan shikoyat qilmasa, ishlov to'xtatiladi va hovli O. papillipes dan tozalangan hisoblanadi. Ikkilamchi ishlovdan keyin kanalar topilmasa ham, bir yil oralig'i bilan ikki marta tekshiruv o'tkaziladi [1].",
+    "Yo'riqnomada KQT yo'qligi o'choq tugatilganini bildirmaydi: mezon hududdagi barcha hovli va inshootlarning O. papillipes dan to'liq tozalanishidir. Hududda bitta hovlida ham kana topilsa, hudud tozalangan deb hisoblanmaydi. Mikro o'choqda tashuvchi kanalarning yo'qligi to'liq sog'lomlashtirishning mutlaq ko'rsatkichi hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Hisob va hisobot",
+   "content": [
+    "Ishlar hovli bo'yicha ko'p yillik hisob kartasida yuritiladi: hovli rejasi, xonalar belgisi, kanalar topilgan joy va bosqichi (lichinka, nimfa, yetuk), ishlov sanasi, insektitsid turi va 1 kv.m sarfi, takroriy tekshiruvlar. Kartalar hudud kanalardan tozalanguncha DSENMda saqlanadi [1].",
+    "Yakuniy ma'lumot o'choq tugagandan keyin 7 kundan kechiktirmay olinishi, unga ishlov sanasi, tashuvchi hasharotlarga qarshi tadbirlar o'tkazilgan sana, joy va to'liqlik, sarflangan zaharli kimyoviy moddalar nomi va miqdori kiritilishi kerak. Ambulator va kasallik tarixidan ko'chirmalar ham topshiriladi [2]."
+   ]
+  },
+  {
+   "heading": "Amaliy tajriba va muammolar",
+   "content": [
+    "Farg'ona viloyati DSENM taqdimotida 2013 yil davomida O. papillipes ga qarshi 768593 kv.m xonadonlarda dezinseksiya o'tkazilgani qayd etilgan. Ayni vaqtda ommaviy zararsizlantirish preparatlar yetishmasligi, fosfororganik birikmalar ta'sir muddatining qisqaligi va kanalar hayot tsikli bir xil emasligi sababli bajarilmagan [3].",
+    "Qo'llanmaga ko'ra zamonaviy piretroid va fosfororganik insektitsidlarning ko'pchiligi 1-3 oy qoldiq ta'sirga ega, shuning uchun ishlov sonini ko'paytirish kerak. Respublika taqdimotida kanalarga qarshi kompleks vektor nazorati usullari: muhitni sog'lomlashtirish, binolarni ichkaridan ishlash va himoya vositalari sanalgan [1, 4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "KQT o'chog'ini lokalizatsiya qilish va tugatish uchun bemor aniqlangach epidemiologik tekshiruv o'tkaziladi, O. papillipes ga qarshi kimyoviy, mexanik yoki birgalikdagi ishlov kanalar soniga qarab tanlab yoki ommaviy qo'llanadi, samaradorlik nazorat qilinadi va barcha hovli kanalardan tozalangandagina o'choq tugatilgan hisoblanadi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597."
+ ]
 }

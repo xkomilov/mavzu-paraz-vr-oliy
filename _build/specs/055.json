@@ -1,65 +1,97 @@
 {
-  "number": 55,
-  "title": "55. Leyshmaniylarning hayotiy davri.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Leyshmaniyalar Leishmania turkumiga mansub bir hujayrali sodda jonivorlar bo'lib, odam va hayvonlarda leyshmaniozni qo'zg'atadi. Ularning hayotiy davri ikki xo'jayin, ya'ni umurtqali hayvon yoki odam hamda iskabtopar chivin o'rtasida o'tadi, shu sababli kasallik transmissiv hisoblanadi [1, 3].",
-      "Ushbu mavzuda hayot siklining bosqichlari, amastigota va promastigota shakllarining tuzilishi, chivin va umurtqali xo'jayin organizmidagi rivojlanish, O'zbekistondagi uch shakl bo'yicha farqlar hamda laboratoriyada bosqichlarni aniqlash ko'rib chiqiladi. Manbalar o'rtasidagi raqamli farqlar alohida ko'rsatiladi [1, 2, 3]."
-    ]},
-    {"heading": "Siklning umumiy sxemasi", "content": [
-      "Polejayeva va hammualliflariga ko'ra leyshmaniyalar hayot sikli umurtqali hayvon yoki odam va iskabtopar chivin o'rtasida xo'jayin almashinuvi bilan kechadi. Chivin zararlangan xo'jayindan qon so'rganda amastigotalarni oladi, keyin esa yangi xo'jayinni chaqqanda promastigotalarni yuqtiradi [3].",
-      "Yo'riqnomada ham rivojlanish navbatma-navbat ikki xo'jayinda, ya'ni umurtqali hayvonlarda (chiyabo'ri, tulki, it, odam) va umurtqasiz xo'jayinda, ya'ni turli iskabtoparlarda o'tishi yozilgan. Umurtqali xo'jayinda qo'zg'atuvchi to'qima ichida yashaydi [1]."
-    ]},
-    {"heading": "Amastigota shakli", "content": [
-      "Odam va hayvon organizmida leyshmaniyalar harakatsiz, dumaloq yoki oval amastigota shaklida hujayra ichida parazitlik qiladi. Pavlovich darsligiga ko'ra ular teri, shilliq qavat, taloq, jigar, limfa tugunlari va suyak iligida bo'lib, diametri 2-5,5 mkm; Polejayeva va hammualliflari bu o'lchamni 2-5 mkm deb beradi [2, 3].",
-      "Amastigotada yadro, tayoqchasimon kinetoplast, xivchinning bazal tanasi va ichki qismi (rizoplast) bo'ladi. Romanovskiy-Gimza usulida sitoplazma kulrang-ko'k, yadro qizil-binafsha, kinetoplast to'q binafsha bo'yaladi va parazit uzunasiga ikkiga bo'linib ko'payadi [2]."
-    ]},
-    {"heading": "Promastigota shakli", "content": [
-      "Chivin ichagida va oziq muhitida leyshmaniyalar harakatchan xivchinli promastigota (leptomonad) shaklida bo'ladi. Pavlovich darsligiga ko'ra promastigotalar duksimon, uzunligi 12-20 mkm, eni 1,5-3,5 mkm bo'lib, uzunligi 16-20 mkm li xivchin xivchin cho'ntagidan chiqadi [2].",
-      "Boshqa manbalarda o'lchamlar biroz farq qiladi: Polejayeva va hammualliflari promastigotaning uzunligini 10-20 mkm, enini 3-5 mkm, yo'riqnoma esa xivchin uzunligi 10-20 mkm, eni 5-6 mkm deb yozadi. Bu farq o'lchash usuli va preparat tayyorlashga bog'liq bo'lishi mumkin [1, 3]."
-    ]},
-    {"heading": "Chivinning zararlanishi", "content": [
-      "Iskabtopar zararlangan hayvon yoki kasal odamni chaqib, amastigotalarni qon bilan yutadi. Chivin ichagida leyshmaniyalar promastigota bosqichiga o'tadi, uzunasiga bo'linib ko'payadi va taxminan bir hafta ichida yuqumli shakllarga aylanib, ichakning old qismi va xartumchada to'planadi [3].",
-      "Yo'riqnomaga ko'ra leptomonadlar 3 kunda oshqozon ostida, 4 kunda halqumda yig'ilib tiqinga aylanadi, bu halqumning kengayishiga sabab bo'ladi va chivinni yorib ko'rganda aniqlash oson. Pavlovich darsligida promastigotalar halqumda 9-10 kundan keyin to'planishi yozilgan [1, 2]."
-    ]},
-    {"heading": "Odamga yuqish va xo'jayin ichida ko'payish", "content": [
-      "Zararlangan chivin yangi xo'jayinning qonini so'rganda promastigotalar uning qoniga tushadi, retikuloendotelial tizim hujayralari tomonidan fagotsitlanadi va amastigotaga aylanadi. Yo'riqnomada leptomonadlar makrofaglarga o'tib amastigotalar shakliga aylanishi yozilgan, chivin esa 6-8 kunda yuqumli bo'ladi [1, 3].",
-      "Amastigotalar oddiy bo'linish yo'li bilan ko'payadi, parazitlar bilan to'lgan hujayralar yemiriladi va amastigotalar boshqa hujayralarga o'tib, jarayon takrorlanadi. MSD ma'lumotnomasida chivin chaqishi natijasida promastigotalar xo'jayin makrofaglariga fagotsitlanib, amastigotalarga aylanishi aytilgan [3, 4]."
-    ]},
-    {"heading": "Terida va ichki a'zolarda rivojlanish", "content": [
-      "Teri leyshmaniozida chaqish joyida granulema, ya'ni leyshmanioma hosil bo'ladi va jarayon asosan teri bilan cheklanadi. Visseral shaklda esa chaqish joyida gistiotsitoma shakllanib, so'ng parazitlar mononuklear fagotsitlar tizimi hujayralarida ko'payib, limfa tugunlari, taloq, suyak iligi va jigarga tarqaladi [3].",
-      "MSD ma'lumotnomasiga ko'ra parazitlar teridan yoki shilliq qavatdan suyak iligi, taloq, jigar va ba'zan boshqa a'zolarga o'tib, uch asosiy klinik shaklga olib keladi: teri, shilliq qavat va visseral. Kasallik shakli qo'zg'atuvchi turiga va xo'jayin immunitetiga bog'liq [4]."
-    ]},
-    {"heading": "Xo'jayinlar va tashuvchilar", "content": [
-      "Eski dunyoda tashuvchi Phlebotomus, Yangi dunyoda Lutzomyia turkumiga mansub iskabtoparlardir. JSST ma'lumotiga ko'ra leyshmanioz 20 dan ortiq Leishmania turidan kelib chiqadi, 90 dan ortiq iskabtopar turi parazitni tashiy oladi va 70 ga yaqin hayvon turi, jumladan odam, parazit manbai bo'lishi mumkin [1, 5].",
-      "Polejayeva va hammualliflariga ko'ra asosiy tabiiy rezervuarlar kemiruvchilar va itsimonlar oilasi vakillaridir. Faqat urg'ochi chivinlar qon so'radi, ular to'liq metamorfoz bilan rivojlanadi: tuxum, to'rt yoshli lichinka, g'umbak va imago, urg'ochilar 2-3 hafta yashab 1-2 gonotrofik sikl o'tkazadi [3]."
-    ]},
-    {"heading": "Chivinning rivojlanishi va uchish masofasi", "content": [
-      "Yo'riqnomaga ko'ra tabiiy sharoitda iskabtopar chivinlar kemiruvchilar va qushlar inida, daraxt kovaklarida ko'payadi, aholi punktlarida esa pol ostlari va axlatxonalarda. Aholi punktidan 10 metrgacha, tabiiy o'choqlarda 1,5 km masofagacha uchadi va asosan yilda 2 marta ko'payadi [1].",
-      "Polejayeva va hammualliflari ham aholi punktlarida chivinlar ko'payish joyidan atigi bir necha o'n metrga, tabiiy biotoplarda esa 1,5 km dan ortiq uchishini yozadi. Chivinlar shom hasharotlari bo'lib, quyosh botgandan keyingi dastlabki soatlarda eng faol hujum qiladi [3]."
-    ]},
-    {"heading": "O'zbekistondagi shakllarda sikl farqlari", "content": [
-      "Visseral leyshmaniozda hayot sikli Leishmania infantum ning it, tulki, chiyabo'ri va odam hamda iskabtopar o'rtasida o'tishi bilan bog'liq, tashuvchi asosan Ph. longiductus va Ph. angustus. Inkubatsion davr 20 kundan 1 yilgacha, o'rtacha 3-5 oyni tashkil etadi [1].",
-      "Zoonoz teri leyshmaniozida sikl katta va qizil dumli qum sichqonlari bilan, antroponozda esa odam va Ph. sergenti bilan bog'liq. Zoonoz shaklda inkubatsion davr asosan 1-4 hafta, antroponoz shaklda 2-8 oy, ba'zan 1,5 yilgacha davom etishi yo'riqnomada ko'rsatilgan [1]."
-    ]},
-    {"heading": "Laboratoriyada bosqichlarni aniqlash", "content": [
-      "Yo'riqnomaga ko'ra amastigotalar tabiiy o'choqdagi bemor va hayvonlarda aniqlanadi, promastigotalar (leptomonad davri) esa zararlangan chivin ichagi suyuqligidan tayyorlangan bo'yalmagan preparatda ko'riladi. Laboratoriya yo'riqnomasida bo'yalgan surtmada makrofaglar ichida va tashqarisida 3-5 mkm li dumaloq yoki oval tanachalar topiladi [1, 6].",
-      "Pavlovich darsligida kultura NNN muhitida o'stirilganda promastigotalar yulduzsimon bog'lamlar ko'rinishida, hujayra kulturasida esa amastigotalar olinishi yozilgan. Shu bilan parazit bosqichi bilan olingan material va muhit o'rtasidagi bog'lanish laboratoriya amaliyotida muhim bo'ladi [2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Hayot sikli jadvallarida xivchinsiz va xivchinli shakllar o'lchamlari, chivinda rivojlanish va yuqumlilikka yetish muddati manbadan manbaga farq qiladi. Raqamlar bir-biriga to'g'ri kelmagani uchun bu yerda ular manba nomi bilan berildi va yagona qiymat tanlanmadi [1, 2, 3].",
-      "Kutubxonadagi taqdimotlarda (masalan, visseral leyshmanioz bo'yicha talabalik taqdimoti) qo'zg'atuvchi nomlari bir xil emas, shuning uchun hayot sikli ma'lumotlari faqat yo'riqnoma, darsliklar va JSST sahifasi asosida yozildi. Qo'shimcha DOI li maqolalar tekshirilmadi [1, 5]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Leyshmaniyalarning hayotiy davri iskabtopar chivin (promastigota, ichak va halqumda ko'payish) va umurtqali xo'jayin yoki odam (amastigota, makrofaglar ichida ko'payish) o'rtasida o'tadi. Chivin qon so'rganda parazitni oladi va 6-8 kunda yuqumli bo'lib keyingi chaqishda yuqtiradi; kasallik shakli esa qo'zg'atuvchi turi va xo'jayinga bog'liq [1, 2, 3, 4]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Richard D. Pirson. Leyshmanioz. MSD ma'lumotnomasi, professional versiya (tarkib 2019 yil may oyida o'zgartirilgan). xayrullokomilov.uz/kutubxona, material ID 1536.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521."
-  ]
+ "number": 55,
+ "title": "55. Leyshmaniylarning hayotiy davri.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Leyshmaniyalar Leishmania turkumiga mansub bir hujayrali sodda jonivorlar bo'lib, odam va hayvonlarda leyshmaniozni qo'zg'atadi. Ularning hayotiy davri ikki xo'jayin, ya'ni umurtqali hayvon yoki odam hamda iskabtopar chivin o'rtasida o'tadi, shu sababli kasallik transmissiv hisoblanadi [1, 3].",
+    "Ushbu mavzuda hayot siklining bosqichlari, amastigota va promastigota shakllarining tuzilishi, chivin va umurtqali xo'jayin organizmidagi rivojlanish, O'zbekistondagi uch shakl bo'yicha farqlar hamda laboratoriyada bosqichlarni aniqlash ko'rib chiqiladi. Manbalar o'rtasidagi raqamli farqlar alohida ko'rsatiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Siklning umumiy sxemasi",
+   "content": [
+    "Polejayeva va hammualliflariga ko'ra leyshmaniyalar hayot sikli umurtqali hayvon yoki odam va iskabtopar chivin o'rtasida xo'jayin almashinuvi bilan kechadi. Chivin zararlangan xo'jayindan qon so'rganda amastigotalarni oladi, keyin esa yangi xo'jayinni chaqqanda promastigotalarni yuqtiradi [3].",
+    "Yo'riqnomada ham rivojlanish navbatma-navbat ikki xo'jayinda, ya'ni umurtqali hayvonlarda (chiyabo'ri, tulki, it, odam) va umurtqasiz xo'jayinda, ya'ni turli iskabtoparlarda o'tishi yozilgan. Umurtqali xo'jayinda qo'zg'atuvchi to'qima ichida yashaydi [1]."
+   ]
+  },
+  {
+   "heading": "Amastigota shakli",
+   "content": [
+    "Odam va hayvon organizmida leyshmaniyalar harakatsiz, dumaloq yoki oval amastigota shaklida hujayra ichida parazitlik qiladi. Pavlovich darsligiga ko'ra ular teri, shilliq qavat, taloq, jigar, limfa tugunlari va suyak iligida bo'lib, diametri 2-5,5 mkm; Polejayeva va hammualliflari bu o'lchamni 2-5 mkm deb beradi [2, 3].",
+    "Amastigotada yadro, tayoqchasimon kinetoplast, xivchinning bazal tanasi va ichki qismi (rizoplast) bo'ladi. Romanovskiy-Gimza usulida sitoplazma kulrang-ko'k, yadro qizil-binafsha, kinetoplast to'q binafsha bo'yaladi va parazit uzunasiga ikkiga bo'linib ko'payadi [2]."
+   ]
+  },
+  {
+   "heading": "Promastigota shakli",
+   "content": [
+    "Chivin ichagida va oziq muhitida leyshmaniyalar harakatchan xivchinli promastigota (leptomonad) shaklida bo'ladi. Pavlovich darsligiga ko'ra promastigotalar duksimon, uzunligi 12-20 mkm, eni 1,5-3,5 mkm bo'lib, uzunligi 16-20 mkm li xivchin xivchin cho'ntagidan chiqadi [2].",
+    "Boshqa manbalarda o'lchamlar biroz farq qiladi: Polejayeva va hammualliflari promastigotaning uzunligini 10-20 mkm, enini 3-5 mkm, yo'riqnoma esa xivchin uzunligi 10-20 mkm, eni 5-6 mkm deb yozadi. Bu farq o'lchash usuli va preparat tayyorlashga bog'liq bo'lishi mumkin [1, 3]."
+   ]
+  },
+  {
+   "heading": "Chivinning zararlanishi",
+   "content": [
+    "Iskabtopar zararlangan hayvon yoki kasal odamni chaqib, amastigotalarni qon bilan yutadi. Chivin ichagida leyshmaniyalar promastigota bosqichiga o'tadi, uzunasiga bo'linib ko'payadi va taxminan bir hafta ichida yuqumli shakllarga aylanib, ichakning old qismi va xartumchada to'planadi [3].",
+    "Yo'riqnomaga ko'ra leptomonadlar 3 kunda oshqozon ostida, 4 kunda halqumda yig'ilib tiqinga aylanadi, bu halqumning kengayishiga sabab bo'ladi va chivinni yorib ko'rganda aniqlash oson. Pavlovich darsligida promastigotalar halqumda 9-10 kundan keyin to'planishi yozilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Odamga yuqish va xo'jayin ichida ko'payish",
+   "content": [
+    "Zararlangan chivin yangi xo'jayinning qonini so'rganda promastigotalar uning qoniga tushadi, retikuloendotelial tizim hujayralari tomonidan fagotsitlanadi va amastigotaga aylanadi. Yo'riqnomada leptomonadlar makrofaglarga o'tib amastigotalar shakliga aylanishi yozilgan, chivin esa 6-8 kunda yuqumli bo'ladi [1, 3].",
+    "Amastigotalar oddiy bo'linish yo'li bilan ko'payadi, parazitlar bilan to'lgan hujayralar yemiriladi va amastigotalar boshqa hujayralarga o'tib, jarayon takrorlanadi. MSD ma'lumotnomasida chivin chaqishi natijasida promastigotalar xo'jayin makrofaglariga fagotsitlanib, amastigotalarga aylanishi aytilgan [3, 4]."
+   ]
+  },
+  {
+   "heading": "Terida va ichki a'zolarda rivojlanish",
+   "content": [
+    "Teri leyshmaniozida chaqish joyida granulema, ya'ni leyshmanioma hosil bo'ladi va jarayon asosan teri bilan cheklanadi. Visseral shaklda esa chaqish joyida gistiotsitoma shakllanib, so'ng parazitlar mononuklear fagotsitlar tizimi hujayralarida ko'payib, limfa tugunlari, taloq, suyak iligi va jigarga tarqaladi [3].",
+    "MSD ma'lumotnomasiga ko'ra parazitlar teridan yoki shilliq qavatdan suyak iligi, taloq, jigar va ba'zan boshqa a'zolarga o'tib, uch asosiy klinik shaklga olib keladi: teri, shilliq qavat va visseral. Kasallik shakli qo'zg'atuvchi turiga va xo'jayin immunitetiga bog'liq [4]."
+   ]
+  },
+  {
+   "heading": "Xo'jayinlar va tashuvchilar",
+   "content": [
+    "Eski dunyoda tashuvchi Phlebotomus, Yangi dunyoda Lutzomyia turkumiga mansub iskabtoparlardir. JSST ma'lumotiga ko'ra leyshmanioz 20 dan ortiq Leishmania turidan kelib chiqadi, 90 dan ortiq iskabtopar turi parazitni tashiy oladi va 70 ga yaqin hayvon turi, jumladan odam, parazit manbai bo'lishi mumkin [1, 5].",
+    "Polejayeva va hammualliflariga ko'ra asosiy tabiiy rezervuarlar kemiruvchilar va itsimonlar oilasi vakillaridir. Faqat urg'ochi chivinlar qon so'radi, ular to'liq metamorfoz bilan rivojlanadi: tuxum, to'rt yoshli lichinka, g'umbak va imago, urg'ochilar 2-3 hafta yashab 1-2 gonotrofik sikl o'tkazadi [3]."
+   ]
+  },
+  {
+   "heading": "Chivinning rivojlanishi va uchish masofasi",
+   "content": [
+    "Yo'riqnomaga ko'ra tabiiy sharoitda iskabtopar chivinlar kemiruvchilar va qushlar inida, daraxt kovaklarida ko'payadi, aholi punktlarida esa pol ostlari va axlatxonalarda. Aholi punktidan 10 metrgacha, tabiiy o'choqlarda 1,5 km masofagacha uchadi va asosan yilda 2 marta ko'payadi [1].",
+    "Polejayeva va hammualliflari ham aholi punktlarida chivinlar ko'payish joyidan atigi bir necha o'n metrga, tabiiy biotoplarda esa 1,5 km dan ortiq uchishini yozadi. Chivinlar shom hasharotlari bo'lib, quyosh botgandan keyingi dastlabki soatlarda eng faol hujum qiladi [3]."
+   ]
+  },
+  {
+   "heading": "O'zbekistondagi shakllarda sikl farqlari",
+   "content": [
+    "Visseral leyshmaniozda hayot sikli Leishmania infantum ning it, tulki, chiyabo'ri va odam hamda iskabtopar o'rtasida o'tishi bilan bog'liq, tashuvchi asosan Ph. longiductus va Ph. angustus. Inkubatsion davr 20 kundan 1 yilgacha, o'rtacha 3-5 oyni tashkil etadi [1].",
+    "Zoonoz teri leyshmaniozida sikl katta va qizil dumli qum sichqonlari bilan, antroponozda esa odam va Ph. sergenti bilan bog'liq. Zoonoz shaklda inkubatsion davr asosan 1-4 hafta, antroponoz shaklda 2-8 oy, ba'zan 1,5 yilgacha davom etishi yo'riqnomada ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Laboratoriyada bosqichlarni aniqlash",
+   "content": [
+    "Yo'riqnomaga ko'ra amastigotalar tabiiy o'choqdagi bemor va hayvonlarda aniqlanadi, promastigotalar (leptomonad davri) esa zararlangan chivin ichagi suyuqligidan tayyorlangan bo'yalmagan preparatda ko'riladi. Laboratoriya yo'riqnomasida bo'yalgan surtmada makrofaglar ichida va tashqarisida 3-5 mkm li dumaloq yoki oval tanachalar topiladi [1, 6].",
+    "Pavlovich darsligida kultura NNN muhitida o'stirilganda promastigotalar yulduzsimon bog'lamlar ko'rinishida, hujayra kulturasida esa amastigotalar olinishi yozilgan. Shu bilan parazit bosqichi bilan olingan material va muhit o'rtasidagi bog'lanish laboratoriya amaliyotida muhim bo'ladi [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Leyshmaniyalarning hayotiy davri iskabtopar chivin (promastigota, ichak va halqumda ko'payish) va umurtqali xo'jayin yoki odam (amastigota, makrofaglar ichida ko'payish) o'rtasida o'tadi. Chivin qon so'rganda parazitni oladi va 6-8 kunda yuqumli bo'lib keyingi chaqishda yuqtiradi; kasallik shakli esa qo'zg'atuvchi turi va xo'jayinga bog'liq [1, 2, 3, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Richard D. Pirson. Leyshmanioz. MSD ma'lumotnomasi, professional versiya (tarkib 2019 yil may oyida o'zgartirilgan). xayrullokomilov.uz/kutubxona, material ID 1536.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521."
+ ]
 }

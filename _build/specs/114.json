@@ -2,65 +2,103 @@
  "number": 114,
  "title": "114. Toksokarozning etiologiyasi va epidemiologiyasi.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Toksokaroz it va mushuk toksokaralarining lichinkalari odam to'qimalarida migratsiya qilishidan kelib chiqadigan zoonoz kasallik bo'lib, ko'p yillik qaytalanuvchi kechishi va ko'z hamda ichki a'zolarni zararlashi bilan xavfli. Milliy bayonnomada u jigar, o'pka va ko'zlarni shikastlaydigan to'qima geogelmintozi deb ta'riflangan [2].",
-   "Ushbu mavzuda qo'zg'atuvchi turlari, ularning tuzilishi, hayvonlardagi rivojlanish sikli, odamning zararlanish yo'llari, tashqi muhitning ifloslanishi, xavf guruhlari va mavsumiyligi ko'rib chiqiladi. Oxirida O'zbekiston bo'yicha manbalarda yetishmaydigan ma'lumotlar ochiq yoziladi [1, 2, 3]."
-  ]},
-  {"heading": "Ta'rif va kasallik guruhi", "content": [
-   "Darslikda toksokaroz lichinkali, surunkali kechuvchi to'qima geogelmintozi bo'lib, hayvon nematodalari lichinkalari parazitlik qilishidan kelib chiqadigan kasalliklarga kiritilgan. Bunday nematodalarning tuxum va lichinkalari odamga tushganda dastlabki rivojlanish bosqichlaridan o'tadi, ammo hayotiy siklini tugallay olmaydi [4].",
-   "Kasallik uzoq va qaytalanuvchi kechishi, klinik ko'rinishlarning ko'pshakliligi va asosan ichki a'zolar hamda ko'zning zararlanishi bilan farqlanadi. Odam parazit uchun biologik tupik hisoblanadi, shu bois epidemik ahamiyatga ega emas [4]."
-  ]},
-  {"heading": "Qo'zg'atuvchi turlari", "content": [
-   "Darslikda toksokaroz qo'zg'atuvchilari ikki tur: it toksokarasi Toxocara canis va mushuk toksokarasi Toxocara mystax. Ular hayvonlarning ingichka ichagi va oshqozonida parazitlik qiladi. Milliy bayonnomada qo'zg'atuvchi sifatida Toxocara canis yumaloq gijjasining lichinka shakli ko'rsatilgan [2, 3].",
-   "Odamda it toksokaralari faqat lichinka bosqichida parazitlik qiladi, mushuk toksokaralari esa lichinka va kamroq voyaga yetgan bosqichda. Shu sababli lichinkali toksokaroz va kam uchraydigan imaginal toksokaroz ajratiladi; imaginal shaklda ko'ngil aynishi, qorin og'rig'i, so'lak ko'payishi va bosh aylanishi kuzatiladi [3]."
-  ]},
-  {"heading": "Qo'zg'atuvchining tuzilishi va tuxumlari", "content": [
-   "T. canis erkaklarining uzunligi 99-127 mm, urg'ochilariniki 126-198 mm; mushuk toksokarasida erkaklari 30-70 mm, urg'ochilari 40-100 mm. Ikkala tur tuxumlari bir-biridan farq qilmaydi, yumaloq shaklli, diametri 0,06-0,08 mm bo'lib, noqulay muhit ta'siriga chidamli [3].",
-   "Tuxumlar tuproqda bir necha yil hayotiy qolishi mumkin. Optimal sharoitda tuxum ichida lichinka shakllanib, taxminan besh kunda invazion bosqichga yetadi; bu holat tuproq va tashqi muhitdagi tuxumlar yuqish omili bo'lishini bildiradi [3, 4]."
-  ]},
-  {"heading": "Hayvonlardagi rivojlanish sikli", "content": [
-   "Hayvonlarda yutilgan invazion tuxumdan ichakda lichinkalar chiqadi, ichak devoriga kirib, qon orqali o'pkaga o'tadi. Ularning bir qismi traxeya va bronxlarga chiqib, balg'am bilan qayta yutiladi va ichakda jinsiy yetiladi; zararlanishdan 25-28-kunda urg'ochilar tuxum qo'yadi [3].",
-   "Milliy yo'riqnomada toksokara tabiatda itsimonlar (it, bo'ri, tulki va boshqalar) ichagida yashovchi, tuxumlari hayvon najasi bilan chiqadigan voyaga yetgan nematoda sifatida yozilgan. Darslikda toksokarozning manbai it va yovvoyi itsimonlar deb berilgan [1, 4]."
-  ]},
-  {"heading": "Odam organizmidagi rivojlanish", "content": [
-   "Odamda ichakda tuxumdan o'lchami 0,1-0,2 mm lichinkalar chiqadi, ular ichak devorini teshib, limfa va qon tomirlari orqali jigar, o'pka, taloq, ko'z, skelet mushaklari va bosh miyaga tarqaladi. Bir qismi nobud bo'ladi, qolganlari vaqti-vaqti bilan faollashib kasallik qaytalanishiga sabab bo'ladi [4].",
-   "Lichinkalar odam organizmida 10 yilgacha yashovchan qolishi mumkinligi darslikda yozilgan. Milliy yo'riqnomada ham nematoda tuxumlari inson organizmida rivojlanmay 10 yilgacha saqlanishi mumkinligi keltirilgan; bu ikki ma'lumot biroz farq qiladi, lekin ikkalasi ham uzoq saqlanishni ko'rsatadi [1, 4]."
-  ]},
-  {"heading": "Epidemiologiya: manba va yuqish yo'llari", "content": [
-   "Toksokarozning manbai it va yovvoyi itsimonlar, odam esa epidemiologik ahamiyatga ega emas, chunki toksokaralar uning organizmida taraqqiyot siklini tugatmaydi. Odam zararlanishi invazion tuxumlarning oziq-ovqat (sabzavot, ko'kat) va suv bilan yutilishi hamda iflos qo'l orqali yuz beradi [4].",
-   "Milliy yo'riqnomada nematodalar odamga hayvon junlari, hayvonlar yotgan tuproq qatlamlari, suv va yuvilmagan qo'llar orqali yuqishi yozilgan. Zararlanish yil davomida mumkin, ammo asosiy yuqish davri yoz va kuz oylariga to'g'ri keladi [1]."
-  ]},
-  {"heading": "Tashqi muhitning ifloslanishi", "content": [
-   "Sanitariya parazitologiyasi darsligida toksokarozning itlar orasida keng tarqalishi tuproqning toksokara tuxumi bilan intensiv ifloslanishiga olib kelishi yozilgan. AQShning Manxettenida jamoat joylaridan olingan 282 tuproq namunasining 58 tasida (20,6 foiz) va qum qutilarining 39,1 foizida tuxum topilgan [5].",
-   "Angliyada parklardan olingan 800 namunaning 24,4 foizida tuxum aniqlangan, Moskvada bolalar muassasalari tuprog'ining 28,8 foizida va hovli o'yin maydonchalarining 11,46 foizida topilgan. Bu ma'lumotlar xorijiy hududlarga tegishli bo'lib, O'zbekistonga ko'chirilmaydi [5]."
-  ]},
-  {"heading": "Itlar orasida tarqalganlik", "content": [
-   "Darslikda Rossiyada itlarning 20 foizdan ortig'i toksokarozga chalingani, ayrim joylarda zararlangan kuchuklar 80 foizga yetishi, ko'p aholi punktlarida tuproqning 10 foizida yashovchan tuxum topilishi yozilgan. Sabab sifatida itlarni saqlash qoidalariga rioya qilmaslik va ekskrementlar zararsizlantirilmasligi ko'rsatilgan [4].",
-   "Sanitariya parazitologiyasi darsligida Angliyada taxminan 7 million itning 12 foizi toksokarozga chalingani, bu esa tuproqqa kuniga ko'p miqdorda zararlangan najas tushishiga olib kelishi hisoblab chiqilgan. Itlar soni va ularni saqlash madaniyati tashqi muhit ifloslanishini belgilaydi [5]."
-  ]},
-  {"heading": "Xavf guruhlari", "content": [
-   "Milliy yo'riqnomada toksokaroz bilan ko'proq veterinariya xodimlari, it boquvchilar, haydovchilar, avtomexaniklar, it bilan ov qiluvchilar va tuproq bilan ishlovchilar zararlanishi yozilgan. Zararlanish obyektlari tuproq va boshqa muhit elementlaridir; 3-5 yoshli bolalarda kasallik og'ir kechadi [1].",
-   "Darslikda toksokaroz bilan asosan 1-4 yoshli bolalar kasallanishi, doshkol yoshdagi bolalar qo'lini tuproq bilan ko'proq ifloslantirishi yozilgan. Kattalar orasida veterinarlar, avtomobil haydovchilari va avtoslesarlar, kommunal xo'jalik ishchilari hamda bog'bonlar xavf guruhi hisoblanadi [3, 4]."
-  ]},
-  {"heading": "Mavsumiylik va geografiya", "content": [
-   "Darslikda lichinkali toksokaroz dunyoning ko'p mamlakatlarida qayd etilishi, Rossiyada Uzoq Shimoldan tashqari barcha iqlim zonalarida ro'yxatga olinishi yozilgan. Toksokaroz hamma joyda tarqalgan, kasallik yoshi kichik bolalar orasida ko'proq uchraydi [3, 4].",
-   "Sanitariya parazitologiyasida Rossiya ma'lumoti bo'yicha tuproqda toksokara tuxumlari mart va noyabrda ko'proq, iyulda kamroq topilgan. Milliy yo'riqnomada yuqish yil davomida mumkin, asosiy davr yoz va kuz deyilgan; bu ikki ma'lumot mavsum bo'yicha bir-biriga mos kelmaydi [1, 5]."
-  ]},
-  {"heading": "Mexanik tashuvchilar va sanitariya omillari", "content": [
-   "Darslikda toksokara tuxumlarining mexanik tashuvchisi sifatida tarakanlarni yo'q qilish profilaktika tadbirlari qatoriga kiritilgan. Shuningdek, itlarni rejali degelmintizatsiya qilish, ularni sayr qildirish uchun maxsus joylar jihozlash va bolalar o'yin maydonlarini hayvonlardan himoya qilish keltirilgan [4].",
-   "Bayonnomada daydi itlar sonini kamaytirish, hayvonlar sayri uchun maxsus maydonchalar, bolalar o'yingohlari va istirohat bog'larini hayvonlar kirishidan saqlash ko'rsatilgan. Yo'riqnomada daydi it va mushuklarga qarshi kurash obodonlashtirish xizmati zimmasiga yuklangani yozilgan [1, 2]."
-  ]},
-  {"heading": "Epidemiologik nazorat va hisobga olish", "content": [
-   "Yo'riqnomaga ko'ra toksokaroz aniqlanganda mulkchilik shaklidan qat'i nazar barcha davolash muassasalari ishtirok etadi, har bir bemor haqida DSENM bo'limlariga shoshilinch xabar (ф.058/u) beriladi. Aniqlangan o'choqlar epidemiolog (parazitolog) va veterinariya xizmati nazoratiga olinadi, kartalar ф.357/u asosida yuritiladi [1].",
-   "Yo'riqnomada o'choqlarda shaxsiy gigiena bo'yicha suhbatlar o'tkazilib, tuproq bilan ishlaganda yoki hayvonlar bilan aloqada ko'katlar va mahsulotlarni oqar suvda yuvish tavsiya etilgan. Bayonnomada rekonvalessentlar 6 oy ichida 3 marta serologik tekshiriladi, kuzatuv bir yilgacha davom etadi [1, 2]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan milliy hujjatlarda O'zbekistonda toksokarozning kasallanish ko'rsatkichi, hududlar kesimidagi tarqalishi va itlarda zararlanish foizi topilmadi. Shu sababli O'zbekiston uchun raqam yozilmadi, faqat xorijiy hududlar bo'yicha manbalardagi ma'lumotlar tegishli joyda xorijiy deb ko'rsatildi [1, 4, 5].",
-   "Manbalar lichinkalarning odamda saqlanish muddati va tuxumlarning yashovchanligi bo'yicha farq qiladi: darslik lichinkalar 10 yilgacha, milliy yo'riqnoma tuxumlar 10 yilgacha deydi. Mavsumiylik bo'yicha ham Rossiya tuproq ma'lumoti va milliy yo'riqnoma mos kelmaydi [1, 4, 5]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Toksokaroz it va mushuk toksokaralari lichinkalarining odamda migratsiya qilishidan kelib chiqadigan zoonoz bo'lib, manba itlar va yovvoyi itsimonlardir, odam esa tupik xo'jayin. Kasallik tuproq, suv, sabzavot va iflos qo'l orqali yuqadi, bolalar va tuproq bilan ishlovchilar xavf guruhi hisoblanadi [1, 3, 4]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Toksokaroz it va mushuk toksokaralarining lichinkalari odam to'qimalarida migratsiya qilishidan kelib chiqadigan zoonoz kasallik bo'lib, ko'p yillik qaytalanuvchi kechishi va ko'z hamda ichki a'zolarni zararlashi bilan xavfli. Milliy bayonnomada u jigar, o'pka va ko'zlarni shikastlaydigan to'qima geogelmintozi deb ta'riflangan [2].",
+    "Ushbu mavzuda qo'zg'atuvchi turlari, ularning tuzilishi, hayvonlardagi rivojlanish sikli, odamning zararlanish yo'llari, tashqi muhitning ifloslanishi, xavf guruhlari va mavsumiyligi ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Ta'rif va kasallik guruhi",
+   "content": [
+    "Darslikda toksokaroz lichinkali, surunkali kechuvchi to'qima geogelmintozi bo'lib, hayvon nematodalari lichinkalari parazitlik qilishidan kelib chiqadigan kasalliklarga kiritilgan. Bunday nematodalarning tuxum va lichinkalari odamga tushganda dastlabki rivojlanish bosqichlaridan o'tadi, ammo hayotiy siklini tugallay olmaydi [4].",
+    "Kasallik uzoq va qaytalanuvchi kechishi, klinik ko'rinishlarning ko'pshakliligi va asosan ichki a'zolar hamda ko'zning zararlanishi bilan farqlanadi. Odam parazit uchun biologik tupik hisoblanadi, shu bois epidemik ahamiyatga ega emas [4]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchi turlari",
+   "content": [
+    "Darslikda toksokaroz qo'zg'atuvchilari ikki tur: it toksokarasi Toxocara canis va mushuk toksokarasi Toxocara mystax. Ular hayvonlarning ingichka ichagi va oshqozonida parazitlik qiladi. Milliy bayonnomada qo'zg'atuvchi sifatida Toxocara canis yumaloq gijjasining lichinka shakli ko'rsatilgan [2, 3].",
+    "Odamda it toksokaralari faqat lichinka bosqichida parazitlik qiladi, mushuk toksokaralari esa lichinka va kamroq voyaga yetgan bosqichda. Shu sababli lichinkali toksokaroz va kam uchraydigan imaginal toksokaroz ajratiladi; imaginal shaklda ko'ngil aynishi, qorin og'rig'i, so'lak ko'payishi va bosh aylanishi kuzatiladi [3]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining tuzilishi va tuxumlari",
+   "content": [
+    "T. canis erkaklarining uzunligi 99-127 mm, urg'ochilariniki 126-198 mm; mushuk toksokarasida erkaklari 30-70 mm, urg'ochilari 40-100 mm. Ikkala tur tuxumlari bir-biridan farq qilmaydi, yumaloq shaklli, diametri 0,06-0,08 mm bo'lib, noqulay muhit ta'siriga chidamli [3].",
+    "Tuxumlar tuproqda bir necha yil hayotiy qolishi mumkin. Optimal sharoitda tuxum ichida lichinka shakllanib, taxminan besh kunda invazion bosqichga yetadi; bu holat tuproq va tashqi muhitdagi tuxumlar yuqish omili bo'lishini bildiradi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Hayvonlardagi rivojlanish sikli",
+   "content": [
+    "Hayvonlarda yutilgan invazion tuxumdan ichakda lichinkalar chiqadi, ichak devoriga kirib, qon orqali o'pkaga o'tadi. Ularning bir qismi traxeya va bronxlarga chiqib, balg'am bilan qayta yutiladi va ichakda jinsiy yetiladi; zararlanishdan 25-28-kunda urg'ochilar tuxum qo'yadi [3].",
+    "Milliy yo'riqnomada toksokara tabiatda itsimonlar (it, bo'ri, tulki va boshqalar) ichagida yashovchi, tuxumlari hayvon najasi bilan chiqadigan voyaga yetgan nematoda sifatida yozilgan. Darslikda toksokarozning manbai it va yovvoyi itsimonlar deb berilgan [1, 4]."
+   ]
+  },
+  {
+   "heading": "Odam organizmidagi rivojlanish",
+   "content": [
+    "Odamda ichakda tuxumdan o'lchami 0,1-0,2 mm lichinkalar chiqadi, ular ichak devorini teshib, limfa va qon tomirlari orqali jigar, o'pka, taloq, ko'z, skelet mushaklari va bosh miyaga tarqaladi. Bir qismi nobud bo'ladi, qolganlari vaqti-vaqti bilan faollashib kasallik qaytalanishiga sabab bo'ladi [4].",
+    "Lichinkalar odam organizmida 10 yilgacha yashovchan qolishi mumkinligi darslikda yozilgan. Milliy yo'riqnomada ham nematoda tuxumlari inson organizmida rivojlanmay 10 yilgacha saqlanishi mumkinligi keltirilgan; bu ikki ma'lumot biroz farq qiladi, lekin ikkalasi ham uzoq saqlanishni ko'rsatadi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Epidemiologiya: manba va yuqish yo'llari",
+   "content": [
+    "Toksokarozning manbai it va yovvoyi itsimonlar, odam esa epidemiologik ahamiyatga ega emas, chunki toksokaralar uning organizmida taraqqiyot siklini tugatmaydi. Odam zararlanishi invazion tuxumlarning oziq-ovqat (sabzavot, ko'kat) va suv bilan yutilishi hamda iflos qo'l orqali yuz beradi [4].",
+    "Milliy yo'riqnomada nematodalar odamga hayvon junlari, hayvonlar yotgan tuproq qatlamlari, suv va yuvilmagan qo'llar orqali yuqishi yozilgan. Zararlanish yil davomida mumkin, ammo asosiy yuqish davri yoz va kuz oylariga to'g'ri keladi [1]."
+   ]
+  },
+  {
+   "heading": "Tashqi muhitning ifloslanishi",
+   "content": [
+    "Sanitariya parazitologiyasi darsligida toksokarozning itlar orasida keng tarqalishi tuproqning toksokara tuxumi bilan intensiv ifloslanishiga olib kelishi yozilgan. AQShning Manxettenida jamoat joylaridan olingan 282 tuproq namunasining 58 tasida (20,6 foiz) va qum qutilarining 39,1 foizida tuxum topilgan [5].",
+    "Angliyada parklardan olingan 800 namunaning 24,4 foizida tuxum aniqlangan, Moskvada bolalar muassasalari tuprog'ining 28,8 foizida va hovli o'yin maydonchalarining 11,46 foizida topilgan. Bu ma'lumotlar xorijiy hududlarga tegishli bo'lib, O'zbekistonga ko'chirilmaydi [5]."
+   ]
+  },
+  {
+   "heading": "Itlar orasida tarqalganlik",
+   "content": [
+    "Darslikda Rossiyada itlarning 20 foizdan ortig'i toksokarozga chalingani, ayrim joylarda zararlangan kuchuklar 80 foizga yetishi, ko'p aholi punktlarida tuproqning 10 foizida yashovchan tuxum topilishi yozilgan. Sabab sifatida itlarni saqlash qoidalariga rioya qilmaslik va ekskrementlar zararsizlantirilmasligi ko'rsatilgan [4].",
+    "Sanitariya parazitologiyasi darsligida Angliyada taxminan 7 million itning 12 foizi toksokarozga chalingani, bu esa tuproqqa kuniga ko'p miqdorda zararlangan najas tushishiga olib kelishi hisoblab chiqilgan. Itlar soni va ularni saqlash madaniyati tashqi muhit ifloslanishini belgilaydi [5]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari",
+   "content": [
+    "Milliy yo'riqnomada toksokaroz bilan ko'proq veterinariya xodimlari, it boquvchilar, haydovchilar, avtomexaniklar, it bilan ov qiluvchilar va tuproq bilan ishlovchilar zararlanishi yozilgan. Zararlanish obyektlari tuproq va boshqa muhit elementlaridir; 3-5 yoshli bolalarda kasallik og'ir kechadi [1].",
+    "Darslikda toksokaroz bilan asosan 1-4 yoshli bolalar kasallanishi, doshkol yoshdagi bolalar qo'lini tuproq bilan ko'proq ifloslantirishi yozilgan. Kattalar orasida veterinarlar, avtomobil haydovchilari va avtoslesarlar, kommunal xo'jalik ishchilari hamda bog'bonlar xavf guruhi hisoblanadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Mavsumiylik va geografiya",
+   "content": [
+    "Darslikda lichinkali toksokaroz dunyoning ko'p mamlakatlarida qayd etilishi, Rossiyada Uzoq Shimoldan tashqari barcha iqlim zonalarida ro'yxatga olinishi yozilgan. Toksokaroz hamma joyda tarqalgan, kasallik yoshi kichik bolalar orasida ko'proq uchraydi [3, 4].",
+    "Sanitariya parazitologiyasida Rossiya ma'lumoti bo'yicha tuproqda toksokara tuxumlari mart va noyabrda ko'proq, iyulda kamroq topilgan. Milliy yo'riqnomada yuqish yil davomida mumkin, asosiy davr yoz va kuz deyilgan; bu ikki ma'lumot mavsum bo'yicha bir-biriga mos kelmaydi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Mexanik tashuvchilar va sanitariya omillari",
+   "content": [
+    "Darslikda toksokara tuxumlarining mexanik tashuvchisi sifatida tarakanlarni yo'q qilish profilaktika tadbirlari qatoriga kiritilgan. Shuningdek, itlarni rejali degelmintizatsiya qilish, ularni sayr qildirish uchun maxsus joylar jihozlash va bolalar o'yin maydonlarini hayvonlardan himoya qilish keltirilgan [4].",
+    "Bayonnomada daydi itlar sonini kamaytirish, hayvonlar sayri uchun maxsus maydonchalar, bolalar o'yingohlari va istirohat bog'larini hayvonlar kirishidan saqlash ko'rsatilgan. Yo'riqnomada daydi it va mushuklarga qarshi kurash obodonlashtirish xizmati zimmasiga yuklangani yozilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik nazorat va hisobga olish",
+   "content": [
+    "Yo'riqnomaga ko'ra toksokaroz aniqlanganda mulkchilik shaklidan qat'i nazar barcha davolash muassasalari ishtirok etadi, har bir bemor haqida DSENM bo'limlariga shoshilinch xabar (ф.058/u) beriladi. Aniqlangan o'choqlar epidemiolog (parazitolog) va veterinariya xizmati nazoratiga olinadi, kartalar ф.357/u asosida yuritiladi [1].",
+    "Yo'riqnomada o'choqlarda shaxsiy gigiena bo'yicha suhbatlar o'tkazilib, tuproq bilan ishlaganda yoki hayvonlar bilan aloqada ko'katlar va mahsulotlarni oqar suvda yuvish tavsiya etilgan. Bayonnomada rekonvalessentlar 6 oy ichida 3 marta serologik tekshiriladi, kuzatuv bir yilgacha davom etadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Toksokaroz it va mushuk toksokaralari lichinkalarining odamda migratsiya qilishidan kelib chiqadigan zoonoz bo'lib, manba itlar va yovvoyi itsimonlardir, odam esa tupik xo'jayin. Kasallik tuproq, suv, sabzavot va iflos qo'l orqali yuqadi, bolalar va tuproq bilan ishlovchilar xavf guruhi hisoblanadi [1, 3, 4]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

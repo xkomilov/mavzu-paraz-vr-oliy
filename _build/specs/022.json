@@ -1,75 +1,113 @@
 {
-  "number": 22,
-  "title": "22. Bezgakning laborator tekshirishning ko'rsatkichi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Bezgakni laboratoriyada tekshirish ko'rsatkichi, ya'ni qaysi bemorlarga qon tekshiruvi buyurilishi, kasallikni o'z vaqtida aniqlash va uning tarqalishini oldini olishning birinchi bosqichidir. O'zbekistonda bu masala Sog'liqni saqlash vazirligining 121-son buyrug'iga 1-ilovada batafsil belgilangan [1].",
-      "Ushbu mavzuda tekshirishga ko'rsatmalar, geografik anamnezning o'rni, alohida guruhlar, faol aniqlash tartibi, namuna olish talablari hamda laboratoriya natijasini rasmiylashtirishda ko'rsatilishi shart bo'lgan ko'rsatkichlar ketma-ket ko'rib chiqiladi [1, 2, 3]."
-    ]},
-    {"heading": "Tekshirishning asosiy tamoyili", "content": [
-      "Milliy yo'riqnomaga ko'ra bezgak holatlarini aniqlash barcha davolash-profilaktika, bolalar, o'smirlar va sog'lomlashtirish muassasalaridagi tibbiyot xodimlarining asosiy burchi bo'lib, ularning mutaxassisligi, ish joyi va mulkchilik shaklidan qat'i nazar bajariladi [1].",
-      "Aniqlangan va gumon qilingan barcha holatlar haqida hududiy DSENMga shoshilinch xabarnoma beriladi. JSST ham bezgakka gumon qilingan barcha bemorlarda davodan oldin parazitga asoslangan tashxis, ya'ni mikroskopiya yoki tezkor test o'tkazishni tavsiya etadi [1, 8]."
-    ]},
-    {"heading": "Isitmali bemorlar", "content": [
-      "Yo'riqnomada tana harorati 37,5 °C dan yuqori bo'lsa, isitmalash deb hisoblanadi. Tibbiyot xodimi ko'rigida isitma bo'lishi shart emas, haroratning oxirgi 3 kun ichida ko'tarilgani haqidagi ma'lumot yetarli deb qabul qilinadi [1].",
-      "Barcha davolash muassasalarida isitmali bemorlarni haqqoniy hisobga olish yo'lga qo'yilishi lozim. Bu talab laboratoriya tekshiruvi ko'rsatmasini birinchi navbatda isitmali bemorlar orasidan belgilashga imkon beradi va bezgak holatlarining o'tkazib yuborilishini kamaytiradi [1]."
-    ]},
-    {"heading": "Klinik ko'rsatmalar", "content": [
-      "Yo'riqnomada qon tekshiruviga quyidagi klinik ko'rsatmalar keltirilgan: qaltirash bilan kechadigan vaqti-vaqti bilan harorat ko'tarilishi, qo'yilgan tashxis bo'yicha davoga qaramay 4 kun va undan ortiq to'xtamayotgan isitma, shuningdek tashxis qo'yilmagan yoki «etiologiyasi noaniq isitma» tashxisli 4 kundan ortiq isitma [1].",
-      "Isitma bo'lmasa ham taloq va jigari kattalashgan, sariqlik va sababi noma'lum kamqonligi bor bemorlar bezgakka tekshiriladi. Bu ko'rsatma bezgak faqat isitma bilan namoyon bo'lmasligini va kasallikni yashirin shaklda ham topish zarurligini aks ettiradi [1]."
-    ]},
-    {"heading": "Epidemiologik ko'rsatmalar", "content": [
-      "Geografik anamnezi tropik va subtropik davlatlarga borganlikni, bezgak bo'yicha endemik davlatlarga borgan shaxslarni ko'rsatsa, bemor tekshiriladi. Chet el fuqarolari esa klinik ko'rsatmalarga asosan tekshiriladi [1].",
-      "Geografik anamnezi musbat bo'lganda boshqa simptomlar bor yoki yo'qligidan qat'i nazar qon bezgakka tekshiriladi. Sababi, tropik bezgak bir qator yuqumli kasalliklar ko'rinishida kechishi mumkin, uning boshida esa ko'pincha ichak yoki nafas a'zolari belgilari birinchi o'ringa chiqadi [1]."
-    ]},
-    {"heading": "Dispanser nazoratidagi shaxslar va donorlar", "content": [
-      "Xorijiy davlatlarga borib kelgan shaxslar hududiy davolash-profilaktika muassasalarida hisobga olinib, laboratoriya yo'li bilan tekshiriladi va 3 yil davomida dispanser nazoratiga olinadi. Ambulatoriya kartasiga «Xorijdan kelgan» belgisi qo'yiladi [1].",
-      "Dispanser nazoratidagi shaxslarda tana harorati ko'tarilishi bilan kechadigan har qanday kasallikda bezgakka tekshiruv o'tkaziladi. Shuningdek, donorlar qon topshirishdan oldin bezgakka tekshirilishi lozim, bu qon orqali yuqish xavfini kamaytiradi [1]."
-    ]},
-    {"heading": "Parenteral yuqish anamnezi", "content": [
-      "Yo'riqnomaga ko'ra bemorning anamnezida shprits orqali zararlanish mumkinligi aniqlanadi va oxirgi uch oy ichida qon quyilgan yoki quyilmagani so'raladi. Shprits sterilizatsiya qilinmay bir necha marta qo'llansa, igna almashtirilganda ham bezgak o'tishi mumkin [1].",
-      "Kam hollarda mushak ichiga yuborishda ham zararlanish bo'lishi, ba'zan bemorning giyohvandligi va venaga narkotik yuborishi aniqlanishi kerak. Bunday taxminlar bo'lsa, qon bezgakka tekshiruvga yuboriladi. Parenteral zararlanishda to'qima shizogoniyasi kuzatilmasligini ham hisobga olish kerak [1, 2]."
-    ]},
-    {"heading": "Faol aniqlash va ommaviy tekshiruv", "content": [
-      "Faol aniqlash odatda xonadonma-xonadon aylanib, 2 haftada 1 marta amalga oshiriladi. Bezgak olib kelingan yoki mahalliy holatlar aniqlanganda faol aniqlash davriyligi har bir o'choqda tuman bosh davlat sanitariya vrachi qarori bilan belgilanadi [1].",
-      "Aholini bezgakka ommaviy tekshirish faqat o'ta zarur hollarda, masalan endemik hududlardan kelgan migrantlar orasida, o'tkaziladi. Ommaviy tekshiruvda shikoyat qiluvchilar aniqlansa, ularning qon preparatlari tamg'alanib, birinchi navbatda tekshiriladi [1]."
-    ]},
-    {"heading": "Namuna olish talablari", "content": [
-      "Bezgakka shubha qilingan bemorlardan qalin qon tomchi preparati olinib, shu kuniyoq laboratoriyaga yuboriladi. Bemorlardan kamida ikkita qon preparati olinadi, klinik belgilari va musbat anamnezga qaramay parazit topilmasa, qayta preparat olinadi [1].",
-      "Preparat periferik qondan tayyorlanadi, chunki venoz qon antikoagulyantlar tufayli yomon bo'yaladi va parazitlar odatdagidek ko'rinmaydi. Qalin tomchi diametri taxminan 20 mm bo'lishi, bitta oynachada ikkita tomchi olinishi tavsiya etiladi [2, 4]."
-    ]},
-    {"heading": "Manfiy natijada qayta tekshirish", "content": [
-      "Davolash standartlarida tropik bezgakka gumon qilinganda «CITO» tartibida Gimza usulida bo'yash ko'rsatilgan. Past parazitemiya holatlarida faqat yupqa surtma tekshiruvi gipodiagnostikaga olib kelishi mumkinligi qayd etilgan [3].",
-      "Manfiy natija olinganda qon tekshiruvi ikki kun davomida 6 dan 12 soatdan keyin qaytariladi, shu bilan birga klinik-epidemiologik ma'lumotlar asosida bemor statsionarga yuborilishi shart. Bu tartib parazitemiya past bo'lgan dastlabki kunlarda kasallikni o'tkazib yubormaslikka xizmat qiladi [3]."
-    ]},
-    {"heading": "Mikroskopiya ko'rsatkichlari", "content": [
-      "Mikroskopiya standartiga ko'ra preparat musbat yoki manfiy deyilishi uchun kamida 100 ta ko'rish maydoni tekshiriladi, 100 maydondan oldin parazit topilsa ham aralash infeksiya ehtimoli sababli tekshiruv davom ettiriladi. Manfiy xulosada parazit «aniqlanmadi» deb yoziladi [5].",
-      "Parazitlarni sanash standartida «bezgak paraziti topilmadi» deyishdan avval kamida 100 maydon, ishonchliroq natija uchun 200 maydon tekshirish maqsadga muvofiq deyiladi. Shuningdek, uslubiy qo'llanmada aniqlanish bo'sag'asi qalin tomchining 100 maydonida 1 mkl da 5 parazit sifatida keltirilgan [1, 2, 6]."
-    ]},
-    {"heading": "Natijani rasmiylashtirish", "content": [
-      "Uslubiy qo'llanmaga ko'ra tashxisda nima ko'rilgani, ya'ni qalin tomchi yoki surtma, ko'rilgan maydonlar soni, parazit turi, P. falciparum bo'lsa rivojlanish bosqichi (halqa, gametotsit yoki ikkalasi) va parazitemiya darajasi ko'rsatiladi [2].",
-      "Musbat natijada qo'zg'atuvchining lotincha nomi «P.» shaklida qisqartirilib yoziladi. Barcha musbat qon preparatlari kasallik aniqlangandan keyin 24 soat ichida nazorat uchun Respublika DSENMga yuboriladi, bu laboratoriya natijasining sifat nazoratini ta'minlaydi [1, 5]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Laboratoriya tekshiruvi ko'rsatmalarini bilish parazitolog-shifokorga bezgak xavfi mavjud bemorlarni o'z vaqtida tanlash, tekshirish davriyligini belgilash va natijani to'g'ri baholash imkonini beradi. Bu bezgakni qayta tiklanishdan saqlashning asosiy shartlaridan biri hisoblanadi [1].",
-      "Tropik bezgakka shubha bo'lganda laboratoriya natijasi kechiksa davo boshlash, manfiy natijada esa to'xtatish tartibi protokolda belgilangan. Shu bois shifokor tekshiruv ko'rsatmalarini klinik qarorlar bilan birgalikda qo'llashi zarur [7]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Yo'riqnoma (2015) va uslubiy qo'llanma (2009) harorat chegarasini turlicha beradi: yo'riqnomada isitma 37,5 °C dan, qo'llanmada bezgakning doimiy belgisi sifatida 38 °C dan yuqori harorat ko'rsatilgan. Bu farq izohlanmagan, shuning uchun mavzuda isitma uchun yo'riqnomadagi chegara asos qilib olindi [1, 2].",
-      "Ushbu mavzuda tezkor test va PCR bo'yicha milliy ko'rsatmalar topilmadi. Ularning O'zbekistonda hozirgi qo'llanilish tartibi, bemorlarni tanlash mezonlari tasdiqlanmagan ma'lumot hisoblanadi va faqat JSST umumiy tavsiyalari keltirildi [8]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Bezgakni laboratoriyada tekshirish ko'rsatmalari isitmali va qaltirashli bemorlar, 4 kundan ortiq tushuntirilmagan isitma, endemik hududlarga borganlik, taloq-jigar kattalashuvi, sababi noma'lum kamqonlik, donorlik va parenteral xavf bilan belgilanadi, natija esa ikki preparat va kamida 100 maydon mikroskopiyasiga asoslanadi [1, 2, 5]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104.",
-    "MM-SOP-09. Malaria parasite counting, Bezgak parazitlarini sanash (standart operatsion muolaja, Respublika DSENM parazitologiya laboratoriyasi). xayrullokomilov.uz/kutubxona, material ID 1605.",
-    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
-    "World Health Organization. Diagnostic testing for malaria. https://www.who.int/teams/global-malaria-programme/case-management/diagnosis"
-  ]
+ "number": 22,
+ "title": "22. Bezgakning laborator tekshirishning ko'rsatkichi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Bezgakni laboratoriyada tekshirish ko'rsatkichi, ya'ni qaysi bemorlarga qon tekshiruvi buyurilishi, kasallikni o'z vaqtida aniqlash va uning tarqalishini oldini olishning birinchi bosqichidir. O'zbekistonda bu masala Sog'liqni saqlash vazirligining 121-son buyrug'iga 1-ilovada batafsil belgilangan [1].",
+    "Ushbu mavzuda tekshirishga ko'rsatmalar, geografik anamnezning o'rni, alohida guruhlar, faol aniqlash tartibi, namuna olish talablari hamda laboratoriya natijasini rasmiylashtirishda ko'rsatilishi shart bo'lgan ko'rsatkichlar ketma-ket ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Tekshirishning asosiy tamoyili",
+   "content": [
+    "Milliy yo'riqnomaga ko'ra bezgak holatlarini aniqlash barcha davolash-profilaktika, bolalar, o'smirlar va sog'lomlashtirish muassasalaridagi tibbiyot xodimlarining asosiy burchi bo'lib, ularning mutaxassisligi, ish joyi va mulkchilik shaklidan qat'i nazar bajariladi [1].",
+    "Aniqlangan va gumon qilingan barcha holatlar haqida hududiy DSENMga shoshilinch xabarnoma beriladi. JSST ham bezgakka gumon qilingan barcha bemorlarda davodan oldin parazitga asoslangan tashxis, ya'ni mikroskopiya yoki tezkor test o'tkazishni tavsiya etadi [1, 8]."
+   ]
+  },
+  {
+   "heading": "Isitmali bemorlar",
+   "content": [
+    "Yo'riqnomada tana harorati 37,5 °C dan yuqori bo'lsa, isitmalash deb hisoblanadi. Tibbiyot xodimi ko'rigida isitma bo'lishi shart emas, haroratning oxirgi 3 kun ichida ko'tarilgani haqidagi ma'lumot yetarli deb qabul qilinadi [1].",
+    "Barcha davolash muassasalarida isitmali bemorlarni haqqoniy hisobga olish yo'lga qo'yilishi lozim. Bu talab laboratoriya tekshiruvi ko'rsatmasini birinchi navbatda isitmali bemorlar orasidan belgilashga imkon beradi va bezgak holatlarining o'tkazib yuborilishini kamaytiradi [1]."
+   ]
+  },
+  {
+   "heading": "Klinik ko'rsatmalar",
+   "content": [
+    "Yo'riqnomada qon tekshiruviga quyidagi klinik ko'rsatmalar keltirilgan: qaltirash bilan kechadigan vaqti-vaqti bilan harorat ko'tarilishi, qo'yilgan tashxis bo'yicha davoga qaramay 4 kun va undan ortiq to'xtamayotgan isitma, shuningdek tashxis qo'yilmagan yoki «etiologiyasi noaniq isitma» tashxisli 4 kundan ortiq isitma [1].",
+    "Isitma bo'lmasa ham taloq va jigari kattalashgan, sariqlik va sababi noma'lum kamqonligi bor bemorlar bezgakka tekshiriladi. Bu ko'rsatma bezgak faqat isitma bilan namoyon bo'lmasligini va kasallikni yashirin shaklda ham topish zarurligini aks ettiradi [1]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik ko'rsatmalar",
+   "content": [
+    "Geografik anamnezi tropik va subtropik davlatlarga borganlikni, bezgak bo'yicha endemik davlatlarga borgan shaxslarni ko'rsatsa, bemor tekshiriladi. Chet el fuqarolari esa klinik ko'rsatmalarga asosan tekshiriladi [1].",
+    "Geografik anamnezi musbat bo'lganda boshqa simptomlar bor yoki yo'qligidan qat'i nazar qon bezgakka tekshiriladi. Sababi, tropik bezgak bir qator yuqumli kasalliklar ko'rinishida kechishi mumkin, uning boshida esa ko'pincha ichak yoki nafas a'zolari belgilari birinchi o'ringa chiqadi [1]."
+   ]
+  },
+  {
+   "heading": "Dispanser nazoratidagi shaxslar va donorlar",
+   "content": [
+    "Xorijiy davlatlarga borib kelgan shaxslar hududiy davolash-profilaktika muassasalarida hisobga olinib, laboratoriya yo'li bilan tekshiriladi va 3 yil davomida dispanser nazoratiga olinadi. Ambulatoriya kartasiga «Xorijdan kelgan» belgisi qo'yiladi [1].",
+    "Dispanser nazoratidagi shaxslarda tana harorati ko'tarilishi bilan kechadigan har qanday kasallikda bezgakka tekshiruv o'tkaziladi. Shuningdek, donorlar qon topshirishdan oldin bezgakka tekshirilishi lozim, bu qon orqali yuqish xavfini kamaytiradi [1]."
+   ]
+  },
+  {
+   "heading": "Parenteral yuqish anamnezi",
+   "content": [
+    "Yo'riqnomaga ko'ra bemorning anamnezida shprits orqali zararlanish mumkinligi aniqlanadi va oxirgi uch oy ichida qon quyilgan yoki quyilmagani so'raladi. Shprits sterilizatsiya qilinmay bir necha marta qo'llansa, igna almashtirilganda ham bezgak o'tishi mumkin [1].",
+    "Kam hollarda mushak ichiga yuborishda ham zararlanish bo'lishi, ba'zan bemorning giyohvandligi va venaga narkotik yuborishi aniqlanishi kerak. Bunday taxminlar bo'lsa, qon bezgakka tekshiruvga yuboriladi. Parenteral zararlanishda to'qima shizogoniyasi kuzatilmasligini ham hisobga olish kerak [1, 2]."
+   ]
+  },
+  {
+   "heading": "Faol aniqlash va ommaviy tekshiruv",
+   "content": [
+    "Faol aniqlash odatda xonadonma-xonadon aylanib, 2 haftada 1 marta amalga oshiriladi. Bezgak olib kelingan yoki mahalliy holatlar aniqlanganda faol aniqlash davriyligi har bir o'choqda tuman bosh davlat sanitariya vrachi qarori bilan belgilanadi [1].",
+    "Aholini bezgakka ommaviy tekshirish faqat o'ta zarur hollarda, masalan endemik hududlardan kelgan migrantlar orasida, o'tkaziladi. Ommaviy tekshiruvda shikoyat qiluvchilar aniqlansa, ularning qon preparatlari tamg'alanib, birinchi navbatda tekshiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Namuna olish talablari",
+   "content": [
+    "Bezgakka shubha qilingan bemorlardan qalin qon tomchi preparati olinib, shu kuniyoq laboratoriyaga yuboriladi. Bemorlardan kamida ikkita qon preparati olinadi, klinik belgilari va musbat anamnezga qaramay parazit topilmasa, qayta preparat olinadi [1].",
+    "Preparat periferik qondan tayyorlanadi, chunki venoz qon antikoagulyantlar tufayli yomon bo'yaladi va parazitlar odatdagidek ko'rinmaydi. Qalin tomchi diametri taxminan 20 mm bo'lishi, bitta oynachada ikkita tomchi olinishi tavsiya etiladi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Manfiy natijada qayta tekshirish",
+   "content": [
+    "Davolash standartlarida tropik bezgakka gumon qilinganda «CITO» tartibida Gimza usulida bo'yash ko'rsatilgan. Past parazitemiya holatlarida faqat yupqa surtma tekshiruvi gipodiagnostikaga olib kelishi mumkinligi qayd etilgan [3].",
+    "Manfiy natija olinganda qon tekshiruvi ikki kun davomida 6 dan 12 soatdan keyin qaytariladi, shu bilan birga klinik-epidemiologik ma'lumotlar asosida bemor statsionarga yuborilishi shart. Bu tartib parazitemiya past bo'lgan dastlabki kunlarda kasallikni o'tkazib yubormaslikka xizmat qiladi [3]."
+   ]
+  },
+  {
+   "heading": "Mikroskopiya ko'rsatkichlari",
+   "content": [
+    "Mikroskopiya standartiga ko'ra preparat musbat yoki manfiy deyilishi uchun kamida 100 ta ko'rish maydoni tekshiriladi, 100 maydondan oldin parazit topilsa ham aralash infeksiya ehtimoli sababli tekshiruv davom ettiriladi. Manfiy xulosada parazit «aniqlanmadi» deb yoziladi [5].",
+    "Parazitlarni sanash standartida «bezgak paraziti topilmadi» deyishdan avval kamida 100 maydon, ishonchliroq natija uchun 200 maydon tekshirish maqsadga muvofiq deyiladi. Shuningdek, uslubiy qo'llanmada aniqlanish bo'sag'asi qalin tomchining 100 maydonida 1 mkl da 5 parazit sifatida keltirilgan [1, 2, 6]."
+   ]
+  },
+  {
+   "heading": "Natijani rasmiylashtirish",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra tashxisda nima ko'rilgani, ya'ni qalin tomchi yoki surtma, ko'rilgan maydonlar soni, parazit turi, P. falciparum bo'lsa rivojlanish bosqichi (halqa, gametotsit yoki ikkalasi) va parazitemiya darajasi ko'rsatiladi [2].",
+    "Musbat natijada qo'zg'atuvchining lotincha nomi «P.» shaklida qisqartirilib yoziladi. Barcha musbat qon preparatlari kasallik aniqlangandan keyin 24 soat ichida nazorat uchun Respublika DSENMga yuboriladi, bu laboratoriya natijasining sifat nazoratini ta'minlaydi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Laboratoriya tekshiruvi ko'rsatmalarini bilish parazitolog-shifokorga bezgak xavfi mavjud bemorlarni o'z vaqtida tanlash, tekshirish davriyligini belgilash va natijani to'g'ri baholash imkonini beradi. Bu bezgakni qayta tiklanishdan saqlashning asosiy shartlaridan biri hisoblanadi [1].",
+    "Tropik bezgakka shubha bo'lganda laboratoriya natijasi kechiksa davo boshlash, manfiy natijada esa to'xtatish tartibi protokolda belgilangan. Shu bois shifokor tekshiruv ko'rsatmalarini klinik qarorlar bilan birgalikda qo'llashi zarur [7]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Bezgakni laboratoriyada tekshirish ko'rsatmalari isitmali va qaltirashli bemorlar, 4 kundan ortiq tushuntirilmagan isitma, endemik hududlarga borganlik, taloq-jigar kattalashuvi, sababi noma'lum kamqonlik, donorlik va parenteral xavf bilan belgilanadi, natija esa ikki preparat va kamida 100 maydon mikroskopiyasiga asoslanadi [1, 2, 5]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104.",
+  "MM-SOP-09. Malaria parasite counting, Bezgak parazitlarini sanash (standart operatsion muolaja, Respublika DSENM parazitologiya laboratoriyasi). xayrullokomilov.uz/kutubxona, material ID 1605.",
+  "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+  "World Health Organization. Diagnostic testing for malaria. https://www.who.int/teams/global-malaria-programme/case-management/diagnosis"
+ ]
 }

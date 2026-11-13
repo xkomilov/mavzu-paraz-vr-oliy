@@ -1,68 +1,103 @@
 {
-  "number": 27,
-  "title": "27. Bezgakning qaysi nozologik shakli jigarda uyqudagi shakli hisoblanadi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Jigarda uyqudagi, ya'ni mudroq shakl hosil qiladigan bezgak nozologik shakli uch kunlik bezgak bo'lib, uning qo'zg'atuvchisi Plasmodium vivax hisoblanadi. Shu xususiyat ovale bezgagida, ya'ni Plasmodium ovale qo'zg'atadigan uch kunlikka o'xshash shaklda ham mavjud [1, 2].",
-      "Ushbu mavzuda bezgakning nozologik shakllari, uyqudagi shaklning, ya'ni gipnozoitning mohiyati, qaysi shakllarda uchrashi va qaysilarida uchramasligi, bu xususiyatning klinik, davolash va epidemiologik oqibatlari milliy manbalar va JSST ma'lumotlari asosida ko'rib chiqiladi [1, 2, 4, 5]."
-    ]},
-    {"heading": "Bezgakning nozologik shakllari", "content": [
-      "Protokolda bezgak kasalligining to'rtta shakli farqlanadi: uch kunlik, tropik, to'rt kunlik va uch kunlikka o'xshash ovale bezgagi. Ularning qo'zg'atuvchilari mos ravishda P. vivax, P. falciparum, P. malariae va P. ovale hisoblanadi [2].",
-      "JSST ma'lumotiga ko'ra odamda bezgak beradigan beshta tur mavjud: P. falciparum, P. vivax, P. malariae, P. ovale va P. knowlesi. Milliy hujjatlarda dastlabki to'rttasi klassik shakllar sifatida tilga olinadi, shuning uchun savol shu to'rt shakl doirasida yechiladi [2, 5]."
-    ]},
-    {"heading": "Jigar bosqichi va uyqudagi shakl", "content": [
-      "Barcha turlarda sporozoitlar chivin chaqishi bilan tushgach jigarga borib, gepatotsitlarga kiradi va to'qima, ya'ni eksoeritrotsitar shizogoniyani boshlaydi. Keyin merozoitlar jigardan qonga chiqib, eritrotsitar siklni boshlaydi [1, 4].",
-      "Faqat ayrim turlarda jigarda sporozoit darhol bo'linmasdan mudroq holatda qoladi. Bunday uyqudagi shakl gipnozoit deyiladi, uslubiy qo'llanmada u bradisporozoitlardan hosil bo'lishi ko'rsatilgan. U jigar hujayralarida bo'lib, klinik belgi bermaydi, lekin kasallikning qaytalanishiga sabab bo'ladi [1]."
-    ]},
-    {"heading": "Uch kunlik bezgak: asosiy shakl", "content": [
-      "Uslubiy qo'llanmaga ko'ra P. vivax sporozoitlari jigar hujayralariga kirgach, darhol shizogoniya boshlanishi, ya'ni taxisporozoitlar yoki jigarda bir necha oydan 2 yil va undan ko'proq mudroq holatda bradisporozoit shaklida qolishi mumkin. Shuning uchun uch kunlik bezgak gipnozoitli shaklning klassik namunasidir [1].",
-      "Bu shakl uzoq inkubatsiyani va kechki retsidivlarni belgilaydi. Shu sababli uch kunlik bezgakda qo'zg'atuvchining qondan yo'qotilishi to'liq sog'ayishni bildirmaydi, to'liq sog'ayish faqat parazit jigar hujayralaridan ham yo'qotilganda ta'minlanadi [1]."
-    ]},
-    {"heading": "Ovale bezgagi", "content": [
-      "Uslubiy qo'llanmada jigarda mudroq holatga o'tish P. vivax bilan bir qatorda P. ovale sporozoitlari uchun ham bayon etilgan. Protokolda ovale bezgagi uch kunlikka o'xshash shakl sifatida alohida ko'rsatilgan [1, 2].",
-      "StatPearls ma'lumotiga ko'ra P. vivax, P. ovale wallikeri va P. ovale curtisi uch tur dormant jigar gipnozoit bosqichiga ega bo'lishi bilan ajralib turadi. Bu bosqich oylar yoki yillar o'tgach qaytalanuvchi infeksiyani keltirib chiqaradi [4]."
-    ]},
-    {"heading": "Tropik bezgak: uyqudagi shakl yo'q", "content": [
-      "Uslubiy qo'llanmaga ko'ra tropik bezgakda eksoeritrotsitar sikl tugagandan keyin va eritrotsitar shizogoniya boshlanishi bilan parazitlar butun kasallik davomida qonda bo'ladi. Ularning qondan yo'qolishi, ya'ni eliminatsiyasi sog'ayganlikni anglatadi [1].",
-      "Shuningdek, tropik bezgakda eksoeritrotsitar takrorlanishlar bo'lmaydi, faqat eritrotsitar takrorlanishlar mumkin. Demak, tropik bezgak P. falciparum qo'zg'atsa ham, jigarda uyquda saqlanuvchi shakl hosil qilmaydi va uzoq kechki qaytalanish bermaydi [1]."
-    ]},
-    {"heading": "To'rt kunlik bezgak", "content": [
-      "To'rt kunlik bezgak, ya'ni P. malariae qo'zg'atadigan shakl uchun ham uslubiy qo'llanmada xuddi tropik bezgakdagidek parazitning qondan yo'qolishi sog'ayishni bildirishi ko'rsatilgan. Bu jigarda uyquda saqlanuvchi shakl yo'qligini ko'rsatadi [1].",
-      "Protokolda to'rt kunlik bezgak juda kam ro'yxatga olinishi, ammo surunkali kechib, qaytmas nefropatiyaga olib kelishi mumkinligi ko'rsatilgan. Shu sababli jigarda uyqudagi shaklning yo'qligi bu shaklni e'tiborsiz qoldirish uchun asos bo'lmaydi [2]."
-    ]},
-    {"heading": "Aralash va emlangan bezgak", "content": [
-      "Aralash infeksiyada, masalan P. vivax va P. falciparum birga bo'lganda, tropik komponent davolangach, uch kunlik komponent jigardagi gipnozoitlar faollashgandan keyingina namoyon bo'lishi mumkin. Shuning uchun aralash infeksiyada uyqudagi shakl xavfi saqlanadi [4].",
-      "Emlangan, ya'ni shizontli (parenteral) bezgakda to'qima shizogoniyasi bo'lmaydi. Protokolga ko'ra uch kunlik va ovale emlangan bezgak bilan kasallanganlarda jigar hujayralarida gipnozoitlar yo'q, shu sababli primaxin tavsiya etilmaydi [1, 2]."
-    ]},
-    {"heading": "Klinik oqibati", "content": [
-      "Gipnozoitli shakl uch kunlik va ovale bezgagida erta va kechki qaytalanishlarni keltirib chiqaradi. Uslubiy qo'llanmaga ko'ra erta ko'rinishlar taxisporozoitlarga bog'liq, bemorlarning aksariyati esa oylab uxlaydigan gipnozoitlarga o'tuvchi bradisporozoitlarni yuqtiradi [1].",
-      "Bunday holatda inkubatsiya davri uzoq bo'lib, ko'pincha 6 dan 12 oygacha davom etadi. StatPearls ma'lumotiga ko'ra relaps dastlabki zararlanishdan 2 yilgacha vaqt o'tgach yuz berishi mumkin va u boshqa turlardagi rekrudessensiyadan farq qiladi [1, 4]."
-    ]},
-    {"heading": "Davolashga ta'siri", "content": [
-      "Protokolda gematoshizotrop preparat jigar hujayralaridagi gipnozoitlarga ta'sir qilmasligi, shu sababli uch kunlik bezgakni radikal davolash uchun gistoshizotrop primaxin qo'shilishi aytilgan. Primaxin 14 kundan kam qabul qilinsa, retsidiv kuzatiladi [2].",
-      "JSST ham primaxinni P. vivax va P. ovale qaytalanishini oldini olish uchun asosiy davoga qo'shishni tavsiya etadi. StatPearlsga ko'ra primaxin G6PD tanqisligi bo'lgan shaxslarda va homiladorlarda qarshi ko'rsatma hisoblanadi [4, 5]."
-    ]},
-    {"heading": "Aniqlash va profilaktika", "content": [
-      "StatPearls ma'lumotiga ko'ra jigardagi uyqudagi gipnozoit shakli hozirgi diagnostika vositalari bilan aniqlanmaydi. Shuning uchun uch kunlik bezgakda qondagi parazitning yo'qolishi jigar bosqichining yo'qligini isbotlamaydi [4].",
-      "Protokolda kimyoviy profilaktika preparatlarining birortasi ham gipnozoitlarga ta'sir qilmasligi qayd etilgan. Mavsumlararo kimyoviy profilaktika esa jigardagi gipnozoitlar hisobiga uzoq yashirin davrli uch kunlik bezgak bilan ommaviy zararlanishni oldini olish uchun o'tkaziladi [2]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor aniqlangan turni bilgach, gipnozoit xavfini baholashi kerak: P. vivax va P. ovale bo'lsa, qon bosqichidan tashqari jigar bosqichini ham davolash ko'zda tutiladi. P. falciparum va P. malariae uchun bunday zarurat uslubiy qo'llanmaga ko'ra yo'q [1, 2].",
-      "Shu sababli laboratoriya natijasida tur aniq ko'rsatilishi muhim. Standart amaliy muolajada yupqa surtma tur aniqlashda etakchi deb belgilangani ham shuni tasdiqlaydi, chunki turga qarab davo va kuzatuv muddati o'zgaradi [2, 3]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Zoonoz P. knowlesi uchun gipnozoit hosil qilishi ushbu mavzudagi manbalarda tasdiqlanmadi, shuning uchun bu tur haqida uyqudagi shakl bor deb yozilmadi. Uning milliy hujjatlardagi o'rni ham ko'rsatilmagan [5].",
-      "Uslubiy qo'llanma gipnozoit va bradisporozoit atamalarini birga ishlatadi, ularning o'zaro munosabati manbada qisqa bayon etilgan va mavzuda uyqudagi shakl sifatida birgalikda berildi [1]. Qaytalanish davri 7 dan 14 oygacha (uslubiy qo'llanma) va 2 yilgacha (StatPearls) deb keltirilgan, aniq muddat parazit shtammiga bog'liq bo'lishi mumkin [1, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Bezgakning jigarda uyqudagi shakli, ya'ni gipnozoit hosil qiladigan nozologik shakli uch kunlik bezgak (P. vivax), shuningdek uch kunlikka o'xshash ovale bezgagi (P. ovale), tropik va to'rt kunlik bezgakda bunday shakl yo'q, shu sababli uch kunlik bezgakda radikal davo va uzoq kuzatuv zarur [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
-    "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104.",
-    "Relapsing Malaria. StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/sites/books/NBK538333/",
-    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria"
-  ]
+ "number": 27,
+ "title": "27. Bezgakning qaysi nozologik shakli jigarda uyqudagi shakli hisoblanadi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Jigarda uyqudagi, ya'ni mudroq shakl hosil qiladigan bezgak nozologik shakli uch kunlik bezgak bo'lib, uning qo'zg'atuvchisi Plasmodium vivax hisoblanadi. Shu xususiyat ovale bezgagida, ya'ni Plasmodium ovale qo'zg'atadigan uch kunlikka o'xshash shaklda ham mavjud [1, 2].",
+    "Ushbu mavzuda bezgakning nozologik shakllari, uyqudagi shaklning, ya'ni gipnozoitning mohiyati, qaysi shakllarda uchrashi va qaysilarida uchramasligi, bu xususiyatning klinik, davolash va epidemiologik oqibatlari milliy manbalar va JSST ma'lumotlari asosida ko'rib chiqiladi [1, 2, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Bezgakning nozologik shakllari",
+   "content": [
+    "Protokolda bezgak kasalligining to'rtta shakli farqlanadi: uch kunlik, tropik, to'rt kunlik va uch kunlikka o'xshash ovale bezgagi. Ularning qo'zg'atuvchilari mos ravishda P. vivax, P. falciparum, P. malariae va P. ovale hisoblanadi [2].",
+    "JSST ma'lumotiga ko'ra odamda bezgak beradigan beshta tur mavjud: P. falciparum, P. vivax, P. malariae, P. ovale va P. knowlesi. Milliy hujjatlarda dastlabki to'rttasi klassik shakllar sifatida tilga olinadi, shuning uchun masala shu to'rt shakl doirasida yoritiladi [2, 5]."
+   ]
+  },
+  {
+   "heading": "Jigar bosqichi va uyqudagi shakl",
+   "content": [
+    "Barcha turlarda sporozoitlar chivin chaqishi bilan tushgach jigarga borib, gepatotsitlarga kiradi va to'qima, ya'ni eksoeritrotsitar shizogoniyani boshlaydi. Keyin merozoitlar jigardan qonga chiqib, eritrotsitar siklni boshlaydi [1, 4].",
+    "Faqat ayrim turlarda jigarda sporozoit darhol bo'linmasdan mudroq holatda qoladi. Bunday uyqudagi shakl gipnozoit deyiladi, uslubiy qo'llanmada u bradisporozoitlardan hosil bo'lishi ko'rsatilgan. U jigar hujayralarida bo'lib, klinik belgi bermaydi, lekin kasallikning qaytalanishiga sabab bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Uch kunlik bezgak: asosiy shakl",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra P. vivax sporozoitlari jigar hujayralariga kirgach, darhol shizogoniya boshlanishi, ya'ni taxisporozoitlar yoki jigarda bir necha oydan 2 yil va undan ko'proq mudroq holatda bradisporozoit shaklida qolishi mumkin. Shuning uchun uch kunlik bezgak gipnozoitli shaklning klassik namunasidir [1].",
+    "Bu shakl uzoq inkubatsiyani va kechki retsidivlarni belgilaydi. Shu sababli uch kunlik bezgakda qo'zg'atuvchining qondan yo'qotilishi to'liq sog'ayishni bildirmaydi, to'liq sog'ayish faqat parazit jigar hujayralaridan ham yo'qotilganda ta'minlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Ovale bezgagi",
+   "content": [
+    "Uslubiy qo'llanmada jigarda mudroq holatga o'tish P. vivax bilan bir qatorda P. ovale sporozoitlari uchun ham bayon etilgan. Protokolda ovale bezgagi uch kunlikka o'xshash shakl sifatida alohida ko'rsatilgan [1, 2].",
+    "StatPearls ma'lumotiga ko'ra P. vivax, P. ovale wallikeri va P. ovale curtisi uch tur dormant jigar gipnozoit bosqichiga ega bo'lishi bilan ajralib turadi. Bu bosqich oylar yoki yillar o'tgach qaytalanuvchi infeksiyani keltirib chiqaradi [4]."
+   ]
+  },
+  {
+   "heading": "Tropik bezgak: uyqudagi shakl yo'q",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra tropik bezgakda eksoeritrotsitar sikl tugagandan keyin va eritrotsitar shizogoniya boshlanishi bilan parazitlar butun kasallik davomida qonda bo'ladi. Ularning qondan yo'qolishi, ya'ni eliminatsiyasi sog'ayganlikni anglatadi [1].",
+    "Shuningdek, tropik bezgakda eksoeritrotsitar takrorlanishlar bo'lmaydi, faqat eritrotsitar takrorlanishlar mumkin. Demak, tropik bezgak P. falciparum qo'zg'atsa ham, jigarda uyquda saqlanuvchi shakl hosil qilmaydi va uzoq kechki qaytalanish bermaydi [1]."
+   ]
+  },
+  {
+   "heading": "To'rt kunlik bezgak",
+   "content": [
+    "To'rt kunlik bezgak, ya'ni P. malariae qo'zg'atadigan shakl uchun ham uslubiy qo'llanmada xuddi tropik bezgakdagidek parazitning qondan yo'qolishi sog'ayishni bildirishi ko'rsatilgan. Bu jigarda uyquda saqlanuvchi shakl yo'qligini ko'rsatadi [1].",
+    "Protokolda to'rt kunlik bezgak juda kam ro'yxatga olinishi, ammo surunkali kechib, qaytmas nefropatiyaga olib kelishi mumkinligi ko'rsatilgan. Shu sababli jigarda uyqudagi shaklning yo'qligi bu shaklni e'tiborsiz qoldirish uchun asos bo'lmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Aralash va emlangan bezgak",
+   "content": [
+    "Aralash infeksiyada, masalan P. vivax va P. falciparum birga bo'lganda, tropik komponent davolangach, uch kunlik komponent jigardagi gipnozoitlar faollashgandan keyingina namoyon bo'lishi mumkin. Shuning uchun aralash infeksiyada uyqudagi shakl xavfi saqlanadi [4].",
+    "Emlangan, ya'ni shizontli (parenteral) bezgakda to'qima shizogoniyasi bo'lmaydi. Protokolga ko'ra uch kunlik va ovale emlangan bezgak bilan kasallanganlarda jigar hujayralarida gipnozoitlar yo'q, shu sababli primaxin tavsiya etilmaydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Klinik oqibati",
+   "content": [
+    "Gipnozoitli shakl uch kunlik va ovale bezgagida erta va kechki qaytalanishlarni keltirib chiqaradi. Uslubiy qo'llanmaga ko'ra erta ko'rinishlar taxisporozoitlarga bog'liq, bemorlarning aksariyati esa oylab uxlaydigan gipnozoitlarga o'tuvchi bradisporozoitlarni yuqtiradi [1].",
+    "Bunday holatda inkubatsiya davri uzoq bo'lib, ko'pincha 6 dan 12 oygacha davom etadi. StatPearls ma'lumotiga ko'ra relaps dastlabki zararlanishdan 2 yilgacha vaqt o'tgach yuz berishi mumkin va u boshqa turlardagi rekrudessensiyadan farq qiladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Davolashga ta'siri",
+   "content": [
+    "Protokolda gematoshizotrop preparat jigar hujayralaridagi gipnozoitlarga ta'sir qilmasligi, shu sababli uch kunlik bezgakni radikal davolash uchun gistoshizotrop primaxin qo'shilishi aytilgan. Primaxin 14 kundan kam qabul qilinsa, retsidiv kuzatiladi [2].",
+    "JSST ham primaxinni P. vivax va P. ovale qaytalanishini oldini olish uchun asosiy davoga qo'shishni tavsiya etadi. StatPearlsga ko'ra primaxin G6PD tanqisligi bo'lgan shaxslarda va homiladorlarda qarshi ko'rsatma hisoblanadi [4, 5]."
+   ]
+  },
+  {
+   "heading": "Aniqlash va profilaktika",
+   "content": [
+    "StatPearls ma'lumotiga ko'ra jigardagi uyqudagi gipnozoit shakli hozirgi diagnostika vositalari bilan aniqlanmaydi. Shuning uchun uch kunlik bezgakda qondagi parazitning yo'qolishi jigar bosqichining yo'qligini isbotlamaydi [4].",
+    "Protokolda kimyoviy profilaktika preparatlarining birortasi ham gipnozoitlarga ta'sir qilmasligi qayd etilgan. Mavsumlararo kimyoviy profilaktika esa jigardagi gipnozoitlar hisobiga uzoq yashirin davrli uch kunlik bezgak bilan ommaviy zararlanishni oldini olish uchun o'tkaziladi [2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor aniqlangan turni bilgach, gipnozoit xavfini baholashi kerak: P. vivax va P. ovale bo'lsa, qon bosqichidan tashqari jigar bosqichini ham davolash ko'zda tutiladi. P. falciparum va P. malariae uchun bunday zarurat uslubiy qo'llanmaga ko'ra yo'q [1, 2].",
+    "Shu sababli laboratoriya natijasida tur aniq ko'rsatilishi muhim. Standart amaliy muolajada yupqa surtma tur aniqlashda etakchi deb belgilangani ham shuni tasdiqlaydi, chunki turga qarab davo va kuzatuv muddati o'zgaradi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Bezgakning jigarda uyqudagi shakli, ya'ni gipnozoit hosil qiladigan nozologik shakli uch kunlik bezgak (P. vivax), shuningdek uch kunlikka o'xshash ovale bezgagi (P. ovale), tropik va to'rt kunlik bezgakda bunday shakl yo'q, shu sababli uch kunlik bezgakda radikal davo va uzoq kuzatuv zarur [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+  "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104.",
+  "Relapsing Malaria. StatPearls, NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/sites/books/NBK538333/",
+  "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria"
+ ]
 }

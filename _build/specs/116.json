@@ -1,125 +1,118 @@
 {
-  "number": 116,
-  "title": "116. Fassiolyozning profilaktikasi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Fassiolyoz zoonoz bo'lgani uchun uning profilaktikasi faqat bemorni davolash bilan cheklanmaydi, chunki xavf suv, o'simlik va hayvonlar zanjirida saqlanib qoladi. Milliy yo'riqnomada kasallikka qarshi kurash sog'liqni saqlash vazirligi va veterinariya xizmatining asosiy muammosi deb ta'riflangan [1, 5].",
-        "Mavzuda profilaktika choralari ketma-ket ko'rib chiqiladi: manbani aniqlash, ko'kat va suv bilan bog'liq shaxsiy choralar, veterinariya tadbirlari, epidemiologik tekshiruv, sanitariya-gelmintologik nazorat, ma'rifiy ish va JSST tavsiyalari. Oxirida tasdiqlanmagan jihatlar alohida ko'rsatiladi [1, 2, 4]."
-      ]
-    },
-    {
-      "heading": "Profilaktikaning asosiy tamoyili",
-      "content": [
-        "Fassiolyozga qarshi kurash invaziya manbasi bo'lgan hayvonlarni, yuqish omillari bo'lgan suv va ko'katni hamda xavf ostidagi odamni bir vaqtda qamrab olishi kerak. Shu sababli tadbirlar tibbiyot va veterinariya xizmatlari hamkorligida, hududning o'ziga xosligini hisobga olib rejalashtiriladi [1, 2].",
-        "JSST oziq-ovqat orqali yuqadigan trematodozlarda bir sog'liq yondashuvini tavsiya etadi, ya'ni inson, hayvon va atrof-muhit tomonlari bog'lanadi. Unda ma'lumot berish va ta'lim, sanitariyani yaxshilash hamda veterinariya choralari bilan yuqish va xavf pasaytiriladi [5]."
-      ]
-    },
-    {
-      "heading": "Manbani aniqlash va bemorni davolash",
-      "content": [
-        "Dalton kitobida sporadik holatlar uchrayotgan hududlarda tashxisdan keyin samarali davolash o'tkazilishi, shu bilan birga zararlanish manbasi darhol aniqlanishi kerakligi yozilgan. Aks holda xuddi shu ko'kat yoki suv orqali boshqa odamlar ham zararlanishi mumkin [2].",
-        "JSST tasdiqlangan holatlarni davolash, endemik hududda esa shubhali holatlarni ham davolashni tavsiya qiladi. JSST fassiolyozni triklabendazol bilan davolashni tavsiya etadi, ammo milliy bayonnomadagi sxema bu yerda tekshirilmagani uchun doza keltirilmaydi [5]."
-      ]
-    },
-    {
-      "heading": "Ko'katlarni yuvish va qayta ishlash",
-      "content": [
-        "Salat uchun mo'ljallangan ko'katlarni oddiy oqar suvda yuvish yetarli emas, chunki lichinka o'simlik yuzasiga mahkam yopishgan. Dalton kitobida sirka va kaliy permanganat bilan yuvish tavsiya etilgan, lekin ularning konsentratsiyasi manbada ko'rsatilmaganligi sababli bu yerda keltirilmaydi [2].",
-        "Yo'riqnomada tomorqa ko'katlari, salat o'tlari va sho'vulni yuvmasdan iste'mol qilmaslik asosiy shaxsiy qoida sifatida ko'rsatilgan. Bunday ko'katni xom holda yemaslik, yovvoyi o'simlikni esa umuman xom yemaslik atlasda ham tavsiya etilgan [1, 3]."
-      ]
-    },
-    {
-      "heading": "Ichimlik va maishiy suv",
-      "content": [
-        "Darslikda profilaktikaning asosi suv ta'minoti tizimini tartibga keltirish va aholining sanitariya-gigiyena madaniyatini oshirishdir. Turg'un yoki sekin oqadigan suv havzasidan ichish va maishiy ehtiyojda foydalanish uchun suvni qaynatish talab qilinadi [4].",
-        "Atlasda shaxsiy profilaktika sifatida ochiq suv havzalaridan, ayniqsa mol boqiladigan joylarda xom suv ichmaslik ko'rsatilgan. Dalton kitobiga ko'ra tabiiy suvda suzib yuruvchi lichinkalar bo'lishi mumkin, shuning uchun bu qoida endemik hududlarda alohida ahamiyatli [2, 3]."
-      ]
-    },
-    {
-      "heading": "Suv ko'kati va sotuvdagi mahsulot nazorati",
-      "content": [
-        "Dalton kitobida metaserkariy tashuvchi suv o'simliklarining inson iste'moliga mo'ljallangan qismi qat'iy nazorat qilinishi kerakligi yozilgan. Suv ko'katini tijorat maqsadida o'stirish to'liq nazorat ostidagi sharoitda olib borilishi lozimligi ham alohida ta'kidlangan [2].",
-        "Bu choralar ayniqsa ko'katlar bozorga uzoq masofadan olib kelinadigan hududlarda muhim. Chunki zararlangan mahsulot o'choqdan tashqarida yashovchi odamga ham yetib borishi mumkin va epidemiologik tekshiruvda sotib olingan mahsulot manbasi aniqlanishi kerak bo'ladi [2]."
-      ]
-    },
-    {
-      "heading": "Veterinariya tadbirlari",
-      "content": [
-        "Atlasda jamoat profilaktikasi asosan hayvonlar fassiolyoziga qarshi veterinariya tadbirlariga tayanishi aytilgan. Darslikda esa qishloq xo'jalik hayvonlarini bahorda degelmintizatsiya qilish pichan va yaylovlarni fassiola tuxumi bilan ifloslanishdan saqlaydigan chora sifatida tavsiya etilgan [3, 4].",
-        "Milliy yo'riqnomada yaylovlarda veterinariya xizmati tomonidan tegishli kurash ishlari olib borilishi qayd etilgan. Odam kasalligi qayd etilganda sog'liqni saqlash tizimi ma'lumotni veterinariya xizmatiga yuboradi, shu bilan hayvonlar o'rtasidagi o'choq ham tekshiriladi [1]."
-      ]
-    },
-    {
-      "heading": "Epidemiologik tekshiruv va xabarnoma",
-      "content": [
-        "Har bir holat bo'yicha DSENMga tezkor xabarnoma (shakl 058/u) beriladi, DSENM mutaxassislari esa veterinariya xizmatini xabardor qiladi. Tuman yoki shahar DSENMi mutaxassislari 24 soat ichida fassiolyoz bo'yicha birgalikda tekshiruv o'tkazadi va yuqumli kasallik o'chog'ini epidemiologik tekshirish kartasi to'ldiriladi [1].",
-        "Shundan keyin o'choqda chora-tadbirlar o'tkaziladi. Parazitolog kichik o'choqda kuzatish davomida yuqish yo'llari xom meva, sabzavot, yashil o'simliklar va suv havzalari bo'lishi mumkinligini hisobga olishi shart, bu tekshiruvning yo'nalishini aniqlab beradi [1]."
-      ]
-    },
-    {
-      "heading": "Sanitariya-gelmintologik nazorat",
-      "content": [
-        "Yo'riqnomada o'choqda yuqish yo'llari xom meva, sabzavot, yashil o'simlik va suv havzalari bo'lishi mumkinligidan tashqi muhit namunalarini sanitariya-gelmintologik tahlilga olish zarurligi ko'rsatilgan. Bu ko'kat, suv va atrof namunalardagi invazion bosqichni topish imkonini beradi [1].",
-        "Nazorat natijasi faqat bemorni emas, o'choqning o'zini ham baholashga yordam beradi. Mantiqan, agar tashqi muhitdan lichinka aniqlanmasa, ammo bemor topilgan bo'lsa, manba boshqa joyda, masalan sotib olingan mahsulotda bo'lishi mumkin [1, 2]."
-      ]
-    },
-    {
-      "heading": "Xom jigar va oziq-ovqat gigiyenasi",
-      "content": [
-        "Dalton kitobida yetilmagan qurtlar bor yangi jigardan tayyorlangan xom taomlar ham odamni zararlashi mumkinligi tajriba ma'lumotlari asosida aytilgan. Shu sababli hayvon jigarini xom yoki yetarli pishirilmagan holda iste'mol qilmaslik profilaktik qoidalar qatoriga kiradi [2].",
-        "Jigar yeyish tashxisga ham ta'sir qiladi: najasda tranzit tuxumlar paydo bo'ladi va noto'g'ri tashxis xavfi tug'iladi. Atlasda tekshiruvdan bir kun oldin mol jigarini ovqatdan chiqarish tavsiya etilgan, bu esa keraksiz davolashning oldini oladi [1, 3]."
-      ]
-    },
-    {
-      "heading": "Aholini ma'rifiy ish orqali o'qitish",
-      "content": [
-        "Dalton kitobida endemik hududlarda aholini kasallik, uning yuqish yo'li va xavfi haqida tegishli tarzda xabardor qilish zarurligi qayd etilgan. Chunki parazit va mollyuska muhitga moslashib turadi, shuning uchun usullar har bir hudud sharoitiga qarab belgilanishi lozim [2].",
-        "JSST ham xavfsiz oziq-ovqat odatlari, sanitariya va veterinariya choralari haqida axborot, ta'lim va aloqani tavsiya etadi. Ma'rifiy ish dori choralari bilan almashtirilmaydi, aksincha ularni to'ldiradi va qayta zararlanishni kamaytiradi [5]."
-      ]
-    },
-    {
-      "heading": "Jamoaviy kimyoprofilaktika va uning chegarasi",
-      "content": [
-        "JSST fassiolyoz holatlari jamlangan hudud, qishloq yoki jamoada barcha 5-14 yoshdagi maktab yoshidagi bolalarni yoki barcha aholini har 12 oyda davolashni tavsiya etadi. Bu strategiya kasallik og'irligini kamaytirish uchun mo'ljallangan va individual tashxisni talab qilmaydi [5].",
-        "Shu bilan birga JSST faqat profilaktik kimyoterapiya bilan tarqalishni kamaytirib bo'lmasligini ta'kidlaydi, chunki yomon sanitariya, hayvon rezervuarlari va ovqatlanish odatlari qayta zararlanishga olib keladi. Dori dasturi kengroq bir sog'liq choralari bilan birga amalga oshirilishi kerak [5]."
-      ]
-    },
-    {
-      "heading": "Davolangandan keyin kuzatuv",
-      "content": [
-        "Laboratoriya yo'riqnomasiga ko'ra biogelmintozlarda davolangandan 3-4-5 oy o'tgach, dispanser kuzatuvi davomida kamida uch marta najas tekshiriladi. Bu qoida fassiolyozga alohida yozilmagan, lekin parazitolog uni biogelmintozlarga umumiy talab sifatida qo'llashi mumkin [6].",
-        "Atlasda tuxum tekshiruvi kasallikning 12-haftasidan keyin tavsiya etilgan, darslikda esa najasdagi tuxum soni oz bo'lgani uchun tashxis qiyin ekani yozilgan. Shu sababli tekshiruvlar takrorlanadi va tranzit tuxum ehtimoli hisobga olinadi [3, 4]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Parazitolog profilaktikada uch vazifani bajaradi: bemorni to'g'ri aniqlaydi, yuqish manbasini topadi va ma'lumotni veterinariya xizmatiga uzatadi. Bu zanjirdagi har bir bo'g'in uzilsa, bitta bemor aniqlanishi yangi zararlanishlarning oldini olmaydi [1, 5].",
-        "Shifokor aholiga kundalik tavsiyalarni aniq berishi kerak: ko'katni yuvishga e'tibor berish, ochiq suvni qaynatmasdan ichmaslik va xom jigar yemaslik. Bunday tushuntirish xavfsizlikning eng arzon, ammo zarur qismi hisoblanadi [2, 4]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda O'zbekiston uchun fassiolyozga qarshi maxsus milliy dastur, jamoaviy kimyoprofilaktika joriy etilgani yoki hudud bo'yicha joriy kasallanish ko'rsatkichlari tasdiqlanmadi. Dozalar ham milliy bayonnoma bilan bu yerda solishtirilmadi, shu sababli keltirilmaydi [1, 5].",
-        "Sirka va kaliy permanganat bilan yuvishning konsentratsiyasi va ekspozitsiyasi Dalton kitobida ko'rsatilmagan. Yo'riqnomadagi yaylov ishlariga oid ibora ham aniq izohlanmagan, shu sababli mollyuskalarga qarshi kurash usullari haqida aniq xulosa yozilmadi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Fassiolyoz profilaktikasi manbani aniqlash va davolash, ko'katni yuvish, ochiq suvni qaynatish, veterinariya tadbirlari, epidemiologik hamda sanitariya-gelmintologik nazorat va ma'rifiy ishni qamrab oladi. JSST yondashuviga ko'ra bu choralar faqat dori bilan emas, bir sog'liq doirasida birga olib borilganda samarali bo'ladi [1, 2, 5]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Dalton J.P. (ed.). Fasciolosis. Wallingford: CABI Publishing, 1999 (shu jumladan Mas-Coma S., Bargues M.D., Esteban J.G. Human fasciolosis). xayrullokomilov.uz/kutubxona, material ID 1534.",
-    "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521."
-  ]
+ "number": 116,
+ "title": "116. Fassiolyozning profilaktikasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Fassiolyoz zoonoz bo'lgani uchun uning profilaktikasi faqat bemorni davolash bilan cheklanmaydi, chunki xavf suv, o'simlik va hayvonlar zanjirida saqlanib qoladi. Milliy yo'riqnomada kasallikka qarshi kurash sog'liqni saqlash vazirligi va veterinariya xizmatining asosiy muammosi deb ta'riflangan [1, 5].",
+    "Mavzuda profilaktika choralari ketma-ket ko'rib chiqiladi: manbani aniqlash, ko'kat va suv bilan bog'liq shaxsiy choralar, veterinariya tadbirlari, epidemiologik tekshiruv, sanitariya-gelmintologik nazorat, ma'rifiy ish va JSST tavsiyalari [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Profilaktikaning asosiy tamoyili",
+   "content": [
+    "Fassiolyozga qarshi kurash invaziya manbasi bo'lgan hayvonlarni, yuqish omillari bo'lgan suv va ko'katni hamda xavf ostidagi odamni bir vaqtda qamrab olishi kerak. Shu sababli tadbirlar tibbiyot va veterinariya xizmatlari hamkorligida, hududning o'ziga xosligini hisobga olib rejalashtiriladi [1, 2].",
+    "JSST oziq-ovqat orqali yuqadigan trematodozlarda bir sog'liq yondashuvini tavsiya etadi, ya'ni inson, hayvon va atrof-muhit tomonlari bog'lanadi. Unda ma'lumot berish va ta'lim, sanitariyani yaxshilash hamda veterinariya choralari bilan yuqish va xavf pasaytiriladi [5]."
+   ]
+  },
+  {
+   "heading": "Manbani aniqlash va bemorni davolash",
+   "content": [
+    "Dalton kitobida sporadik holatlar uchrayotgan hududlarda tashxisdan keyin samarali davolash o'tkazilishi, shu bilan birga zararlanish manbasi darhol aniqlanishi kerakligi yozilgan. Aks holda xuddi shu ko'kat yoki suv orqali boshqa odamlar ham zararlanishi mumkin [2].",
+    "JSST tasdiqlangan holatlarni davolash, endemik hududda esa shubhali holatlarni ham davolashni tavsiya qiladi. JSST fassiolyozni triklabendazol bilan davolashni tavsiya etadi, ammo milliy bayonnomadagi sxema bu yerda tekshirilmagani uchun doza keltirilmaydi [5]."
+   ]
+  },
+  {
+   "heading": "Ko'katlarni yuvish va qayta ishlash",
+   "content": [
+    "Salat uchun mo'ljallangan ko'katlarni oddiy oqar suvda yuvish yetarli emas, chunki lichinka o'simlik yuzasiga mahkam yopishgan. Dalton kitobida sirka va kaliy permanganat bilan yuvish tavsiya etilgan, lekin ularning konsentratsiyasi manbada ko'rsatilmaganligi sababli bu yerda keltirilmaydi [2].",
+    "Yo'riqnomada tomorqa ko'katlari, salat o'tlari va sho'vulni yuvmasdan iste'mol qilmaslik asosiy shaxsiy qoida sifatida ko'rsatilgan. Bunday ko'katni xom holda yemaslik, yovvoyi o'simlikni esa umuman xom yemaslik atlasda ham tavsiya etilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Ichimlik va maishiy suv",
+   "content": [
+    "Darslikda profilaktikaning asosi suv ta'minoti tizimini tartibga keltirish va aholining sanitariya-gigiyena madaniyatini oshirishdir. Turg'un yoki sekin oqadigan suv havzasidan ichish va maishiy ehtiyojda foydalanish uchun suvni qaynatish talab qilinadi [4].",
+    "Atlasda shaxsiy profilaktika sifatida ochiq suv havzalaridan, ayniqsa mol boqiladigan joylarda xom suv ichmaslik ko'rsatilgan. Dalton kitobiga ko'ra tabiiy suvda suzib yuruvchi lichinkalar bo'lishi mumkin, shuning uchun bu qoida endemik hududlarda alohida ahamiyatli [2, 3]."
+   ]
+  },
+  {
+   "heading": "Suv ko'kati va sotuvdagi mahsulot nazorati",
+   "content": [
+    "Dalton kitobida metaserkariy tashuvchi suv o'simliklarining inson iste'moliga mo'ljallangan qismi qat'iy nazorat qilinishi kerakligi yozilgan. Suv ko'katini tijorat maqsadida o'stirish to'liq nazorat ostidagi sharoitda olib borilishi lozimligi ham alohida ta'kidlangan [2].",
+    "Bu choralar ayniqsa ko'katlar bozorga uzoq masofadan olib kelinadigan hududlarda muhim. Chunki zararlangan mahsulot o'choqdan tashqarida yashovchi odamga ham yetib borishi mumkin va epidemiologik tekshiruvda sotib olingan mahsulot manbasi aniqlanishi kerak bo'ladi [2]."
+   ]
+  },
+  {
+   "heading": "Veterinariya tadbirlari",
+   "content": [
+    "Atlasda jamoat profilaktikasi asosan hayvonlar fassiolyoziga qarshi veterinariya tadbirlariga tayanishi aytilgan. Darslikda esa qishloq xo'jalik hayvonlarini bahorda degelmintizatsiya qilish pichan va yaylovlarni fassiola tuxumi bilan ifloslanishdan saqlaydigan chora sifatida tavsiya etilgan [3, 4].",
+    "Milliy yo'riqnomada yaylovlarda veterinariya xizmati tomonidan tegishli kurash ishlari olib borilishi qayd etilgan. Odam kasalligi qayd etilganda sog'liqni saqlash tizimi ma'lumotni veterinariya xizmatiga yuboradi, shu bilan hayvonlar o'rtasidagi o'choq ham tekshiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik tekshiruv va xabarnoma",
+   "content": [
+    "Har bir holat bo'yicha DSENMga tezkor xabarnoma (shakl 058/u) beriladi, DSENM mutaxassislari esa veterinariya xizmatini xabardor qiladi. Tuman yoki shahar DSENMi mutaxassislari 24 soat ichida fassiolyoz bo'yicha birgalikda tekshiruv o'tkazadi va yuqumli kasallik o'chog'ini epidemiologik tekshirish kartasi to'ldiriladi [1].",
+    "Shundan keyin o'choqda chora-tadbirlar o'tkaziladi. Parazitolog kichik o'choqda kuzatish davomida yuqish yo'llari xom meva, sabzavot, yashil o'simliklar va suv havzalari bo'lishi mumkinligini hisobga olishi shart, bu tekshiruvning yo'nalishini aniqlab beradi [1]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-gelmintologik nazorat",
+   "content": [
+    "Yo'riqnomada o'choqda yuqish yo'llari xom meva, sabzavot, yashil o'simlik va suv havzalari bo'lishi mumkinligidan tashqi muhit namunalarini sanitariya-gelmintologik tahlilga olish zarurligi ko'rsatilgan. Bu ko'kat, suv va atrof namunalardagi invazion bosqichni topish imkonini beradi [1].",
+    "Nazorat natijasi faqat bemorni emas, o'choqning o'zini ham baholashga yordam beradi. Mantiqan, agar tashqi muhitdan lichinka aniqlanmasa, ammo bemor topilgan bo'lsa, manba boshqa joyda, masalan sotib olingan mahsulotda bo'lishi mumkin [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xom jigar va oziq-ovqat gigiyenasi",
+   "content": [
+    "Dalton kitobida yetilmagan qurtlar bor yangi jigardan tayyorlangan xom taomlar ham odamni zararlashi mumkinligi tajriba ma'lumotlari asosida aytilgan. Shu sababli hayvon jigarini xom yoki yetarli pishirilmagan holda iste'mol qilmaslik profilaktik qoidalar qatoriga kiradi [2].",
+    "Jigar yeyish tashxisga ham ta'sir qiladi: najasda tranzit tuxumlar paydo bo'ladi va noto'g'ri tashxis xavfi tug'iladi. Atlasda tekshiruvdan bir kun oldin mol jigarini ovqatdan chiqarish tavsiya etilgan, bu esa keraksiz davolashning oldini oladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Aholini ma'rifiy ish orqali o'qitish",
+   "content": [
+    "Dalton kitobida endemik hududlarda aholini kasallik, uning yuqish yo'li va xavfi haqida tegishli tarzda xabardor qilish zarurligi qayd etilgan. Chunki parazit va mollyuska muhitga moslashib turadi, shuning uchun usullar har bir hudud sharoitiga qarab belgilanishi lozim [2].",
+    "JSST ham xavfsiz oziq-ovqat odatlari, sanitariya va veterinariya choralari haqida axborot, ta'lim va aloqani tavsiya etadi. Ma'rifiy ish dori choralari bilan almashtirilmaydi, aksincha ularni to'ldiradi va qayta zararlanishni kamaytiradi [5]."
+   ]
+  },
+  {
+   "heading": "Jamoaviy kimyoprofilaktika va uning chegarasi",
+   "content": [
+    "JSST fassiolyoz holatlari jamlangan hudud, qishloq yoki jamoada barcha 5-14 yoshdagi maktab yoshidagi bolalarni yoki barcha aholini har 12 oyda davolashni tavsiya etadi. Bu strategiya kasallik og'irligini kamaytirish uchun mo'ljallangan va individual tashxisni talab qilmaydi [5].",
+    "Shu bilan birga JSST faqat profilaktik kimyoterapiya bilan tarqalishni kamaytirib bo'lmasligini ta'kidlaydi, chunki yomon sanitariya, hayvon rezervuarlari va ovqatlanish odatlari qayta zararlanishga olib keladi. Dori dasturi kengroq bir sog'liq choralari bilan birga amalga oshirilishi kerak [5]."
+   ]
+  },
+  {
+   "heading": "Davolangandan keyin kuzatuv",
+   "content": [
+    "Laboratoriya yo'riqnomasiga ko'ra biogelmintozlarda davolangandan 3-4-5 oy o'tgach, dispanser kuzatuvi davomida kamida uch marta najas tekshiriladi. Bu qoida fassiolyozga alohida yozilmagan, lekin parazitolog uni biogelmintozlarga umumiy talab sifatida qo'llashi mumkin [6].",
+    "Atlasda tuxum tekshiruvi kasallikning 12-haftasidan keyin tavsiya etilgan, darslikda esa najasdagi tuxum soni oz bo'lgani uchun tashxis qiyin ekani yozilgan. Shu sababli tekshiruvlar takrorlanadi va tranzit tuxum ehtimoli hisobga olinadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog profilaktikada uch vazifani bajaradi: bemorni to'g'ri aniqlaydi, yuqish manbasini topadi va ma'lumotni veterinariya xizmatiga uzatadi. Bu zanjirdagi har bir bo'g'in uzilsa, bitta bemor aniqlanishi yangi zararlanishlarning oldini olmaydi [1, 5].",
+    "Shifokor aholiga kundalik tavsiyalarni aniq berishi kerak: ko'katni yuvishga e'tibor berish, ochiq suvni qaynatmasdan ichmaslik va xom jigar yemaslik. Bunday tushuntirish xavfsizlikning eng arzon, ammo zarur qismi hisoblanadi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Fassiolyoz profilaktikasi manbani aniqlash va davolash, ko'katni yuvish, ochiq suvni qaynatish, veterinariya tadbirlari, epidemiologik hamda sanitariya-gelmintologik nazorat va ma'rifiy ishni qamrab oladi. JSST yondashuviga ko'ra bu choralar faqat dori bilan emas, bir sog'liq doirasida birga olib borilganda samarali bo'ladi [1, 2, 5]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Dalton J.P. (ed.). Fasciolosis. Wallingford: CABI Publishing, 1999 (shu jumladan Mas-Coma S., Bargues M.D., Esteban J.G. Human fasciolosis). xayrullokomilov.uz/kutubxona, material ID 1534.",
+  "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521."
+ ]
 }

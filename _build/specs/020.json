@@ -1,76 +1,117 @@
 {
-  "number": 20,
-  "title": "20. Uch kunlik bezgakning klinika va asoratining ehtimoli.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Uch kunlik bezgak Plasmodium vivax qo'zg'atadigan, Anopheles chivinlari chaqishi orqali yuqadigan protozoy antropoz kasallik bo'lib, davriy isitma, qaltirash, kamqonlik, taloq va jigar kattalashuvi hamda qaytalanishga moyillik bilan kechadi. Uning klinikasini bilish ham tashxisni erta qo'yish, ham asoratlar xavfini baholash uchun zarur [2].",
-      "Ushbu mavzuda kasallikning inkubatsiya davri, boshlanishi, xuruj bosqichlari, kamqonlik va organ o'zgarishlari, qaytalanish turlari, og'irlik mezonlari hamda asoratlar ehtimoli milliy hujjatlar asosida ketma-ket ko'rib chiqiladi. Yakunda parazitolog-shifokor uchun amaliy xulosalar beriladi [1, 2, 3]."
-    ]},
-    {"heading": "Qo'zg'atuvchi va klinik shakllanish asosi", "content": [
-      "Uslubiy qo'llanmaga ko'ra bezgakning klinik belgilari, ya'ni isitma, kamqonlik, jigar va taloq kattalashuvi, faqat eritrotsitar shizogoniya bilan bog'liq. Jigardagi eksoeritrotsitar rivojlanish, «uyqu» holati va gametotsitogoniya hech qanday klinik belgisiz kechadi [1].",
-      "Eritrotsitar shizogoniya davrida organizmda ko'p miqdorda antigenlar ajralib chiqadi va bu immunologik nomuvofiqlikni yuzaga keltiradi. Zid ta'sir merozoitlar eritrotsitlardan chiqayotgan paytda ayniqsa yaqqol bo'ladi, shu sababli klinik manzara xurujlar tarzida namoyon bo'ladi [1]."
-    ]},
-    {"heading": "Inkubatsiya davri", "content": [
-      "Uch kunlik bezgakda yashirin davr ikki xil bo'lishi mumkin. Taxisporozoitlar bilan zararlanganda qisqa inkubatsiyadan keyin kasallik 14 dan 16 kungacha, kam hollarda 10 kunda boshlanadi. Aksariyat bemorlar esa jigarda oylab uxlaydigan bradisporozoitlarni yuqtiradi [1].",
-      "Bunday holatda uzoq inkubatsiya kuzatiladi va u ko'pincha 6 dan 12 oygacha davom etadi. Shu sababli uch kunlik bezgak mavsumdan tashqari vaqtda ham birlamchi kasallik ko'rinishida namoyon bo'lishi mumkin va bu tashxisda e'tiborga olinishi kerak [1]."
-    ]},
-    {"heading": "Kasallikning boshlanishi", "content": [
-      "Uch kunlik bezgakda belgilar to'satdan, tana haroratining ko'tarilishi bilan boshlanadi, shuning uchun bemor kasallik boshlangan vaqtni daqiqagacha aniq aytib bera oladi. Ko'pincha bosh og'rig'i va ko'z olmasini harakatlantirganda og'riq qo'shiladi [1].",
-      "Tana harorati juda yuqori ko'tarilganda bemorning hushi chalkashishi yoki alahsirashi mumkin. Bu o'zgarishlar isitma balandligi bilan bog'liq vaqtinchalik holat sifatida bayon etilgan va xuruj tugagach bemorning ahvoli odatda qoniqarli yoki yaxshi bo'ladi [1]."
-    ]},
-    {"heading": "Xuruj bosqichlari", "content": [
-      "Bezgak xuruji nisbatan qisqa, ya'ni 4 dan 8 soatgacha davom etadi va titroq, isitma hamda terlash fazalarining aniq ketma-ketligi bilan namoyon bo'ladi. Birinchi fazada bemor o'zini yomon his qiladi, keyingi isitma fazasida esa evforiya holati yuzaga kelishi mumkin [1].",
-      "Parazitlarning bir vaqtda, ya'ni sinxron rivojlanishi ko'proq uch kunlik bezgakka xos. Sinxronlik immunitet rivojlanishi bilan kuchayadi, shuning uchun xurujlarning ketma-ket kelishi aynan shu shakl uchun xarakterli belgi hisoblanadi [1]."
-    ]},
-    {"heading": "Xurujlar ritmi", "content": [
-      "Keyingi xuruj oldingisidan aniq ikki kun o'tgach kelishi ba'zan kasallikning boshidanoq kuzatiladi. Ko'pincha esa dastlab ritm buziladi: xuruj 48 soatdan oldin yoki keyin kelishi, qisqa «mitigir» xurujlar bo'lishi mumkin [1].",
-      "Kasallikning ikkinchi haftasida xurujlarda doimiylik yuzaga keladi va bemor hatto xuruj vaqtini oldindan sezib, unga tayyorlanadi. Shu sababli birinchi kunlarda ritmning yo'qligi uch kunlik bezgakni inkor etish uchun asos bo'la olmaydi [1]."
-    ]},
-    {"heading": "Kamqonlik, taloq va jigar o'zgarishlari", "content": [
-      "Kamqonlik belgilari kasallikning ikkinchi va uchinchi haftalaridan boshlab namoyon bo'ladi, shu davrda taloq ham kattalashadi. Davolanmagan bemorda xurujlar oralig'ida ahvol yomonlashadi, darmonsizlik va toliqish kuzatiladi [1].",
-      "Eritrotsitar shizogoniyani to'xtatuvchi maxsus davo erta o'tkazilsa, bemorning ahvoli tez yaxshilanadi. Davo vaqtida navbatdagi xuruj bo'lishi mumkin, ammo u oxirgisi bo'ladi. Davolash bayonnomasida jigar va taloq kattalashuvi ham kasallikning tavsifiy belgilari qatorida keltirilgan [1, 2]."
-    ]},
-    {"heading": "Qaytalanishlar: erta va kechki", "content": [
-      "Uch kunlik bezgakda birlamchi xurujdan 14 dan 16 kunda yoki bir necha oy, hatto yil o'tgach erta va kechki ko'rinishlar kuzatilishi mumkin. Erta ko'rinishlar taxisporozoitlarga bog'liq, kechkilari esa jigarda uxlab yotgan gipnozoitlarning faollashuvi bilan izohlanadi [1].",
-      "Bemor bir vaqtda taxi- va bradisporozoitlarni yuqtirsa, ikkala yo'nalish bir-biriga bog'liq bo'lmagan holda rivojlanadi. Avval qisqa inkubatsiyadan keyingi xurujlar, so'ng qonda parazit bo'lmaydigan uzoq yashirin davr, undan keyin kechki xurujlar yuzaga keladi [1]."
-    ]},
-    {"heading": "Qaytalanish turlari", "content": [
-      "Qaytalanish kelib chiqishiga ko'ra eksoeritrotsitar yoki eritrotsitar bo'ladi. Eksoeritrotsitar qaytalanishda xuruj tugagach qayta xurujgacha qonda parazit bo'lmaydi, eritrotsitar qaytalanishda esa parazitemiya to'xtamaydi, faqat pirogen yoki aniqlanish bo'sag'asidan past bo'ladi [1].",
-      "Eksoeritrotsitar qaytalanishning muddati makroorganizm holatiga emas, parazit xususiyatlariga bog'liq. Eritrotsitar qaytalanish esa immunitet to'liq rivojlanmagani va davo sifati pastligi natijasida yuzaga keladi. Ko'rinishiga qarab klinik va parazitar qaytalanishlar farqlanadi [1]."
-    ]},
-    {"heading": "Og'irlik mezonlari", "content": [
-      "Davolash bayonnomasida uch kunlik bezgak og'irligini baholash mezonlari sifatida qalin tomchida 5000 dan ortiq plazmodiy, kamqonlik, taloq va jigar kattalashuvi, jigar funksiyasidagi o'zgarishlar hamda bemorning dori vositalarini og'iz orqali qabul qila olmasligi keltirilgan [2].",
-      "Shu sababli uch kunlik bezgakning barcha bemorlari shifoxonada davolanishi belgilangan. Milliy yo'riqnomada esa asoratlanmagan uch kunlik bezgak bilan og'rigan bemorlarni tibbiy xodim nazorati ostida uy sharoitida davolash mumkinligi ham ko'rsatilgan, bu holat farq sifatida e'tiborga olinadi [2, 4]."
-    ]},
-    {"heading": "Asoratlar ehtimoli", "content": [
-      "Uslubiy qo'llanmada bezgakning og'ir kechishi mezonlari, ya'ni ruhiy holat o'zgarishi, koma, anuriya, og'ir kamqonlik, gipoglikemiya, qon ketishga moyillik va juda yuqori parazitemiya tropik bezgak bo'limida keltirilgan. Uch kunlik bezgak bo'limida esa bunday asoratlar sanab o'tilmagan [1].",
-      "Protokolga ko'ra tropik bezgak eng xavfli shakl hisoblanadi, uning asoratlangan va asoratlanmagan turlari mavjud. Shu asosda uch kunlik bezgakda og'ir asorat xavfi tropik shaklga qaraganda past deb baholanadi, biroq milliy manbalarda buning aniq foiz ko'rsatkichi berilmagan [1, 3]."
-    ]},
-    {"heading": "Homilador ayollarda xavf", "content": [
-      "Protokolning uch kunlik bezgakni davolash bo'limida homilador ayollarda ikkinchi va uchinchi trimestrda o'pka shishi va gipoglikemiya kabi og'ir asoratlar ehtimoli yuqori bo'lishi qayd etilgan. Homila hayoti ham xavf ostida qoladi [3].",
-      "Birinchi trimestrda bezgakka qarshi dori vositalarini qabul qilish homilaning normal rivojlanishiga xavf solishi mumkin. Shu sababli homilador ayollarda bezgakni davolash shifokordan o'ta diqqat va e'tibor talab qiladi [3]."
-    ]},
-    {"heading": "Davo va qaytalanish xavfi", "content": [
-      "Protokolga ko'ra gematoshizotrop preparat jigar hujayralaridagi gipnozoitlarga ta'sir qilmaydi, shuning uchun bu davo bemorning butunlay sog'ayishiga kafolat bermaydi. Radikal davo uchun gistoshizotrop preparat primaxin qo'shimcha tayinlanadi, kursni to'liq tugatish qaytalanishning oldini oladi [3].",
-      "Primaxin kursini 14 kundan kam qabul qilish qaytalanishni keltirib chiqarishi ta'kidlangan. JSST ma'lumotiga ko'ra ham primaxin P. vivax va P. ovale qaytalanishlarini oldini olish uchun asosiy davoga qo'shiladi. Bu davo xatolari asoratlar emas, qaytalanish xavfini oshirishini ko'rsatadi [3, 5]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Uch kunlik bezgakning tipik klinikasi ritmik xuruj bilan namoyon bo'lsa-da, boshida ritm buzilishi mumkin. Shu sababli geografik anamnezi musbat yoki isitmalayotgan har bir bemor belgilarning to'liqligidan qat'i nazar qon preparati bilan laboratoriyada tekshirilishi lozim [1, 4].",
-      "Parazitologning vazifasi nafaqat tashxisni tasdiqlash, balki qaytalanish xavfini baholash va davoning to'liq o'tkazilishini nazorat qilishdir. Klinik ko'rinish yengil bo'lgan bemorda ham gipnozoitlar saqlanib qolishi mumkinligini hisobga olish kerak [1, 3]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Uch kunlik bezgakda asoratlar, masalan taloq yorilishi yoki og'ir kamqonlik, uchrash chastotasi bo'yicha aniq foiz ko'rsatkichlari ushbu mavzudagi milliy manbalarda topilmadi. Shu sababli bunday raqamlar keltirilmadi va ular tasdiqlanmagan ma'lumot hisoblanadi.",
-      "O'zbekistonda hozirgi vaqtda uch kunlik bezgakning mahalliy yoki olib kirilgan holatlarida asoratlar statistikasi ham tekshirilmadi. Uslubiy qo'llanmadagi (2009) klinik tavsiflar bugungi epidemiologik vaziyat bilan solishtirilmagan, shuning uchun ularni umumiy klinik ma'lumot sifatida qabul qilish kerak [1]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Uch kunlik bezgak to'satdan boshlanishi, 4 dan 8 soatgacha davom etadigan titroq, isitma va terlash fazali xurujlari, kamqonlik hamda taloq va jigar kattalashuvi bilan kechadi, asoratlar xavfi tropik bezgakka nisbatan past, ammo gipnozoitlar tufayli qaytalanishga moyillik yuqori bo'lib, to'liq davo va kuzatuv talab qilinadi [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria"
-  ]
+ "number": 20,
+ "title": "20. Uch kunlik bezgakning klinika va asoratining ehtimoli.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Uch kunlik bezgak Plasmodium vivax qo'zg'atadigan, Anopheles chivinlari chaqishi orqali yuqadigan protozoy antropoz kasallik bo'lib, davriy isitma, qaltirash, kamqonlik, taloq va jigar kattalashuvi hamda qaytalanishga moyillik bilan kechadi. Uning klinikasini bilish ham tashxisni erta qo'yish, ham asoratlar xavfini baholash uchun zarur [2].",
+    "Ushbu mavzuda kasallikning inkubatsiya davri, boshlanishi, xuruj bosqichlari, kamqonlik va organ o'zgarishlari, qaytalanish turlari, og'irlik mezonlari hamda asoratlar ehtimoli milliy hujjatlar asosida ketma-ket ko'rib chiqiladi. Yakunda parazitolog-shifokor uchun amaliy xulosalar beriladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchi va klinik shakllanish asosi",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra bezgakning klinik belgilari, ya'ni isitma, kamqonlik, jigar va taloq kattalashuvi, faqat eritrotsitar shizogoniya bilan bog'liq. Jigardagi eksoeritrotsitar rivojlanish, «uyqu» holati va gametotsitogoniya hech qanday klinik belgisiz kechadi [1].",
+    "Eritrotsitar shizogoniya davrida organizmda ko'p miqdorda antigenlar ajralib chiqadi va bu immunologik nomuvofiqlikni yuzaga keltiradi. Zid ta'sir merozoitlar eritrotsitlardan chiqayotgan paytda ayniqsa yaqqol bo'ladi, shu sababli klinik manzara xurujlar tarzida namoyon bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Inkubatsiya davri",
+   "content": [
+    "Uch kunlik bezgakda yashirin davr ikki xil bo'lishi mumkin. Taxisporozoitlar bilan zararlanganda qisqa inkubatsiyadan keyin kasallik 14 dan 16 kungacha, kam hollarda 10 kunda boshlanadi. Aksariyat bemorlar esa jigarda oylab uxlaydigan bradisporozoitlarni yuqtiradi [1].",
+    "Bunday holatda uzoq inkubatsiya kuzatiladi va u ko'pincha 6 dan 12 oygacha davom etadi. Shu sababli uch kunlik bezgak mavsumdan tashqari vaqtda ham birlamchi kasallik ko'rinishida namoyon bo'lishi mumkin va bu tashxisda e'tiborga olinishi kerak [1]."
+   ]
+  },
+  {
+   "heading": "Kasallikning boshlanishi",
+   "content": [
+    "Uch kunlik bezgakda belgilar to'satdan, tana haroratining ko'tarilishi bilan boshlanadi, shuning uchun bemor kasallik boshlangan vaqtni daqiqagacha aniq aytib bera oladi. Ko'pincha bosh og'rig'i va ko'z olmasini harakatlantirganda og'riq qo'shiladi [1].",
+    "Tana harorati juda yuqori ko'tarilganda bemorning hushi chalkashishi yoki alahsirashi mumkin. Bu o'zgarishlar isitma balandligi bilan bog'liq vaqtinchalik holat sifatida bayon etilgan va xuruj tugagach bemorning ahvoli odatda qoniqarli yoki yaxshi bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Xuruj bosqichlari",
+   "content": [
+    "Bezgak xuruji nisbatan qisqa, ya'ni 4 dan 8 soatgacha davom etadi va titroq, isitma hamda terlash fazalarining aniq ketma-ketligi bilan namoyon bo'ladi. Birinchi fazada bemor o'zini yomon his qiladi, keyingi isitma fazasida esa evforiya holati yuzaga kelishi mumkin [1].",
+    "Parazitlarning bir vaqtda, ya'ni sinxron rivojlanishi ko'proq uch kunlik bezgakka xos. Sinxronlik immunitet rivojlanishi bilan kuchayadi, shuning uchun xurujlarning ketma-ket kelishi aynan shu shakl uchun xarakterli belgi hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Xurujlar ritmi",
+   "content": [
+    "Keyingi xuruj oldingisidan aniq ikki kun o'tgach kelishi ba'zan kasallikning boshidanoq kuzatiladi. Ko'pincha esa dastlab ritm buziladi: xuruj 48 soatdan oldin yoki keyin kelishi, qisqa «mitigir» xurujlar bo'lishi mumkin [1].",
+    "Kasallikning ikkinchi haftasida xurujlarda doimiylik yuzaga keladi va bemor hatto xuruj vaqtini oldindan sezib, unga tayyorlanadi. Shu sababli birinchi kunlarda ritmning yo'qligi uch kunlik bezgakni inkor etish uchun asos bo'la olmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Kamqonlik, taloq va jigar o'zgarishlari",
+   "content": [
+    "Kamqonlik belgilari kasallikning ikkinchi va uchinchi haftalaridan boshlab namoyon bo'ladi, shu davrda taloq ham kattalashadi. Davolanmagan bemorda xurujlar oralig'ida ahvol yomonlashadi, darmonsizlik va toliqish kuzatiladi [1].",
+    "Eritrotsitar shizogoniyani to'xtatuvchi maxsus davo erta o'tkazilsa, bemorning ahvoli tez yaxshilanadi. Davo vaqtida navbatdagi xuruj bo'lishi mumkin, ammo u oxirgisi bo'ladi. Davolash bayonnomasida jigar va taloq kattalashuvi ham kasallikning tavsifiy belgilari qatorida keltirilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qaytalanishlar: erta va kechki",
+   "content": [
+    "Uch kunlik bezgakda birlamchi xurujdan 14 dan 16 kunda yoki bir necha oy, hatto yil o'tgach erta va kechki ko'rinishlar kuzatilishi mumkin. Erta ko'rinishlar taxisporozoitlarga bog'liq, kechkilari esa jigarda uxlab yotgan gipnozoitlarning faollashuvi bilan izohlanadi [1].",
+    "Bemor bir vaqtda taxi- va bradisporozoitlarni yuqtirsa, ikkala yo'nalish bir-biriga bog'liq bo'lmagan holda rivojlanadi. Avval qisqa inkubatsiyadan keyingi xurujlar, so'ng qonda parazit bo'lmaydigan uzoq yashirin davr, undan keyin kechki xurujlar yuzaga keladi [1]."
+   ]
+  },
+  {
+   "heading": "Qaytalanish turlari",
+   "content": [
+    "Qaytalanish kelib chiqishiga ko'ra eksoeritrotsitar yoki eritrotsitar bo'ladi. Eksoeritrotsitar qaytalanishda xuruj tugagach qayta xurujgacha qonda parazit bo'lmaydi, eritrotsitar qaytalanishda esa parazitemiya to'xtamaydi, faqat pirogen yoki aniqlanish bo'sag'asidan past bo'ladi [1].",
+    "Eksoeritrotsitar qaytalanishning muddati makroorganizm holatiga emas, parazit xususiyatlariga bog'liq. Eritrotsitar qaytalanish esa immunitet to'liq rivojlanmagani va davo sifati pastligi natijasida yuzaga keladi. Ko'rinishiga qarab klinik va parazitar qaytalanishlar farqlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Og'irlik mezonlari",
+   "content": [
+    "Davolash bayonnomasida uch kunlik bezgak og'irligini baholash mezonlari sifatida qalin tomchida 5000 dan ortiq plazmodiy, kamqonlik, taloq va jigar kattalashuvi, jigar funksiyasidagi o'zgarishlar hamda bemorning dori vositalarini og'iz orqali qabul qila olmasligi keltirilgan [2].",
+    "Shu sababli uch kunlik bezgakning barcha bemorlari shifoxonada davolanishi belgilangan. Milliy yo'riqnomada esa asoratlanmagan uch kunlik bezgak bilan og'rigan bemorlarni tibbiy xodim nazorati ostida uy sharoitida davolash mumkinligi ham ko'rsatilgan, bu holat farq sifatida e'tiborga olinadi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Asoratlar ehtimoli",
+   "content": [
+    "Uslubiy qo'llanmada bezgakning og'ir kechishi mezonlari, ya'ni ruhiy holat o'zgarishi, koma, anuriya, og'ir kamqonlik, gipoglikemiya, qon ketishga moyillik va juda yuqori parazitemiya tropik bezgak bo'limida keltirilgan. Uch kunlik bezgak bo'limida esa bunday asoratlar sanab o'tilmagan [1].",
+    "Protokolga ko'ra tropik bezgak eng xavfli shakl hisoblanadi, uning asoratlangan va asoratlanmagan turlari mavjud. Shu asosda uch kunlik bezgakda og'ir asorat xavfi tropik shaklga qaraganda past deb baholanadi, biroq milliy manbalarda buning aniq foiz ko'rsatkichi berilmagan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Homilador ayollarda xavf",
+   "content": [
+    "Protokolning uch kunlik bezgakni davolash bo'limida homilador ayollarda ikkinchi va uchinchi trimestrda o'pka shishi va gipoglikemiya kabi og'ir asoratlar ehtimoli yuqori bo'lishi qayd etilgan. Homila hayoti ham xavf ostida qoladi [3].",
+    "Birinchi trimestrda bezgakka qarshi dori vositalarini qabul qilish homilaning normal rivojlanishiga xavf solishi mumkin. Shu sababli homilador ayollarda bezgakni davolash shifokordan o'ta diqqat va e'tibor talab qiladi [3]."
+   ]
+  },
+  {
+   "heading": "Davo va qaytalanish xavfi",
+   "content": [
+    "Protokolga ko'ra gematoshizotrop preparat jigar hujayralaridagi gipnozoitlarga ta'sir qilmaydi, shuning uchun bu davo bemorning butunlay sog'ayishiga kafolat bermaydi. Radikal davo uchun gistoshizotrop preparat primaxin qo'shimcha tayinlanadi, kursni to'liq tugatish qaytalanishning oldini oladi [3].",
+    "Primaxin kursini 14 kundan kam qabul qilish qaytalanishni keltirib chiqarishi ta'kidlangan. JSST ma'lumotiga ko'ra ham primaxin P. vivax va P. ovale qaytalanishlarini oldini olish uchun asosiy davoga qo'shiladi. Bu davo xatolari asoratlar emas, qaytalanish xavfini oshirishini ko'rsatadi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Uch kunlik bezgakning tipik klinikasi ritmik xuruj bilan namoyon bo'lsa-da, boshida ritm buzilishi mumkin. Shu sababli geografik anamnezi musbat yoki isitmalayotgan har bir bemor belgilarning to'liqligidan qat'i nazar qon preparati bilan laboratoriyada tekshirilishi lozim [1, 4].",
+    "Parazitologning vazifasi nafaqat tashxisni tasdiqlash, balki qaytalanish xavfini baholash va davoning to'liq o'tkazilishini nazorat qilishdir. Klinik ko'rinish yengil bo'lgan bemorda ham gipnozoitlar saqlanib qolishi mumkinligini hisobga olish kerak [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Uch kunlik bezgak to'satdan boshlanishi, 4 dan 8 soatgacha davom etadigan titroq, isitma va terlash fazali xurujlari, kamqonlik hamda taloq va jigar kattalashuvi bilan kechadi, asoratlar xavfi tropik bezgakka nisbatan past, ammo gipnozoitlar tufayli qaytalanishga moyillik yuqori bo'lib, to'liq davo va kuzatuv talab qilinadi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria"
+ ]
 }

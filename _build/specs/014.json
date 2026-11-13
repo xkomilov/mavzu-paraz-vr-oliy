@@ -1,64 +1,103 @@
 {
-  "number": 14,
-  "title": "14. Nega chivinlar endofil yoki ekzofil deb ataladi, bezgak chivinlarning qanday turlari kiradi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Endofillik va ekzofillik chivinlarning boshpana tanlashdagi xulq-atvorini ifodalaydi. Bu belgi chivin hayotining bir qismini, ya'ni qon so'rgandan keyin hazm qilish va tuxum yetilish davrini odam yashaydigan binoda yoki tabiatda o'tkazishini ko'rsatadi. Shu sababli u bezgak epidemiologiyasi uchun amaliy ahamiyatga ega [1, 2].",
-      "Mavzuda avval endofil va ekzofil atamalarining mohiyati, nima uchun chivinlar shunday guruhlarga ajratilishi tushuntiriladi. So'ng bezgak chivinlarining O'zbekistondagi turlari bu guruhlar bo'yicha taqsimlanadi, yarim ekzofil turlar alohida ko'rsatiladi va kurash tadbirlari bilan bog'lanadi [1, 3]."
-    ]},
-    {"heading": "Boshpanalardagi tarqalish nimaga bog'liq", "content": [
-      "Jahongirov qo'llanmasida chivinlarning odam yashaydigan binolarda va tabiiy boshpanalarda tarqalishi ularning xulq-atvoriga bog'liq deb yozilgan. Bu esa chivin qaysi turdagi o'ljani yoqtirishiga va unga qanday hujum qilishiga aloqador. Shu asosda turlar boshpana turi bo'yicha ajratiladi [1].",
-      "Chivinlar suvdan ertalab va kechqurun uchib chiqadi. Erkaklari urg'ochilaridan ertaroq chiqib, avval suv atrofidagi o'simliklar orasida boshpana topadi. Keyin binolarga, molxonalarga, yerto'lalarga (endofil bo'lsa) yoki ochiq tabiatga, g'orlarga, daraxt kovaklariga (ekzofil bo'lsa) uchib o'tadi [1]."
-    ]},
-    {"heading": "Endofil nima", "content": [
-      "Anopheles turlaridan ayrimlari boshpana sifatida odamlar yashaydigan binolarni afzal ko'radi. Ular o'sha yerda oziqlanadi va qonni hazm qiladi. Bunday turlar endofillar deb ataladi. Atama chivinning odam turar joyiga bog'liqligini ko'rsatadi, ya'ni turar joyda qon so'rish va dam olish birgalikda kechadi [1].",
-      "Uslubiy qo'llanmada endofillik gonotrofik jarayonda chivinning xona ichida bo'lish zarurati sifatida ta'riflanadi. Endofillik darajasi tashuvchining epidemiologik samaradorligini belgilovchi omillar qatoriga kiritilgan. Endofil turlar, masalan An. superpictus, aholi punktlarida to'planib, odamlar bilan yaqin aloqada bo'ladi [1, 3]."
-    ]},
-    {"heading": "Ekzofil nima", "content": [
-      "Ekzofil turlar esa tashqaridagi boshpanalarni yoqtiradi. Ular qon so'rgandan keyin ham ko'pincha ochiq tabiatda qoladi, kunduzgi boshpanalari esa aholi punkti va odam bilan bog'liq bo'lmagan joylarda bo'ladi. Bunday joylar o'simliklar, g'orlar va daraxt kovaklaridir [1, 4].",
-      "Kuliyeva darsligida ekzofillar xuddi shunday ta'riflanadi: ular ochiq havoda oziqlanadi va qonni hazm qilgach ham tabiatda qoladi. Endofillar esa kunduzgi boshpana sifatida odam qurgan binolar, uylar va chorva xonalarini tanlaydi. Demak, atamalar turli manbalarda bir xil ma'noda qo'llanadi [4]."
-    ]},
-    {"heading": "Yarim ekzofil guruh", "content": [
-      "Ikki chekka guruhdan tashqari oraliq holat ham bor. Qo'llanmaga ko'ra bezgak chivinlarining ayrim turlari binolarga va tabiatdagi boshpanalarga teng taqsimlanadi. Bunday turlar yarim ekzofil deb ataladi. Ular endofil va ekzofil guruhlar o'rtasida turadi [1].",
-      "Yarim ekzofil turlarni alohida ajratish amaliy jihatdan muhim, chunki ular bino ichida ham, tashqarida ham uchraydi. Shu sababli taqdimotda yarim ekzofil turlarga qarshi tadbirlar alohida shart bilan ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Endofil turlar", "content": [
-      "Qo'llanmada endofil turlar sifatida An. maculipennis va An. superpictus keltirilgan. Taqdimotda ham tashuvchilar ichida shu ikki tur endofil deb ko'rsatilgan. Alohida tavsifda An. superpictus endofil va endofag bo'lib, aholi yashaydigan binolar, molxona, xo'jalik xonalari va yerto'lalarda ko'p uchraydi [1, 2].",
-      "Shuningdek, An. artemievi ning imagosi endofil deb yozilgan. U aholi punktlarida to'planadi, odamga bino ichida va tashqarida hujum qiladi, molxona va xo'jalik binolarida qishlaydi. Uy hayvonlariga odamga nisbatan 10-15 marta ko'proq hujum qilishi ham qayd etilgan [1]."
-    ]},
-    {"heading": "Ekzofil turlar", "content": [
-      "Ekzofil turlar qatoriga An. hyrcanus va An. claviger kiradi. An. hyrcanus namsevar, sug'orish kanallari qirg'oqlari va paxsa devorlari yoriqlarida uchraydi. Odamga bino ichida ham hujum qiladi, lekin so'rgan qonini tashqarida hazm qiladi, shuning uchun ekzofil hisoblanadi [1, 2].",
-      "An. claviger ekzofil va ekzofag, namsevar, qalin o'simlikli ariqlar atrofida, g'orlarda va ba'zan molxonalarda boshpana topadi. Uchib chiqqan joyiga yaqin xonalarda hujum qilishi mumkin. An. algeriensis ham ekzofil va ekzofag deb ta'riflangan, odam yashaydigan xonalarga deyarli kirmaydi [1]."
-    ]},
-    {"heading": "Yarim ekzofil turlar", "content": [
-      "Qo'llanma An. pulcherrimus va An. martinius ni yarim ekzofil turlar qatoriga kiritadi. An. pulcherrimus kunduzgi boshpanalari hayvonlar turadigan bostirma, ochiq molxona va loy bilan suvalgan devorlar, shuningdek g'orlar va qoya yoriqlaridir. Bu tur tekislikda issiqsevar va kserofil hisoblanadi [1].",
-      "An. martinius yarim ekzofil va yarim ekzofag bo'lib, aholi yashaydigan binolarda ham, yarim ochiq bostirmalarda ham uchraydi. Odamga bino ichida va tashqarida hujum qiladi, ko'pincha odamga nisbatan hayvonlarga ko'proq hujum qiladi. Qishlashni g'orlar, qush inlari, daraxt kovaklarida o'tkazadi [1]."
-    ]},
-    {"heading": "Endofag va ekzofag: ikki xil tushuncha", "content": [
-      "Endofillik boshpanani, endofagiya esa qon so'rish joyini ifodalaydi. Bu ikki belgi har doim mos kelmaydi. Masalan, An. hyrcanus odamga uy ichida hujum qilsa ham so'rgan qonini tashqarida hazm qiladi, shuning uchun u ekzofil sanaladi [1].",
-      "Qo'llanmada An. superpictus uchun endofil va endofag, An. claviger va An. algeriensis uchun ekzofil va ekzofag atamalari birga qo'llangan. Shu bois endofil yoki ekzofil atamasi, qo'llanmaga ko'ra, asosan boshpana tanlashga asoslanadi, qon so'rish joyi esa endofag yoki ekzofag atamasi bilan alohida belgilanadi [1]."
-    ]},
-    {"heading": "Epidemiologik va amaliy ahamiyati", "content": [
-      "Taqdimotga ko'ra endofil tashuvchilar (An. maculipennis, An. superpictus) uchun binolarni uzoq qoldiq ta'sirli kontakt insektitsidlar bilan ishlash asosiy chora hisoblanadi. Ishlov berilgan sirt bir necha hafta va oy davomida chivin uchun zaharli bo'lib qoladi, shuning uchun uxlayotgan odamga hujum qilgan chivin halok bo'ladi [2, 5].",
-      "Ekzofil turlarga qarshi insektitsid shimdirilgan to'rlar, gidrotexnik tadbirlar qo'llanadi. Yarim ekzofil turlarda binolarni ishlov berish faqat chivinlarda ishlatilayotgan insektitsidga nisbatan bezovtalanish bo'lmasa o'tkaziladi. Demak, endofillik darajasi tadbir turini belgilaydi [2]."
-    ]},
-    {"heading": "Manbalarda uchraydigan farqlar", "content": [
-      "Qo'llanmaning umumiy qismida An. maculipennis endofil deb berilgan, biroq O'zbekiston turlari ro'yxatida u yo'q, taqdimotda esa bor. Maculipennis kompleksining O'zbekistondagi vakillari An. artemievi (endofil) va An. martinius (yarim ekzofil) bo'lib, ularning xulq-atvori bir xil emas [1, 2].",
-      "Kuliyeva darsligida ekzofillar qatorida Aedes va Culex ning ko'pchiligi, An. hyrcanus, An. plumbeus, endofillar qatorida esa An. maculipennis, Culex pipiens keltirilgan. Bu ro'yxat umumiy xarakterda, shu bois O'zbekiston bezgak chivinlari uchun Jahongirov va taqdimotga tayanildi [1, 4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor o'chog'ida chivinlarni kunduzgi va qishlov boshpanalarida hisobga olishda turning endofil yoki ekzofilligini bilishi kerak. Chunki molxona, yerto'la va yashash xonalarida topilgan chivinlar tarkibi, ularning soni va qon bilan to'yinganlik darajasi epidemiologik bahoga ta'sir qiladi [1, 5].",
-      "Bezgak bo'yicha 121-son buyruq ilovasiga ko'ra chivinlar ko'payishi monitoringi ularning qishlash, kunlash va urchish joylarida olib boriladi. Bu talab boshpana xulq-atvorini, ya'ni endofil, ekzofil va yarim ekzofil belgilarini hisobga olmasdan bajarilmaydi [5]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Chivinlar odam yashaydigan binolarni boshpana qilsa endofil, tabiatdagi boshpanalarni tanlasa ekzofil, ikkalasiga teng taqsimlansa yarim ekzofil deb ataladi. Endofillarga An. superpictus, An. artemievi (va An. maculipennis), ekzofillarga An. hyrcanus, An. claviger, yarim ekzofillarga An. pulcherrimus va An. martinius kiradi [1, 2]."
-    ]}
-  ],
-  "references": [
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Жаҳонгиров Ш.М. Prezentatsiya. Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi (taqdimot). L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1575.",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523."
-  ]
+ "number": 14,
+ "title": "14. Nega chivinlar endofil yoki ekzofil deb ataladi, bezgak chivinlarning qanday turlari kiradi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Endofillik va ekzofillik chivinlarning boshpana tanlashdagi xulq-atvorini ifodalaydi. Bu belgi chivin hayotining bir qismini, ya'ni qon so'rgandan keyin hazm qilish va tuxum yetilish davrini odam yashaydigan binoda yoki tabiatda o'tkazishini ko'rsatadi. Shu sababli u bezgak epidemiologiyasi uchun amaliy ahamiyatga ega [1, 2].",
+    "Mavzuda avval endofil va ekzofil atamalarining mohiyati, nima uchun chivinlar shunday guruhlarga ajratilishi tushuntiriladi. So'ng bezgak chivinlarining O'zbekistondagi turlari bu guruhlar bo'yicha taqsimlanadi, yarim ekzofil turlar alohida ko'rsatiladi va kurash tadbirlari bilan bog'lanadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Boshpanalardagi tarqalish nimaga bog'liq",
+   "content": [
+    "Jahongirov qo'llanmasida chivinlarning odam yashaydigan binolarda va tabiiy boshpanalarda tarqalishi ularning xulq-atvoriga bog'liq deb yozilgan. Bu esa chivin qaysi turdagi o'ljani yoqtirishiga va unga qanday hujum qilishiga aloqador. Shu asosda turlar boshpana turi bo'yicha ajratiladi [1].",
+    "Chivinlar suvdan ertalab va kechqurun uchib chiqadi. Erkaklari urg'ochilaridan ertaroq chiqib, avval suv atrofidagi o'simliklar orasida boshpana topadi. Keyin binolarga, molxonalarga, yerto'lalarga (endofil bo'lsa) yoki ochiq tabiatga, g'orlarga, daraxt kovaklariga (ekzofil bo'lsa) uchib o'tadi [1]."
+   ]
+  },
+  {
+   "heading": "Endofil nima",
+   "content": [
+    "Anopheles turlaridan ayrimlari boshpana sifatida odamlar yashaydigan binolarni afzal ko'radi. Ular o'sha yerda oziqlanadi va qonni hazm qiladi. Bunday turlar endofillar deb ataladi. Atama chivinning odam turar joyiga bog'liqligini ko'rsatadi, ya'ni turar joyda qon so'rish va dam olish birgalikda kechadi [1].",
+    "Uslubiy qo'llanmada endofillik gonotrofik jarayonda chivinning xona ichida bo'lish zarurati sifatida ta'riflanadi. Endofillik darajasi tashuvchining epidemiologik samaradorligini belgilovchi omillar qatoriga kiritilgan. Endofil turlar, masalan An. superpictus, aholi punktlarida to'planib, odamlar bilan yaqin aloqada bo'ladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Ekzofil nima",
+   "content": [
+    "Ekzofil turlar esa tashqaridagi boshpanalarni yoqtiradi. Ular qon so'rgandan keyin ham ko'pincha ochiq tabiatda qoladi, kunduzgi boshpanalari esa aholi punkti va odam bilan bog'liq bo'lmagan joylarda bo'ladi. Bunday joylar o'simliklar, g'orlar va daraxt kovaklaridir [1, 4].",
+    "Kuliyeva darsligida ekzofillar xuddi shunday ta'riflanadi: ular ochiq havoda oziqlanadi va qonni hazm qilgach ham tabiatda qoladi. Endofillar esa kunduzgi boshpana sifatida odam qurgan binolar, uylar va chorva xonalarini tanlaydi. Demak, atamalar turli manbalarda bir xil ma'noda qo'llanadi [4]."
+   ]
+  },
+  {
+   "heading": "Yarim ekzofil guruh",
+   "content": [
+    "Ikki chekka guruhdan tashqari oraliq holat ham bor. Qo'llanmaga ko'ra bezgak chivinlarining ayrim turlari binolarga va tabiatdagi boshpanalarga teng taqsimlanadi. Bunday turlar yarim ekzofil deb ataladi. Ular endofil va ekzofil guruhlar o'rtasida turadi [1].",
+    "Yarim ekzofil turlarni alohida ajratish amaliy jihatdan muhim, chunki ular bino ichida ham, tashqarida ham uchraydi. Shu sababli taqdimotda yarim ekzofil turlarga qarshi tadbirlar alohida shart bilan ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Endofil turlar",
+   "content": [
+    "Qo'llanmada endofil turlar sifatida An. maculipennis va An. superpictus keltirilgan. Taqdimotda ham tashuvchilar ichida shu ikki tur endofil deb ko'rsatilgan. Alohida tavsifda An. superpictus endofil va endofag bo'lib, aholi yashaydigan binolar, molxona, xo'jalik xonalari va yerto'lalarda ko'p uchraydi [1, 2].",
+    "Shuningdek, An. artemievi ning imagosi endofil deb yozilgan. U aholi punktlarida to'planadi, odamga bino ichida va tashqarida hujum qiladi, molxona va xo'jalik binolarida qishlaydi. Uy hayvonlariga odamga nisbatan 10-15 marta ko'proq hujum qilishi ham qayd etilgan [1]."
+   ]
+  },
+  {
+   "heading": "Ekzofil turlar",
+   "content": [
+    "Ekzofil turlar qatoriga An. hyrcanus va An. claviger kiradi. An. hyrcanus namsevar, sug'orish kanallari qirg'oqlari va paxsa devorlari yoriqlarida uchraydi. Odamga bino ichida ham hujum qiladi, lekin so'rgan qonini tashqarida hazm qiladi, shuning uchun ekzofil hisoblanadi [1, 2].",
+    "An. claviger ekzofil va ekzofag, namsevar, qalin o'simlikli ariqlar atrofida, g'orlarda va ba'zan molxonalarda boshpana topadi. Uchib chiqqan joyiga yaqin xonalarda hujum qilishi mumkin. An. algeriensis ham ekzofil va ekzofag deb ta'riflangan, odam yashaydigan xonalarga deyarli kirmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Yarim ekzofil turlar",
+   "content": [
+    "Qo'llanma An. pulcherrimus va An. martinius ni yarim ekzofil turlar qatoriga kiritadi. An. pulcherrimus kunduzgi boshpanalari hayvonlar turadigan bostirma, ochiq molxona va loy bilan suvalgan devorlar, shuningdek g'orlar va qoya yoriqlaridir. Bu tur tekislikda issiqsevar va kserofil hisoblanadi [1].",
+    "An. martinius yarim ekzofil va yarim ekzofag bo'lib, aholi yashaydigan binolarda ham, yarim ochiq bostirmalarda ham uchraydi. Odamga bino ichida va tashqarida hujum qiladi, ko'pincha odamga nisbatan hayvonlarga ko'proq hujum qiladi. Qishlashni g'orlar, qush inlari, daraxt kovaklarida o'tkazadi [1]."
+   ]
+  },
+  {
+   "heading": "Endofag va ekzofag: ikki xil tushuncha",
+   "content": [
+    "Endofillik boshpanani, endofagiya esa qon so'rish joyini ifodalaydi. Bu ikki belgi har doim mos kelmaydi. Masalan, An. hyrcanus odamga uy ichida hujum qilsa ham so'rgan qonini tashqarida hazm qiladi, shuning uchun u ekzofil sanaladi [1].",
+    "Qo'llanmada An. superpictus uchun endofil va endofag, An. claviger va An. algeriensis uchun ekzofil va ekzofag atamalari birga qo'llangan. Shu bois endofil yoki ekzofil atamasi, qo'llanmaga ko'ra, asosan boshpana tanlashga asoslanadi, qon so'rish joyi esa endofag yoki ekzofag atamasi bilan alohida belgilanadi [1]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik va amaliy ahamiyati",
+   "content": [
+    "Taqdimotga ko'ra endofil tashuvchilar (An. maculipennis, An. superpictus) uchun binolarni uzoq qoldiq ta'sirli kontakt insektitsidlar bilan ishlash asosiy chora hisoblanadi. Ishlov berilgan sirt bir necha hafta va oy davomida chivin uchun zaharli bo'lib qoladi, shuning uchun uxlayotgan odamga hujum qilgan chivin halok bo'ladi [2, 5].",
+    "Ekzofil turlarga qarshi insektitsid shimdirilgan to'rlar, gidrotexnik tadbirlar qo'llanadi. Yarim ekzofil turlarda binolarni ishlov berish faqat chivinlarda ishlatilayotgan insektitsidga nisbatan bezovtalanish bo'lmasa o'tkaziladi. Demak, endofillik darajasi tadbir turini belgilaydi [2]."
+   ]
+  },
+  {
+   "heading": "Manbalarda uchraydigan farqlar",
+   "content": [
+    "Qo'llanmaning umumiy qismida An. maculipennis endofil deb berilgan, biroq O'zbekiston turlari ro'yxatida u yo'q, taqdimotda esa bor. Maculipennis kompleksining O'zbekistondagi vakillari An. artemievi (endofil) va An. martinius (yarim ekzofil) bo'lib, ularning xulq-atvori bir xil emas [1, 2].",
+    "Kuliyeva darsligida ekzofillar qatorida Aedes va Culex ning ko'pchiligi, An. hyrcanus, An. plumbeus, endofillar qatorida esa An. maculipennis, Culex pipiens keltirilgan. Bu ro'yxat umumiy xarakterda, shu bois O'zbekiston bezgak chivinlari uchun Jahongirov va taqdimotga tayanildi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor o'chog'ida chivinlarni kunduzgi va qishlov boshpanalarida hisobga olishda turning endofil yoki ekzofilligini bilishi kerak. Chunki molxona, yerto'la va yashash xonalarida topilgan chivinlar tarkibi, ularning soni va qon bilan to'yinganlik darajasi epidemiologik bahoga ta'sir qiladi [1, 5].",
+    "Bezgak bo'yicha 121-son buyruq ilovasiga ko'ra chivinlar ko'payishi monitoringi ularning qishlash, kunlash va urchish joylarida olib boriladi. Bu talab boshpana xulq-atvorini, ya'ni endofil, ekzofil va yarim ekzofil belgilarini hisobga olmasdan bajarilmaydi [5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Chivinlar odam yashaydigan binolarni boshpana qilsa endofil, tabiatdagi boshpanalarni tanlasa ekzofil, ikkalasiga teng taqsimlansa yarim ekzofil deb ataladi. Endofillarga An. superpictus, An. artemievi (va An. maculipennis), ekzofillarga An. hyrcanus, An. claviger, yarim ekzofillarga An. pulcherrimus va An. martinius kiradi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Жаҳонгиров Ш.М. Prezentatsiya. Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi (taqdimot). L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1575.",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523."
+ ]
 }

@@ -2,69 +2,110 @@
  "number": 111,
  "title": "111. Exinokokkoz bilan kasallanishning epidemiologik tekshirish.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Exinokokkozni epidemiologik tekshirish har bir aniqlangan holat bo'yicha zararlanish manbasi, yuqish yo'llari va omillarini aniqlash hamda o'choqda zarur chora-tadbirlarni belgilashga qaratiladi. Milliy yo'riqnomada bu ishni hududiy DSENM parazitologlari veterinariya xodimlari ishtirokida bajarishi belgilangan [2].",
-   "Ushbu mavzuda tekshiruvning maqsadi, bosqichlari, anamnez va o'choqni o'rganish, hujjatlashtirish, retrospektiv tahlil va epidemiologik nazorat bilan bog'liqligi yoritiladi. Oxirida manbalarda aniqlanmagan jihatlar ochiq yoziladi [1, 2, 4]."
-  ]},
-  {"heading": "Tekshiruvning maqsadi va asosi", "content": [
-   "Qo'llanmada epidemiologik nazorat kasallik haqida tizimli ma'lumot yig'ish, laboratoriya kuzatuvi, serologik tadqiqotlar, hayvonlar sonini hisobga olish va ma'lumotlarni tahlil qilishni o'z ichiga oladi. Holat tekshiruvi shu tizimning o'choq darajasidagi bo'g'ini hisoblanadi [1].",
-   "Yo'riqnomada bunday nazorat tibbiy-veterinariya kompleks chora-tadbirlari, ya'ni epidemiologik jarayonning biologik va ijtimoiy jihatlarini o'rganish hamda aholi va hayvonlar orasida kasallikni kamaytirish choralarini rejalashtirish va o'tkazishdir. Tekshiruv shu rejalashtirishga ma'lumot beradi [2]."
-  ]},
-  {"heading": "Tekshiruvni boshlash: xabarnoma", "content": [
-   "Jarroh, terapevt, rentgenolog yoki nevropatolog exinokokkozni aniqlasa, shoshilinch xabarnoma (ф.058/u) tuzilib DSENMga yuboriladi. Har bir holat DPMda ф.060/u jurnaliga yoziladi, DSENM esa uni kasalliklar hisobotiga (ф. №2) kiritadi [2].",
-   "Aniqlangan bemor «D» hisobiga olinadi va ф. №030/u to'ldiriladi. Bu hujjatlar epidemiologik tekshiruvning boshlang'ich ma'lumotlari bo'lib, bemor qayerda, qachon va qanday holatda aniqlangani haqida axborot beradi; ularsiz keyingi tahlil to'liq bo'lmaydi. Bayonnomada operatsiyadan keyin bemor 5 yil dispanser nazoratida turishi ko'rsatilgan [2, 3]."
-  ]},
-  {"heading": "Tekshiruvchilar va ishtirokchilar", "content": [
-   "Yo'riqnomaga ko'ra har bir exinokokkoz holatini epidemiologik tekshirishni hududiy DSENM parazitologlari veterinariya xodimlari ishtirokida o'tkazadi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur chora-tadbirlar bajarilishi ustidan nazorat olib boradi [2].",
-   "Kichik o'choqlarda kasallanishga sabab bo'ladigan har bir holat epidemiologik tekshiruvdan o'tkaziladi. Tekshiruvda ushbu aholi punktini nazorat qiluvchi va zarur vaqtda chora ko'radigan veterinar ishchi guruhi qatnashadi, bu hayvonlar bosqichini bevosita baholash imkonini beradi [2]."
-  ]},
-  {"heading": "Anamnez va zararlanish manbasini aniqlash", "content": [
-   "Invaziya manbasini aniqlashda bemorning mehnat sharoiti va yashash tarzi, oilasining yashash sharoiti, itlarning borligi va ularni boqish sharoiti hamda boshqa shartlar o'rganiladi. Qo'llanmada bemorlarning eng ko'pi (53,85 foiz) itlardan, 15,38 foizi ko'katlardan zararlangani yozilgan [1, 2].",
-   "Qo'llanmadagi jadvalda shaxsiy gigiena qoidalariga amal qilmaslik 11,55, yirik shoxli qoramollardan 7,69, mushuklardan 1,92 va aniqlanmagan manba 9,61 foiz bo'lgan. Shu sababli anamnezda itlar, chorva, ko'kat va sabzavot iste'moli, gigiena odatlari alohida so'raladi [1]."
-  ]},
-  {"heading": "Kasbiy va faoliyat bilan bog'liq ma'lumot", "content": [
-   "Yo'riqnomada kasallanish ko'rsatkichlarini baholashda kasb, bemorning yoshi va jinsi hamda qo'zg'atuvchi biologiyasi va xo'jayinlari o'rganilishi ko'rsatilgan. Ov paytida, jun sexlarida, fermalarda, yovvoyi o'tlarni yig'ishda va uy hayvonlari bilan aloqa davomida gigiena qoidalariga rioya qilish ham baholanadi [2].",
-   "Qo'llanmada kasallik ko'proq cho'ponlar, sog'uvchilar, mol boquvchilar, fermerlar va it boquvchilar orasida uchragani, maktab yoshidagi o'g'il bolalarda tez-tez qayd etilgani yozilgan. Shuning uchun anamnezda hayvonlar bilan aloqaning davomiyligi va soni so'raladi [1, 2]."
-  ]},
-  {"heading": "Hayvonlar bo'yicha ma'lumot to'plash", "content": [
-   "Uy o'choqlarida yoki korxonalarda yuqish xavfi darajasini baholashda sanitariya-gelmintologik tekshiruvdan tashqari uy hayvonlari va chorva mollarining exinokokkoz bilan kasallanganligi haqida veterinariya bo'limi xodimlaridan ma'lumot olinadi. Ma'lumot bo'lmasa, aholi punkti ichidan to'liq yig'iladi [2].",
-   "Ma'lumotlar so'yish joylaridan, xususiy va jamoa xo'jaliklaridan, tuman markazidan, qo'shni go'sht kombinatlari va bozor veterinariya laboratoriyasidan olinadi. Sanitariya parazitologiyasi darsligida ham zararlangan hayvonlar foizini veterinariya xizmati aniqlashi yozilgan [2, 5]."
-  ]},
-  {"heading": "Sanitariya-gelmintologik tekshiruv va namunalar", "content": [
-   "Yo'riqnomada o'choqdagi sanitariya-gelmintologik tekshiruv ichki muhitni ifloslantiruvchi asosiy manba, yuqish yo'llari va omillarini uzishning bosh masalalaridan biri deyilgan. Tekshiruv itlar boqiladigan joylarda, fermer xonadonlarida va chorvador xo'jaliklarda DSENM xodimlari tomonidan o'tkaziladi [2].",
-   "Tuproq va ko'kat namunalari hayvonlar turadigan joydan 10 m atrofdan, bir obyektdan 25 ta surtma va 4 tadan tuproq, sabzavot, ko'kat, suv olinadi. Namunalar 24 soatda tekshiriladi; qishda itlar tuxum ajratmasligi, bahorda ajratish avj olishi hisobga olinadi [2]."
-  ]},
-  {"heading": "Tekshiruv natijalarini rasmiylashtirish", "content": [
-   "Epidemiologik tekshiruv natijasi yuqumli kasallik o'chog'ining epidemiologik tekshiruv kartasiga (ф.357/u) yoziladi. Bemor oilasida sanitariya-targ'ibot va tushuntirish ishlari olib boriladi, bu o'choqdagi takroriy zararlanishlarning oldini olishga yo'naltirilgan [2].",
-   "Epidemiologik kartalar keyinchalik umumlashtirilib tahlil qilinadi: qo'llanmadagi manbalar jadvali aynan bemorlarning epidemiologik tekshiruv kartalarini tahlil qilish orqali olingan. Shu sababli kartalarning to'liq va aniq to'ldirilishi hududiy tahlil sifatini belgilaydi [1]."
-  ]},
-  {"heading": "Retrospektiv epidemiologik tahlil", "content": [
-   "Qo'llanmada tahlil o'choqda ma'lum vaqt oralig'ida (oy, yarim yil, yil) o'tkazilishi va retrospektiv bo'lishi kerakligi yozilgan. Tahlilda qayerda (hudud), qachon (oy, mavsum), qanday ko'rinishda va kimlar (bemorlar, jinsi, yoshi) kasallangani yoki xavf ostida ekani aniqlanadi [1].",
-   "Yo'riqnomada DSENM parazitologlari DPM hujjatlarini retrospektiv tahlil qiladi, aniqlangan holatlarni operatsiyalar soni va autopsiyalar foiziga nisbatan baholaydi, murojaat sanasi, birlamchi tashxis sanasi va og'ir shikoyat boshlangan sanani solishtiradi [2]."
-  ]},
-  {"heading": "O'choq kadastri", "content": [
-   "Yo'riqnomada o'choqlarning retrospektiv va dinamik baholash uchun kadastr tahlili yuritilishi, kadastr odamlar va hayvonlar orasidagi ko'rsatkichlarni o'z ichiga olishi aytilgan. Doimiy o'choqlar kadastrini to'ldirib borish aniq amaliy masalalarni hal qiladi [2].",
-   "Kadastr barqaror o'choqlarni topishga, invaziya tarqalish chegarasini aniqlashga, tekshirilmagan hududlarni belgilashga va birinchi navbatda chora ko'riladigan hududlar va aholi kontingentini tanlashga yordam beradi. Shuningdek o'tkazilgan chora-tadbirlar natijasini baholaydi [2]."
-  ]},
-  {"heading": "Serologik kuzatuv va kontakt shaxslar", "content": [
-   "Yo'riqnomada kasallanish xavfi bor aholi har yili IFA bilan serologik tekshirilishi, ro'yxat DSENM nazoratida bo'lishi yozilgan. Qo'llanmada ham aholining immunologik holatini baholash uchun odam va hayvonlar qon zardoblarini yig'ish va o'rganish epidemiologik nazorat vazifasi deb berilgan [1, 2].",
-   "Qo'llanmadagi kuzatuvda yaqin qarindoshlar va bir oila a'zolari orasida jigar kistalari bo'lgani, 11 bemordan 9 tasida birgalikdagi va ko'p sonli zararlanish aniqlangani yozilgan. Bu oilaviy holatlar tekshiruvda oila a'zolarini ham ko'rikdan o'tkazish zarurligiga ishora qiladi [1]."
-  ]},
-  {"heading": "Epidemiologik nazorat va ko'rsatkichlar", "content": [
-   "JSST kuzatuv ma'lumotlari kasallik yukini ko'rsatish va nazorat dasturlari samarasini baholash uchun asosiy ekanini yozadi, shu bilan birga ma'lumotlar kam. Yiliga 100 ming aholiga 5 ta holat giperendemik hudud deb belgilangan, epidemiologik ko'rsatkichlar faol va passiv kuzatuvni qamrab oladi [4].",
-   "Qo'llanmada 1994-2019 yillar kasallanish ko'rsatkichlari 100 ming aholiga 2,3 dan 6,01 gacha bo'lganini ko'rsatadi. Bunday tahlil hududlarni solishtirish, xavf guruhlari va mavsumni aniqlash uchun ishlatiladi; individual tekshiruv shu tahlilga asos bo'ladi [1, 4]."
-  ]},
-  {"heading": "Laboratoriya xavfsizligi", "content": [
-   "Sanitariya parazitologiyasi darsligida exinokokkoz va alveokokkoz bo'yicha noqulay hududlarda it, qutb tulkisi, tulki va boshqa yirtqichlar najasi tekshirilganda alohida ehtiyotkorlik kerakligi, ishni rezina qo'lqopda bajarish zarurligi yozilgan. Bu o'choqdagi namunalarni qayta ishlashga ham taalluqli [5].",
-   "Namunalar bilan ishlaganda asbob va stol spirtli doka bilan artiladi. Chunki zararlanish tuxumning og'iz orqali tushishi bilan yuz beradi, shuning uchun tekshiruvchining o'zi ham xavf guruhida bo'ladi va ish qoidalarga muvofiq bajarilishi lozim [1, 5]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan milliy hujjatlarda ф.357/u kartasining maydonlari tarkibi, tekshiruv muddatlari (xabardan necha kun ichida) va o'choqni yopish mezonlari to'liq berilmagan. Shu sababli tekshiruv muddatlari bo'yicha raqam yozilmadi; faqat yo'riqnomadagi umumiy tartib keltirildi [2].",
-   "Manbalardagi manba taqsimoti (itlardan 53,85 foiz va boshqalar) kichik tanlamaga asoslangan, tanlama hajmi ko'rsatilmagan. Shuning uchun u O'zbekiston bo'yicha umumiy ko'rsatkich sifatida emas, faqat bitta tahlil natijasi sifatida talqin qilinishi kerak [1]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Exinokokkozni epidemiologik tekshirish xabarnoma, DSENM parazitologi va veterinariya xodimlarining birgalikdagi ishi, anamnez, sanitariya-gelmintologik namunalar, ф.357/u kartasi va retrospektiv tahlildan iborat. Uning natijasi o'choqni sog'lomlashtirish va hududiy kompleks chora-tadbirlarni maqsadli rejalashtirishga asos beradi [1, 2]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Exinokokkozni epidemiologik tekshirish har bir aniqlangan holat bo'yicha zararlanish manbasi, yuqish yo'llari va omillarini aniqlash hamda o'choqda zarur chora-tadbirlarni belgilashga qaratiladi. Milliy yo'riqnomada bu ishni hududiy DSENM parazitologlari veterinariya xodimlari ishtirokida bajarishi belgilangan [2].",
+    "Ushbu mavzuda tekshiruvning maqsadi, bosqichlari, anamnez va o'choqni o'rganish, hujjatlashtirish, retrospektiv tahlil va epidemiologik nazorat bilan bog'liqligi yoritiladi [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Tekshiruvning maqsadi va asosi",
+   "content": [
+    "Qo'llanmada epidemiologik nazorat kasallik haqida tizimli ma'lumot yig'ish, laboratoriya kuzatuvi, serologik tadqiqotlar, hayvonlar sonini hisobga olish va ma'lumotlarni tahlil qilishni o'z ichiga oladi. Holat tekshiruvi shu tizimning o'choq darajasidagi bo'g'ini hisoblanadi [1].",
+    "Yo'riqnomada bunday nazorat tibbiy-veterinariya kompleks chora-tadbirlari, ya'ni epidemiologik jarayonning biologik va ijtimoiy jihatlarini o'rganish hamda aholi va hayvonlar orasida kasallikni kamaytirish choralarini rejalashtirish va o'tkazishdir. Tekshiruv shu rejalashtirishga ma'lumot beradi [2]."
+   ]
+  },
+  {
+   "heading": "Tekshiruvni boshlash: xabarnoma",
+   "content": [
+    "Jarroh, terapevt, rentgenolog yoki nevropatolog exinokokkozni aniqlasa, shoshilinch xabarnoma (ф.058/u) tuzilib DSENMga yuboriladi. Har bir holat DPMda ф.060/u jurnaliga yoziladi, DSENM esa uni kasalliklar hisobotiga (ф. №2) kiritadi [2].",
+    "Aniqlangan bemor «D» hisobiga olinadi va ф. №030/u to'ldiriladi. Bu hujjatlar epidemiologik tekshiruvning boshlang'ich ma'lumotlari bo'lib, bemor qayerda, qachon va qanday holatda aniqlangani haqida axborot beradi; ularsiz keyingi tahlil to'liq bo'lmaydi. Bayonnomada operatsiyadan keyin bemor 5 yil dispanser nazoratida turishi ko'rsatilgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Tekshiruvchilar va ishtirokchilar",
+   "content": [
+    "Yo'riqnomaga ko'ra har bir exinokokkoz holatini epidemiologik tekshirishni hududiy DSENM parazitologlari veterinariya xodimlari ishtirokida o'tkazadi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur chora-tadbirlar bajarilishi ustidan nazorat olib boradi [2].",
+    "Kichik o'choqlarda kasallanishga sabab bo'ladigan har bir holat epidemiologik tekshiruvdan o'tkaziladi. Tekshiruvda ushbu aholi punktini nazorat qiluvchi va zarur vaqtda chora ko'radigan veterinar ishchi guruhi qatnashadi, bu hayvonlar bosqichini bevosita baholash imkonini beradi [2]."
+   ]
+  },
+  {
+   "heading": "Anamnez va zararlanish manbasini aniqlash",
+   "content": [
+    "Invaziya manbasini aniqlashda bemorning mehnat sharoiti va yashash tarzi, oilasining yashash sharoiti, itlarning borligi va ularni boqish sharoiti hamda boshqa shartlar o'rganiladi. Qo'llanmada bemorlarning eng ko'pi (53,85 foiz) itlardan, 15,38 foizi ko'katlardan zararlangani yozilgan [1, 2].",
+    "Qo'llanmadagi jadvalda shaxsiy gigiena qoidalariga amal qilmaslik 11,55, yirik shoxli qoramollardan 7,69, mushuklardan 1,92 va aniqlanmagan manba 9,61 foiz bo'lgan. Shu sababli anamnezda itlar, chorva, ko'kat va sabzavot iste'moli, gigiena odatlari alohida so'raladi [1]."
+   ]
+  },
+  {
+   "heading": "Kasbiy va faoliyat bilan bog'liq ma'lumot",
+   "content": [
+    "Yo'riqnomada kasallanish ko'rsatkichlarini baholashda kasb, bemorning yoshi va jinsi hamda qo'zg'atuvchi biologiyasi va xo'jayinlari o'rganilishi ko'rsatilgan. Ov paytida, jun sexlarida, fermalarda, yovvoyi o'tlarni yig'ishda va uy hayvonlari bilan aloqa davomida gigiena qoidalariga rioya qilish ham baholanadi [2].",
+    "Qo'llanmada kasallik ko'proq cho'ponlar, sog'uvchilar, mol boquvchilar, fermerlar va it boquvchilar orasida uchragani, maktab yoshidagi o'g'il bolalarda tez-tez qayd etilgani yozilgan. Shuning uchun anamnezda hayvonlar bilan aloqaning davomiyligi va soni so'raladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Hayvonlar bo'yicha ma'lumot to'plash",
+   "content": [
+    "Uy o'choqlarida yoki korxonalarda yuqish xavfi darajasini baholashda sanitariya-gelmintologik tekshiruvdan tashqari uy hayvonlari va chorva mollarining exinokokkoz bilan kasallanganligi haqida veterinariya bo'limi xodimlaridan ma'lumot olinadi. Ma'lumot bo'lmasa, aholi punkti ichidan to'liq yig'iladi [2].",
+    "Ma'lumotlar so'yish joylaridan, xususiy va jamoa xo'jaliklaridan, tuman markazidan, qo'shni go'sht kombinatlari va bozor veterinariya laboratoriyasidan olinadi. Sanitariya parazitologiyasi darsligida ham zararlangan hayvonlar foizini veterinariya xizmati aniqlashi yozilgan [2, 5]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-gelmintologik tekshiruv va namunalar",
+   "content": [
+    "Yo'riqnomada o'choqdagi sanitariya-gelmintologik tekshiruv ichki muhitni ifloslantiruvchi asosiy manba, yuqish yo'llari va omillarini uzishning bosh masalalaridan biri deyilgan. Tekshiruv itlar boqiladigan joylarda, fermer xonadonlarida va chorvador xo'jaliklarda DSENM xodimlari tomonidan o'tkaziladi [2].",
+    "Tuproq va ko'kat namunalari hayvonlar turadigan joydan 10 m atrofdan, bir obyektdan 25 ta surtma va 4 tadan tuproq, sabzavot, ko'kat, suv olinadi. Namunalar 24 soatda tekshiriladi; qishda itlar tuxum ajratmasligi, bahorda ajratish avj olishi hisobga olinadi [2]."
+   ]
+  },
+  {
+   "heading": "Tekshiruv natijalarini rasmiylashtirish",
+   "content": [
+    "Epidemiologik tekshiruv natijasi yuqumli kasallik o'chog'ining epidemiologik tekshiruv kartasiga (ф.357/u) yoziladi. Bemor oilasida sanitariya-targ'ibot va tushuntirish ishlari olib boriladi, bu o'choqdagi takroriy zararlanishlarning oldini olishga yo'naltirilgan [2].",
+    "Epidemiologik kartalar keyinchalik umumlashtirilib tahlil qilinadi: qo'llanmadagi manbalar jadvali aynan bemorlarning epidemiologik tekshiruv kartalarini tahlil qilish orqali olingan. Shu sababli kartalarning to'liq va aniq to'ldirilishi hududiy tahlil sifatini belgilaydi [1]."
+   ]
+  },
+  {
+   "heading": "Retrospektiv epidemiologik tahlil",
+   "content": [
+    "Qo'llanmada tahlil o'choqda ma'lum vaqt oralig'ida (oy, yarim yil, yil) o'tkazilishi va retrospektiv bo'lishi kerakligi yozilgan. Tahlilda qayerda (hudud), qachon (oy, mavsum), qanday ko'rinishda va kimlar (bemorlar, jinsi, yoshi) kasallangani yoki xavf ostida ekani aniqlanadi [1].",
+    "Yo'riqnomada DSENM parazitologlari DPM hujjatlarini retrospektiv tahlil qiladi, aniqlangan holatlarni operatsiyalar soni va autopsiyalar foiziga nisbatan baholaydi, murojaat sanasi, birlamchi tashxis sanasi va og'ir shikoyat boshlangan sanani solishtiradi [2]."
+   ]
+  },
+  {
+   "heading": "O'choq kadastri",
+   "content": [
+    "Yo'riqnomada o'choqlarning retrospektiv va dinamik baholash uchun kadastr tahlili yuritilishi, kadastr odamlar va hayvonlar orasidagi ko'rsatkichlarni o'z ichiga olishi aytilgan. Doimiy o'choqlar kadastrini to'ldirib borish aniq amaliy masalalarni hal qiladi [2].",
+    "Kadastr barqaror o'choqlarni topishga, invaziya tarqalish chegarasini aniqlashga, tekshirilmagan hududlarni belgilashga va birinchi navbatda chora ko'riladigan hududlar va aholi kontingentini tanlashga yordam beradi. Shuningdek o'tkazilgan chora-tadbirlar natijasini baholaydi [2]."
+   ]
+  },
+  {
+   "heading": "Serologik kuzatuv va kontakt shaxslar",
+   "content": [
+    "Yo'riqnomada kasallanish xavfi bor aholi har yili IFA bilan serologik tekshirilishi, ro'yxat DSENM nazoratida bo'lishi yozilgan. Qo'llanmada ham aholining immunologik holatini baholash uchun odam va hayvonlar qon zardoblarini yig'ish va o'rganish epidemiologik nazorat vazifasi deb berilgan [1, 2].",
+    "Qo'llanmadagi kuzatuvda yaqin qarindoshlar va bir oila a'zolari orasida jigar kistalari bo'lgani, 11 bemordan 9 tasida birgalikdagi va ko'p sonli zararlanish aniqlangani yozilgan. Bu oilaviy holatlar tekshiruvda oila a'zolarini ham ko'rikdan o'tkazish zarurligiga ishora qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik nazorat va ko'rsatkichlar",
+   "content": [
+    "JSST kuzatuv ma'lumotlari kasallik yukini ko'rsatish va nazorat dasturlari samarasini baholash uchun asosiy ekanini yozadi, shu bilan birga ma'lumotlar kam. Yiliga 100 ming aholiga 5 ta holat giperendemik hudud deb belgilangan, epidemiologik ko'rsatkichlar faol va passiv kuzatuvni qamrab oladi [4].",
+    "Qo'llanmada 1994-2019 yillar kasallanish ko'rsatkichlari 100 ming aholiga 2,3 dan 6,01 gacha bo'lganini ko'rsatadi. Bunday tahlil hududlarni solishtirish, xavf guruhlari va mavsumni aniqlash uchun ishlatiladi; individual tekshiruv shu tahlilga asos bo'ladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya xavfsizligi",
+   "content": [
+    "Sanitariya parazitologiyasi darsligida exinokokkoz va alveokokkoz bo'yicha noqulay hududlarda it, qutb tulkisi, tulki va boshqa yirtqichlar najasi tekshirilganda alohida ehtiyotkorlik kerakligi, ishni rezina qo'lqopda bajarish zarurligi yozilgan. Bu o'choqdagi namunalarni qayta ishlashga ham taalluqli [5].",
+    "Namunalar bilan ishlaganda asbob va stol spirtli doka bilan artiladi. Chunki zararlanish tuxumning og'iz orqali tushishi bilan yuz beradi, shuning uchun tekshiruvchining o'zi ham xavf guruhida bo'ladi va ish qoidalarga muvofiq bajarilishi lozim [1, 5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Exinokokkozni epidemiologik tekshirish xabarnoma, DSENM parazitologi va veterinariya xodimlarining birgalikdagi ishi, anamnez, sanitariya-gelmintologik namunalar, ф.357/u kartasi va retrospektiv tahlildan iborat. Uning natijasi o'choqni sog'lomlashtirish va hududiy kompleks chora-tadbirlarni maqsadli rejalashtirishga asos beradi [1, 2]."
+   ]
+  }
  ],
  "references": [
   "Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati: o'quv-uslubiy qo'llanma. Toshkent: Toshkent tibbiyot akademiyasi, 2021. xayrullokomilov.uz/kutubxona, material ID 1607.",

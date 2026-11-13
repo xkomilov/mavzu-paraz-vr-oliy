@@ -1,104 +1,97 @@
 {
-  "number": 42,
-  "title": "42. O'zbekistonda visseral va teri leyshmaniozining tashuvchilari.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Leyshmanioz tashuvchi organizmsiz yuqmaydi, chunki qo'zg'atuvchi odamdan odamga yoki hayvondan odamga faqat iskabtopar chivinlarning chaqishi orqali o'tadi. Shu sababli O'zbekistonda visseral va teri leyshmaniozining qaysi chivin turlari orqali tarqalishini bilish kasallikka qarshi kurashning asosiy shartidir [1, 3].",
-        "Mavzuda avval iskabtoparlarning tuzilishi va respublikadagi tur tarkibi, so'ng visseral, zoonoz va antropoz teri leyshmaniozining tashuvchilari ko'rib chiqiladi. Keyin ularning mavsumiy faolligi, rivojlanishi, parazitni yuqtirish mexanizmi va amaliy ahamiyati yoritilib, manbalardagi farqlar ochiq ko'rsatiladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Iskabtoparlarning tuzilishi",
-      "content": [
-        "Iskabtoparlar (moskitlar) ikki qanotli, qon so'ruvchi hasharotlar bo'lib, tanasi oq-sariq, oqish-kulrang yoki jigarrang tusda va uzunligi 1,3-3,5 mm. Boshi kichik, bir juft qora ko'zi bor, mo'ylovi 16 bo'g'imdan iborat, sanchqisi uzun va teshuvchi, tinch holatda qanotlari 45 daraja yuqoriga ko'tarilgan bo'ladi [1].",
-        "Qorin 10 bo'g'imdan iborat bo'lib, oxirgi ikkitasi o'zgargan va tashqi jinsiy apparatni hosil qiladi. Turlar aynan shu apparat elementlariga qarab ajratiladi, shuning uchun entomolog iskabtoparni aniqlashda erkaklarning tashqi jinsiy apparati va urg'ochilarning halqumi hamda spermatekasini mikroskopda ko'radi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Respublikadagi tur tarkibi",
-      "content": [
-        "Yo'riqnomada O'zbekistonda iskabtoparlarning 9 xil turi mavjudligi aytilgan. Zoonoz teri leyshmaniozi o'choqlari uchun esa Phlebotomus va Sergentomyia turkumlaridan 12 tur sanab o'tilgan: Ph. papatasi, Ph. caucasicus, Ph. andrejevi, Ph. mongolensis, Ph. sergenti, Ph. alexandri, Ph. chinensis, Ph. smirnovi hamda S. arpaklensis, S. grekovi, S. sogdiana va S. clydei [1].",
-        "Bu turlardan epidemiologik ahamiyatga ega bo'lganlari Ph. papatasi va Ph. caucasicus deb ko'rsatilgan. Demak, respublikada iskabtoparlar xilma-xil bo'lsa-da, kasallikni yuqtirishda ularning faqat bir qismi ishtirok etadi va har bir leyshmanioz turi o'zining tashuvchisi bilan bog'liq [1]."
-      ]
-    },
-    {
-      "heading": "Visseral leyshmanioz tashuvchilari",
-      "content": [
-        "Visseral leyshmaniozning qo'zg'atuvchisi L. infantum ni asosan ikki tur iskabtopar tashiydi: Ph. longiductus va Ph. angustus. Darslikda ham ichki leyshmaniozning tashuvchisi Adlerius kenja urug'iga mansub Ph. longiductus deb ko'rsatilgan, bu esa yo'riqnoma ma'lumotini qisman tasdiqlaydi [1, 2].",
-        "Darslikda yana Ph. keshishiani L. infantum tashuvchilaridan biri deb qayd etilgan. U tog'li hududlarda 1000-2800 metr balandlikda uchraydigan eksofil tur bo'lib, odamga juda faol hujum qiladi. Shu sababli visseral leyshmaniozda tashuvchi turlar bitta emas, bir nechta ekanini hisobga olish va har bir o'choqda ularning aniq tarkibini entomologik usulda aniqlash zarur bo'ladi [2]."
-      ]
-    },
-    {
-      "heading": "Visseral o'choqlarda tashuvchi biologiyasi",
-      "content": [
-        "Aholi punktlarida iskabtoparlar asosan pol ostida, axlatxona va shunga o'xshash joylarda ko'payadi, tabiiy sharoitda esa kemiruvchilar va qushlar inida, daraxt kovaklarida. Ular aholi punktidan 10 metrgacha, tabiiy o'choqlarda 1,5 kilometrgacha uchadi, shom va kechqurun faol bo'ladi [1].",
-        "Urg'ochi iskabtopar 2-3 hafta ichida qon so'rib 2-3 marta tuxum qo'yadi. Kasal itdan yoki yovvoyi hayvondan qon so'rgandan 6-8 kun o'tgach u yuqumli bo'ladi. Shu sababli itlar orasidagi manba va tashuvchi chivin soni birgalikda visseral o'choqning intensivligini belgilaydi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Zoonoz teri leyshmaniozi tashuvchilari",
-      "content": [
-        "O'zbekistonda zoonoz teri leyshmaniozining asosiy tashuvchisi Phlebotomus kenja urug'iga mansub Ph. papatasi hisoblanadi. Yo'riqnomada Ph. papatasi bilan birga Ph. caucasicus ham epidemiologik ahamiyatli deb ko'rsatilgan. Qo'zg'atuvchi L. major bo'lib, tashuvchilar uning kemiruvchilar orasida aylanishini ta'minlaydi [1, 2].",
-        "Ph. caucasicus, Ph. andrejevi va Ph. mongolensis asosan qum sichqonlari inlarida yashaydi va kemiruvchilar orasida L. major ning asosiy tashuvchilari hisoblanadi, odamga esa kam hujum qiladi. Kulieva qo'llanmasida qisman Sergentomyia arpaklensis va S. clydei ham sanab o'tilgan [2, 3]."
-      ]
-    },
-    {
-      "heading": "Antropoz teri leyshmaniozi tashuvchisi",
-      "content": [
-        "Antropoz teri leyshmaniozining qo'zg'atuvchisi L. tropica ni O'zbekistonda asosan Paraphlebotomus kenja urug'iga kiruvchi Ph. sergenti tashiydi. Bu kasallik yo'riqnomada odamdan odamga o'tadigan, urg'ochi Ph. sergenti orqali yuqadigan shakl sifatida tasvirlangan, chivin bemordan qon so'rgach 6-8 kunda yuqumli bo'ladi [1, 2].",
-        "Kulieva qo'llanmasida antropoz shakl tashuvchilari sifatida Ph. sergenti bilan birga Ph. caucasicus va Ph. papatasi ham keltirilgan. Yo'riqnoma va darslikda esa asosiy tashuvchi Ph. sergenti. Bu farq tashuvchilar tarkibi hududga bog'liq bo'lishi mumkinligini ko'rsatadi, ammo O'zbekiston uchun alohida tasdiq topilmadi [1, 2, 3]."
-      ]
-    },
-    {
-      "heading": "Mavsumiy faollik va rivojlanish",
-      "content": [
-        "Zoonoz teri leyshmaniozi tabiiy o'choqlarida iskabtoparlar aprelda paydo bo'ladi va oktyabrda yo'qoladi. Soni maksimal ko'payishi may oxiri va iyunning birinchi yarmiga, ikkinchisi iyul oxiri va avgust boshiga to'g'ri keladi, ya'ni ikkinchi avlodga mos keladi. Tuxumdan rivojlanish haroratga bog'liq [1].",
-        "26-28 daraja haroratda Ph. papatasi tuxumlari 7 kunda, lichinkalik davri 28-35 kecha-kunduzda rivojlanadi, harorat 18 darajagacha pasaysa tuxum rivojlanishi to'xtaydi. Iskabtoparlar asosan IV yoshdagi lichinka holatida qishlaydi. Ular shomda va tong paytida faol hujum qiladi [1]."
-      ]
-    },
-    {
-      "heading": "Parazitni yuqtirish mexanizmi",
-      "content": [
-        "Iskabtopar kasal hayvon yoki odamdan qon so'rganda amastigotlarni oladi, ichakda ular promastigotga aylanib ko'payadi. Keyingi chaqishda parazit odam teri makrofaglariga o'tadi. Zararlangan chivin 6-8 kundan so'ng yuqumli hisoblanadi, urg'ochilar tuxum rivojlanishi uchun qon so'radi [1, 2].",
-        "Qo'llanmaga ko'ra leyshmaniyalarning iskabtoparda transovarial yoki transfazaviy yo'l bilan o'tishi ma'lum emas. Shu bois har bir yangi avlod chivin parazitni yana kasal xo'jayindan olishi kerak, bu esa kasallikni kemiruvchilar yoki itlar kabi doimiy rezervuarga bog'liq qiladi [3]."
-      ]
-    },
-    {
-      "heading": "Tashuvchilarga qarshi kurash asoslari",
-      "content": [
-        "Yo'riqnomada iskabtoparlarga qarshi kurash aholi punktlarida sanitar-obodonlashtirish, derazalarga to'r tutish va binolarni insektitsid bilan ishlashni o'z ichiga oladi. Asosiy tashuvchi Ph. longiductus bo'lgan o'choqlarda ishlov chivin soniga qarab mavsum davomida 1-3 marta o'tkaziladi. Bunday ishlov tashuvchi sonini kamaytirib, uning odam bilan aloqasini cheklaydi [1].",
-        "Eksofil Ph. smirnovi bo'lgan o'choqlarda xona devorlarining tashqi qismini ishlash yaxshi samara beradi. Zoonoz shaklda esa kemiruvchilar inlarini ham dezinseksiya qilish kerak, chunki tashuvchi aynan shu inlarda ko'payadi. Aniq usullar boshqa mavzularda batafsil yoritiladi [1]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Tashuvchi turlarni bilish epidemiologik tekshiruv va profilaktika rejasini to'g'ri tanlash imkonini beradi. Respublika markazining taqdimotida entomologik nazorat leyshmaniozga qarshi choralar majmuasining tarkibiy qismi sifatida ko'rsatilgan va u iskabtopar turlari tarkibini hamda tabiatda va aholi punktlarida ularning mavsumiy sonini kuzatishni o'z ichiga oladi [4].",
-        "Iskabtoparlarni tutish usullari ham amaliy ahamiyatga ega. Alohida taqdimotlarda qum sichqonlari inlari atrofida va aholi xonalarida yopishqoq qog'oz (lipuchka) bilan ushlash, hamda xonalarga insektitsid bilan ishlov berish texnikasi alohida bo'limlar sifatida keltirilgan, ammo raqamli me'yorlar matnda ko'rinmaydi [5, 6]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Yo'riqnomada O'zbekistondagi iskabtopar turlari soni 9 ta va 12 ta deb turli bo'limlarda berilgan, darslikda esa bu raqam ko'rsatilmagan. Aniq tur soni yangi entomologik tadqiqotlar bilan tasdiqlanishi kerak. Ph. angustus ning tashuvchilik roli yo'riqnomada ko'rsatilgan, darslikda esa uning tibbiy ahamiyati o'rganilmagan deyilgan [1, 2].",
-        "Qashqadaryo, Surxondaryo, Navoiy, Samarqand va Jizzax viloyatlari o'choqlarida 2019-2021 yillardagi iskabtopar turlari tarkibi va soni bo'yicha taqdimot sarlavhasi mavjud, ammo raqamlar matnga ajratilmagan. Shu sababli viloyatlar kesimida dominant tur haqida xulosa chiqarilmadi. Bu ma'lumotlar olinsa, o'choqlar bo'yicha tashuvchilar xaritasini tuzish mumkin bo'ladi [1, 5]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "O'zbekistonda visseral leyshmanioz tashuvchilari asosan Ph. longiductus (yo'riqnomada Ph. angustus ham), zoonoz teri leyshmaniozi tashuvchilari Ph. papatasi va Ph. caucasicus, antropoz teri leyshmaniozi tashuvchisi esa Ph. sergenti hisoblanadi. Tashuvchilar ekologiyasini bilish deratizatsiya va dezinseksiya choralarini to'g'ri rejalashtirishga imkon beradi [1, 2, 3]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Кулиева Х.Ф. Медицинская энтомология. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Биология и экология москитов. Фенологические наблюдения за москитами (taqdimot). xayrullokomilov.uz/kutubxona, material ID 1578.",
-    "O'zbekistonning leyshmanioz o'choqlarida uchraydigan moskitlar va ularga qarshi kurash usullari (taqdimot). Республика ихтисослаштирилган эпидемиология, микробиология, юқумли ва паразитар касалликлар илмий-амалий тиббиёт маркази Л.М. Исаев номидаги филиали. xayrullokomilov.uz/kutubxona, material ID 1593."
-  ]
+ "number": 42,
+ "title": "42. O'zbekistonda visseral va teri leyshmaniozining tashuvchilari.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Leyshmanioz tashuvchi organizmsiz yuqmaydi, chunki qo'zg'atuvchi odamdan odamga yoki hayvondan odamga faqat iskabtopar chivinlarning chaqishi orqali o'tadi. Shu sababli O'zbekistonda visseral va teri leyshmaniozining qaysi chivin turlari orqali tarqalishini bilish kasallikka qarshi kurashning asosiy shartidir [1, 3].",
+    "Mavzuda avval iskabtoparlarning tuzilishi va respublikadagi tur tarkibi, so'ng visseral, zoonoz va antropoz teri leyshmaniozining tashuvchilari ko'rib chiqiladi. Keyin ularning mavsumiy faolligi, rivojlanishi, parazitni yuqtirish mexanizmi va amaliy ahamiyati yoritilib, manbalardagi farqlar ochiq ko'rsatiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Iskabtoparlarning tuzilishi",
+   "content": [
+    "Iskabtoparlar (moskitlar) ikki qanotli, qon so'ruvchi hasharotlar bo'lib, tanasi oq-sariq, oqish-kulrang yoki jigarrang tusda va uzunligi 1,3-3,5 mm. Boshi kichik, bir juft qora ko'zi bor, mo'ylovi 16 bo'g'imdan iborat, sanchqisi uzun va teshuvchi, tinch holatda qanotlari 45 daraja yuqoriga ko'tarilgan bo'ladi [1].",
+    "Qorin 10 bo'g'imdan iborat bo'lib, oxirgi ikkitasi o'zgargan va tashqi jinsiy apparatni hosil qiladi. Turlar aynan shu apparat elementlariga qarab ajratiladi, shuning uchun entomolog iskabtoparni aniqlashda erkaklarning tashqi jinsiy apparati va urg'ochilarning halqumi hamda spermatekasini mikroskopda ko'radi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Respublikadagi tur tarkibi",
+   "content": [
+    "Yo'riqnomada O'zbekistonda iskabtoparlarning 9 xil turi mavjudligi aytilgan. Zoonoz teri leyshmaniozi o'choqlari uchun esa Phlebotomus va Sergentomyia turkumlaridan 12 tur sanab o'tilgan: Ph. papatasi, Ph. caucasicus, Ph. andrejevi, Ph. mongolensis, Ph. sergenti, Ph. alexandri, Ph. chinensis, Ph. smirnovi hamda S. arpaklensis, S. grekovi, S. sogdiana va S. clydei [1].",
+    "Bu turlardan epidemiologik ahamiyatga ega bo'lganlari Ph. papatasi va Ph. caucasicus deb ko'rsatilgan. Demak, respublikada iskabtoparlar xilma-xil bo'lsa-da, kasallikni yuqtirishda ularning faqat bir qismi ishtirok etadi va har bir leyshmanioz turi o'zining tashuvchisi bilan bog'liq [1]."
+   ]
+  },
+  {
+   "heading": "Visseral leyshmanioz tashuvchilari",
+   "content": [
+    "Visseral leyshmaniozning qo'zg'atuvchisi L. infantum ni asosan ikki tur iskabtopar tashiydi: Ph. longiductus va Ph. angustus. Darslikda ham ichki leyshmaniozning tashuvchisi Adlerius kenja urug'iga mansub Ph. longiductus deb ko'rsatilgan, bu esa yo'riqnoma ma'lumotini qisman tasdiqlaydi [1, 2].",
+    "Darslikda yana Ph. keshishiani L. infantum tashuvchilaridan biri deb qayd etilgan. U tog'li hududlarda 1000-2800 metr balandlikda uchraydigan eksofil tur bo'lib, odamga juda faol hujum qiladi. Shu sababli visseral leyshmaniozda tashuvchi turlar bitta emas, bir nechta ekanini hisobga olish va har bir o'choqda ularning aniq tarkibini entomologik usulda aniqlash zarur bo'ladi [2]."
+   ]
+  },
+  {
+   "heading": "Visseral o'choqlarda tashuvchi biologiyasi",
+   "content": [
+    "Aholi punktlarida iskabtoparlar asosan pol ostida, axlatxona va shunga o'xshash joylarda ko'payadi, tabiiy sharoitda esa kemiruvchilar va qushlar inida, daraxt kovaklarida. Ular aholi punktidan 10 metrgacha, tabiiy o'choqlarda 1,5 kilometrgacha uchadi, shom va kechqurun faol bo'ladi [1].",
+    "Urg'ochi iskabtopar 2-3 hafta ichida qon so'rib 2-3 marta tuxum qo'yadi. Kasal itdan yoki yovvoyi hayvondan qon so'rgandan 6-8 kun o'tgach u yuqumli bo'ladi. Shu sababli itlar orasidagi manba va tashuvchi chivin soni birgalikda visseral o'choqning intensivligini belgilaydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Zoonoz teri leyshmaniozi tashuvchilari",
+   "content": [
+    "O'zbekistonda zoonoz teri leyshmaniozining asosiy tashuvchisi Phlebotomus kenja urug'iga mansub Ph. papatasi hisoblanadi. Yo'riqnomada Ph. papatasi bilan birga Ph. caucasicus ham epidemiologik ahamiyatli deb ko'rsatilgan. Qo'zg'atuvchi L. major bo'lib, tashuvchilar uning kemiruvchilar orasida aylanishini ta'minlaydi [1, 2].",
+    "Ph. caucasicus, Ph. andrejevi va Ph. mongolensis asosan qum sichqonlari inlarida yashaydi va kemiruvchilar orasida L. major ning asosiy tashuvchilari hisoblanadi, odamga esa kam hujum qiladi. Kulieva qo'llanmasida qisman Sergentomyia arpaklensis va S. clydei ham sanab o'tilgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Antropoz teri leyshmaniozi tashuvchisi",
+   "content": [
+    "Antropoz teri leyshmaniozining qo'zg'atuvchisi L. tropica ni O'zbekistonda asosan Paraphlebotomus kenja urug'iga kiruvchi Ph. sergenti tashiydi. Bu kasallik yo'riqnomada odamdan odamga o'tadigan, urg'ochi Ph. sergenti orqali yuqadigan shakl sifatida tasvirlangan, chivin bemordan qon so'rgach 6-8 kunda yuqumli bo'ladi [1, 2].",
+    "Kulieva qo'llanmasida antropoz shakl tashuvchilari sifatida Ph. sergenti bilan birga Ph. caucasicus va Ph. papatasi ham keltirilgan. Yo'riqnoma va darslikda esa asosiy tashuvchi Ph. sergenti. Bu farq tashuvchilar tarkibi hududga bog'liq bo'lishi mumkinligini ko'rsatadi, ammo O'zbekiston uchun alohida tasdiq topilmadi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Mavsumiy faollik va rivojlanish",
+   "content": [
+    "Zoonoz teri leyshmaniozi tabiiy o'choqlarida iskabtoparlar aprelda paydo bo'ladi va oktyabrda yo'qoladi. Soni maksimal ko'payishi may oxiri va iyunning birinchi yarmiga, ikkinchisi iyul oxiri va avgust boshiga to'g'ri keladi, ya'ni ikkinchi avlodga mos keladi. Tuxumdan rivojlanish haroratga bog'liq [1].",
+    "26-28 daraja haroratda Ph. papatasi tuxumlari 7 kunda, lichinkalik davri 28-35 kecha-kunduzda rivojlanadi, harorat 18 darajagacha pasaysa tuxum rivojlanishi to'xtaydi. Iskabtoparlar asosan IV yoshdagi lichinka holatida qishlaydi. Ular shomda va tong paytida faol hujum qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Parazitni yuqtirish mexanizmi",
+   "content": [
+    "Iskabtopar kasal hayvon yoki odamdan qon so'rganda amastigotlarni oladi, ichakda ular promastigotga aylanib ko'payadi. Keyingi chaqishda parazit odam teri makrofaglariga o'tadi. Zararlangan chivin 6-8 kundan so'ng yuqumli hisoblanadi, urg'ochilar tuxum rivojlanishi uchun qon so'radi [1, 2].",
+    "Qo'llanmaga ko'ra leyshmaniyalarning iskabtoparda transovarial yoki transfazaviy yo'l bilan o'tishi ma'lum emas. Shu bois har bir yangi avlod chivin parazitni yana kasal xo'jayindan olishi kerak, bu esa kasallikni kemiruvchilar yoki itlar kabi doimiy rezervuarga bog'liq qiladi [3]."
+   ]
+  },
+  {
+   "heading": "Tashuvchilarga qarshi kurash asoslari",
+   "content": [
+    "Yo'riqnomada iskabtoparlarga qarshi kurash aholi punktlarida sanitar-obodonlashtirish, derazalarga to'r tutish va binolarni insektitsid bilan ishlashni o'z ichiga oladi. Asosiy tashuvchi Ph. longiductus bo'lgan o'choqlarda ishlov chivin soniga qarab mavsum davomida 1-3 marta o'tkaziladi. Bunday ishlov tashuvchi sonini kamaytirib, uning odam bilan aloqasini cheklaydi [1].",
+    "Eksofil Ph. smirnovi bo'lgan o'choqlarda xona devorlarining tashqi qismini ishlash yaxshi samara beradi. Zoonoz shaklda esa kemiruvchilar inlarini ham dezinseksiya qilish kerak, chunki tashuvchi aynan shu inlarda ko'payadi. Aniq usullar boshqa mavzularda batafsil yoritiladi [1]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Tashuvchi turlarni bilish epidemiologik tekshiruv va profilaktika rejasini to'g'ri tanlash imkonini beradi. Respublika markazining taqdimotida entomologik nazorat leyshmaniozga qarshi choralar majmuasining tarkibiy qismi sifatida ko'rsatilgan va u iskabtopar turlari tarkibini hamda tabiatda va aholi punktlarida ularning mavsumiy sonini kuzatishni o'z ichiga oladi [4].",
+    "Iskabtoparlarni tutish usullari ham amaliy ahamiyatga ega. Alohida taqdimotlarda qum sichqonlari inlari atrofida va aholi xonalarida yopishqoq qog'oz (lipuchka) bilan ushlash, hamda xonalarga insektitsid bilan ishlov berish texnikasi alohida bo'limlar sifatida keltirilgan, ammo raqamli me'yorlar matnda ko'rinmaydi [5, 6]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda visseral leyshmanioz tashuvchilari asosan Ph. longiductus (yo'riqnomada Ph. angustus ham), zoonoz teri leyshmaniozi tashuvchilari Ph. papatasi va Ph. caucasicus, antropoz teri leyshmaniozi tashuvchisi esa Ph. sergenti hisoblanadi. Tashuvchilar ekologiyasini bilish deratizatsiya va dezinseksiya choralarini to'g'ri rejalashtirishga imkon beradi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Кулиева Х.Ф. Медицинская энтомология. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Биология и экология москитов. Фенологические наблюдения за москитами (taqdimot). xayrullokomilov.uz/kutubxona, material ID 1578.",
+  "O'zbekistonning leyshmanioz o'choqlarida uchraydigan moskitlar va ularga qarshi kurash usullari (taqdimot). Республика ихтисослаштирилган эпидемиология, микробиология, юқумли ва паразитар касалликлар илмий-амалий тиббиёт маркази Л.М. Исаев номидаги филиали. xayrullokomilov.uz/kutubxona, material ID 1593."
+ ]
 }

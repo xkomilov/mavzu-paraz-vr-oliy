@@ -1,78 +1,116 @@
 {
-  "number": 38,
-  "title": "38. Sholi poyalarida qanday asosiy agrotexnik chora-tadbirlarni nazorat qilish kerak?",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Sholipoyalar bezgak chivinlarining ommaviy ko'payish joyi bo'lib xizmat qilishi mumkin, ayniqsa ulardan foydalanish qoidalariga rioya qilinmasa. Shu sababli parazitolog va entomolog uchun sholi maydonlari alohida nazorat obyekti hisoblanadi [1, 8].",
-      "Mazkur manbalar agrotexnik tadbirlarni alohida ro'yxat sifatida bermaydi. Mavzuda faqat manbada bor choralar, ya'ni suv qo'yish rejimi, ekin joylashuvi, maydonni cheklash, gambuziyalashtirish, lichinkalarni hisobga olish va hisobot nazorati ko'rib chiqiladi [1, 2, 4]."
-    ]},
-    {"heading": "Sholipoyaning anofelogen ahamiyati", "content": [
-      "Sholipoyalar sug'orish natijasida paydo bo'ladigan sun'iy suv havzalariga kiradi va gidrotexnik tadbirlar obyektlari qatoriga qo'shiladi. Tibbiy entomologiya qo'llanmasiga ko'ra An. artemievi, An. pulcherrimus, An. superpictus, An. hyrcanus va An. martinius lichinkalari sholipoyalarda uchraydi [3, 11].",
-      "Fargona ma'ruzasida iyul oyida sholi cheklarida An. artemievi lichinkalari 1 kv. m da 15 dan 25 tagacha bo'lgani keltirilgan. Past o'suvchi sholi suv havzasini quyoshdan mo'tadil himoya qiladi va mo'tadil suv haroratini afzal ko'ruvchi An. hyrcanus hamda An. claviger lichinkalari uchun qulay sharoit yaratadi [2, 3]."
-    ]},
-    {"heading": "Suv qo'yish tartibi", "content": [
-      "Uslubiy qo'llanma sholipoyalardan foydalanish tartibiga rioya qilish va iloji boricha shunday suv qo'yish rejimini joriy etishni talab qiladi, bunda vaqti-vaqti bilan lichinkalarning rivojlanishi mumkin bo'lmasin. Bu birinchi va eng muhim nazorat nuqtasi hisoblanadi [1].",
-      "JSST qo'llanmasi vaqti-vaqti bilan sug'orishni atrof-muhit boshqaruvi usuli sifatida ko'rsatadi va bunday choralar vaqtincha ta'sir qilgani uchun takrorlanishi kerakligini aytadi. Kanallarda suv chiqarish davriyligini o'zgartirish lichinkalarni yuvib yuborishga imkon beradi, suv sathining tez pasayishi ham lichinkalarga zarar qiladi [3, 5]."
-    ]},
-    {"heading": "Ekinning aholi punktiga nisbatan joylashuvi", "content": [
-      "Fargona ma'ruzasiga ko'ra aholi punkti chegarasida va unga yaqin joyda, ayniqsa xususiy sholi ekinlariga yo'l qo'ymaslik kerak. Tomorqada sholi yaratgan shaxs kichik maydonda ham aholi punktidagi bezgak avj olishining bevosita sababchisi bo'lishi mumkin [2].",
-      "Milliy yo'riqnoma uyma-uy yurish davomida xorijga borib kelganlar, tomorqalardagi sholi ekilgan maydonlar va chivin ko'payish joylari haqidagi ma'lumotlar hududiy DSENMga berilishini talab qiladi. Shu tariqa ekin joylashuvi epidemiologik nazoratga ulanadi [8]."
-    ]},
-    {"heading": "Maydonni cheklash yoki rad etish", "content": [
-      "Taqdimotlarda kurash dasturi bosqichida, ya'ni qiyin nazorat qilinadigan portlashlar, uch kunlik bezgak bilan yuqori kasallanish va tropik bezgakning cheklangan yuqishi sharoitida, faol tropik bezgak o'choqlarida sholi maydonini cheklash yoki 2 dan 3 yilgacha butunlay rad etish zarur deyilgan [2, 10].",
-      "Eliminatsiyaning hujum bosqichida esa xo'jalik uchun keraksiz suv havzalarini tezroq yo'qotish va ayniqsa xususiy sholi ekinlariga yo'l qo'ymaslik talab etiladi. Taqdimotlar tadbirlar tanlovi vaziyat turiga bog'liqligini, ya'ni hamma yerda bir xil emasligini alohida ta'kidlaydi [2, 10]."
-    ]},
-    {"heading": "Gambuziyalashtirish", "content": [
-      "Sholi tarqalgan tumanlarda qoldiq va yangi o'choqlarda sholi cheklarini gambuziya bilan to'ldirish suv qo'yilgan zahoti bajarilishi kerak. Hujum bosqichida bu ishga qishloq aholisi jalb etilib, gambuziyalash qamrovi kengaytiriladi [2, 10].",
-      "Bitta gambuziya sutkada 60 dan 100 tagacha lichinka yoki g'umbakni yeydi, baliqlar bahorda suv harorati +7 dan 9 °C dan oshganda qo'yiladi. Suv o'tlari juda qalin o'sgan yoki ifloslangan havzalarda baliq samarasi kamayadi, shuning uchun lichinkalar nazorat qilinadi [9]."
-    ]},
-    {"heading": "Boshqa baliq va larvitsid vositalari", "content": [
-      "JSST qo'llanmasi Poecilia reticulata issiq iqlimda sholipoyalarda gambuziyaga nisbatan samaraliroq bo'lishi mumkinligini, ammo 10 °C dan past haroratga chidamasligini aytadi. Quriydigan sholi maydonlari uchun qurg'oqchilikka chidamli tuxumli baliqlar va mahalliy turlar ham tilga olingan [5].",
-      "Gambuziya zich o'simlikli joylarda ojiz bo'lsa, bakterial insektitsid yoki rivojlanish regulyatorlari qo'shimcha qo'llanadi. Biroq JSST keng sug'oriladigan yirik sholi maydonlarida yerdan larvitsid sepishni tavsiya etmaydi [2, 5]."
-    ]},
-    {"heading": "Sug'orish va zovur tarmoqlarining holati", "content": [
-      "Qo'llanmada irrigatsiya va zovur tarmoqlarini tartibda ushlash, kanallarni o'simlikdan tozalash va filtratsion hovuzlarni yo'qotish keng gidrotexnik tadbirlarning bir qismi deb ko'rsatiladi. JSST kanallarni qoplash va o'simlikdan tozalashni tavsiya etadi [1, 5].",
-      "Fargona ma'ruzasida bahorgi toshqin va jaladan keyin tizimni tozalash, ariq chiqindisini kamida 10 m uzoqqa olib chiqish, kanallarda to'g'on qurmaslik va buzilishlarni 3 dan 5 kungacha bartaraf etish qoidalari keltirilgan. Tashlama tarmoq ishlamay qolsa, katta maydonli anofelogen havzalar paydo bo'ladi [2, 11]."
-    ]},
-    {"heading": "Lichinkalarni hisobga olish", "content": [
-      "Entomolog sholi maydonlarini ham anofelogen suv havzalari qatorida kuzatadi va ular uchun hisobga olish shaklida suv havzasi turi sifatida sholi maydoni ko'rsatiladi. Lichinkalar kvadrat metrga qayta hisoblanadi, yosh va tur tarkibi qayd etiladi [6, 8].",
-      "Standart usulda diametri 20 sm to'r bilan namuna olinadi, har bir namuna 1/5 kv. m ni qamraydi va beshta namuna 1 kv. m ni beradi. Baliq qo'yilmagan va ishlov berilmaydigan nazorat havzalarini tanlash qo'llanilgan tadbirlar samarasini baholashga imkon beradi [6]."
-    ]},
-    {"heading": "Hisobot shakllari va nazorat ko'rsatkichlari", "content": [
-      "Lebedevaning hisobot shakllarida sholi ekinlari bo'yicha alohida jadval bor: umumiy maydon, taqiqlangan hududga ekilgan maydon va uning foizi, tomorqadagi sholi hamda aholi punktidan 500 m gacha, 500 dan 1500 m gacha va 1500 m dan ortiq masofadagi maydonlar [4].",
-      "Shu jadvalda 1 kv. m suv yuzasiga to'g'ri keladigan lichinkaning o'rtacha zichligi, jarimalar soni va summasi, yo'q qilingan maydon ko'rsatiladi. Anofelogen suv havzalari maydoni jadvalida esa sholi ekilgan joylarning umumiy maydoni va lichinka yoki g'umbak topilganlari alohida hisobga olinadi [4]."
-    ]},
-    {"heading": "Qishloq xo'jaligida insektitsidlarni qo'llash", "content": [
-      "Chivinlarning insektitsidlarga yarim chidamliligi qishloq xo'jaligida sholi, paxta, bug'doy zararkunandalariga qarshi preparatlar katta hududlarga, ba'zan havodan sepilishi natijasida paydo bo'lishi mumkin. Bu bezgakka qarshi qo'llanadigan preparatlarning samarasiga ta'sir qiladi [7].",
-      "Agar preparatni ishlatish to'xtatilsa, bir necha avloddan keyin chidamlilik kamayishi mumkin, qayta ishlatilsa yanada tezroq ortadi. Shu sababli sholipoyalardagi kimyoviy ishlov nazoratida sog'liqni saqlash va qishloq xo'jaligi tashkilotlarining hamkorligi muhim [7]."
-    ]},
-    {"heading": "Mas'ul tashkilotlar", "content": [
-      "Katta gidrotexnik tadbirlarni melioratsiya, qishloq xo'jaligi korxonalari va kommunal xizmat bajaradi, kichiklarini esa xo'jalik tashkilotlari SEO ko'rsatmasiga muvofiq amalga oshiradi. Qurilish va melioratsiya obyektlari sanitariya nazoratida bo'lishi, bunda entomolog ishtirok etishi kerak [1, 11].",
-      "Kichik gidrotexnik tadbirlarni xo'jalik rahbarlari, mahalla oqsoqollari, maktab o'quvchilari va ustozlari, mahalliy aholini jalb qilib bajarishi mumkin. Milliy yo'riqnomaga ko'ra entomolog gidrotexnik muhandis bilan anofelogen hovuzlarni pasportlashtiradi va ularni kuzatadi [8, 11]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor sholi ekilgan hududni epidemiologik tahlilning bir qismi sifatida ko'rishi kerak: o'choq aholi punkti va unga tutash anofelogen suv havzalari majmuasi hisoblanadi, sholi esa shu majmuaning yirik elementlaridan biri bo'lishi mumkin [1, 2].",
-      "Amalda u sholi maydonlari, ularning aholi punktidan masofasi, lichinka zichligi va gambuziya qamrovi bo'yicha ma'lumotni entomolog va xo'jalik rahbarlaridan oladi, kerak bo'lsa ma'muriyatga takliflar kiritadi. Bu takliflar kuzatuv natijalariga asoslanishi shart [6, 8]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Sholi ekish taqiqlangan masofa raqami, suv qo'yish va quritish davriyligi, shuningdek sholi agrotexnikasiga oid o'g'it va gerbitsid me'yorlari ko'rilgan manbalarda yo'q. Hisobotdagi 500 va 1500 m ustunlari faqat guruhlash bo'lib, ularni me'yor sifatida talqin qilib bo'lmaydi [4].",
-      "Jarima miqdori, ekishni taqiqlash tartibi va amaldagi qonuniy hujjatlar tekshirilmagan. Yagona tayyor agrotexnik ro'yxat bo'lmagani uchun yuqoridagi choralar yagona hujjat ko'rsatmasi emas, balki bir nechta uslubiy manbadan yig'ilgan tahlil sifatida qaralishi lozim [1, 2, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Sholipoyalarda nazorat qilinadigan asosiy tadbirlar suv qo'yish rejimi, ekinning aholi punktidan joylashuvi, faol o'choqlarda maydonni cheklash, gambuziyalashtirish, irrigatsiya tarmoqlarini tartibda ushlash, lichinkalarni hisobga olish va hisobot nazoratidir. Ular parazitolog, entomolog va xo'jalik tashkilotlarining birgalikdagi ishini talab qiladi [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ: презентация. ОблЦГСЭН Ферганской области, Фергана, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Лебедева Н.И. Отчетные и учетные формы: презентация. Служба санитарно-эпидемиологического благополучия и общественного здоровья МЗ РУз, Ташкент, 2021. xayrullokomilov.uz/kutubxona, material ID 1568.",
-    "World Health Organization. Malaria entomology and vector control: guide for participants (Training module on malaria control). Geneva: WHO, 2013. ISBN 978 92 4 150581 9. https://afro.who.int/sites/default/files/2017-06/9789241505819_eng.pdf",
-    "Xamiraev A.I. Suv havzalari va binolarni entomologik tekshirishni o'tkazish usullari: taqdimot. Surxondaryo viloyati SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1590.",
-    "Жахонгиров Ш.М. Chivinlarni insektitsidlarga bo'lgan chidamliligi va bezovtalanishi: taqdimot. L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1595.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "Шодиев Д.Ш. Larvitsid chora-tadbirlarning o'tkazish metodikasi va texnikasi: gambuziyalashtirish, sanitar-gidrotexnik chora-tadbirlar (taqdimot). Viloyat SEO va JS boshqarmasi parazitologiya bo'limi. xayrullokomilov.uz/kutubxona, material ID 1585.",
-    "Chivinlar bilan kurashda kimyoviy usullar: taqdimot. xayrullokomilov.uz/kutubxona, material ID 1594.",
-    "Жахонгиров Ш.М. Санитар-гидротехник тадбирлар: taqdimot. L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1589."
-  ]
+ "number": 38,
+ "title": "38. Sholi poyalarida qanday asosiy agrotexnik chora-tadbirlarni nazorat qilish kerak?",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Sholipoyalar bezgak chivinlarining ommaviy ko'payish joyi bo'lib xizmat qilishi mumkin, ayniqsa ulardan foydalanish qoidalariga rioya qilinmasa. Shu sababli parazitolog va entomolog uchun sholi maydonlari alohida nazorat obyekti hisoblanadi [1, 8].",
+    "Mazkur manbalar agrotexnik tadbirlarni alohida ro'yxat sifatida bermaydi. Mavzuda faqat manbada bor choralar, ya'ni suv qo'yish rejimi, ekin joylashuvi, maydonni cheklash, gambuziyalashtirish, lichinkalarni hisobga olish va hisobot nazorati ko'rib chiqiladi [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Sholipoyaning anofelogen ahamiyati",
+   "content": [
+    "Sholipoyalar sug'orish natijasida paydo bo'ladigan sun'iy suv havzalariga kiradi va gidrotexnik tadbirlar obyektlari qatoriga qo'shiladi. Tibbiy entomologiya qo'llanmasiga ko'ra An. artemievi, An. pulcherrimus, An. superpictus, An. hyrcanus va An. martinius lichinkalari sholipoyalarda uchraydi [3, 11].",
+    "Fargona ma'ruzasida iyul oyida sholi cheklarida An. artemievi lichinkalari 1 kv. m da 15 dan 25 tagacha bo'lgani keltirilgan. Past o'suvchi sholi suv havzasini quyoshdan mo'tadil himoya qiladi va mo'tadil suv haroratini afzal ko'ruvchi An. hyrcanus hamda An. claviger lichinkalari uchun qulay sharoit yaratadi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Suv qo'yish tartibi",
+   "content": [
+    "Uslubiy qo'llanma sholipoyalardan foydalanish tartibiga rioya qilish va iloji boricha shunday suv qo'yish rejimini joriy etishni talab qiladi, bunda vaqti-vaqti bilan lichinkalarning rivojlanishi mumkin bo'lmasin. Bu birinchi va eng muhim nazorat nuqtasi hisoblanadi [1].",
+    "JSST qo'llanmasi vaqti-vaqti bilan sug'orishni atrof-muhit boshqaruvi usuli sifatida ko'rsatadi va bunday choralar vaqtincha ta'sir qilgani uchun takrorlanishi kerakligini aytadi. Kanallarda suv chiqarish davriyligini o'zgartirish lichinkalarni yuvib yuborishga imkon beradi, suv sathining tez pasayishi ham lichinkalarga zarar qiladi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Ekinning aholi punktiga nisbatan joylashuvi",
+   "content": [
+    "Fargona ma'ruzasiga ko'ra aholi punkti chegarasida va unga yaqin joyda, ayniqsa xususiy sholi ekinlariga yo'l qo'ymaslik kerak. Tomorqada sholi yaratgan shaxs kichik maydonda ham aholi punktidagi bezgak avj olishining bevosita sababchisi bo'lishi mumkin [2].",
+    "Milliy yo'riqnoma uyma-uy yurish davomida xorijga borib kelganlar, tomorqalardagi sholi ekilgan maydonlar va chivin ko'payish joylari haqidagi ma'lumotlar hududiy DSENMga berilishini talab qiladi. Shu tariqa ekin joylashuvi epidemiologik nazoratga ulanadi [8]."
+   ]
+  },
+  {
+   "heading": "Maydonni cheklash yoki rad etish",
+   "content": [
+    "Taqdimotlarda kurash dasturi bosqichida, ya'ni qiyin nazorat qilinadigan portlashlar, uch kunlik bezgak bilan yuqori kasallanish va tropik bezgakning cheklangan yuqishi sharoitida, faol tropik bezgak o'choqlarida sholi maydonini cheklash yoki 2 dan 3 yilgacha butunlay rad etish zarur deyilgan [2, 10].",
+    "Eliminatsiyaning hujum bosqichida esa xo'jalik uchun keraksiz suv havzalarini tezroq yo'qotish va ayniqsa xususiy sholi ekinlariga yo'l qo'ymaslik talab etiladi. Taqdimotlar tadbirlar tanlovi vaziyat turiga bog'liqligini, ya'ni hamma yerda bir xil emasligini alohida ta'kidlaydi [2, 10]."
+   ]
+  },
+  {
+   "heading": "Gambuziyalashtirish",
+   "content": [
+    "Sholi tarqalgan tumanlarda qoldiq va yangi o'choqlarda sholi cheklarini gambuziya bilan to'ldirish suv qo'yilgan zahoti bajarilishi kerak. Hujum bosqichida bu ishga qishloq aholisi jalb etilib, gambuziyalash qamrovi kengaytiriladi [2, 10].",
+    "Bitta gambuziya sutkada 60 dan 100 tagacha lichinka yoki g'umbakni yeydi, baliqlar bahorda suv harorati +7 dan 9 °C dan oshganda qo'yiladi. Suv o'tlari juda qalin o'sgan yoki ifloslangan havzalarda baliq samarasi kamayadi, shuning uchun lichinkalar nazorat qilinadi [9]."
+   ]
+  },
+  {
+   "heading": "Boshqa baliq va larvitsid vositalari",
+   "content": [
+    "JSST qo'llanmasi Poecilia reticulata issiq iqlimda sholipoyalarda gambuziyaga nisbatan samaraliroq bo'lishi mumkinligini, ammo 10 °C dan past haroratga chidamasligini aytadi. Quriydigan sholi maydonlari uchun qurg'oqchilikka chidamli tuxumli baliqlar va mahalliy turlar ham tilga olingan [5].",
+    "Gambuziya zich o'simlikli joylarda ojiz bo'lsa, bakterial insektitsid yoki rivojlanish regulyatorlari qo'shimcha qo'llanadi. Biroq JSST keng sug'oriladigan yirik sholi maydonlarida yerdan larvitsid sepishni tavsiya etmaydi [2, 5]."
+   ]
+  },
+  {
+   "heading": "Sug'orish va zovur tarmoqlarining holati",
+   "content": [
+    "Qo'llanmada irrigatsiya va zovur tarmoqlarini tartibda ushlash, kanallarni o'simlikdan tozalash va filtratsion hovuzlarni yo'qotish keng gidrotexnik tadbirlarning bir qismi deb ko'rsatiladi. JSST kanallarni qoplash va o'simlikdan tozalashni tavsiya etadi [1, 5].",
+    "Fargona ma'ruzasida bahorgi toshqin va jaladan keyin tizimni tozalash, ariq chiqindisini kamida 10 m uzoqqa olib chiqish, kanallarda to'g'on qurmaslik va buzilishlarni 3 dan 5 kungacha bartaraf etish qoidalari keltirilgan. Tashlama tarmoq ishlamay qolsa, katta maydonli anofelogen havzalar paydo bo'ladi [2, 11]."
+   ]
+  },
+  {
+   "heading": "Lichinkalarni hisobga olish",
+   "content": [
+    "Entomolog sholi maydonlarini ham anofelogen suv havzalari qatorida kuzatadi va ular uchun hisobga olish shaklida suv havzasi turi sifatida sholi maydoni ko'rsatiladi. Lichinkalar kvadrat metrga qayta hisoblanadi, yosh va tur tarkibi qayd etiladi [6, 8].",
+    "Standart usulda diametri 20 sm to'r bilan namuna olinadi, har bir namuna 1/5 kv. m ni qamraydi va beshta namuna 1 kv. m ni beradi. Baliq qo'yilmagan va ishlov berilmaydigan nazorat havzalarini tanlash qo'llanilgan tadbirlar samarasini baholashga imkon beradi [6]."
+   ]
+  },
+  {
+   "heading": "Hisobot shakllari va nazorat ko'rsatkichlari",
+   "content": [
+    "Lebedevaning hisobot shakllarida sholi ekinlari bo'yicha alohida jadval bor: umumiy maydon, taqiqlangan hududga ekilgan maydon va uning foizi, tomorqadagi sholi hamda aholi punktidan 500 m gacha, 500 dan 1500 m gacha va 1500 m dan ortiq masofadagi maydonlar [4].",
+    "Shu jadvalda 1 kv. m suv yuzasiga to'g'ri keladigan lichinkaning o'rtacha zichligi, jarimalar soni va summasi, yo'q qilingan maydon ko'rsatiladi. Anofelogen suv havzalari maydoni jadvalida esa sholi ekilgan joylarning umumiy maydoni va lichinka yoki g'umbak topilganlari alohida hisobga olinadi [4]."
+   ]
+  },
+  {
+   "heading": "Qishloq xo'jaligida insektitsidlarni qo'llash",
+   "content": [
+    "Chivinlarning insektitsidlarga yarim chidamliligi qishloq xo'jaligida sholi, paxta, bug'doy zararkunandalariga qarshi preparatlar katta hududlarga, ba'zan havodan sepilishi natijasida paydo bo'lishi mumkin. Bu bezgakka qarshi qo'llanadigan preparatlarning samarasiga ta'sir qiladi [7].",
+    "Agar preparatni ishlatish to'xtatilsa, bir necha avloddan keyin chidamlilik kamayishi mumkin, qayta ishlatilsa yanada tezroq ortadi. Shu sababli sholipoyalardagi kimyoviy ishlov nazoratida sog'liqni saqlash va qishloq xo'jaligi tashkilotlarining hamkorligi muhim [7]."
+   ]
+  },
+  {
+   "heading": "Mas'ul tashkilotlar",
+   "content": [
+    "Katta gidrotexnik tadbirlarni melioratsiya, qishloq xo'jaligi korxonalari va kommunal xizmat bajaradi, kichiklarini esa xo'jalik tashkilotlari SEO ko'rsatmasiga muvofiq amalga oshiradi. Qurilish va melioratsiya obyektlari sanitariya nazoratida bo'lishi, bunda entomolog ishtirok etishi kerak [1, 11].",
+    "Kichik gidrotexnik tadbirlarni xo'jalik rahbarlari, mahalla oqsoqollari, maktab o'quvchilari va ustozlari, mahalliy aholini jalb qilib bajarishi mumkin. Milliy yo'riqnomaga ko'ra entomolog gidrotexnik muhandis bilan anofelogen hovuzlarni pasportlashtiradi va ularni kuzatadi [8, 11]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor sholi ekilgan hududni epidemiologik tahlilning bir qismi sifatida ko'rishi kerak: o'choq aholi punkti va unga tutash anofelogen suv havzalari majmuasi hisoblanadi, sholi esa shu majmuaning yirik elementlaridan biri bo'lishi mumkin [1, 2].",
+    "Amalda u sholi maydonlari, ularning aholi punktidan masofasi, lichinka zichligi va gambuziya qamrovi bo'yicha ma'lumotni entomolog va xo'jalik rahbarlaridan oladi, kerak bo'lsa ma'muriyatga takliflar kiritadi. Bu takliflar kuzatuv natijalariga asoslanishi shart [6, 8]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Sholipoyalarda nazorat qilinadigan asosiy tadbirlar suv qo'yish rejimi, ekinning aholi punktidan joylashuvi, faol o'choqlarda maydonni cheklash, gambuziyalashtirish, irrigatsiya tarmoqlarini tartibda ushlash, lichinkalarni hisobga olish va hisobot nazoratidir. Ular parazitolog, entomolog va xo'jalik tashkilotlarining birgalikdagi ishini talab qiladi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ: презентация. ОблЦГСЭН Ферганской области, Фергана, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Лебедева Н.И. Отчетные и учетные формы: презентация. Служба санитарно-эпидемиологического благополучия и общественного здоровья МЗ РУз, Ташкент, 2021. xayrullokomilov.uz/kutubxona, material ID 1568.",
+  "World Health Organization. Malaria entomology and vector control: guide for participants (Training module on malaria control). Geneva: WHO, 2013. ISBN 978 92 4 150581 9. https://afro.who.int/sites/default/files/2017-06/9789241505819_eng.pdf",
+  "Xamiraev A.I. Suv havzalari va binolarni entomologik tekshirishni o'tkazish usullari: taqdimot. Surxondaryo viloyati SEO va JSB. xayrullokomilov.uz/kutubxona, material ID 1590.",
+  "Жахонгиров Ш.М. Chivinlarni insektitsidlarga bo'lgan chidamliligi va bezovtalanishi: taqdimot. L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1595.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "Шодиев Д.Ш. Larvitsid chora-tadbirlarning o'tkazish metodikasi va texnikasi: gambuziyalashtirish, sanitar-gidrotexnik chora-tadbirlar (taqdimot). Viloyat SEO va JS boshqarmasi parazitologiya bo'limi. xayrullokomilov.uz/kutubxona, material ID 1585.",
+  "Chivinlar bilan kurashda kimyoviy usullar: taqdimot. xayrullokomilov.uz/kutubxona, material ID 1594.",
+  "Жахонгиров Ш.М. Санитар-гидротехник тадбирлар: taqdimot. L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1589."
+ ]
 }

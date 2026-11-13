@@ -1,107 +1,100 @@
 {
-  "number": 51,
-  "title": "51. Antroponoz teri leyshmaniozini manbai va tarqatuvchisi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Antroponoz teri leyshmaniozida (ATL) qo'zg'atuvchi odamdan iskabtopar chivin orqali yana odamga o'tadi, ya'ni epidemik zanjir odam va tashuvchi o'rtasida yopiladi. Shu sababli kasallik manbaini va tarqatuvchisini to'g'ri aniqlash profilaktika va epidemiyaga qarshi kurash chora-tadbirlarini rejalashtirishning asosidir [1, 2].",
-        "Ushbu mavzuda avval epidemik zanjirning mantiqi, so'ng bemor odamning manba sifatidagi o'rni, itlar masalasi va Phlebotomus sergenti chivinining biologiyasi ko'rib chiqiladi. Manbalar o'rtasidagi farqlar va tasdiqlanmagan jihatlar oxirida alohida ko'rsatiladi, parazitolog-shifokor uchun amaliy xulosalar beriladi [1, 3, 4]."
-      ]
-    },
-    {
-      "heading": "Antroponoz zanjirning mohiyati",
-      "content": [
-        "Taqdimotda leyshmaniozlar manbaiga qarab antroponoz va zoonoz turlarga bo'linadi. Antroponozda kasallik manbai faqat odam hisoblanadi va qo'zg'atuvchi odamdan iskabtoparlarga, iskabtoparlardan yana odamga yuqadi; Leishmania tropica shu guruhga kiritilgan [9].",
-        "Yo'riqnomada ATL ning manbai bemor odam, bundan tashqari ba'zan itlar ham bo'lishi mumkin deyilgan, tashuvchisi esa Phlebotomus sergenti urg'ochisi. Jadvalda ham ATL uchun manba odam, tashuvchi P. sergenti, qo'zg'atuvchi L. tropica deb ko'rsatilgan [1]."
-      ]
-    },
-    {
-      "heading": "Bemor odam manba sifatida",
-      "content": [
-        "ATL da manba bemor odam bo'lib, parazitlar uning yara tubidagi do'mboqchada va infiltrat chetida joylashadi. Latyshev jadvaliga ko'ra ATL da yaralardagi parazitlar miqdori ko'p bo'ladi, shu sababli chivin bemorni chaqqanda qo'zg'atuvchini oson oladi [1].",
-        "Yo'riqnomada kasallik aholi zich joylashgan punktlarda ko'proq uchrashi qayd etilgan, chunki qo'zg'atuvchi odamdan odamga P. sergenti urg'ochisi orqali o'tadi. Jahongirov va hammualliflari ham ATL asosan shaharlarda uchrashini va odamdan boshqa umurtqali xo'jayinlar hozircha ma'lum emasligini yozadi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Surunkali va qaytalanuvchi shakllar",
-      "content": [
-        "Yo'riqnomaga ko'ra qaytalanuvchi leyshmanioz, lupoid (volchankasimon) yoki surunkali tuberkuloid shakl bir necha yil davom etishi mumkin. Shu sababli bunday bemor bir necha yil mobaynida past darajadagi parazit tashuvchisi bo'lib qolishi, ya'ni uzoq muddat manba vazifasini bajarishi mumkin [1].",
-        "Bu holat profilaktikada past yuqish davrida qaytalanuvchi leyshmaniozlarni erta aniqlash vazifasini keltirib chiqaradi. Davolash bayonnomasida ham ATL ning tuberkuloidli shakli alohida ajratilgan va davolash nazorat tekshiruvida amastigotalar yo'qligi tasdiqlanguncha davom ettirilishi ko'rsatilgan [1, 7]."
-      ]
-    },
-    {
-      "heading": "Itlarning o'rni: manbalar farqi",
-      "content": [
-        "Yo'riqnomada ATL manbai bemor odam, ba'zan itlar ham bo'lishi mumkin deyilgan. Polejayeva va hammualliflari esa asosiy manba bemor odam, qo'shimcha rezervuar kasal itlar degan fikrni bildiradi, tashuvchi sifatida yana Ph. sergenti ko'rsatiladi [1, 4].",
-        "Jahongirov qo'llanmasida esa ATL da odamdan boshqa umurtqali xo'jayinlar hozircha ma'lum emas deyilgan. Shu sababli itlarning ahamiyati manbalarda bir xil baholanmagan; epidemiologik tekshirish kartasida ATL bo'lganda uy va daydi itlarning borligini qayd etish talab qilinadi [2, 6]."
-      ]
-    },
-    {
-      "heading": "Tarqatuvchi: Phlebotomus sergenti",
-      "content": [
-        "ATL ni Phlebotomus sergenti urg'ochilari tarqatadi, chunki ular tuxum rivojlanishi uchun qon so'radi. Jahongirov va hammualliflariga ko'ra O'zbekistonda ATL ning asosiy tashuvchisi Paraphlebotomus kenja avlodiga kiruvchi Ph. sergenti hisoblanadi [1, 2].",
-        "JSST aniqlagichida Ph. sergenti O'rta Osiyoda va o'zining keng arealining ko'p qismida ATL ning asosiy tashuvchisi deb ko'rsatilgan; Pokiston populyatsiyasi tajribalarida urg'ochilar L. tropica ga yuqori sezgir bo'lgan. Ph. papatasi esa Kobul populyatsiyasi tajribasida bu qo'zg'atuvchiga kam sezgir bo'lib, o'choqlarni saqlashdagi roli yo'q yoki juda past deb baholangan [3]."
-      ]
-    },
-    {
-      "heading": "Tashuvchining ekologiyasi",
-      "content": [
-        "JSST aniqlagichiga ko'ra Ph. sergenti O'rta Osiyoda baland tog'lardan tashqari deyarli hamma joyda tarqalgan. Eng yoqtirgan makon tog'dagi qoyalar bo'lib, tekisliklarda u asosan shaharlarda uchraydi, chunki u yerda tog'ga o'xshash vertikal yuzalar va chuqur yashirinish joylari bor [3].",
-        "Uning yashirinish joylari qoya yoriqlari, g'orlar, molxonalar va turar xonalar, tog' oldi hududlarida esa qum sichqonlari inlari ham bo'lishi mumkin. O'rta Osiyoda bir mavsumda 2-3 avlod rivojlanadi va u odam qoni bilan ixtiyoriy oziqlanadi [3]."
-      ]
-    },
-    {
-      "heading": "Chivinning umumiy biologiyasi va yuqumlilik",
-      "content": [
-        "Iskabtopar chivinlar odamni va hayvonni shom va kechqurun chaqadi, urg'ochilari tuxum qo'yish uchun qon so'radi. Aholi punktlarida ular chiqindi qutilari, molxona, kovaklar, paxsa devorlar, axlat va go'ng uyumlari, sichqon inlarida uchraydi; aholi punktida taxminan 10 metrgacha uchadi [1].",
-        "Bemordan qon so'rgandan keyin chivin 6-8 kunda yuqumli bo'ladi va sog' odamni chaqqanda kasallikni yuqtiradi. Yo'riqnomada ATL ning yuqishi asosan yilning issiq oylariga to'g'ri kelishi, lekin inkubatsion davr turlicha bo'lgani uchun mavsumiylik xarakterli emasligi yozilgan [1]."
-      ]
-    },
-    {
-      "heading": "Yuqish yo'lining chegaralari",
-      "content": [
-        "ATL transmissiv yo'l bilan, ya'ni iskabtopar chivinlarning chaqishi orqali yuqadi. MSD ma'lumotnomasida leyshmaniozda kamdan kam hollarda qon quyish, umumiy ignalar, tug'ma yoki jinsiy yo'l bilan yuqish ham tilga olingan, lekin bu asosiy yo'l hisoblanmaydi [1, 8].",
-        "Shu sababli yo'riqnomada chivinlarning zararlanishini kamaytirish uchun bemorning yarasini kechqurunlari bog'lab qo'yish, xonadonlarni insektitsidlar bilan ishlash va repellentlardan foydalanish tavsiya etilgan. Bunday choralar manba bilan tashuvchi o'rtasidagi aloqani uzishga qaratilgan [1]."
-      ]
-    },
-    {
-      "heading": "Xavfli guruhlar va immunitet",
-      "content": [
-        "Yo'riqnomaga ko'ra barcha yoshdagi odamlar kasallanishi mumkin, profilaktikada esa bolalar va migrantlar orasida faol aniqlash ko'rsatilgan. Polejayeva va hammualliflari mahalliy aholida ko'pincha bolalar, kelgan kishilarda barcha yoshdagilar kasallanishini yozadi [1, 4].",
-        "Kasallanishdan keyin umrbod saqlanadigan immunitet hosil bo'ladi, ba'zan kasallik qaytalanishi mumkin. Pavlovich darsligida ATL bilan og'riganlarda superinvaziyaga to'liq chidamlilik 10-12 oyda yuzaga kelishi, qayta kasallanish esa taxminan 2 foizdan oshmasligi aytilgan [1, 5]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Epidemiologik tekshirish kartasida bemorning oilasida, ish joyida va qo'shnilari orasida teri leyshmaniozi bilan kasallanganlar, oldin bu kasallik bilan og'riganligi va tanasidagi chandiqlar soni so'raladi. Bu ma'lumotlar manba bo'lishi mumkin bo'lgan shaxslarni topishga yordam beradi [6].",
-        "Bemorni vaqtida faol aniqlash va davolash uning manba sifatidagi rolini oldini oladi, shuning uchun uy-uyma yurib so'rov va ko'rik o'tkaziladi. Bemor topilgan xonadonning ichki va tashqi qismi hamda qo'shni xonadonlar insektitsid bilan ishlanadi [1]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "ATL da itlarning haqiqiy rezervuarlik roli ko'rilgan manbalarda turlicha talqin qilingan, O'zbekiston sharoitida itlarning parazit bilan zararlanish foizi bo'yicha tekshirilgan raqam topilmadi. Shu sababli itlar «ba'zan manba bo'lishi mumkin» deb ehtiyotkorlik bilan yoziladi [1, 2, 4].",
-        "Ph. sergenti ning O'zbekistonning har bir viloyatidagi soni va zararlanganlik darajasi haqida tekshirilgan ma'lumot ham topilmadi. Kutubxonadagi moskitlar haqidagi taqdimotlar (ID 1593, 1578) asosan rasmli slaydlardan iborat bo'lib, fauna jadvallari matn shaklida ajratib bo'lmadi, shuning uchun ularga tayanilmadi [2, 3]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "ATL ning manbai bemor odam (ba'zi manbalarga ko'ra ba'zan itlar ham), tarqatuvchisi esa Phlebotomus sergenti urg'ochisidir; chivin bemordan qon so'rgach 6-8 kunda yuqumli bo'ladi. Shuning uchun bemorlarni erta aniqlash, davolash va chivinlarga qarshi choralar kompleks o'tkazilishi zarur [1, 2, 3, 6]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Определитель москитов (Diptera, Psychodidae, Phlebotominae) Центральной Азии. Всемирная организация здравоохранения, 2019. ISBN 978 92 890 5454 6. xayrullokomilov.uz/kutubxona, material ID 1549.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Richard D. Pirson. Leyshmanioz. MSD ma'lumotnomasi, professional versiya (tarkib 2019 yil may oyida o'zgartirilgan). xayrullokomilov.uz/kutubxona, material ID 1536.",
-    "Юлдашова С. Висцеральный лейшманиоз (talabalik taqdimoti). xayrullokomilov.uz/kutubxona, material ID 1579."
-  ]
+ "number": 51,
+ "title": "51. Antroponoz teri leyshmaniozini manbai va tarqatuvchisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Antroponoz teri leyshmaniozida (ATL) qo'zg'atuvchi odamdan iskabtopar chivin orqali yana odamga o'tadi, ya'ni epidemik zanjir odam va tashuvchi o'rtasida yopiladi. Shu sababli kasallik manbaini va tarqatuvchisini to'g'ri aniqlash profilaktika va epidemiyaga qarshi kurash chora-tadbirlarini rejalashtirishning asosidir [1, 2].",
+    "Ushbu mavzuda avval epidemik zanjirning mantiqi, so'ng bemor odamning manba sifatidagi o'rni, itlar masalasi va Phlebotomus sergenti chivinining biologiyasi ko'rib chiqiladi. Manbalar o'rtasidagi farqlar alohida ko'rsatiladi, oxirida amaliy ahamiyati yoritiladi [1, 3, 4]."
+   ]
+  },
+  {
+   "heading": "Antroponoz zanjirning mohiyati",
+   "content": [
+    "Taqdimotda leyshmaniozlar manbaiga qarab antroponoz va zoonoz turlarga bo'linadi. Antroponozda kasallik manbai faqat odam hisoblanadi va qo'zg'atuvchi odamdan iskabtoparlarga, iskabtoparlardan yana odamga yuqadi; Leishmania tropica shu guruhga kiritilgan [9].",
+    "Yo'riqnomada ATL ning manbai bemor odam, bundan tashqari ba'zan itlar ham bo'lishi mumkin deyilgan, tashuvchisi esa Phlebotomus sergenti urg'ochisi. Jadvalda ham ATL uchun manba odam, tashuvchi P. sergenti, qo'zg'atuvchi L. tropica deb ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Bemor odam manba sifatida",
+   "content": [
+    "ATL da manba bemor odam bo'lib, parazitlar uning yara tubidagi do'mboqchada va infiltrat chetida joylashadi. Latyshev jadvaliga ko'ra ATL da yaralardagi parazitlar miqdori ko'p bo'ladi, shu sababli chivin bemorni chaqqanda qo'zg'atuvchini oson oladi [1].",
+    "Yo'riqnomada kasallik aholi zich joylashgan punktlarda ko'proq uchrashi qayd etilgan, chunki qo'zg'atuvchi odamdan odamga P. sergenti urg'ochisi orqali o'tadi. Jahongirov va hammualliflari ham ATL asosan shaharlarda uchrashini va odamdan boshqa umurtqali xo'jayinlar hozircha ma'lum emasligini yozadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Surunkali va qaytalanuvchi shakllar",
+   "content": [
+    "Yo'riqnomaga ko'ra qaytalanuvchi leyshmanioz, lupoid (volchankasimon) yoki surunkali tuberkuloid shakl bir necha yil davom etishi mumkin. Shu sababli bunday bemor bir necha yil mobaynida past darajadagi parazit tashuvchisi bo'lib qolishi, ya'ni uzoq muddat manba vazifasini bajarishi mumkin [1].",
+    "Bu holat profilaktikada past yuqish davrida qaytalanuvchi leyshmaniozlarni erta aniqlash vazifasini keltirib chiqaradi. Davolash bayonnomasida ham ATL ning tuberkuloidli shakli alohida ajratilgan va davolash nazorat tekshiruvida amastigotalar yo'qligi tasdiqlanguncha davom ettirilishi ko'rsatilgan [1, 7]."
+   ]
+  },
+  {
+   "heading": "Itlarning o'rni: manbalar farqi",
+   "content": [
+    "Yo'riqnomada ATL manbai bemor odam, ba'zan itlar ham bo'lishi mumkin deyilgan. Polejayeva va hammualliflari esa asosiy manba bemor odam, qo'shimcha rezervuar kasal itlar degan fikrni bildiradi, tashuvchi sifatida yana Ph. sergenti ko'rsatiladi [1, 4].",
+    "Jahongirov qo'llanmasida esa ATL da odamdan boshqa umurtqali xo'jayinlar hozircha ma'lum emas deyilgan. Shu sababli itlarning ahamiyati manbalarda bir xil baholanmagan; epidemiologik tekshirish kartasida ATL bo'lganda uy va daydi itlarning borligini qayd etish talab qilinadi [2, 6]."
+   ]
+  },
+  {
+   "heading": "Tarqatuvchi: Phlebotomus sergenti",
+   "content": [
+    "ATL ni Phlebotomus sergenti urg'ochilari tarqatadi, chunki ular tuxum rivojlanishi uchun qon so'radi. Jahongirov va hammualliflariga ko'ra O'zbekistonda ATL ning asosiy tashuvchisi Paraphlebotomus kenja avlodiga kiruvchi Ph. sergenti hisoblanadi [1, 2].",
+    "JSST aniqlagichida Ph. sergenti O'rta Osiyoda va o'zining keng arealining ko'p qismida ATL ning asosiy tashuvchisi deb ko'rsatilgan; Pokiston populyatsiyasi tajribalarida urg'ochilar L. tropica ga yuqori sezgir bo'lgan. Ph. papatasi esa Kobul populyatsiyasi tajribasida bu qo'zg'atuvchiga kam sezgir bo'lib, o'choqlarni saqlashdagi roli yo'q yoki juda past deb baholangan [3]."
+   ]
+  },
+  {
+   "heading": "Tashuvchining ekologiyasi",
+   "content": [
+    "JSST aniqlagichiga ko'ra Ph. sergenti O'rta Osiyoda baland tog'lardan tashqari deyarli hamma joyda tarqalgan. Eng yoqtirgan makon tog'dagi qoyalar bo'lib, tekisliklarda u asosan shaharlarda uchraydi, chunki u yerda tog'ga o'xshash vertikal yuzalar va chuqur yashirinish joylari bor [3].",
+    "Uning yashirinish joylari qoya yoriqlari, g'orlar, molxonalar va turar xonalar, tog' oldi hududlarida esa qum sichqonlari inlari ham bo'lishi mumkin. O'rta Osiyoda bir mavsumda 2-3 avlod rivojlanadi va u odam qoni bilan ixtiyoriy oziqlanadi [3]."
+   ]
+  },
+  {
+   "heading": "Chivinning umumiy biologiyasi va yuqumlilik",
+   "content": [
+    "Iskabtopar chivinlar odamni va hayvonni shom va kechqurun chaqadi, urg'ochilari tuxum qo'yish uchun qon so'radi. Aholi punktlarida ular chiqindi qutilari, molxona, kovaklar, paxsa devorlar, axlat va go'ng uyumlari, sichqon inlarida uchraydi; aholi punktida taxminan 10 metrgacha uchadi [1].",
+    "Bemordan qon so'rgandan keyin chivin 6-8 kunda yuqumli bo'ladi va sog' odamni chaqqanda kasallikni yuqtiradi. Yo'riqnomada ATL ning yuqishi asosan yilning issiq oylariga to'g'ri kelishi, lekin inkubatsion davr turlicha bo'lgani uchun mavsumiylik xarakterli emasligi yozilgan [1]."
+   ]
+  },
+  {
+   "heading": "Yuqish yo'lining chegaralari",
+   "content": [
+    "ATL transmissiv yo'l bilan, ya'ni iskabtopar chivinlarning chaqishi orqali yuqadi. MSD ma'lumotnomasida leyshmaniozda kamdan kam hollarda qon quyish, umumiy ignalar, tug'ma yoki jinsiy yo'l bilan yuqish ham tilga olingan, lekin bu asosiy yo'l hisoblanmaydi [1, 8].",
+    "Shu sababli yo'riqnomada chivinlarning zararlanishini kamaytirish uchun bemorning yarasini kechqurunlari bog'lab qo'yish, xonadonlarni insektitsidlar bilan ishlash va repellentlardan foydalanish tavsiya etilgan. Bunday choralar manba bilan tashuvchi o'rtasidagi aloqani uzishga qaratilgan [1]."
+   ]
+  },
+  {
+   "heading": "Xavfli guruhlar va immunitet",
+   "content": [
+    "Yo'riqnomaga ko'ra barcha yoshdagi odamlar kasallanishi mumkin, profilaktikada esa bolalar va migrantlar orasida faol aniqlash ko'rsatilgan. Polejayeva va hammualliflari mahalliy aholida ko'pincha bolalar, kelgan kishilarda barcha yoshdagilar kasallanishini yozadi [1, 4].",
+    "Kasallanishdan keyin umrbod saqlanadigan immunitet hosil bo'ladi, ba'zan kasallik qaytalanishi mumkin. Pavlovich darsligida ATL bilan og'riganlarda superinvaziyaga to'liq chidamlilik 10-12 oyda yuzaga kelishi, qayta kasallanish esa taxminan 2 foizdan oshmasligi aytilgan [1, 5]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Epidemiologik tekshirish kartasida bemorning oilasida, ish joyida va qo'shnilari orasida teri leyshmaniozi bilan kasallanganlar, oldin bu kasallik bilan og'riganligi va tanasidagi chandiqlar soni so'raladi. Bu ma'lumotlar manba bo'lishi mumkin bo'lgan shaxslarni topishga yordam beradi [6].",
+    "Bemorni vaqtida faol aniqlash va davolash uning manba sifatidagi rolini oldini oladi, shuning uchun uy-uyma yurib so'rov va ko'rik o'tkaziladi. Bemor topilgan xonadonning ichki va tashqi qismi hamda qo'shni xonadonlar insektitsid bilan ishlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "ATL ning manbai bemor odam (ba'zi manbalarga ko'ra ba'zan itlar ham), tarqatuvchisi esa Phlebotomus sergenti urg'ochisidir; chivin bemordan qon so'rgach 6-8 kunda yuqumli bo'ladi. Shuning uchun bemorlarni erta aniqlash, davolash va chivinlarga qarshi choralar kompleks o'tkazilishi zarur [1, 2, 3, 6]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Определитель москитов (Diptera, Psychodidae, Phlebotominae) Центральной Азии. Всемирная организация здравоохранения, 2019. ISBN 978 92 890 5454 6. xayrullokomilov.uz/kutubxona, material ID 1549.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Richard D. Pirson. Leyshmanioz. MSD ma'lumotnomasi, professional versiya (tarkib 2019 yil may oyida o'zgartirilgan). xayrullokomilov.uz/kutubxona, material ID 1536.",
+  "Юлдашова С. Висцеральный лейшманиоз (talabalik taqdimoti). xayrullokomilov.uz/kutubxona, material ID 1579."
+ ]
 }

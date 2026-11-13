@@ -1,79 +1,120 @@
 {
-  "number": 53,
-  "title": "53. Antroponoz teri leymaniozining joylashuvi va tugatilishiga qarshi tashkillashtirilgan va o'tkazilgan epidemik chora-tadbirlar.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Antroponoz teri leyshmaniozi (ATL) odamdan iskabtopar chivin orqali odamga yuqadigan kasallik bo'lgani uchun uning o'choqlari asosan aholi zich joylashgan punktlarda shakllanadi. Shu sababli kasallikning joylashuvi va unga qarshi chora-tadbirlar aholi punktlari darajasida, bemorlarni aniqlash, tashuvchilarni kamaytirish va o'choqlarni sog'lomlashtirishga yo'naltirilgan holda tashkil etiladi [1, 2].",
-      "Ushbu mavzuda ATL ning O'zbekistondagi hududiy joylashuvi, uni cheklashga qaratilgan me'yoriy asos, tashkiliy, tibbiy, entomologik, veterinariya va sanitariya choralari hamda nazoratda aniqlangan kamchiliklar ko'rib chiqiladi. Savol matnidagi «tugatilishi» maqsadi manbalarda qanday qo'yilgani ham alohida tahlil qilinadi [2, 3]."
-    ]},
-    {"heading": "Me'yoriy asos", "content": [
-      "Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i bilan parazitar kasalliklar profilaktikasi bo'yicha yo'riqnomalar tasdiqlangan, 2-ilova teri va visseral leyshmaniozni oldini olish va epidemiyaga qarshi chora-tadbirlarni belgilaydi. Buyruq hududiy DSENM bosh shifokorlariga o'quv mashg'ulotlarini har yili o'tkazishni ham topshirgan [1, 3].",
-      "Respublika markazi taqdimotidagi me'yoriy hujjatlar ro'yxatida leyshmaniozlar bo'yicha 2017-2021 yillarga mo'ljallangan kompleks reja, 2016 yildagi 166-son buyruq bilan tasdiqlangan tashxis va davolash standartlari hamda 2000 yildagi 630-son buyruq (maxsus hisob yo'riqnomasi) ko'rsatilgan. Bular hisobga olish va davolash tartibining asosini tashkil etadi [2]."
-    ]},
-    {"heading": "Hududiy joylashuv", "content": [
-      "Taqdimotda ATL ning ro'yxatga olinishi Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda davom etayotgani tashvishli holat deb baholangan. Teri leyshmaniozi bo'yicha 2016 yilda Surxondaryo, Samarqand, Buxoro, Jizzax, Xorazm viloyatlari va Qoraqalpog'istonda o'sish qayd etilgan, bu raqamlar shakllar bo'yicha ajratilmagan [2].",
-      "121-son buyruq leyshmaniozning tabiiy endemik o'choqlarida tarqalishini oldini olish uchun Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan, Samarqand viloyatlari va Qoraqalpog'iston Respublikasidagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirishni topshirgan. Bu ro'yxat teri va visseral leyshmaniozni birgalikda qamrab oladi, ATL ga alohida emas [3]."
-    ]},
-    {"heading": "Chora-tadbirlar tizimining tuzilmasi", "content": [
-      "Taqdimotga ko'ra leyshmaniozga qarshi kompleks tashkiliy, davolash-profilaktik, entomologik nazorat, veterinariya, sanitariya-gigiyena, shaxsiy va jamoat profilaktikasi hamda aholi va xavf guruhlari o'rtasida sanitariya-ma'rifiy ishlarni o'z ichiga oladi. Entomologik nazorat iskabtopar turlarini o'rganish va ularning mavsumiy sonini kuzatishdan iborat [2].",
-      "Yo'riqnomaga ko'ra chora-tadbirlar rejasini parazitologiya bo'limi mudiri entomolog, leyshmaniozga qarshi kurash guruhi boshlig'i va zoologni jalb qilib tuzadi va mahalliy hokimiyat bilan kelishadi. Rejaga tushuntirish xati, DSENM rejasi, obodonlashtirish rejasi, taqvim jadvali va xarajatlar smetasi kiradi [1]."
-    ]},
-    {"heading": "Tashkiliy chora-tadbirlar", "content": [
-      "Taqdimotda endemik hududlarda leyshmaniozga qarshi otryadlarni yaratish yoki qayta tiklash, hududiy favqulodda komissiya va tibbiy kengashlarda masalalarni ko'rish, 2017-2021 yillarga hududiy kompleks rejalarni har bir ijrochi va muddat bilan tasdiqlash vazifalari berilgan. Bunda manfaatdor vazirlik va idoralar bilan hamkorlik ham ko'zda tutilgan [2].",
-      "Shuningdek davolovchi, parazitologiya va veterinariya xizmati xodimlari uchun seminarlar o'tkazish, dori vositalarining doimiy kamaymaydigan zaxirasini yaratish, zaharli moddalar, transport va yoqilg'i bo'yicha takliflarni hokimliklarga kiritish belgilangan. Ishlov rejalari, muddatlari va hajmi qayta ko'rib chiqilib, samaradorligi tekshiriladi [2]."
-    ]},
-    {"heading": "Xabar berish va epidemiologik tekshirish", "content": [
-      "Nazorat algoritmida JSST ning standart holat ta'rifi, davlat va xususiy sektordan 058/U shakli bo'yicha shoshilinch xabar, 060/U bo'yicha ro'yxatga olish va laboratoriya tasdig'i majburiy ekani ko'rsatilgan. Laboratoriyada tasdiqlangan holatda 24 soat ichida davo boshlanishi va dispanser nazorati zarur [2].",
-      "Har bir holat tezkor epidemiologik tekshirilib tasniflanadi, o'choqda buyruqqa muvofiq chora-tadbirlar o'tkaziladi, yuqori markazga birlamchi va yakuniy xabar beriladi. Yo'riqnomaga ko'ra tekshirishdan maqsad hududning epizootologik va entomologik vaziyatini aniqlash bo'lib, maxsus karta ikki nusxada to'ldiriladi [1, 2]."
-    ]},
-    {"heading": "Epidemiologik tekshirish kartasi", "content": [
-      "Epidemiologik tekshirish kartasi parazitolog yoki epidemiolog tomonidan har bir leyshmanioz bemori uchun to'ldiriladi. Unda bemorning mahalliy yoki olib kelingan ekani, teridagi o'zgarishlar soni va joylashuvi, chandiqlari, oilasi va qo'shnilari orasidagi kasallanish, ish vaqti (kunduzi yoki kechasi) va hasharot chaqqani haqida ma'lumot yoziladi [4].",
-      "Kartada uy va yashash sharoiti, chivinlarning soni va zichligi hamda ATL da uy va daydi itlarning borligi ham qayd etiladi. Bu ma'lumotlar o'choq chegarasini aniqlash va keyingi chora-tadbirlarni rejalashtirishga xizmat qiladi, shuning uchun ularni to'liq to'ldirish talab qilinadi [1, 4]."
-    ]},
-    {"heading": "Faol aniqlash va davolash", "content": [
-      "Yo'riqnomaga ko'ra epidemiologik mavsum boshlanishidan oldin DPM xodimlari va uchastka tibbiy xodimlari bilan seminarlar o'tkaziladi, xonadonma-xonadon yurib, bog'cha, maktab, korxona va dala shiyponlarida har bir shaxs ko'rikdan o'tkaziladi. Zoonoz teri leyshmaniozi bo'limida keltirilgan muntazam aniqlash jadvali bo'yicha tekshiruv iyuldan oktyabrgacha haftada 2 marta, noyabr-dekabrda bir martadan o'tkaziladi [1].",
-      "ATL profilaktikasida bolalar va migrantlar orasida faol aniqlash, bemorlarni o'z vaqtida to'g'ri davolash ko'rsatilgan. Davolash bayonnomasiga ko'ra asoratli shakldagi bemorlar (3 tadan ortiq yara, 3 sm dan katta yara, bo'g'imlar yaqinida joylashishi, limfa tugunlari jalb bo'lishi, piogen flora qo'shilishi) kasalxonaga yotqiziladi [1, 8]."
-    ]},
-    {"heading": "O'choqda zararsizlantirish va sanitariya", "content": [
-      "Yo'riqnomada bemor aniqlangan xonadonning ichki va tashqi qismi insektitsid bilan ishlanishi, mavsum boshlanishidan oldin qo'shni xonadonlar ham qamrab olinishi aytilgan. Samara ishlovdan oldin va keyin iskabtopar sonini taqqoslash, ya'ni monitoring asosida baholanadi [1].",
-      "Sanitariya choralari sifatida hududni obodonlashtirish va ko'kalamzorlashtirish, go'ng va axlatni tozalash, kemiruvchilar inlarini buzish, tashlandiq inshootlarni olib tashlash, loy binolarni ta'mirlash ko'rsatilgan. ATL uchun xonadon devorlarining pastki qismini beton bilan qoplash, ko'chalarni asfaltlash va hovlilarni pishiq g'isht bilan yopish tavsiya etilgan [1, 2]."
-    ]},
-    {"heading": "Veterinariya va shaxsiy himoya choralari", "content": [
-      "Taqdimotda visseral va antroponoz teri leyshmaniozi bo'yicha itlarni tizimli hisobga olish, veterinariya ko'rigi, faol aniqlash, kasal itlarni davolash yoki yo'q qilish, daydi va egasiz itlarni tutish ko'rsatilgan. Itlarga insektitsidlarni mahalliy qo'llash orqali odamlarning zararlanishini kamaytirish mumkinligi aytilgan [2].",
-      "Itlarni chivin chaqishidan himoya qilish uchun permetrin, deltametrin, flumetrin kabi sintetik piretroidlar yoki ularning imidakloprid bilan kombinatsiyasi, purkagich, tomchi va bo'yin tasmasi shakllarida taklif etilgan. Odamlar uchun repellentlar va uzoq muddat ta'sir qiluvchi insektitsid bilan ishlangan pashshaxonalar tavsiya qilinadi [1, 2]."
-    ]},
-    {"heading": "Immunoprofilaktika", "content": [
-      "Yo'riqnomada ATL bilan kesishuvchi immunitet hosil qilish maqsadida zoonoz teri leyshmaniozi o'choqlarida L. major ning suyuq kulturasi bilan emlash ishlari olib borilishi qayd etilgan. Pavlovich darsligi ham teri leyshmaniozlari profilaktikasi uchun tirik vaksina qo'llanilishini va 3 oydan keyin mustahkam immunitet hosil bo'lishini yozadi [1, 6].",
-      "Polejayeva va hammualliflari zoonoz teri leyshmaniozida leyshmanizatsiya, ya'ni virulent shtamm bilan sun'iy zararlantirish, yuqori samarali profilaktika choralaridan biri bo'lib qolayotganini ta'kidlaydi. Biroq bu usulning hozirgi O'zbekiston amaliyotidagi o'rni va xavfsizligi tekshirilgan manbalarda yoritilmagan [5]."
-    ]},
-    {"heading": "Nazorat va aniqlangan kamchiliklar", "content": [
-      "Taqdimotda epidemiologik tekshirishdagi kamchiliklar sanab o'tilgan: Samarqand viloyatidan VL holatlari bo'yicha tezkor xabar berilmagan, xabarlar mazmunsiz bo'lgan, Toshkent viloyatida teri leyshmaniozi holatlari bo'yicha ishonchli ma'lumot bo'lmagan. 2016 yilda olib kelingan holatdan so'ng Olmaliqda 5 ta mahalliy holat qayd etilgan [2].",
-      "Taqdimot ta'biri bilan epidemiologik tekshirish soxta (fiktiv) o'tkazilgani va chora-tadbirlar kech hamda sifatsiz bajarilgani ko'rsatilgan. Yo'riqnomada esa hisobotda chora-tadbirlar sifati, kasallik o'chog'ida saqlanib qolish sabablari va kamchiliklarni bartaraf etish bo'yicha tavsiyalar bo'lishi talab qilingan [1, 2]."
-    ]},
-    {"heading": "«Tugatish» maqsadining holati", "content": [
-      "Respublika markazi taqdimotida vazifalar sifatida visseral leyshmaniozdan o'lim holatlariga yo'l qo'ymaslik, visseral va teri leyshmaniozining tarqalishi va kasallanishini kamaytirish, xavf ostidagi aholi salomatligini yaxshilash ko'rsatilgan. ATL ni to'liq tugatish (eliminatsiya) maqsadi bu ro'yxatda uchramaydi [2].",
-      "JSST ma'lumotida leyshmanioz bo'yicha eliminatsiya tashabbusi faqat Janubi-Sharqiy Osiyo mintaqasida, visseral leyshmanioz uchun mavjudligi ko'rsatilgan. Shu sababli O'zbekiston uchun ATL ni tugatish emas, balki kasallanishni kamaytirish va tarqalishini cheklash amaldagi maqsad sifatida talqin qilinadi [2, 7]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor ATL holatini mahalliy yoki olib kelingan deb to'g'ri tasniflashi, epidemiologik tekshirishni haqiqatan o'tkazishi va o'choqdagi barcha bosqichlarni (aniqlash, davolash, ishlov, baholash) hujjatlashtirishi kerak. Olmaliq tajribasi sifatsiz tekshiruv oqibatida mahalliy tarqalish yuzaga kelishini ko'rsatadi [2].",
-      "Amaliyotda bemorni aniqlash, shoshilinch xabar berish, namuna olish, xonadon va qo'shnilarni ishlash hamda monitoring natijasini yozib borish bir tizim sifatida bajarilishi lozim. Bu tizim hududiy komissiyalarga hisobot berish uchun ham asos bo'ladi [1, 2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Kompleks reja bo'yicha taqdimotning bir slaydida u Vazirlar Mahkamasi tomonidan tasdiqlangan hujjat sifatida, boshqasida tasdiqlash uchun kelishilgan loyiha sifatida berilgan. Shu sababli rejaning aniq holati va ATL bo'yicha mavjud bandlari tekshirilmadi [2].",
-      "Viloyatlar kesimida ATL o'choqlarida o'tkazilgan ishlov hajmi, aniqlangan bemorlar soni va emlash ishlarining hozirgi holati bo'yicha tekshirilgan raqamlar topilmadi. Shuningdek ATL bilan kasallanishning kamayishi yoki ko'payishi haqidagi so'nggi yillar ma'lumoti manbalarda yo'q, shuning uchun bunday fikr bildirilmaydi [1, 2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "ATL o'choqlari Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda ro'yxatga olinmoqda, unga qarshi kurash 121-son buyruq va leyshmaniozlarga qarshi kompleks reja asosida bemorlarni faol aniqlash, epidemiologik tekshirish, o'choqda ishlov, sanitariya, veterinariya va shaxsiy himoya choralaridan iborat. Manbalarda maqsad kasallanishni kamaytirish va tarqalishini cheklash sifatida ko'rsatilgan [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559."
-  ]
+ "number": 53,
+ "title": "53. Antroponoz teri leymaniozining joylashuvi va tugatilishiga qarshi tashkillashtirilgan va o'tkazilgan epidemik chora-tadbirlar.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Antroponoz teri leyshmaniozi (ATL) odamdan iskabtopar chivin orqali odamga yuqadigan kasallik bo'lgani uchun uning o'choqlari asosan aholi zich joylashgan punktlarda shakllanadi. Shu sababli kasallikning joylashuvi va unga qarshi chora-tadbirlar aholi punktlari darajasida, bemorlarni aniqlash, tashuvchilarni kamaytirish va o'choqlarni sog'lomlashtirishga yo'naltirilgan holda tashkil etiladi [1, 2].",
+    "Ushbu mavzuda ATL ning O'zbekistondagi hududiy joylashuvi, uni cheklashga qaratilgan me'yoriy asos, tashkiliy, tibbiy, entomologik, veterinariya va sanitariya choralari hamda nazoratda aniqlangan kamchiliklar ko'rib chiqiladi. Mavzu nomidagi «tugatilishi» maqsadi manbalarda qanday qo'yilgani ham alohida tahlil qilinadi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Me'yoriy asos",
+   "content": [
+    "Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i bilan parazitar kasalliklar profilaktikasi bo'yicha yo'riqnomalar tasdiqlangan, 2-ilova teri va visseral leyshmaniozni oldini olish va epidemiyaga qarshi chora-tadbirlarni belgilaydi. Buyruq hududiy DSENM bosh shifokorlariga o'quv mashg'ulotlarini har yili o'tkazishni ham topshirgan [1, 3].",
+    "Respublika markazi taqdimotidagi me'yoriy hujjatlar ro'yxatida leyshmaniozlar bo'yicha 2017-2021 yillarga mo'ljallangan kompleks reja, 2016 yildagi 166-son buyruq bilan tasdiqlangan tashxis va davolash standartlari hamda 2000 yildagi 630-son buyruq (maxsus hisob yo'riqnomasi) ko'rsatilgan. Bular hisobga olish va davolash tartibining asosini tashkil etadi [2]."
+   ]
+  },
+  {
+   "heading": "Hududiy joylashuv",
+   "content": [
+    "Taqdimotda ATL ning ro'yxatga olinishi Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda davom etayotgani tashvishli holat deb baholangan. Teri leyshmaniozi bo'yicha 2016 yilda Surxondaryo, Samarqand, Buxoro, Jizzax, Xorazm viloyatlari va Qoraqalpog'istonda o'sish qayd etilgan, bu raqamlar shakllar bo'yicha ajratilmagan [2].",
+    "121-son buyruq leyshmaniozning tabiiy endemik o'choqlarida tarqalishini oldini olish uchun Qashqadaryo, Navoiy, Surxondaryo, Buxoro, Jizzax, Namangan, Samarqand viloyatlari va Qoraqalpog'iston Respublikasidagi leyshmaniozga qarshi kurash otryadlari faoliyatini kuchaytirishni topshirgan. Bu ro'yxat teri va visseral leyshmaniozni birgalikda qamrab oladi, ATL ga alohida emas [3]."
+   ]
+  },
+  {
+   "heading": "Chora-tadbirlar tizimining tuzilmasi",
+   "content": [
+    "Taqdimotga ko'ra leyshmaniozga qarshi kompleks tashkiliy, davolash-profilaktik, entomologik nazorat, veterinariya, sanitariya-gigiyena, shaxsiy va jamoat profilaktikasi hamda aholi va xavf guruhlari o'rtasida sanitariya-ma'rifiy ishlarni o'z ichiga oladi. Entomologik nazorat iskabtopar turlarini o'rganish va ularning mavsumiy sonini kuzatishdan iborat [2].",
+    "Yo'riqnomaga ko'ra chora-tadbirlar rejasini parazitologiya bo'limi mudiri entomolog, leyshmaniozga qarshi kurash guruhi boshlig'i va zoologni jalb qilib tuzadi va mahalliy hokimiyat bilan kelishadi. Rejaga tushuntirish xati, DSENM rejasi, obodonlashtirish rejasi, taqvim jadvali va xarajatlar smetasi kiradi [1]."
+   ]
+  },
+  {
+   "heading": "Tashkiliy chora-tadbirlar",
+   "content": [
+    "Taqdimotda endemik hududlarda leyshmaniozga qarshi otryadlarni yaratish yoki qayta tiklash, hududiy favqulodda komissiya va tibbiy kengashlarda masalalarni ko'rish, 2017-2021 yillarga hududiy kompleks rejalarni har bir ijrochi va muddat bilan tasdiqlash vazifalari berilgan. Bunda manfaatdor vazirlik va idoralar bilan hamkorlik ham ko'zda tutilgan [2].",
+    "Shuningdek davolovchi, parazitologiya va veterinariya xizmati xodimlari uchun seminarlar o'tkazish, dori vositalarining doimiy kamaymaydigan zaxirasini yaratish, zaharli moddalar, transport va yoqilg'i bo'yicha takliflarni hokimliklarga kiritish belgilangan. Ishlov rejalari, muddatlari va hajmi qayta ko'rib chiqilib, samaradorligi tekshiriladi [2]."
+   ]
+  },
+  {
+   "heading": "Xabar berish va epidemiologik tekshirish",
+   "content": [
+    "Nazorat algoritmida JSST ning standart holat ta'rifi, davlat va xususiy sektordan 058/U shakli bo'yicha shoshilinch xabar, 060/U bo'yicha ro'yxatga olish va laboratoriya tasdig'i majburiy ekani ko'rsatilgan. Laboratoriyada tasdiqlangan holatda 24 soat ichida davo boshlanishi va dispanser nazorati zarur [2].",
+    "Har bir holat tezkor epidemiologik tekshirilib tasniflanadi, o'choqda buyruqqa muvofiq chora-tadbirlar o'tkaziladi, yuqori markazga birlamchi va yakuniy xabar beriladi. Yo'riqnomaga ko'ra tekshirishdan maqsad hududning epizootologik va entomologik vaziyatini aniqlash bo'lib, maxsus karta ikki nusxada to'ldiriladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik tekshirish kartasi",
+   "content": [
+    "Epidemiologik tekshirish kartasi parazitolog yoki epidemiolog tomonidan har bir leyshmanioz bemori uchun to'ldiriladi. Unda bemorning mahalliy yoki olib kelingan ekani, teridagi o'zgarishlar soni va joylashuvi, chandiqlari, oilasi va qo'shnilari orasidagi kasallanish, ish vaqti (kunduzi yoki kechasi) va hasharot chaqqani haqida ma'lumot yoziladi [4].",
+    "Kartada uy va yashash sharoiti, chivinlarning soni va zichligi hamda ATL da uy va daydi itlarning borligi ham qayd etiladi. Bu ma'lumotlar o'choq chegarasini aniqlash va keyingi chora-tadbirlarni rejalashtirishga xizmat qiladi, shuning uchun ularni to'liq to'ldirish talab qilinadi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Faol aniqlash va davolash",
+   "content": [
+    "Yo'riqnomaga ko'ra epidemiologik mavsum boshlanishidan oldin DPM xodimlari va uchastka tibbiy xodimlari bilan seminarlar o'tkaziladi, xonadonma-xonadon yurib, bog'cha, maktab, korxona va dala shiyponlarida har bir shaxs ko'rikdan o'tkaziladi. Zoonoz teri leyshmaniozi bo'limida keltirilgan muntazam aniqlash jadvali bo'yicha tekshiruv iyuldan oktyabrgacha haftada 2 marta, noyabr-dekabrda bir martadan o'tkaziladi [1].",
+    "ATL profilaktikasida bolalar va migrantlar orasida faol aniqlash, bemorlarni o'z vaqtida to'g'ri davolash ko'rsatilgan. Davolash bayonnomasiga ko'ra asoratli shakldagi bemorlar (3 tadan ortiq yara, 3 sm dan katta yara, bo'g'imlar yaqinida joylashishi, limfa tugunlari jalb bo'lishi, piogen flora qo'shilishi) kasalxonaga yotqiziladi [1, 8]."
+   ]
+  },
+  {
+   "heading": "O'choqda zararsizlantirish va sanitariya",
+   "content": [
+    "Yo'riqnomada bemor aniqlangan xonadonning ichki va tashqi qismi insektitsid bilan ishlanishi, mavsum boshlanishidan oldin qo'shni xonadonlar ham qamrab olinishi aytilgan. Samara ishlovdan oldin va keyin iskabtopar sonini taqqoslash, ya'ni monitoring asosida baholanadi [1].",
+    "Sanitariya choralari sifatida hududni obodonlashtirish va ko'kalamzorlashtirish, go'ng va axlatni tozalash, kemiruvchilar inlarini buzish, tashlandiq inshootlarni olib tashlash, loy binolarni ta'mirlash ko'rsatilgan. ATL uchun xonadon devorlarining pastki qismini beton bilan qoplash, ko'chalarni asfaltlash va hovlilarni pishiq g'isht bilan yopish tavsiya etilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Veterinariya va shaxsiy himoya choralari",
+   "content": [
+    "Taqdimotda visseral va antroponoz teri leyshmaniozi bo'yicha itlarni tizimli hisobga olish, veterinariya ko'rigi, faol aniqlash, kasal itlarni davolash yoki yo'q qilish, daydi va egasiz itlarni tutish ko'rsatilgan. Itlarga insektitsidlarni mahalliy qo'llash orqali odamlarning zararlanishini kamaytirish mumkinligi aytilgan [2].",
+    "Itlarni chivin chaqishidan himoya qilish uchun permetrin, deltametrin, flumetrin kabi sintetik piretroidlar yoki ularning imidakloprid bilan kombinatsiyasi, purkagich, tomchi va bo'yin tasmasi shakllarida taklif etilgan. Odamlar uchun repellentlar va uzoq muddat ta'sir qiluvchi insektitsid bilan ishlangan pashshaxonalar tavsiya qilinadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Immunoprofilaktika",
+   "content": [
+    "Yo'riqnomada ATL bilan kesishuvchi immunitet hosil qilish maqsadida zoonoz teri leyshmaniozi o'choqlarida L. major ning suyuq kulturasi bilan emlash ishlari olib borilishi qayd etilgan. Pavlovich darsligi ham teri leyshmaniozlari profilaktikasi uchun tirik vaksina qo'llanilishini va 3 oydan keyin mustahkam immunitet hosil bo'lishini yozadi [1, 6].",
+    "Polejayeva va hammualliflari zoonoz teri leyshmaniozida leyshmanizatsiya, ya'ni virulent shtamm bilan sun'iy zararlantirish, yuqori samarali profilaktika choralaridan biri bo'lib qolayotganini ta'kidlaydi. Biroq bu usulning hozirgi O'zbekiston amaliyotidagi o'rni va xavfsizligi tekshirilgan manbalarda yoritilmagan [5]."
+   ]
+  },
+  {
+   "heading": "Nazorat va aniqlangan kamchiliklar",
+   "content": [
+    "Taqdimotda epidemiologik tekshirishdagi kamchiliklar sanab o'tilgan: Samarqand viloyatidan VL holatlari bo'yicha tezkor xabar berilmagan, xabarlar mazmunsiz bo'lgan, Toshkent viloyatida teri leyshmaniozi holatlari bo'yicha ishonchli ma'lumot bo'lmagan. 2016 yilda olib kelingan holatdan so'ng Olmaliqda 5 ta mahalliy holat qayd etilgan [2].",
+    "Taqdimot ta'biri bilan epidemiologik tekshirish soxta (fiktiv) o'tkazilgani va chora-tadbirlar kech hamda sifatsiz bajarilgani ko'rsatilgan. Yo'riqnomada esa hisobotda chora-tadbirlar sifati, kasallik o'chog'ida saqlanib qolish sabablari va kamchiliklarni bartaraf etish bo'yicha tavsiyalar bo'lishi talab qilingan [1, 2]."
+   ]
+  },
+  {
+   "heading": "«Tugatish» maqsadining holati",
+   "content": [
+    "Respublika markazi taqdimotida vazifalar sifatida visseral leyshmaniozdan o'lim holatlariga yo'l qo'ymaslik, visseral va teri leyshmaniozining tarqalishi va kasallanishini kamaytirish, xavf ostidagi aholi salomatligini yaxshilash ko'rsatilgan. ATL ni to'liq tugatish (eliminatsiya) maqsadi bu ro'yxatda uchramaydi [2].",
+    "JSST ma'lumotida leyshmanioz bo'yicha eliminatsiya tashabbusi faqat Janubi-Sharqiy Osiyo mintaqasida, visseral leyshmanioz uchun mavjudligi ko'rsatilgan. Shu sababli O'zbekiston uchun ATL ni tugatish emas, balki kasallanishni kamaytirish va tarqalishini cheklash amaldagi maqsad sifatida talqin qilinadi [2, 7]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor ATL holatini mahalliy yoki olib kelingan deb to'g'ri tasniflashi, epidemiologik tekshirishni haqiqatan o'tkazishi va o'choqdagi barcha bosqichlarni (aniqlash, davolash, ishlov, baholash) hujjatlashtirishi kerak. Olmaliq tajribasi sifatsiz tekshiruv oqibatida mahalliy tarqalish yuzaga kelishini ko'rsatadi [2].",
+    "Amaliyotda bemorni aniqlash, shoshilinch xabar berish, namuna olish, xonadon va qo'shnilarni ishlash hamda monitoring natijasini yozib borish bir tizim sifatida bajarilishi lozim. Bu tizim hududiy komissiyalarga hisobot berish uchun ham asos bo'ladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "ATL o'choqlari Farg'ona, Jizzax, Samarqand va boshqa viloyatlarda ro'yxatga olinmoqda, unga qarshi kurash 121-son buyruq va leyshmaniozlarga qarshi kompleks reja asosida bemorlarni faol aniqlash, epidemiologik tekshirish, o'choqda ishlov, sanitariya, veterinariya va shaxsiy himoya choralaridan iborat. Manbalarda maqsad kasallanishni kamaytirish va tarqalishini cheklash sifatida ko'rsatilgan [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559."
+ ]
 }

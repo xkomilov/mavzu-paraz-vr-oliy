@@ -2,69 +2,110 @@
  "number": 139,
  "title": "139. Kriptosporoidozning etiologiyasi va epidemiologiyasi.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Kriptosporidioz ovqat hazm qilish yo'lini zararlaydigan protozoy kasallik bo'lib, ko'proq bolalarda va immunitet tanqisligi bor odamlarda uchraydi. Milliy yo'riqnomada kasallik «kriptosporoidoz» deb yozilgan, bu yerda esa umumiy qabul qilingan kriptosporidioz atamasi ishlatiladi [1, 2].",
-   "Mavzuda qo'zg'atuvchining tasnifi, ooxistalarning tuzilishi, rivojlanish sikli va chidamliligi, so'ng infeksiya manbalari, yuqish yo'llari, suvning o'rni, xavf guruhlari va tarqalish ko'rsatkichlari ko'rib chiqiladi. Manbalar orasidagi farqlar ochiq ko'rsatiladi, profilaktika alohida mavzu bo'lgani uchun bu yerda faqat qisqa eslatiladi [1, 2, 3]."
-  ]},
-  {"heading": "Qo'zg'atuvchi va tasnifi", "content": [
-   "Milliy yo'riqnomada qo'zg'atuvchi Cryptosporidium muris Tyzzer (1910), sinonimi C. parvum deb ko'rsatilgan va u Sporozoa, Coccidia sinfi, Coccidiida turkumi, Cryptosporidiidae oilasiga kiritilgan. Parazitning to'liq rivojlanishi bitta xo'jayin organizmida o'tadi [1].",
-   "Darslikda kriptosporidioz qo'zg'atuvchilari 30 turdagi xo'jayinda (baliq, qush, amfibiya, sudralib yuruvchi, sutemizuvchilar) parazitlik qiluvchi 6 tur ekani, odamda kasallikni C. parvum chaqirishi, u Apicomplexa tipiga mansubligi aytilgan. Nom sporozoitlar old uchidagi maxsus mikrotuzilmalar majmuasi bilan bog'liq [2]."
-  ]},
-  {"heading": "Zamonaviy tur nomlari", "content": [
-   "JSST hujjatida dunyoda diareya kasalliklarining asosiy sabablari sifatida C. hominis va C. parvum ko'rsatilgan. Hujjat qo'zg'atuvchining biologiyasi, epidemiologiyasi, yuqish yo'llari va atrof-muhitda uchrashini umumlashtiradi, kasallik yuki ayniqsa yosh bolalar, to'yib ovqatlanmaganlar va immuniteti pasayganlarda katta [3].",
-   "Milliy yo'riqnoma bilan JSST hujjati o'rtasida nomenklatura farqi bor: birinchisida C. muris (sinonimi C. parvum), ikkinchisida C. hominis va C. parvum keltirilgan. Bu farq turlarni ajratish bo'yicha tushunchalar rivojlanganini ko'rsatadi, shuning uchun hisobotda alohida qayd etiladi [1, 3]."
-  ]},
-  {"heading": "Ooxista morfologiyasi", "content": [
-   "Milliy yo'riqnomada ooxistalar yumaloq, diametri 4-7 mkm bo'lib, turli kriptosporidiylar bir-biridan biroz farq qilishi aytilgan. Darslikda ooxistalar o'lchami 5,4 x 4,6 mkm, sharsimon yoki oval, devori silliq, rangsiz va yupqa ekani ko'rsatilgan [1, 2].",
-   "Darslikka ko'ra ooxista ichida yadro va sitoplazma bo'linganidan keyin to'rtta sporozoit hosil bo'ladi. Milliy yo'riqnomada sporozoitlar qurtsimon, uzunligi 4,9-11, kengligi 0,8-1,2 mkm va harakatchan ekani yozilgan. Darslikda nomi yunoncha «yashirin spora» ma'nosini bildirishi ham aytilgan [1, 2]."
-  ]},
-  {"heading": "Rivojlanish sikli", "content": [
-   "Ooxistalar og'iz orqali ichakka tushib, ingichka ichakning proksimal qismida yoriladi. Sporozoitlar enterotsitlar yuzasiga yaqin joylashadi, lekin hujayra sitoplazmasiga yorib kirmaydi, hosil bo'lgan trofozoitlar kattalashadi. Milliy yo'riqnomada bu bosqich hujayra yuzasiga yaqin joy sifatida ta'riflangan [1].",
-   "Birinchi tur meront jinssiz ko'payib, sonini tez oshiradi, ikkinchi tur meront jinsiy bosqichlardan o'tib ooxista hosil qiladi. Darslikda jinssiz ko'payish 6-8 merozoit hosil qilishi, jinsiy hujayralar qo'shilib zigota va ooxistaga aylanishi aytilgan. Ooxistalar sporulyatsiyasi hujayra ichida kechadi [1, 2]."
-  ]},
-  {"heading": "Ikki turdagi ooxista va autoinvaziya", "content": [
-   "Darslikda yupqa devorli va qalin devorli ikki tur ooxista hosil bo'lishi ta'kidlangan. Yupqa devorli ooxistalardan sporozoitlar ichak bo'shlig'ida chiqib, yangi epitelial hujayralarni zararlaydi, bu autoinvaziya parazitning uzoq saqlanishiga va kasallikning surunkali kechishiga sabab bo'ladi [2].",
-   "Milliy yo'riqnomada ham ichakda qolgan ooxistalar autoinvaziyaga olib kelishi va kasallik surunkali shaklga o'tishiga sabab bo'lishi aytilgan. Qalin devorli ooxistalar najas bilan tashqi muhitga chiqib, odam va hayvonlar uchun zararlanish manbai bo'ladi [1, 2]."
-  ]},
-  {"heading": "Tashqi muhitdagi chidamlilik", "content": [
-   "Milliy yo'riqnomada ooxistalar tashqi muhitga juda chidamli, molxona poli sharoitida bir necha oy saqlanishi, dezinfeksiyalovchi moddalarning oddiy konsentratsiyasi, jumladan suvni xlorlash ularga halokatli ta'sir qilmasligi yozilgan. Darslikda ham bu chidamlilik alohida ta'kidlangan [1, 2].",
-   "Darslikka ko'ra 4 °C haroratda ooxistalar 18 oygacha yuqumlilik xususiyatini yo'qotmaydi. JSST hujjati ooxistalarning atrof-muhit suvlarida saqlanishini, xlorli dezinfeksiyaga juda chidamliligini, tozalashda esa filtrlash, ultrabinafsha nur va ozon kabi usullar muhimligini ko'rsatadi [2, 3]."
-  ]},
-  {"heading": "Infeksiya manbalari", "content": [
-   "Milliy yo'riqnomada infeksiya manbai bo'lib odam hamda yovvoyi va uy hayvonlari: yirik va mayda shoxli hayvonlar, ot, it, mushuk, tovuq, kalamush va sichqonlar xizmat qilishi ko'rsatilgan. Shu sababli zoonoz va antroponoz yo'llar birgalikda ishlaydi [1].",
-   "Darslikda kriptosporidiylar 30 xil hayvon turida parazitlik qilishi va tabiiy rezervuarlar ko'pligi kasallikning keng tarqalish sabablaridan biri ekani aytilgan. JSST hujjatida esa kriptosporidiy ooxistalarining najas bilan ifloslangan muhitda saqlanishi va yetarli bo'lmagan sanitariya bilan kasallik tarqalishi o'rtasidagi kuchli bog'liqlik ta'kidlangan [2, 3]."
-  ]},
-  {"heading": "Yuqish mexanizmi va omillari", "content": [
-   "Yuqish yo'li fekal-oral. Milliy yo'riqnomada odam ooxistalar bilan ifloslangan oziq-ovqat, ko'pincha sut, zararlangan suv, jumladan suzish havzalari suvi va iflos qo'llar orqali zararlanishi, oilaviy hamda shifoxona ichi tarqalish ham kuzatilgani aytilgan [1].",
-   "Darslikda asosiy mexanizm fekal-oral bo'lib, ko'pincha kriptosporidiylar bilan ifloslangan ichimlik suvi orqali yuqishi ko'rsatilgan. Darslikda ooxistalar organizmga oziq-ovqat, suv va havo bilan tushishi ham yozilgan, ammo havo yo'li boshqa manbalarda alohida izohlanmagan [2]."
-  ]},
-  {"heading": "Suv va suzish havzalarining o'rni", "content": [
-   "Milliy yo'riqnomada kasallikning epidemiya sifatida tarqalishiga aholi zich joylashgan hududlardagi ochiq suv havzalari, vodoprovod suvi va suzish havzalari suvining zararlanishi sabab bo'lishi aytilgan. Noma'lum sababli o'tkir ichak infeksiyalari epidemiyasida kriptosporidiyga tekshirish ham kiritilishi kerak [1].",
-   "JSST hujjatida kriptosporidiy suvli manbalarda, oqava suvlarda, tuproqda, ekinlarda va rekreatsion suvlarda uchrashi hamda ko'plab suv orqali tarqalgan avj olishlar qayd etilganini ta'kidlaydi. Yetarli sanitariya va ichimlik suvi xavfsizligi bo'lmasa, kasallik tarqalishi kuchayadi [3]."
-  ]},
-  {"heading": "Yuqumlilik dozasi", "content": [
-   "Darslikda eksperimentda primatlarda bitta ooxista bilan ham zararlanish rivojlanishi mumkinligi, sog'lom ko'ngillilarda 1000 ooxista bilan zararlanishda klinik manzara 100 foiz holda paydo bo'lishi yozilgan. Yuqumlilik dozasi juda kichik ekani kasallik keng tarqalishining sabablaridan biri hisoblanadi [2].",
-   "Shu bilan birga darslikda keng tarqalish tabiiy rezervuarlar ko'pligi, kichik zararlovchi doza va qo'zg'atuvchining dezinfeksiyalovchi hamda parazitga qarshi dori vositalariga yuqori chidamliligi bilan bog'lanadi. Bu uchta omil birgalikda profilaktikani murakkablashtiradi [2]."
-  ]},
-  {"heading": "Xavf guruhlari va yashirin davr", "content": [
-   "Milliy yo'riqnomada kasallik ko'proq bolalarda va immunitet tanqisligi bor odamlarda uchrashi, yashirin davr 4-14 kun ekani yozilgan. Ayniqsa 5 yoshgacha bolalar va immuniteti past shaxslarda hidli, suvsimon ich ketishi kuzatilsa, kriptosporidioz haqida o'ylash kerak [1].",
-   "Darslikda yashirin davr 4-14 kun, asosiy belgi esa profuz suvsimon diareya ekani, OITS bilan kasallanganlarda og'irroq kechishi va suvsizlanishga olib kelishi mumkinligi aytilgan. Immuniteti saqlangan odamlarda diareya davolashsiz to'xtashi ham yozilgan [2]."
-  ]},
-  {"heading": "Tarqalish ko'rsatkichlari", "content": [
-   "Milliy yo'riqnomada G'arb mamlakatlarida bolalar gastroenteritlarining 1,4-4,1 foizi kriptosporidiy bilan bog'liq, rivojlangan mamlakatlarda 4-11 foiz uchrashi, diareya epidemiyalarida esa kriptosporidioz 63 foiz holda sabab bo'lishi ko'rsatilgan. Sog'lom tashuvchilar juda kam uchraydi [1].",
-   "Darslikda kumulyativ kasallanish industrial mamlakatlarda taxminan 1-3 foiz, rivojlanayotganlarda 5-10 foiz, antitanalar mos ravishda 25-35 va taxminan 65 foiz odamda aniqlanishi yozilgan. Serologik natijalar kasallik tashxisdan ko'ra ancha ko'p uchrashini ko'rsatadi [2]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Tashxis najasda ooxistalarni topishga asoslanadi. Milliy yo'riqnomada karbol-fuksinli Sil-Nilsen, safraninli Kester va azur-eozinli Romanovskiy-Gimza usullari ko'rsatilgan; darslikda oddiy bo'yash ko'p hollarda yetarli emasligi, Sil-Nilsen bilan ooxistalar qizil bo'yalishi aytilgan [1, 2].",
-   "Ooxistalar ajralishi ich ketishi to'xtagandan keyin ham bir haftagacha, ba'zan 2-3 haftagacha davom etishi mumkin. Yo'riqnomada kasalni boshidan o'tkazganlarni kamida 2 oy dispanser kuzatuvga olish va 14-20 kun oralig'ida ikki marta qayta koprologik tekshirish ko'rsatilgan [1]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan manbalarda O'zbekiston bo'yicha kriptosporidiozning kasallanish ko'rsatkichlari, qaysi viloyatlarda ko'proq uchrashi va suv manbalarining ooxistalar bilan ifloslanishi haqida ma'lumot topilmadi. Shu sababli bu raqamlar yozilmaydi. Milliy yo'riqnomadagi tarqalish ko'rsatkichlari ham O'zbekistonga tegishli deb olinmaydi [1, 2, 3].",
-   "Manbalarda farqlar bor: ooxista o'lchami 4-7 mkm (yo'riqnoma) va 5,4 x 4,6 mkm (darslik), zararlanishdan ooxistalar ajralishigacha o'tadigan davr 4-7 kun va 5-20 kun, tur nomi esa C. muris (sinonimi C. parvum), C. parvum va C. hominis. Bu farqlar hisobotda alohida ko'rsatiladi, sababi izohlanmagan [1, 2, 3]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Kriptosporidioz qo'zg'atuvchisi kokksidiylar guruhidagi Cryptosporidium bo'lib, bitta xo'jayinda rivojlanadi, ooxistalari tashqi muhitda va xlorlashga juda chidamli. Manbalar odam va hayvonlar, yuqish fekal-oral, suv va suzish havzalari alohida xavfli; bolalar hamda immuniteti pasayganlar xavf guruhi, O'zbekiston ko'rsatkichlari esa tasdiqlanmagan [1, 2, 3]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Kriptosporidioz ovqat hazm qilish yo'lini zararlaydigan protozoy kasallik bo'lib, ko'proq bolalarda va immunitet tanqisligi bor odamlarda uchraydi. Milliy yo'riqnomada kasallik «kriptosporoidoz» deb yozilgan, bu yerda esa umumiy qabul qilingan kriptosporidioz atamasi ishlatiladi [1, 2].",
+    "Mavzuda qo'zg'atuvchining tasnifi, ooxistalarning tuzilishi, rivojlanish sikli va chidamliligi, so'ng infeksiya manbalari, yuqish yo'llari, suvning o'rni, xavf guruhlari va tarqalish ko'rsatkichlari ko'rib chiqiladi. Manbalar orasidagi farqlar ochiq ko'rsatiladi, profilaktika alohida mavzu bo'lgani uchun bu yerda faqat qisqa eslatiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchi va tasnifi",
+   "content": [
+    "Milliy yo'riqnomada qo'zg'atuvchi Cryptosporidium muris Tyzzer (1910), sinonimi C. parvum deb ko'rsatilgan va u Sporozoa, Coccidia sinfi, Coccidiida turkumi, Cryptosporidiidae oilasiga kiritilgan. Parazitning to'liq rivojlanishi bitta xo'jayin organizmida o'tadi [1].",
+    "Darslikda kriptosporidioz qo'zg'atuvchilari 30 turdagi xo'jayinda (baliq, qush, amfibiya, sudralib yuruvchi, sutemizuvchilar) parazitlik qiluvchi 6 tur ekani, odamda kasallikni C. parvum chaqirishi, u Apicomplexa tipiga mansubligi aytilgan. Nom sporozoitlar old uchidagi maxsus mikrotuzilmalar majmuasi bilan bog'liq [2]."
+   ]
+  },
+  {
+   "heading": "Zamonaviy tur nomlari",
+   "content": [
+    "JSST hujjatida dunyoda diareya kasalliklarining asosiy sabablari sifatida C. hominis va C. parvum ko'rsatilgan. Hujjat qo'zg'atuvchining biologiyasi, epidemiologiyasi, yuqish yo'llari va atrof-muhitda uchrashini umumlashtiradi, kasallik yuki ayniqsa yosh bolalar, to'yib ovqatlanmaganlar va immuniteti pasayganlarda katta [3].",
+    "Milliy yo'riqnoma bilan JSST hujjati o'rtasida nomenklatura farqi bor: birinchisida C. muris (sinonimi C. parvum), ikkinchisida C. hominis va C. parvum keltirilgan. Bu farq turlarni ajratish bo'yicha tushunchalar rivojlanganini ko'rsatadi, shuning uchun hisobotda alohida qayd etiladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Ooxista morfologiyasi",
+   "content": [
+    "Milliy yo'riqnomada ooxistalar yumaloq, diametri 4-7 mkm bo'lib, turli kriptosporidiylar bir-biridan biroz farq qilishi aytilgan. Darslikda ooxistalar o'lchami 5,4 x 4,6 mkm, sharsimon yoki oval, devori silliq, rangsiz va yupqa ekani ko'rsatilgan [1, 2].",
+    "Darslikka ko'ra ooxista ichida yadro va sitoplazma bo'linganidan keyin to'rtta sporozoit hosil bo'ladi. Milliy yo'riqnomada sporozoitlar qurtsimon, uzunligi 4,9-11, kengligi 0,8-1,2 mkm va harakatchan ekani yozilgan. Darslikda nomi yunoncha «yashirin spora» ma'nosini bildirishi ham aytilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Rivojlanish sikli",
+   "content": [
+    "Ooxistalar og'iz orqali ichakka tushib, ingichka ichakning proksimal qismida yoriladi. Sporozoitlar enterotsitlar yuzasiga yaqin joylashadi, lekin hujayra sitoplazmasiga yorib kirmaydi, hosil bo'lgan trofozoitlar kattalashadi. Milliy yo'riqnomada bu bosqich hujayra yuzasiga yaqin joy sifatida ta'riflangan [1].",
+    "Birinchi tur meront jinssiz ko'payib, sonini tez oshiradi, ikkinchi tur meront jinsiy bosqichlardan o'tib ooxista hosil qiladi. Darslikda jinssiz ko'payish 6-8 merozoit hosil qilishi, jinsiy hujayralar qo'shilib zigota va ooxistaga aylanishi aytilgan. Ooxistalar sporulyatsiyasi hujayra ichida kechadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Ikki turdagi ooxista va autoinvaziya",
+   "content": [
+    "Darslikda yupqa devorli va qalin devorli ikki tur ooxista hosil bo'lishi ta'kidlangan. Yupqa devorli ooxistalardan sporozoitlar ichak bo'shlig'ida chiqib, yangi epitelial hujayralarni zararlaydi, bu autoinvaziya parazitning uzoq saqlanishiga va kasallikning surunkali kechishiga sabab bo'ladi [2].",
+    "Milliy yo'riqnomada ham ichakda qolgan ooxistalar autoinvaziyaga olib kelishi va kasallik surunkali shaklga o'tishiga sabab bo'lishi aytilgan. Qalin devorli ooxistalar najas bilan tashqi muhitga chiqib, odam va hayvonlar uchun zararlanish manbai bo'ladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Tashqi muhitdagi chidamlilik",
+   "content": [
+    "Milliy yo'riqnomada ooxistalar tashqi muhitga juda chidamli, molxona poli sharoitida bir necha oy saqlanishi, dezinfeksiyalovchi moddalarning oddiy konsentratsiyasi, jumladan suvni xlorlash ularga halokatli ta'sir qilmasligi yozilgan. Darslikda ham bu chidamlilik alohida ta'kidlangan [1, 2].",
+    "Darslikka ko'ra 4 °C haroratda ooxistalar 18 oygacha yuqumlilik xususiyatini yo'qotmaydi. JSST hujjati ooxistalarning atrof-muhit suvlarida saqlanishini, xlorli dezinfeksiyaga juda chidamliligini, tozalashda esa filtrlash, ultrabinafsha nur va ozon kabi usullar muhimligini ko'rsatadi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Infeksiya manbalari",
+   "content": [
+    "Milliy yo'riqnomada infeksiya manbai bo'lib odam hamda yovvoyi va uy hayvonlari: yirik va mayda shoxli hayvonlar, ot, it, mushuk, tovuq, kalamush va sichqonlar xizmat qilishi ko'rsatilgan. Shu sababli zoonoz va antroponoz yo'llar birgalikda ishlaydi [1].",
+    "Darslikda kriptosporidiylar 30 xil hayvon turida parazitlik qilishi va tabiiy rezervuarlar ko'pligi kasallikning keng tarqalish sabablaridan biri ekani aytilgan. JSST hujjatida esa kriptosporidiy ooxistalarining najas bilan ifloslangan muhitda saqlanishi va yetarli bo'lmagan sanitariya bilan kasallik tarqalishi o'rtasidagi kuchli bog'liqlik ta'kidlangan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Yuqish mexanizmi va omillari",
+   "content": [
+    "Yuqish yo'li fekal-oral. Milliy yo'riqnomada odam ooxistalar bilan ifloslangan oziq-ovqat, ko'pincha sut, zararlangan suv, jumladan suzish havzalari suvi va iflos qo'llar orqali zararlanishi, oilaviy hamda shifoxona ichi tarqalish ham kuzatilgani aytilgan [1].",
+    "Darslikda asosiy mexanizm fekal-oral bo'lib, ko'pincha kriptosporidiylar bilan ifloslangan ichimlik suvi orqali yuqishi ko'rsatilgan. Darslikda ooxistalar organizmga oziq-ovqat, suv va havo bilan tushishi ham yozilgan, ammo havo yo'li boshqa manbalarda alohida izohlanmagan [2]."
+   ]
+  },
+  {
+   "heading": "Suv va suzish havzalarining o'rni",
+   "content": [
+    "Milliy yo'riqnomada kasallikning epidemiya sifatida tarqalishiga aholi zich joylashgan hududlardagi ochiq suv havzalari, vodoprovod suvi va suzish havzalari suvining zararlanishi sabab bo'lishi aytilgan. Noma'lum sababli o'tkir ichak infeksiyalari epidemiyasida kriptosporidiyga tekshirish ham kiritilishi kerak [1].",
+    "JSST hujjatida kriptosporidiy suvli manbalarda, oqava suvlarda, tuproqda, ekinlarda va rekreatsion suvlarda uchrashi hamda ko'plab suv orqali tarqalgan avj olishlar qayd etilganini ta'kidlaydi. Yetarli sanitariya va ichimlik suvi xavfsizligi bo'lmasa, kasallik tarqalishi kuchayadi [3]."
+   ]
+  },
+  {
+   "heading": "Yuqumlilik dozasi",
+   "content": [
+    "Darslikda eksperimentda primatlarda bitta ooxista bilan ham zararlanish rivojlanishi mumkinligi, sog'lom ko'ngillilarda 1000 ooxista bilan zararlanishda klinik manzara 100 foiz holda paydo bo'lishi yozilgan. Yuqumlilik dozasi juda kichik ekani kasallik keng tarqalishining sabablaridan biri hisoblanadi [2].",
+    "Shu bilan birga darslikda keng tarqalish tabiiy rezervuarlar ko'pligi, kichik zararlovchi doza va qo'zg'atuvchining dezinfeksiyalovchi hamda parazitga qarshi dori vositalariga yuqori chidamliligi bilan bog'lanadi. Bu uchta omil birgalikda profilaktikani murakkablashtiradi [2]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari va yashirin davr",
+   "content": [
+    "Milliy yo'riqnomada kasallik ko'proq bolalarda va immunitet tanqisligi bor odamlarda uchrashi, yashirin davr 4-14 kun ekani yozilgan. Ayniqsa 5 yoshgacha bolalar va immuniteti past shaxslarda hidli, suvsimon ich ketishi kuzatilsa, kriptosporidioz haqida o'ylash kerak [1].",
+    "Darslikda yashirin davr 4-14 kun, asosiy belgi esa profuz suvsimon diareya ekani, OITS bilan kasallanganlarda og'irroq kechishi va suvsizlanishga olib kelishi mumkinligi aytilgan. Immuniteti saqlangan odamlarda diareya davolashsiz to'xtashi ham yozilgan [2]."
+   ]
+  },
+  {
+   "heading": "Tarqalish ko'rsatkichlari",
+   "content": [
+    "Milliy yo'riqnomada G'arb mamlakatlarida bolalar gastroenteritlarining 1,4-4,1 foizi kriptosporidiy bilan bog'liq, rivojlangan mamlakatlarda 4-11 foiz uchrashi, diareya epidemiyalarida esa kriptosporidioz 63 foiz holda sabab bo'lishi ko'rsatilgan. Sog'lom tashuvchilar juda kam uchraydi [1].",
+    "Darslikda kumulyativ kasallanish industrial mamlakatlarda taxminan 1-3 foiz, rivojlanayotganlarda 5-10 foiz, antitanalar mos ravishda 25-35 va taxminan 65 foiz odamda aniqlanishi yozilgan. Serologik natijalar kasallik tashxisdan ko'ra ancha ko'p uchrashini ko'rsatadi [2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Tashxis najasda ooxistalarni topishga asoslanadi. Milliy yo'riqnomada karbol-fuksinli Sil-Nilsen, safraninli Kester va azur-eozinli Romanovskiy-Gimza usullari ko'rsatilgan; darslikda oddiy bo'yash ko'p hollarda yetarli emasligi, Sil-Nilsen bilan ooxistalar qizil bo'yalishi aytilgan [1, 2].",
+    "Ooxistalar ajralishi ich ketishi to'xtagandan keyin ham bir haftagacha, ba'zan 2-3 haftagacha davom etishi mumkin. Yo'riqnomada kasalni boshidan o'tkazganlarni kamida 2 oy dispanser kuzatuvga olish va 14-20 kun oralig'ida ikki marta qayta koprologik tekshirish ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Kriptosporidioz qo'zg'atuvchisi kokksidiylar guruhidagi Cryptosporidium bo'lib, bitta xo'jayinda rivojlanadi, ooxistalari tashqi muhitda va xlorlashga juda chidamli. Manbalar odam va hayvonlar, yuqish fekal-oral, suv va suzish havzalari alohida xavfli; bolalar hamda immuniteti pasayganlar xavf guruhi, O'zbekiston ko'rsatkichlari esa manbalarda keltirilmagan [1, 2, 3]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",

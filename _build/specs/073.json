@@ -1,74 +1,112 @@
 {
-  "number": 73,
-  "title": "73. O'zbekistonning qaysi hududlarida geogelmintlar tarqalgan va qaysilar.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Geogelmintlar tuxum va lichinkalari tuproqda yetiladigan, oraliq xo'jayinni talab qilmaydigan gelmintlardir. Savolning ikki qismi bor: O'zbekistonda qaysi geogelmintlar qayd etiladi va ular qaysi hududlarda tarqalgan. Birinchi qismga manbalar aniq javob beradi, ikkinchisiga viloyatlar kesimida aniq tasdiqlangan ma'lumot topilmadi [1, 3].",
-      "Shu sababli mavzuda avval milliy hujjatlardagi geogelmintozlar va respublika ko'rsatkichlari, so'ngra geogelmintlarning tarqalishini belgilovchi iqlimiy, tuproq va ijtimoiy qonuniyatlar manbalar bilan keltiriladi. Hududiy ma'lumot yo'qligi «Tasdiqlanmagan ma'lumotlar» bo'limida ochiq aytiladi [1, 2, 3]."
-    ]},
-    {"heading": "O'zbekistonda qayd etiladigan geogelmintlar", "content": [
-      "Milliy yo'riqnomada geogelmintozlar sifatida askaridoz va trixotsefalyoz ko'rsatilgan, ularning manbai zararlangan odam, yuqish mavsumi esa yoz-kuz davriga to'g'ri keladi. Asosiy yuqish omillari yuvilmagan sabzavotlar, mevalar va ko'katlar, shuningdek tuproq, suv va iflos qo'llardir [3].",
-      "Respublikada eng ko'p uchraydigan ichak gelmintozlari qatorida enterobioz, gimenolepidoz, askaridoz, trixotsefalyoz, teniarinxoz va exinokokkoz sanalgan. Aholiga mo'ljallangan bukletda ham xuddi shu gelmintozlar ko'proq uchraydigan deb ko'rsatilgan; ularning ichida geogelmintozlar askaridoz va trixotsefalyozdir [3, 7]."
-    ]},
-    {"heading": "Respublika miqyosidagi ko'rsatkichlar", "content": [
-      "Yo'riqnomada gelmintozlar respublikada eng ko'p tarqalgan parazitozlar bo'lib, barcha parazitar kasalliklarning 90 foizini tashkil etishi aytilgan. Bu ko'rsatkich gelmintozlarning umumiy ulushini bildiradi va geogelmintozlarni alohida ajratib ko'rsatmaydi [3].",
-      "Ilmiy xabarda O'zbekistonda har yili 200 mingdan ortiq parazitar kasallik bilan og'rigan bemor qayd etilishi, ularning asosiy qismi gelmintozlar va zoonoz teri leyshmanioziga tegishli ekani yozilgan. Taqdimotda esa gijja kasalliklari bilan har yili 250-300 ming kishi kasallanishi ko'rsatilgan [4, 5]."
-    ]},
-    {"heading": "Hududlar bo'yicha xarita", "content": [
-      "Farg'ona viloyati ma'ruzasida «Respublikamizda gijja kasalligini hududlar bo'yicha tarqalganligi» nomli xarita bor. Unda Nukus, Urganch, Navoiy, Buxoro, Samarqand, Qarshi, Termiz, Jizzax, Guliston, Namangan, Andijon, Farg'ona va Toshkent shahri belgilangan, intensiv ko'rsatkich to'rt darajaga bo'lingan [4].",
-      "Darajalar 100 ming aholiga 1758 dan, 876 dan, 413 dan ortiq va 296 ga teng kasallik sifatida yozilgan. Xarita rasm shaklida bo'lgani uchun qaysi hudud qaysi darajaga tushgani matndan o'qilmaydi, ko'rsatkich esa geogelmintozlarni emas, umuman gijja kasalliklarini qamrab oladi [4]."
-    ]},
-    {"heading": "Farg'ona viloyati misoli", "content": [
-      "Farg'ona viloyatida 2014 yilda gijjaga 1 064 788 ta tahlil o'tkazilgan, 762 138 kishi tekshirilgan va 48 766 gijja tashuvchi aniqlangan. Jadvalda askarida va qilbosh gijja ustunlari bor, lekin qiymatlar matnga noaniq ko'chgani uchun ularning hissasi keltirilmaydi [4].",
-      "Viloyat darajasidagi bu hisobot hududiy tahlil uchun to'g'ri shakl ko'rsatadi: tekshirilgan tahlillar, tekshirilgan shaxslar, tashuvchilar va davolanganlar tur bo'yicha yoziladi. Ammo bu bitta viloyat ma'lumoti bo'lib, undan respublika uchun xulosa chiqarib bo'lmaydi [4]."
-    ]},
-    {"heading": "Respublikada yo'qotilgan geogelmint", "content": [
-      "Ilmiy xabarda O'zbekistonda ankilostomidoz 1974 yilda yo'qotilgani qayd etilgan. Ankilostomalar geogelmintlarga kiradi, ularning lichinkalari tuproqdan teri orqali kiradi, shuning uchun bu misol geogelmintoz qo'zg'atuvchisining butun respublika miqyosida bartaraf etilgan holatini ko'rsatadi [5, 6].",
-      "Bundan tashqari, xuddi shu xabarda askaridoz keng ko'lamli ijtimoiy gelmintoz sifatida saqlanib qolgani yozilgan. Demak, geogelmintlar ichida ankilostoma yo'qolgan, askarida esa uzoq vaqt aholi salomatligi muammosi bo'lib qolgan, ammo ularning viloyatlar bo'yicha taqsimoti keltirilmagan [5]."
-    ]},
-    {"heading": "Iqlim qonuniyatlari", "content": [
-      "Darslikda askaridoz, trixotsefalyoz, ankilostomidoz va strongiloidoz asosan iliq va nam iqlimli hududlarda uchrashi, abadiy muzlik zonasida bo'lmasligi yozilgan. Askarida tuxumi 10-12 darajadan 36 darajagacha haroratda yetiladi, 24 darajada invazion lichinka 14 kunda paydo bo'ladi [1].",
-      "Mo'tadil iqlimda yetilish 40-60 kun oladi, kuzda yetilib ulgurmagan tuxumlar qishlaydi va lichinkalar bahorda invazion bo'ladi. Bular umumiy qonuniyatlar bo'lib, O'zbekiston viloyatlari bo'yicha haroratga bog'liq farqni ko'rsatuvchi o'lchangan ma'lumot ko'rilgan manbalarda yo'q [1]."
-    ]},
-    {"heading": "Tuproq turi", "content": [
-      "Tuproq turi tuxum va lichinkalarning yashovchanligini o'zgartiradi. Loyli, qora tuproqli va balchiqli tuproqlar askarida tuxumi uchun qumli va tez qiziydigan tuproqlardan qulayroq, chunki loy namlikni ushlab turadi va tuxumni quyosh nuri hamda shamoldan himoya qiladi [1, 2].",
-      "Ankilostoma lichinkalari esa aksincha, zich tuproqda kam, qumli tuproqda ko'p bo'ladi. Lichinkalar harakati uchun tuproqning nami, g'ovakligi va zarrachalar o'lchami muhim, shuning uchun geogelmintozning o'choqliligi tuproq tarkibi bilan ham bog'liq bo'lishi mumkin [2]."
-    ]},
-    {"heading": "Mavsum va issiq hududlar", "content": [
-      "O'rta kengliklarda askaridozga zararlanish mavsumi aprel-oktyabrga, subtropik va tropiklarda esa butun yilga to'g'ri keladi. Milliy yo'riqnomada yuqish mavsumi yoz-kuz deb ko'rsatilgan, shu sababli birinchi ommaviy degelmintizatsiya bahor oxiri-yoz boshida, ikkinchisi kech kuz va qish boshida rejalashtiriladi [1, 3].",
-      "Markaziy Osiyo, Janubiy Qozog'iston va boshqa hududlarda yilda 240-265 gacha quyoshli kun bo'lishi va harorat 22-45 darajadan yuqori ko'tarilishi sababli chiqindi cho'kmalarini quyosh energiyasi bilan zararsizlantirish istiqbolli deb hisoblangan. Toshkentda yozgi kompostda gelmint tuxumlari 10 kunda, kuzgisida 30 kunda, qishda esa 5 oydagina halok bo'lgan [2]."
-    ]},
-    {"heading": "Sug'orish va oqova suv", "content": [
-      "Sanitar parazitologiya darsligida oqova suvdan foydalanadigan yirik sug'orish tizimlari Ukraina, Qozog'iston, Ozarbayjon, O'zbekiston, Moldova va Litvada joylashgani aytilgan. Ochiq suvdan sug'orishda hatto yetilmagan, ammo tirik geogelmint tuxumlari tuproq va sabzavotga tushib, invazion bosqichgacha rivojlanishi mumkin [2].",
-      "Darslikda geogelmintozlar bilan ko'proq sabzavotchilik bilan band odamlar zararlanishi, askaridoz o'choqlarida esa bolalarda zararlanish odatda kattalarnikidan yuqori bo'lishi qayd etilgan. O'zbekistonda aynan qaysi sug'orish zonalarida zararlanish yuqoriligini ko'rsatuvchi son ma'lumotlari ko'rilgan manbalarda yo'q [1, 2]."
-    ]},
-    {"heading": "O'choq turlari va baholash mezonlari", "content": [
-      "Yo'riqnomada aholining zararlanishi 30 foiz va undan yuqori bo'lgan askaridoz o'choqlari intensiv, 15-29 foiz o'rta intensiv, 15 foizgacha sust intensiv deb ajratilgan. Trixotsefalyozda intensiv o'choq 10-15 foiz, o'rta intensiv 3-9 foiz zararlanish bilan belgilanadi [3].",
-      "Qo'zg'atuvchi aylanishi uchun sharoit bor o'choq «asl», invaziya manbai bor, lekin sharoit yo'q o'choq «yolg'on» deyiladi. Aynan shu mezonlar bo'yicha ma'lum bir hududning geogelmintoz holati baholanadi, ammo bu baholash natijalari manbada hudud nomlari bilan keltirilmagan [3]."
-    ]},
-    {"heading": "Hududni baholash tartibi", "content": [
-      "Parazitolog o'choqni epidemiologik tekshiradi, o'choqni pasportlashtiradi va epidemiologik tekshiruv kartasini (f. 357/u) to'ldiradi, unda hojatxona va sanitariya holati, uy hayvonlari, suv ta'minoti va tomorqa ekinlari ham hisobga olinadi. Har bir askaridoz va trixotsefalyoz holati uchun shoshilinch xabarnoma yuboriladi [3].",
-      "Davolash samarasi har o'choqdagi 200-300 doimiy aholini oxirgi degelmintizatsiyadan 3 oy o'tgach qayta tekshirish bilan baholanadi. Agar 2 yil davomida o'choqda zararlanganlar topilmasa va tashqi muhit tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi [3]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor o'z hududida geogelmintozning aniq tarqalishini mavjud bo'lmagan umumiy xaritadan emas, o'zi yig'gan ma'lumotdan bilishi kerak. Buning uchun 3-6 yoshli bolalar, 7-14 yoshli maktab o'quvchilari, fermer xo'jaligi va sabzavotchilik xodimlari koproovoskopiya bilan tekshiriladi [3].",
-      "Namuna olish va davolash samarasini baholash tartibi ham milliy yo'riqnomada berilgan. Hududiy markaz (DSENM) tekshiruvlar qamrovi va muddatini yiliga bir marta nazorat qiladi, shuning uchun shifokor o'z hududi bo'yicha tuproq, sabzavot va aholi natijalarini muntazam yig'ib borishi lozim [3]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "O'zbekistonning qaysi viloyat yoki tumanlarida askaridoz va trixotsefalyoz ko'proq yoki kamroq tarqalgani haqida tekshiriladigan, hududlar kesimidagi son ma'lumoti ko'rilgan manbalarda topilmadi. Shu sababli hech bir hudud «geogelmintozlar ko'p tarqalgan» yoki «kam tarqalgan» deb nomlanmadi (tasdiqlanmagan) [3, 4].",
-      "Faqat umumiy ekologik-iqlimiy qonuniyatlar manbalar bilan keltirildi: iliq va nam iqlim, loyli tuproq, sug'orish va yoz-kuz mavsumi tarqalishni kuchaytiradi. Farg'ona taqdimotidagi xaritaning hudud darajalari esa rasm bo'lgani sabab o'qilmadi va matnga kiritilmadi [1, 2, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "O'zbekistonda geogelmintozlardan milliy yo'riqnoma askaridoz va trixotsefalyozni ko'rsatadi, ankilostomidoz esa 1974 yilda yo'qotilgan deb xabar qilingan. Hududlar bo'yicha aniq taqsimot manbalarda yo'q, shuning uchun hududiy baholash ekologik qonuniyatlar va har bir o'choqda o'tkaziladigan epidemiologik tekshiruvga tayanishi kerak [1, 3, 5]."
-    ]}
-  ],
-  "references": [
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581.",
-    "Abdiev F.T., Shamgunova G.Sh. Organizatsiia bor'by s parazitarnymi bolezniami v Uzbekistane (Control of parasitic diseases in Uzbekistan). Meditsinskaia parazitologiia i parazitarnye bolezni. 2001;(3):60-61. PMID 11680381 (annotatsiya). https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11680381&retmode=xml",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Гижжа саломатлик кушандаси!: buklet, muallifi ko'rsatilmagan. xayrullokomilov.uz/kutubxona, material ID 1875."
-  ]
+ "number": 73,
+ "title": "73. O'zbekistonning qaysi hududlarida geogelmintlar tarqalgan va qaysilar.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Geogelmintlar tuxum va lichinkalari tuproqda yetiladigan, oraliq xo'jayinni talab qilmaydigan gelmintlardir. Mavzuning ikki jihati bor: O'zbekistonda qaysi geogelmintlar qayd etiladi va ular qaysi hududlarda tarqalgan. Birinchi jihat manbalarda aniq yoritilgan, ikkinchisi bo'yicha viloyatlar kesimidagi ma'lumotlar cheklangan [1, 3].",
+    "Shu sababli mavzuda avval milliy hujjatlardagi geogelmintozlar va respublika ko'rsatkichlari, so'ngra geogelmintlarning tarqalishini belgilovchi iqlimiy, tuproq va ijtimoiy qonuniyatlar manbalar bilan keltiriladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "O'zbekistonda qayd etiladigan geogelmintlar",
+   "content": [
+    "Milliy yo'riqnomada geogelmintozlar sifatida askaridoz va trixotsefalyoz ko'rsatilgan, ularning manbai zararlangan odam, yuqish mavsumi esa yoz-kuz davriga to'g'ri keladi. Asosiy yuqish omillari yuvilmagan sabzavotlar, mevalar va ko'katlar, shuningdek tuproq, suv va iflos qo'llardir [3].",
+    "Respublikada eng ko'p uchraydigan ichak gelmintozlari qatorida enterobioz, gimenolepidoz, askaridoz, trixotsefalyoz, teniarinxoz va exinokokkoz sanalgan. Aholiga mo'ljallangan bukletda ham xuddi shu gelmintozlar ko'proq uchraydigan deb ko'rsatilgan; ularning ichida geogelmintozlar askaridoz va trixotsefalyozdir [3, 7]."
+   ]
+  },
+  {
+   "heading": "Respublika miqyosidagi ko'rsatkichlar",
+   "content": [
+    "Yo'riqnomada gelmintozlar respublikada eng ko'p tarqalgan parazitozlar bo'lib, barcha parazitar kasalliklarning 90 foizini tashkil etishi aytilgan. Bu ko'rsatkich gelmintozlarning umumiy ulushini bildiradi va geogelmintozlarni alohida ajratib ko'rsatmaydi [3].",
+    "Ilmiy xabarda O'zbekistonda har yili 200 mingdan ortiq parazitar kasallik bilan og'rigan bemor qayd etilishi, ularning asosiy qismi gelmintozlar va zoonoz teri leyshmanioziga tegishli ekani yozilgan. Taqdimotda esa gijja kasalliklari bilan har yili 250-300 ming kishi kasallanishi ko'rsatilgan [4, 5]."
+   ]
+  },
+  {
+   "heading": "Hududlar bo'yicha xarita",
+   "content": [
+    "Farg'ona viloyati ma'ruzasida «Respublikamizda gijja kasalligini hududlar bo'yicha tarqalganligi» nomli xarita bor. Unda Nukus, Urganch, Navoiy, Buxoro, Samarqand, Qarshi, Termiz, Jizzax, Guliston, Namangan, Andijon, Farg'ona va Toshkent shahri belgilangan, intensiv ko'rsatkich to'rt darajaga bo'lingan [4].",
+    "Darajalar 100 ming aholiga 1758 dan, 876 dan, 413 dan ortiq va 296 ga teng kasallik sifatida yozilgan. Xarita rasm shaklida bo'lgani uchun qaysi hudud qaysi darajaga tushgani matndan o'qilmaydi, ko'rsatkich esa geogelmintozlarni emas, umuman gijja kasalliklarini qamrab oladi [4]."
+   ]
+  },
+  {
+   "heading": "Farg'ona viloyati ma'lumotlari",
+   "content": [
+    "Farg'ona viloyatida 2014 yilda gijjaga 1 064 788 ta tahlil o'tkazilgan, 762 138 kishi tekshirilgan va 48 766 gijja tashuvchi aniqlangan. Jadvalda askarida va qilbosh gijja ustunlari bor, lekin qiymatlar matnga noaniq ko'chgani uchun ularning hissasi keltirilmaydi [4].",
+    "Viloyat darajasidagi bu hisobot hududiy tahlil uchun to'g'ri shakl ko'rsatadi: tekshirilgan tahlillar, tekshirilgan shaxslar, tashuvchilar va davolanganlar tur bo'yicha yoziladi. Ammo bu bitta viloyat ma'lumoti bo'lib, undan respublika uchun xulosa chiqarib bo'lmaydi [4]."
+   ]
+  },
+  {
+   "heading": "Respublikada yo'qotilgan geogelmint",
+   "content": [
+    "Ilmiy xabarda O'zbekistonda ankilostomidoz 1974 yilda yo'qotilgani qayd etilgan. Ankilostomalar geogelmintlarga kiradi, ularning lichinkalari tuproqdan teri orqali kiradi, shuning uchun bu misol geogelmintoz qo'zg'atuvchisining butun respublika miqyosida bartaraf etilgan holatini ko'rsatadi [5, 6].",
+    "Bundan tashqari, xuddi shu xabarda askaridoz keng ko'lamli ijtimoiy gelmintoz sifatida saqlanib qolgani yozilgan. Demak, geogelmintlar ichida ankilostoma yo'qolgan, askarida esa uzoq vaqt aholi salomatligi muammosi bo'lib qolgan, ammo ularning viloyatlar bo'yicha taqsimoti keltirilmagan [5]."
+   ]
+  },
+  {
+   "heading": "Iqlim qonuniyatlari",
+   "content": [
+    "Darslikda askaridoz, trixotsefalyoz, ankilostomidoz va strongiloidoz asosan iliq va nam iqlimli hududlarda uchrashi, abadiy muzlik zonasida bo'lmasligi yozilgan. Askarida tuxumi 10-12 darajadan 36 darajagacha haroratda yetiladi, 24 darajada invazion lichinka 14 kunda paydo bo'ladi [1].",
+    "Mo'tadil iqlimda yetilish 40-60 kun oladi, kuzda yetilib ulgurmagan tuxumlar qishlaydi va lichinkalar bahorda invazion bo'ladi. Bular umumiy qonuniyatlar bo'lib, O'zbekiston viloyatlari bo'yicha haroratga bog'liq farqni ko'rsatuvchi o'lchangan ma'lumot ko'rilgan manbalarda yo'q [1]."
+   ]
+  },
+  {
+   "heading": "Tuproq turi",
+   "content": [
+    "Tuproq turi tuxum va lichinkalarning yashovchanligini o'zgartiradi. Loyli, qora tuproqli va balchiqli tuproqlar askarida tuxumi uchun qumli va tez qiziydigan tuproqlardan qulayroq, chunki loy namlikni ushlab turadi va tuxumni quyosh nuri hamda shamoldan himoya qiladi [1, 2].",
+    "Ankilostoma lichinkalari esa aksincha, zich tuproqda kam, qumli tuproqda ko'p bo'ladi. Lichinkalar harakati uchun tuproqning nami, g'ovakligi va zarrachalar o'lchami muhim, shuning uchun geogelmintozning o'choqliligi tuproq tarkibi bilan ham bog'liq bo'lishi mumkin [2]."
+   ]
+  },
+  {
+   "heading": "Mavsum va issiq hududlar",
+   "content": [
+    "O'rta kengliklarda askaridozga zararlanish mavsumi aprel-oktyabrga, subtropik va tropiklarda esa butun yilga to'g'ri keladi. Milliy yo'riqnomada yuqish mavsumi yoz-kuz deb ko'rsatilgan, shu sababli birinchi ommaviy degelmintizatsiya bahor oxiri-yoz boshida, ikkinchisi kech kuz va qish boshida rejalashtiriladi [1, 3].",
+    "Markaziy Osiyo, Janubiy Qozog'iston va boshqa hududlarda yilda 240-265 gacha quyoshli kun bo'lishi va harorat 22-45 darajadan yuqori ko'tarilishi sababli chiqindi cho'kmalarini quyosh energiyasi bilan zararsizlantirish istiqbolli deb hisoblangan. Toshkentda yozgi kompostda gelmint tuxumlari 10 kunda, kuzgisida 30 kunda, qishda esa 5 oydagina halok bo'lgan [2]."
+   ]
+  },
+  {
+   "heading": "Sug'orish va oqova suv",
+   "content": [
+    "Sanitar parazitologiya darsligida oqova suvdan foydalanadigan yirik sug'orish tizimlari Ukraina, Qozog'iston, Ozarbayjon, O'zbekiston, Moldova va Litvada joylashgani aytilgan. Ochiq suvdan sug'orishda hatto yetilmagan, ammo tirik geogelmint tuxumlari tuproq va sabzavotga tushib, invazion bosqichgacha rivojlanishi mumkin [2].",
+    "Darslikda geogelmintozlar bilan ko'proq sabzavotchilik bilan band odamlar zararlanishi, askaridoz o'choqlarida esa bolalarda zararlanish odatda kattalarnikidan yuqori bo'lishi qayd etilgan. O'zbekistonda aynan qaysi sug'orish zonalarida zararlanish yuqoriligini ko'rsatuvchi son ma'lumotlari ko'rilgan manbalarda yo'q [1, 2]."
+   ]
+  },
+  {
+   "heading": "O'choq turlari va baholash mezonlari",
+   "content": [
+    "Yo'riqnomada aholining zararlanishi 30 foiz va undan yuqori bo'lgan askaridoz o'choqlari intensiv, 15-29 foiz o'rta intensiv, 15 foizgacha sust intensiv deb ajratilgan. Trixotsefalyozda intensiv o'choq 10-15 foiz, o'rta intensiv 3-9 foiz zararlanish bilan belgilanadi [3].",
+    "Qo'zg'atuvchi aylanishi uchun sharoit bor o'choq «asl», invaziya manbai bor, lekin sharoit yo'q o'choq «yolg'on» deyiladi. Aynan shu mezonlar bo'yicha ma'lum bir hududning geogelmintoz holati baholanadi, ammo bu baholash natijalari manbada hudud nomlari bilan keltirilmagan [3]."
+   ]
+  },
+  {
+   "heading": "Hududni baholash tartibi",
+   "content": [
+    "Parazitolog o'choqni epidemiologik tekshiradi, o'choqni pasportlashtiradi va epidemiologik tekshiruv kartasini (f. 357/u) to'ldiradi, unda hojatxona va sanitariya holati, uy hayvonlari, suv ta'minoti va tomorqa ekinlari ham hisobga olinadi. Har bir askaridoz va trixotsefalyoz holati uchun shoshilinch xabarnoma yuboriladi [3].",
+    "Davolash samarasi har o'choqdagi 200-300 doimiy aholini oxirgi degelmintizatsiyadan 3 oy o'tgach qayta tekshirish bilan baholanadi. Agar 2 yil davomida o'choqda zararlanganlar topilmasa va tashqi muhit tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi [3]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor o'z hududida geogelmintozning aniq tarqalishini mavjud bo'lmagan umumiy xaritadan emas, o'zi yig'gan ma'lumotdan bilishi kerak. Buning uchun 3-6 yoshli bolalar, 7-14 yoshli maktab o'quvchilari, fermer xo'jaligi va sabzavotchilik xodimlari koproovoskopiya bilan tekshiriladi [3].",
+    "Namuna olish va davolash samarasini baholash tartibi ham milliy yo'riqnomada berilgan. Hududiy markaz (DSENM) tekshiruvlar qamrovi va muddatini yiliga bir marta nazorat qiladi, shuning uchun shifokor o'z hududi bo'yicha tuproq, sabzavot va aholi natijalarini muntazam yig'ib borishi lozim [3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda geogelmintozlardan milliy yo'riqnoma askaridoz va trixotsefalyozni ko'rsatadi, ankilostomidoz esa 1974 yilda yo'qotilgan deb xabar qilingan. Hududlar bo'yicha aniq taqsimot manbalarda yo'q, shuning uchun hududiy baholash ekologik qonuniyatlar va har bir o'choqda o'tkaziladigan epidemiologik tekshiruvga tayanishi kerak [1, 3, 5]."
+   ]
+  }
+ ],
+ "references": [
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Шокиров М.К. Гижжа касаллиги клиникаси, диагностикаси, давоси ва профилактикаси ҳамда Фарғона вилоятида гижжа касаллиги бўйича ўтказилган чора-тадбирлар тўғрисида маълумот: taqdimot. Farg'ona, 2015. xayrullokomilov.uz/kutubxona, material ID 1581.",
+  "Abdiev F.T., Shamgunova G.Sh. Organizatsiia bor'by s parazitarnymi bolezniami v Uzbekistane (Control of parasitic diseases in Uzbekistan). Meditsinskaia parazitologiia i parazitarnye bolezni. 2001;(3):60-61. PMID 11680381 (annotatsiya). https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=11680381&retmode=xml",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Гижжа саломатлик кушандаси!: buklet, muallifi ko'rsatilmagan. xayrullokomilov.uz/kutubxona, material ID 1875."
+ ]
 }

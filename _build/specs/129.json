@@ -2,69 +2,110 @@
  "number": 129,
  "title": "129. Amyobiazning etiologiyasi",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Amyobiaz yo'g'on ichak, jigar va boshqa ichki a'zolarni zararlaydigan antroponoz protozoy kasallik bo'lib, ichakda yaralar, qonli suyuq najas hamda ichki a'zolarda abssesslar bilan namoyon bo'ladi. Qo'zg'atuvchi Entamoeba histolytica bo'lib, uning biologik xususiyatlari tashxis va profilaktikani belgilaydi [1, 2].",
-   "Mavzuda qo'zg'atuvchining tasnifi va tarixi, uch shakli, hayot sikli, patogen va nopatogen turlarning farqi hamda sistalarning chidamliligi ko'rib chiqiladi. Yuqish yo'llari, epidemiologiya va profilaktika alohida mavzularda yoritilgani uchun bu yerda faqat etiologik jihatlar beriladi [1, 8]."
-  ]},
-  {"heading": "Qo'zg'atuvchi va tasnifi", "content": [
-   "Yo'riqnomaga ko'ra amyobiaz qo'zg'atuvchisi Entamoeba histolytica (Schaudinn, 1903) bo'lib, Rhizopoda guruhi, Entamoebea sinfi va Entamoebida turkumiga kiradi. Davolash bayonnomasida ham qo'zg'atuvchi Entamoeba histolytica parazitidir deb ko'rsatilgan [1, 2].",
-   "Darslikda dizenteriya amyobasi Sarcomastigophora tipiga kiritilgan. Ma'ruza materialida odamda 7 tur amyoba parazitlik qilishi, ulardan faqat E. histolytica dizenteriya amyobasi, E. coli, E. hartmanni, Endolimax nana, Iodamoeba butschlii va Dientamoeba fragilis esa ichak komensallari ekani aytilgan [3, 6]."
-  ]},
-  {"heading": "Tarixiy ma'lumotlar", "content": [
-   "Darslikda dizenteriya amyobasini 1875 yilda F.A. Lesh qonli ich ketishi bilan og'rigan bemorlar najasida birinchi bo'lib tasvirlagani aytilgan. Lesh bu najas bilan itlarni zararlab, ularning ichagida odam amyobiazidagiga o'xshash yaralar topgan [3].",
-   "Turning batafsil o'rganilishi 1903 yilda F. Shaudin nomi bilan bog'liq. JSST hujjatida ikki tur borligi haqidagi fikrni 1925 yilda E. Brumpt ilgari surgani, 1993 yilda E. histolytica qayta ta'riflanib, E. dispar dan ajratilgani yozilgan [3, 8]."
-  ]},
-  {"heading": "Qo'zg'atuvchining uch shakli", "content": [
-   "Yo'riqnomada amyobalar uch xil shaklda yashashi aytilgan: katta vegetativ (to'qima) shakl, oraliq (kichik vegetativ) shakl va sista. Darslikda ham dizenteriya amyobasining katta vegetativ (patogen), mayda vegetativ (komensal) va sista shaklida mavjudligi ko'rsatilgan [1, 4].",
-   "Atlasda shakllar forma magna (to'qima, patogen), forma minuta (yorug'lik shakli) va sista deb berilgan, hayot sikli rasmida bir, ikki va to'rt yadroli sistalar ko'rsatilgan. Ikkinchi atlasda forma minuta patogen emas deb belgilangan [5, 7]."
-  ]},
-  {"heading": "Katta vegetativ (to'qima) shakl", "content": [
-   "Yo'riqnomada katta vegetativ shakl (to'qima turi, eritrofag, gematofag) diametri 20-30 mkm, faol harakatlanuvchi, cho'zilganda uzunligi 60-80 mkm gacha yetishi aytilgan. Bu shakl eritrotsitlarni fagotsitoz qiladi, bitta amyoba 20 va undan ortiq eritrotsit yutadi, faqat bemor odamlarda uchraydi [1].",
-   "Atlasda forma magna 20-40 mkm, juda harakatchan, endoplazmasida eritrotsitlar ko'rinishi va proteolitik fermentlar ajratishi yozilgan. Davolash bayonnomasida amyoba sitoplazmasida eritrotsitlar bo'lishi to'qima shaklining differensial-tashxisiy belgisi deb ko'rsatilgan [2, 5]."
-  ]},
-  {"heading": "Oraliq (yorug'lik) shakl", "content": [
-   "Oraliq shakl (kichik vegetativ, tashqi to'qimasiz, sista oldi) diametri 15-20 mkm, eritrotsitlarni fagotsitoz qilmaydi va amyoba tashuvchilarda aniqlanadi. Atlasda forma minuta 15-20 mkm, harakati sust, bakteriya va ovqat zarralari bilan oziqlanishi va bo'linish yo'li bilan ko'payishi yozilgan [1, 5].",
-   "Darslikda yorug'lik shakli ichak bo'shlig'ida yashab, hech qachon to'qimaga kirmasligi va turning asosiy mavjudlik shakli hisoblanishi aytilgan. Bu shakl uzoq vaqt komensal sifatida yashasa, odam sog'lom tashuvchi bo'ladi [4]."
-  ]},
-  {"heading": "Sista", "content": [
-   "Yo'riqnomada sista o'lchami 7-18 mkm, tashqi muhitga chidamli hosila bo'lib, 1 tadan 4 tagacha yadro tutishi, yetilgani esa 4 yadroli va zararlashga qodir ekani yozilgan. Atlasda sista 8-15 mkm, rangsiz, zich qobiqli deb tasvirlangan [1, 5].",
-   "JSST hujjatida sistalar diametri 10-16 mkm, yetilgani to'rt yadroli, yetilmagani bir yadroli, glikogen vakuola va ko'pincha xromatoid tanachalar bilan ta'riflangan. Ikkinchi atlasda sista 10 mkm gacha, ikki konturli qobiq va to'rt yadro bilan ko'rsatilgan [7, 8]."
-  ]},
-  {"heading": "Hayot sikli", "content": [
-   "Darslikda sistalar suv yoki oziq bilan ichak yo'liga tushishi, ingichka ichak boshlang'ich qismida hazm fermentlari ta'sirida eksistirlanishi va har bir yetilgan to'rt yadroli sistadan sakkizta bir yadroli amyoba hosil bo'lishi yozilgan. Keyingi bo'linishlar har ikki soatda sodir bo'ladi [4].",
-   "Yo'riqnomada ingichka ichak pastki va yo'g'on ichak yuqori qismida sista qobig'i parchalanib oraliq shakl hosil bo'lishi, uning yo'g'on ichak proksimal bo'limida yashab ko'payishi va bu davrda klinik o'zgarishlar kuzatilmasligi (sog'lom tashuvchilik) aytilgan [1]."
-  ]},
-  {"heading": "To'qima shakliga o'tish va invaziya", "content": [
-   "Yo'riqnomada ayrim hollarda oraliq shakl ichak shilliq qavatiga o'tib, shilliq osti qavatiga kirishi va patogen to'qima shakli (eritrofag)ga aylanishi yozilgan. Atlasda forma magna proteolitik fermentlar ajratib, ichak devoriga kirishi va yaralar hosil qilishi aytilgan [1, 5].",
-   "Darslikda tomir yaxlitligi buzilganda amyobalar qon oqimiga tushishi va jigar, o'pka, bosh miyada abssesslar hosil qilishi ko'rsatilgan. JSST hujjatida invaziyani qo'zg'atuvchi omillar noma'lum ekani, amyobalar ba'zan shilliq qavatga kirib, boshqa a'zolarga tarqalishi aytilgan [4, 8]."
-  ]},
-  {"heading": "E. dispar va nopatogen amyobalar", "content": [
-   "Yo'riqnomada odam ichagida E. histolytica dan tashqari Entamoeba coli, E. hartmanni, E. nana va Iodamoeba butschlii uchrashi, ular patogen emasligi, so'nggi tadqiqotlar E. dispar ni aniqlagani yozilgan. E. dispar mikroskopiyada E. histolytica dan farqlanmaydi va faqat molekulyar usullar bilan ajratiladi [1].",
-   "JSST 1997 yilgi maslahatlashuvida faqat E. histolytica invaziv kasallik chaqirishi, yorug'lik mikroskopiyasida ikkala tur sistasini ajratib bo'lmaydi va E. histolytica/E. dispar deb qayd etilishi kerakligi ko'rsatilgan. Amyobiaz ta'rifi E. histolytica infeksiyasi sifatida qayta tasdiqlangan [8]."
-  ]},
-  {"heading": "Entamoeba coli bilan farqlash", "content": [
-   "Darslikda E. coli dizenteriya amyobasidan ancha yirik, sitoplazmasida bakteriya va leykotsitlar bor, eritrotsitlar yo'q, psevdopodiyalar kam ko'rinadi, sistasi esa katta va to'rt emas, sakkiz yadroli deb ko'rsatilgan. Atlasda E. coli trofozoiti 20-40, sistasi 10-30 mkm ekani yozilgan [3, 5].",
-   "Davolash bayonnomasida faqat bo'shliq shakli va sistalar topilishi yakuniy tashxis uchun asos bo'lmasligi, chunki bunday natija tashuvchilarda ham olinishi aytilgan. Bo'shliq shaklida sitoplazmada bakteriya yutgan vakuolalar topiladi, eritrotsitlar esa bo'lmaydi [2]."
-  ]},
-  {"heading": "Sistalarning tashqi muhitdagi chidamliligi", "content": [
-   "Darslikda sistalar tuproqda taxminan 30 sutka saqlanishi, past haroratga chidamliligi, xlor, dezinfeksiyalovchi moddalar va oshqozon kislotali muhitiga bardoshliligi aytilgan. Boshqa darslikda 15-20 gradusda najasda ikki hafta saqlanishi ko'rsatilgan [3, 4].",
-   "Sistalar quritilganda va 55 gradusgacha qizdirilganda tez halok bo'ladi, suv tozalash inshootlaridagi xlor va ozon konsentratsiyalarida esa tirik qolishi mumkin. Yo'riqnomada 1 g najasda 6 mln gacha sista bo'lishi, ma'ruzada kuchli zararlanishda sutkasiga 300 mln gacha sista chiqishi ko'rsatilgan [1, 4, 6]."
-  ]},
-  {"heading": "Laboratoriya belgilari", "content": [
-   "Yo'riqnomada tashxis najasda katta vegetativ shaklni (eritrotsit fagotsitozi bilan) mikroskopda aniqlash bilan tasdiqlanishi aytilgan. Laboratoriya yo'riqnomasida dizenteriya amyobasi vegetativ shakllari uchun najas 20 daqiqa ichida, 4 gradusda saqlangan bo'lsa 40 daqiqa ichida tekshirilishi talab etilgan [1, 9].",
-   "Davolash bayonnomasida PCR E. histolytica ni tasdiqlash va boshqa amyobalardan ajratishda sezgir usul ekani, serologik testlar yo'g'on ichakdagi invaziv amyobiazda taxminan 75 foizda ijobiy natija berishi yozilgan. E. dispar infeksiyasida spetsifik antitanalar paydo bo'lmaydi [2]."
-  ]},
-  {"heading": "Manbalardagi farqlar", "content": [
-   "Katta vegetativ shakl o'lchami manbalarda turlicha: yo'riqnomada 20-30 mkm, atlasda va JSST hujjatida 20-40, darslikda 30-60, ikkinchi atlasda 40 mkm gacha. Sista o'lchami ham 7-18, 8-15, 10-16 va 10 mkm gacha deb berilgan [1, 3, 5, 7, 8].",
-   "Laboratoriya yo'riqnomasi jadvalida katta vegetativ shakl 15-16 mkm (cho'zilganda 60 mkm gacha), sista 5-10 mkm deb berilgan. Shu sababli o'lcham yagona belgi sifatida emas, yadro soni va eritrotsitlar yutilishi kabi belgilar bilan birga baholanadi [2, 9]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "O'zbekistonda aylanib yuruvchi E. histolytica va E. dispar nisbati, mahalliy shtammlarning virulentligi va PCR bilan aniqlangan tarqalish ko'rsatkichlari ko'rilgan manbalarda keltirilmagan. Shu sababli bu jihatlar bo'yicha O'zbekistonga xos raqam yozilmaydi [1, 2, 8].",
-   "JSST hujjatida E. histolytica tarqalishi bo'yicha aniq ma'lumotlar mavjud emasligi, ularni olish ustuvor vazifa ekani ta'kidlangan. Yo'riqnomada 1 g najasdagi sistalar soni va ma'ruzadagi sutkalik sista chiqishi boshqa-boshqa o'lchov birliklarida berilgan, ularni o'zaro tenglashtirib bo'lmaydi [1, 6, 8]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Amyobiaz qo'zg'atuvchisi Entamoeba histolytica katta vegetativ, oraliq va sista shaklida uchraydi; faqat u invaziv kasallik chaqiradi, E. dispar va boshqa amyobalar nopatogen. Mikroskopiyada tur farqlash qiyin bo'lgani uchun eritrotsit fagotsitozi, yadro soni va molekulyar usullar etiologik tashxis uchun hal qiluvchi [1, 2, 8]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Amyobiaz yo'g'on ichak, jigar va boshqa ichki a'zolarni zararlaydigan antroponoz protozoy kasallik bo'lib, ichakda yaralar, qonli suyuq najas hamda ichki a'zolarda abssesslar bilan namoyon bo'ladi. Qo'zg'atuvchi Entamoeba histolytica bo'lib, uning biologik xususiyatlari tashxis va profilaktikani belgilaydi [1, 2].",
+    "Mavzuda qo'zg'atuvchining tasnifi va tarixi, uch shakli, hayot sikli, patogen va nopatogen turlarning farqi hamda sistalarning chidamliligi ko'rib chiqiladi. Yuqish yo'llari, epidemiologiya va profilaktika alohida mavzularda yoritilgani uchun bu yerda faqat etiologik jihatlar beriladi [1, 8]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchi va tasnifi",
+   "content": [
+    "Yo'riqnomaga ko'ra amyobiaz qo'zg'atuvchisi Entamoeba histolytica (Schaudinn, 1903) bo'lib, Rhizopoda guruhi, Entamoebea sinfi va Entamoebida turkumiga kiradi. Davolash bayonnomasida ham qo'zg'atuvchi Entamoeba histolytica parazitidir deb ko'rsatilgan [1, 2].",
+    "Darslikda dizenteriya amyobasi Sarcomastigophora tipiga kiritilgan. Ma'ruza materialida odamda 7 tur amyoba parazitlik qilishi, ulardan faqat E. histolytica dizenteriya amyobasi, E. coli, E. hartmanni, Endolimax nana, Iodamoeba butschlii va Dientamoeba fragilis esa ichak komensallari ekani aytilgan [3, 6]."
+   ]
+  },
+  {
+   "heading": "Tarixiy ma'lumotlar",
+   "content": [
+    "Darslikda dizenteriya amyobasini 1875 yilda F.A. Lesh qonli ich ketishi bilan og'rigan bemorlar najasida birinchi bo'lib tasvirlagani aytilgan. Lesh bu najas bilan itlarni zararlab, ularning ichagida odam amyobiazidagiga o'xshash yaralar topgan [3].",
+    "Turning batafsil o'rganilishi 1903 yilda F. Shaudin nomi bilan bog'liq. JSST hujjatida ikki tur borligi haqidagi fikrni 1925 yilda E. Brumpt ilgari surgani, 1993 yilda E. histolytica qayta ta'riflanib, E. dispar dan ajratilgani yozilgan [3, 8]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining uch shakli",
+   "content": [
+    "Yo'riqnomada amyobalar uch xil shaklda yashashi aytilgan: katta vegetativ (to'qima) shakl, oraliq (kichik vegetativ) shakl va sista. Darslikda ham dizenteriya amyobasining katta vegetativ (patogen), mayda vegetativ (komensal) va sista shaklida mavjudligi ko'rsatilgan [1, 4].",
+    "Atlasda shakllar forma magna (to'qima, patogen), forma minuta (yorug'lik shakli) va sista deb berilgan, hayot sikli rasmida bir, ikki va to'rt yadroli sistalar ko'rsatilgan. Ikkinchi atlasda forma minuta patogen emas deb belgilangan [5, 7]."
+   ]
+  },
+  {
+   "heading": "Katta vegetativ (to'qima) shakl",
+   "content": [
+    "Yo'riqnomada katta vegetativ shakl (to'qima turi, eritrofag, gematofag) diametri 20-30 mkm, faol harakatlanuvchi, cho'zilganda uzunligi 60-80 mkm gacha yetishi aytilgan. Bu shakl eritrotsitlarni fagotsitoz qiladi, bitta amyoba 20 va undan ortiq eritrotsit yutadi, faqat bemor odamlarda uchraydi [1].",
+    "Atlasda forma magna 20-40 mkm, juda harakatchan, endoplazmasida eritrotsitlar ko'rinishi va proteolitik fermentlar ajratishi yozilgan. Davolash bayonnomasida amyoba sitoplazmasida eritrotsitlar bo'lishi to'qima shaklining differensial-tashxisiy belgisi deb ko'rsatilgan [2, 5]."
+   ]
+  },
+  {
+   "heading": "Oraliq (yorug'lik) shakl",
+   "content": [
+    "Oraliq shakl (kichik vegetativ, tashqi to'qimasiz, sista oldi) diametri 15-20 mkm, eritrotsitlarni fagotsitoz qilmaydi va amyoba tashuvchilarda aniqlanadi. Atlasda forma minuta 15-20 mkm, harakati sust, bakteriya va ovqat zarralari bilan oziqlanishi va bo'linish yo'li bilan ko'payishi yozilgan [1, 5].",
+    "Darslikda yorug'lik shakli ichak bo'shlig'ida yashab, hech qachon to'qimaga kirmasligi va turning asosiy mavjudlik shakli hisoblanishi aytilgan. Bu shakl uzoq vaqt komensal sifatida yashasa, odam sog'lom tashuvchi bo'ladi [4]."
+   ]
+  },
+  {
+   "heading": "Sista",
+   "content": [
+    "Yo'riqnomada sista o'lchami 7-18 mkm, tashqi muhitga chidamli hosila bo'lib, 1 tadan 4 tagacha yadro tutishi, yetilgani esa 4 yadroli va zararlashga qodir ekani yozilgan. Atlasda sista 8-15 mkm, rangsiz, zich qobiqli deb tasvirlangan [1, 5].",
+    "JSST hujjatida sistalar diametri 10-16 mkm, yetilgani to'rt yadroli, yetilmagani bir yadroli, glikogen vakuola va ko'pincha xromatoid tanachalar bilan ta'riflangan. Ikkinchi atlasda sista 10 mkm gacha, ikki konturli qobiq va to'rt yadro bilan ko'rsatilgan [7, 8]."
+   ]
+  },
+  {
+   "heading": "Hayot sikli",
+   "content": [
+    "Darslikda sistalar suv yoki oziq bilan ichak yo'liga tushishi, ingichka ichak boshlang'ich qismida hazm fermentlari ta'sirida eksistirlanishi va har bir yetilgan to'rt yadroli sistadan sakkizta bir yadroli amyoba hosil bo'lishi yozilgan. Keyingi bo'linishlar har ikki soatda sodir bo'ladi [4].",
+    "Yo'riqnomada ingichka ichak pastki va yo'g'on ichak yuqori qismida sista qobig'i parchalanib oraliq shakl hosil bo'lishi, uning yo'g'on ichak proksimal bo'limida yashab ko'payishi va bu davrda klinik o'zgarishlar kuzatilmasligi (sog'lom tashuvchilik) aytilgan [1]."
+   ]
+  },
+  {
+   "heading": "To'qima shakliga o'tish va invaziya",
+   "content": [
+    "Yo'riqnomada ayrim hollarda oraliq shakl ichak shilliq qavatiga o'tib, shilliq osti qavatiga kirishi va patogen to'qima shakli (eritrofag)ga aylanishi yozilgan. Atlasda forma magna proteolitik fermentlar ajratib, ichak devoriga kirishi va yaralar hosil qilishi aytilgan [1, 5].",
+    "Darslikda tomir yaxlitligi buzilganda amyobalar qon oqimiga tushishi va jigar, o'pka, bosh miyada abssesslar hosil qilishi ko'rsatilgan. JSST hujjatida invaziyani qo'zg'atuvchi omillar noma'lum ekani, amyobalar ba'zan shilliq qavatga kirib, boshqa a'zolarga tarqalishi aytilgan [4, 8]."
+   ]
+  },
+  {
+   "heading": "E. dispar va nopatogen amyobalar",
+   "content": [
+    "Yo'riqnomada odam ichagida E. histolytica dan tashqari Entamoeba coli, E. hartmanni, E. nana va Iodamoeba butschlii uchrashi, ular patogen emasligi, so'nggi tadqiqotlar E. dispar ni aniqlagani yozilgan. E. dispar mikroskopiyada E. histolytica dan farqlanmaydi va faqat molekulyar usullar bilan ajratiladi [1].",
+    "JSST 1997 yilgi maslahatlashuvida faqat E. histolytica invaziv kasallik chaqirishi, yorug'lik mikroskopiyasida ikkala tur sistasini ajratib bo'lmaydi va E. histolytica/E. dispar deb qayd etilishi kerakligi ko'rsatilgan. Amyobiaz ta'rifi E. histolytica infeksiyasi sifatida qayta tasdiqlangan [8]."
+   ]
+  },
+  {
+   "heading": "Entamoeba coli bilan farqlash",
+   "content": [
+    "Darslikda E. coli dizenteriya amyobasidan ancha yirik, sitoplazmasida bakteriya va leykotsitlar bor, eritrotsitlar yo'q, psevdopodiyalar kam ko'rinadi, sistasi esa katta va to'rt emas, sakkiz yadroli deb ko'rsatilgan. Atlasda E. coli trofozoiti 20-40, sistasi 10-30 mkm ekani yozilgan [3, 5].",
+    "Davolash bayonnomasida faqat bo'shliq shakli va sistalar topilishi yakuniy tashxis uchun asos bo'lmasligi, chunki bunday natija tashuvchilarda ham olinishi aytilgan. Bo'shliq shaklida sitoplazmada bakteriya yutgan vakuolalar topiladi, eritrotsitlar esa bo'lmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Sistalarning tashqi muhitdagi chidamliligi",
+   "content": [
+    "Darslikda sistalar tuproqda taxminan 30 sutka saqlanishi, past haroratga chidamliligi, xlor, dezinfeksiyalovchi moddalar va oshqozon kislotali muhitiga bardoshliligi aytilgan. Boshqa darslikda 15-20 gradusda najasda ikki hafta saqlanishi ko'rsatilgan [3, 4].",
+    "Sistalar quritilganda va 55 gradusgacha qizdirilganda tez halok bo'ladi, suv tozalash inshootlaridagi xlor va ozon konsentratsiyalarida esa tirik qolishi mumkin. Yo'riqnomada 1 g najasda 6 mln gacha sista bo'lishi, ma'ruzada kuchli zararlanishda sutkasiga 300 mln gacha sista chiqishi ko'rsatilgan [1, 4, 6]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya belgilari",
+   "content": [
+    "Yo'riqnomada tashxis najasda katta vegetativ shaklni (eritrotsit fagotsitozi bilan) mikroskopda aniqlash bilan tasdiqlanishi aytilgan. Laboratoriya yo'riqnomasida dizenteriya amyobasi vegetativ shakllari uchun najas 20 daqiqa ichida, 4 gradusda saqlangan bo'lsa 40 daqiqa ichida tekshirilishi talab etilgan [1, 9].",
+    "Davolash bayonnomasida PCR E. histolytica ni tasdiqlash va boshqa amyobalardan ajratishda sezgir usul ekani, serologik testlar yo'g'on ichakdagi invaziv amyobiazda taxminan 75 foizda ijobiy natija berishi yozilgan. E. dispar infeksiyasida spetsifik antitanalar paydo bo'lmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Manbalardagi farqlar",
+   "content": [
+    "Katta vegetativ shakl o'lchami manbalarda turlicha: yo'riqnomada 20-30 mkm, atlasda va JSST hujjatida 20-40, darslikda 30-60, ikkinchi atlasda 40 mkm gacha. Sista o'lchami ham 7-18, 8-15, 10-16 va 10 mkm gacha deb berilgan [1, 3, 5, 7, 8].",
+    "Laboratoriya yo'riqnomasi jadvalida katta vegetativ shakl 15-16 mkm (cho'zilganda 60 mkm gacha), sista 5-10 mkm deb berilgan. Shu sababli o'lcham yagona belgi sifatida emas, yadro soni va eritrotsitlar yutilishi kabi belgilar bilan birga baholanadi [2, 9]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Amyobiaz qo'zg'atuvchisi Entamoeba histolytica katta vegetativ, oraliq va sista shaklida uchraydi; faqat u invaziv kasallik chaqiradi, E. dispar va boshqa amyobalar nopatogen. Mikroskopiyada tur farqlash qiyin bo'lgani uchun eritrotsit fagotsitozi, yadro soni va molekulyar usullar etiologik tashxis uchun hal qiluvchi [1, 2, 8]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",

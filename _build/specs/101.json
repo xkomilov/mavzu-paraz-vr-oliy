@@ -2,65 +2,103 @@
  "number": 101,
  "title": "101. Teniarinxoz bilan kasallanishning veterinar chora- tadbiri.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Teniarinxozning veterinariya choralari zanjirning chorva qismiga qaratilgan: qoramol onkosferalar bilan zararlanib, go'shtida finna hosil qiladi, odam esa shu go'sht orqali kasallanadi. Milliy yo'riqnomada kompleks veterinariya choralari aholining teniidozlar, hayvonlarning esa sistitserkoz bilan zararlanishining oldini olishga yo'naltirilgan [1].",
-   "Ushbu mavzuda veterinariya nazoratining maqsadi, chorvani hisobga olish, qushxonalardagi ekspertiza, go'shtni baholash mezonlari, zararsizlantirish usullari, yem-xashak xavfsizligi va tibbiyot bilan hamkorlik ketma-ket ko'rib chiqiladi. Oxirida tasdiqlanmagan jihatlar ochiq yoziladi [1, 2]."
-  ]},
-  {"heading": "Veterinariya choralarining maqsadi", "content": [
-   "Yo'riqnomaga ko'ra veterinariya choralari veterinariya qonunchiligi asosida o'tkaziladi va ikki yo'nalishga ega: odamni teniidozlardan, hayvonni sistitserkozdan saqlash. Shu sababli chora go'shtning xavfsizligi bilan bir qatorda hayvonlar o'rtasidagi zararlanishni kamaytirishni ham nazarda tutadi [1].",
-   "Vladivostok darsligi ham veterinariya komplekslarini bir xil maqsadga bog'laydi: ular odamlarning qoramol va cho'chqa solityori bilan, hayvonlarning esa sistitserkoz bilan zararlanishining oldini olishi kerak. Tibbiyot xodimlari bilan birga ishlash bu choralarning samarasini oshiradi [2]."
-  ]},
-  {"heading": "Chorvani saqlash va hisobga olish", "content": [
-   "Darslikda profilaktikaning muhim qismi sifatida qoramolni yopiq joyda saqlash, kasallanishini hisobga olish va chorva xo'jaliklarida kasallik oldini olish veterinariya-sanitariya tadbirlari ko'rsatilgan. Yopiq saqlash mollarning ifloslangan yaylov bilan aloqasini kamaytirishi mumkin, ammo darslik bu haqda raqam keltirmaydi [2].",
-   "Yo'riqnomada barcha chorvadorlik korxonalari, hayvon mahsulotlarini qayta ishlash va go'sht ishlab chiqarish korxonalari tuman yoki shahar veterinariya xizmati hisobida bo'lishi, doimiy veterinariya-sanitariya nazoratida turishi talab qilingan. Bu hisob nazoratning boshlang'ich shartidir [1]."
-  ]},
-  {"heading": "Qushxonalarda veterinariya ekspertizasi", "content": [
-   "Veterinariya mutaxassislari qushxonalarda go'sht finnozga veterinariya ekspertizasi sifati nazoratini monitoring qiladi, finnali go'shtni va exinokokk bilan zararlangan ichki a'zolarni yo'qotishda veterinariya-sanitariya qoidalariga amal qiladi. Bu qoida yo'riqnomada alohida ko'rsatilgan [1].",
-   "Darslikka ko'ra mol va cho'chqa tanalari qushxonalarda yurak, chaynov va boshqa mushaklardan standart kesimlar yordamida finnozga tekshiriladi. Pavlovich darsligi ham profilaktika sifatida go'sht kombinatlarida va nazorat stansiyalarida finnaga ekspertiza o'tkazishni ko'rsatadi [2, 4]."
-  ]},
-  {"heading": "Go'shtni baholash mezonlari", "content": [
-   "Vladivostok darsligida bir kesim yuzasi 40 sm kvadratda uchtagacha finna topilsa, tana shartli yaroqli, uchtadan ko'p bo'lsa yaroqsiz hisoblanishi yozilgan. Bunda finnaning jonli yoki o'likligi ahamiyatga ega emas [2].",
-   "Bu mezon Rossiya qonunchiligi va veterinariya normativlariga asoslangan darslikda keltirilgan. Milliy yo'riqnomada bunday son mezoni topilmadi, shu sababli uni O'zbekiston talabi sifatida emas, xorijiy darslik ma'lumoti sifatida hisobga olish kerak [1, 2]."
-  ]},
-  {"heading": "Yaroqsiz go'shtni yo'q qilish", "content": [
-   "Darslikda yaroqsiz mol go'shti va cho'chqa go'shti ko'mish, yoqish yoki suyak-go'sht unga qayta ishlash orqali utilizatsiya qilinishi yozilgan. Aholiga finna aniqlangan go'shtni sotish ham taqiqlanadi [2].",
-   "Yo'riqnomada finnoz bilan zararlangan go'shtni va exinokokk bilan zararlangan ichki a'zolarni yo'qotish veterinariya-sanitariya qoidalari bo'yicha amalga oshiriladi, DSENM esa talabga javob bermagan go'sht yo'qotilishini do'konlarda monitoring qiladi. Shunday qilib, nazorat tibbiyot bilan birga ishlaydi [1, 2]."
-  ]},
-  {"heading": "Muzlatish orqali zararsizlantirish", "content": [
-   "Yo'riqnomaga ko'ra finnali go'sht muzlatish orqali zararsizlantiriladi. Mol go'shtining qalin joyida minus 12 gradusga yetganda muzlatish to'xtatiladi, o'lchov boldir mushaklarining 7-10 sm qalinligida olinadi; minus 6-9 gradusda go'sht sovutkich kamerasida kamida 24 soat saqlanadi [1].",
-   "Cho'chqa go'shti uchun rejim qattiqroq: mushaklar ichi minus 10 gradusga yetadi va kamera havosi minus 12 gradusda 10 sutkagacha, yoki mushaklar minus 12 gradusga yetganda kamera minus 13 gradusda 4 sutkagacha ushlanadi. Romanenko qo'llanmasida ham shu rejimlar keltirilgan [1, 3]."
-  ]},
-  {"heading": "Qaynatish va isitish orqali zararsizlantirish", "content": [
-   "Yo'riqnomaga ko'ra mol va cho'chqa go'shti maydalanadi, og'irligi 2 kg gacha va qalinligi 8 sm bo'lgan bo'laklar ochiq qozonda 3 soat pishiriladi yoki yopiq qozonda 2,5 soatgacha 0,5 MPa bosimda bug'lanadi. Bo'lak ichidagi harorat 80 gradusga yetsa, go'sht zararsizlangan hisoblanadi [1].",
-   "Tayyor go'sht kesilganda oqish-kulrang, shirasi esa rangsiz bo'lishi kerak. Bu ko'rsatkich amaliyotda go'sht haqiqatan ham yetarli pishganini tekshirishga yordam beradi, ammo asosiy mezon bo'lak ichidagi harorat hisoblanadi [1]."
-  ]},
-  {"heading": "Tuzlash va qayta ishlash yo'nalishi", "content": [
-   "Go'shtni tuzlash orqali ham zararsizlantirish mumkin: go'sht 2,5 kg gacha bo'laklarga bo'linadi, og'irligining 10 foizi, ya'ni 250 g tuz bilan tuzlanadi, so'ng 24 foizli tuz eritmasida 20 kun saqlanadi. Bunday usul sanoat sharoitiga yaqin va aniq me'yorli [1].",
-   "Tuz yoki muzlatish bilan zararsizlantirilgan go'sht kolbasa va qiyma konservalari ishlab chiqaradigan sanoat korxonalariga yuboriladi. Darslik ham zararsizlantirilgan mol va cho'chqa go'shtini faqat qiymali kolbasa yoki konserva uchun ishlatishni ko'rsatadi [1, 2]."
-  ]},
-  {"heading": "Uyda so'yish va nazoratdan tashqari go'sht", "content": [
-   "Yo'riqnomada tibbiyot xodimlari va mahalla yig'inlari bilan birga mollarni saqlash va uyda so'yish bo'yicha sanitariya-targ'ibot ishlarini keng olib borish belgilangan. Bu chora uyda so'yilgan molning nazoratdan chetda qolishi xavfini hal qilishga yo'naltirilgan [1].",
-   "Rossiya normativlarini bayon qilgan darslikda xonadonda veterinariya-sanitariya nazoratisiz so'yish va veterinariya ekspertizasi shtampisiz go'sht sotish taqiqlangan, aholi punktlarida qushxona va bioterm chuqurlar bo'lishi kerak. O'zbekiston uchun bunday tartib ko'rilgan manbalarda ko'rsatilmagan [1, 2]."
-  ]},
-  {"heading": "Yem-xashak va oqova suv xavfsizligi", "content": [
-   "Milliy yo'riqnomada yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emas. Romanenko qo'llanmasida oqova suv bilan sug'orilgan maydondagi o'tlarni yem qilgan mollarning finnoz bilan kasallanishi holatlari qayd etilgan [1, 3].",
-   "Shu qo'llanmada bunday o'tlar pichan, silos yoki o't unida zararsizlantirilishi tavsiya etilgan: onkosferalarning to'liq nobud bo'lishi senajda 60 kundan, silosda 45 kundan keyin kuzatilgan. Bu natija tajriba sharoitidagi ma'lumot bo'lib, rejimga qat'iy rioya qilishni talab qiladi [3]."
-  ]},
-  {"heading": "Tibbiyot xizmati bilan hamkorlik", "content": [
-   "Teniarinxoz holati aniqlansa, hududiy DSENM buni veterinariya bo'limlariga xabar qiladi, hayvonlarda sistitserkoz topilsa, veterinariya bo'limlari DSENMga xabar berishi shart. Epidemik tekshiruvni parazitologlar va veterinariya mutaxassislari birgalikda o'tkazadi [1].",
-   "Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur choralar bajarilishini nazorat qiladi. Aholi punktida yoki chorva xo'jaligida finnoz topilsa, shu hududdagi aholi tekshiriladi, ya'ni veterinariya ma'lumoti bemorlarni topishga xizmat qiladi [1]."
-  ]},
-  {"heading": "Tenioz uchun cho'chqa chora-tadbirlari", "content": [
-   "Davolash bayonnomasida tenioz profilaktikasi cho'chqalarni so'yish jarayonini veterinariya-sanitariya nazoratiga olish va tuproqni kasal cho'chqalar najasi bilan ifloslanishdan himoyalashni o'z ichiga oladi. Bu choralar qoramol uchun emas, cho'chqa solityoriga tegishli [6].",
-   "JSST T. solium bo'yicha cho'chqalarga TSOL18 vaksinasi, oksfendazol bilan davolash, sarson cho'chqalarni bartaraf etish va go'sht nazoratini yaxshilashni ko'rsatadi. JSST hujjati teniarinxozni emas, T. solium ni qamrab oladi, shu sababli uni qoramolga ko'chirib bo'lmaydi [5]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan manbalarda O'zbekistonda qoramol finnozining tarqalganligi, qushxonalarda aniqlangan finnali tanalar soni va veterinariya hisobotlari raqamlari topilmadi. Shu sababli veterinariya choralari samarasini raqam bilan baholash mumkin bo'lmadi [1].",
-   "Qoramolda teniarinxoz finnozi uchun vaksina yoki davolash vositalari bo'yicha ko'rilgan milliy manbalarda ko'rsatma yo'q, JSST vaksinasi esa cho'chqa uchun yozilgan. Go'sht baholash son mezoni ham faqat xorijiy darslikda uchragani sababli milliy tasdiq talab qiladi [1, 2, 5]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Teniarinxozning veterinariya choralari qushxonalarda har bir tana ekspertizasi, finnali go'shtni zararsizlantirish yoki yo'qotish, chorva hisobi, yem-xashak xavfsizligi va tibbiyot xizmati bilan axborot almashinuvidan iborat. Bu tizim bemor odamni topish bilan birga ishlaganda chorva va odam o'rtasidagi zanjirni samarali uzadi [1, 2, 3]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Teniarinxozning veterinariya choralari zanjirning chorva qismiga qaratilgan: qoramol onkosferalar bilan zararlanib, go'shtida finna hosil qiladi, odam esa shu go'sht orqali kasallanadi. Milliy yo'riqnomada kompleks veterinariya choralari aholining teniidozlar, hayvonlarning esa sistitserkoz bilan zararlanishining oldini olishga yo'naltirilgan [1].",
+    "Ushbu mavzuda veterinariya nazoratining maqsadi, chorvani hisobga olish, qushxonalardagi ekspertiza, go'shtni baholash mezonlari, zararsizlantirish usullari, yem-xashak xavfsizligi va tibbiyot bilan hamkorlik ketma-ket ko'rib chiqiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Veterinariya choralarining maqsadi",
+   "content": [
+    "Yo'riqnomaga ko'ra veterinariya choralari veterinariya qonunchiligi asosida o'tkaziladi va ikki yo'nalishga ega: odamni teniidozlardan, hayvonni sistitserkozdan saqlash. Shu sababli chora go'shtning xavfsizligi bilan bir qatorda hayvonlar o'rtasidagi zararlanishni kamaytirishni ham nazarda tutadi [1].",
+    "Vladivostok darsligi ham veterinariya komplekslarini bir xil maqsadga bog'laydi: ular odamlarning qoramol va cho'chqa solityori bilan, hayvonlarning esa sistitserkoz bilan zararlanishining oldini olishi kerak. Tibbiyot xodimlari bilan birga ishlash bu choralarning samarasini oshiradi [2]."
+   ]
+  },
+  {
+   "heading": "Chorvani saqlash va hisobga olish",
+   "content": [
+    "Darslikda profilaktikaning muhim qismi sifatida qoramolni yopiq joyda saqlash, kasallanishini hisobga olish va chorva xo'jaliklarida kasallik oldini olish veterinariya-sanitariya tadbirlari ko'rsatilgan. Yopiq saqlash mollarning ifloslangan yaylov bilan aloqasini kamaytirishi mumkin, ammo darslik bu haqda raqam keltirmaydi [2].",
+    "Yo'riqnomada barcha chorvadorlik korxonalari, hayvon mahsulotlarini qayta ishlash va go'sht ishlab chiqarish korxonalari tuman yoki shahar veterinariya xizmati hisobida bo'lishi, doimiy veterinariya-sanitariya nazoratida turishi talab qilingan. Bu hisob nazoratning boshlang'ich shartidir [1]."
+   ]
+  },
+  {
+   "heading": "Qushxonalarda veterinariya ekspertizasi",
+   "content": [
+    "Veterinariya mutaxassislari qushxonalarda go'sht finnozga veterinariya ekspertizasi sifati nazoratini monitoring qiladi, finnali go'shtni va exinokokk bilan zararlangan ichki a'zolarni yo'qotishda veterinariya-sanitariya qoidalariga amal qiladi. Bu qoida yo'riqnomada alohida ko'rsatilgan [1].",
+    "Darslikka ko'ra mol va cho'chqa tanalari qushxonalarda yurak, chaynov va boshqa mushaklardan standart kesimlar yordamida finnozga tekshiriladi. Pavlovich darsligi ham profilaktika sifatida go'sht kombinatlarida va nazorat stansiyalarida finnaga ekspertiza o'tkazishni ko'rsatadi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Go'shtni baholash mezonlari",
+   "content": [
+    "Vladivostok darsligida bir kesim yuzasi 40 sm kvadratda uchtagacha finna topilsa, tana shartli yaroqli, uchtadan ko'p bo'lsa yaroqsiz hisoblanishi yozilgan. Bunda finnaning jonli yoki o'likligi ahamiyatga ega emas [2].",
+    "Bu mezon Rossiya qonunchiligi va veterinariya normativlariga asoslangan darslikda keltirilgan. Milliy yo'riqnomada bunday son mezoni topilmadi, shu sababli uni O'zbekiston talabi sifatida emas, xorijiy darslik ma'lumoti sifatida hisobga olish kerak [1, 2]."
+   ]
+  },
+  {
+   "heading": "Yaroqsiz go'shtni yo'q qilish",
+   "content": [
+    "Darslikda yaroqsiz mol go'shti va cho'chqa go'shti ko'mish, yoqish yoki suyak-go'sht unga qayta ishlash orqali utilizatsiya qilinishi yozilgan. Aholiga finna aniqlangan go'shtni sotish ham taqiqlanadi [2].",
+    "Yo'riqnomada finnoz bilan zararlangan go'shtni va exinokokk bilan zararlangan ichki a'zolarni yo'qotish veterinariya-sanitariya qoidalari bo'yicha amalga oshiriladi, DSENM esa talabga javob bermagan go'sht yo'qotilishini do'konlarda monitoring qiladi. Shunday qilib, nazorat tibbiyot bilan birga ishlaydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Muzlatish orqali zararsizlantirish",
+   "content": [
+    "Yo'riqnomaga ko'ra finnali go'sht muzlatish orqali zararsizlantiriladi. Mol go'shtining qalin joyida minus 12 gradusga yetganda muzlatish to'xtatiladi, o'lchov boldir mushaklarining 7-10 sm qalinligida olinadi; minus 6-9 gradusda go'sht sovutkich kamerasida kamida 24 soat saqlanadi [1].",
+    "Cho'chqa go'shti uchun rejim qattiqroq: mushaklar ichi minus 10 gradusga yetadi va kamera havosi minus 12 gradusda 10 sutkagacha, yoki mushaklar minus 12 gradusga yetganda kamera minus 13 gradusda 4 sutkagacha ushlanadi. Romanenko qo'llanmasida ham shu rejimlar keltirilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Qaynatish va isitish orqali zararsizlantirish",
+   "content": [
+    "Yo'riqnomaga ko'ra mol va cho'chqa go'shti maydalanadi, og'irligi 2 kg gacha va qalinligi 8 sm bo'lgan bo'laklar ochiq qozonda 3 soat pishiriladi yoki yopiq qozonda 2,5 soatgacha 0,5 MPa bosimda bug'lanadi. Bo'lak ichidagi harorat 80 gradusga yetsa, go'sht zararsizlangan hisoblanadi [1].",
+    "Tayyor go'sht kesilganda oqish-kulrang, shirasi esa rangsiz bo'lishi kerak. Bu ko'rsatkich amaliyotda go'sht haqiqatan ham yetarli pishganini tekshirishga yordam beradi, ammo asosiy mezon bo'lak ichidagi harorat hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Tuzlash va qayta ishlash yo'nalishi",
+   "content": [
+    "Go'shtni tuzlash orqali ham zararsizlantirish mumkin: go'sht 2,5 kg gacha bo'laklarga bo'linadi, og'irligining 10 foizi, ya'ni 250 g tuz bilan tuzlanadi, so'ng 24 foizli tuz eritmasida 20 kun saqlanadi. Bunday usul sanoat sharoitiga yaqin va aniq me'yorli [1].",
+    "Tuz yoki muzlatish bilan zararsizlantirilgan go'sht kolbasa va qiyma konservalari ishlab chiqaradigan sanoat korxonalariga yuboriladi. Darslik ham zararsizlantirilgan mol va cho'chqa go'shtini faqat qiymali kolbasa yoki konserva uchun ishlatishni ko'rsatadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Uyda so'yish va nazoratdan tashqari go'sht",
+   "content": [
+    "Yo'riqnomada tibbiyot xodimlari va mahalla yig'inlari bilan birga mollarni saqlash va uyda so'yish bo'yicha sanitariya-targ'ibot ishlarini keng olib borish belgilangan. Bu chora uyda so'yilgan molning nazoratdan chetda qolishi xavfini hal qilishga yo'naltirilgan [1].",
+    "Rossiya normativlarini bayon qilgan darslikda xonadonda veterinariya-sanitariya nazoratisiz so'yish va veterinariya ekspertizasi shtampisiz go'sht sotish taqiqlangan, aholi punktlarida qushxona va bioterm chuqurlar bo'lishi kerak. O'zbekiston uchun bunday tartib ko'rilgan manbalarda ko'rsatilmagan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Yem-xashak va oqova suv xavfsizligi",
+   "content": [
+    "Milliy yo'riqnomada yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emas. Romanenko qo'llanmasida oqova suv bilan sug'orilgan maydondagi o'tlarni yem qilgan mollarning finnoz bilan kasallanishi holatlari qayd etilgan [1, 3].",
+    "Shu qo'llanmada bunday o'tlar pichan, silos yoki o't unida zararsizlantirilishi tavsiya etilgan: onkosferalarning to'liq nobud bo'lishi senajda 60 kundan, silosda 45 kundan keyin kuzatilgan. Bu natija tajriba sharoitidagi ma'lumot bo'lib, rejimga qat'iy rioya qilishni talab qiladi [3]."
+   ]
+  },
+  {
+   "heading": "Tibbiyot xizmati bilan hamkorlik",
+   "content": [
+    "Teniarinxoz holati aniqlansa, hududiy DSENM buni veterinariya bo'limlariga xabar qiladi, hayvonlarda sistitserkoz topilsa, veterinariya bo'limlari DSENMga xabar berishi shart. Epidemik tekshiruvni parazitologlar va veterinariya mutaxassislari birgalikda o'tkazadi [1].",
+    "Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur choralar bajarilishini nazorat qiladi. Aholi punktida yoki chorva xo'jaligida finnoz topilsa, shu hududdagi aholi tekshiriladi, ya'ni veterinariya ma'lumoti bemorlarni topishga xizmat qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Tenioz uchun cho'chqa chora-tadbirlari",
+   "content": [
+    "Davolash bayonnomasida tenioz profilaktikasi cho'chqalarni so'yish jarayonini veterinariya-sanitariya nazoratiga olish va tuproqni kasal cho'chqalar najasi bilan ifloslanishdan himoyalashni o'z ichiga oladi. Bu choralar qoramol uchun emas, cho'chqa solityoriga tegishli [6].",
+    "JSST T. solium bo'yicha cho'chqalarga TSOL18 vaksinasi, oksfendazol bilan davolash, sarson cho'chqalarni bartaraf etish va go'sht nazoratini yaxshilashni ko'rsatadi. JSST hujjati teniarinxozni emas, T. solium ni qamrab oladi, shu sababli uni qoramolga ko'chirib bo'lmaydi [5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Teniarinxozning veterinariya choralari qushxonalarda har bir tana ekspertizasi, finnali go'shtni zararsizlantirish yoki yo'qotish, chorva hisobi, yem-xashak xavfsizligi va tibbiyot xizmati bilan axborot almashinuvidan iborat. Bu tizim bemor odamni topish bilan birga ishlaganda chorva va odam o'rtasidagi zanjirni samarali uzadi [1, 2, 3]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

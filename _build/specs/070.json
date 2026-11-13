@@ -1,59 +1,89 @@
 {
-  "number": 70,
-  "title": "70. Kanali qaytalama terlamaning (KQT) profilaktikasi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Kanali qaytalama terlamaning profilaktikasi asosan odam yashaydigan joylarda tashuvchi Ornithodoros kanalariga qarshi kurashga, odamni kana chaqishidan himoyalashga va aholini xabardor qilishga qaratiladi. Milliy qo'llanmada KQT bo'yicha endemik joylarni kasallikdan xalos qilish mumkinligi ko'rsatilgan [1].",
-      "Ushbu mavzuda profilaktikaning asosiy yo'nalishlari: kanalarga qarshi ishlov, aholi punktlarini obodonlashtirish va qurilish talablari, shaxsiy himoya, sanitariya-targ'ibot, kadrlar tayyorlash hamda kuzatuv choralari ko'rib chiqiladi. Manbalar orasidagi farq va tasdiqlanmagan tavsiyalar oxirida aytiladi [1, 2, 3]."
-    ]},
-    {"heading": "Profilaktikaning asosiy tamoyili", "content": [
-      "Qo'llanmaga ko'ra KQT dan saqlanishda yagona samarali chora kasallik manbai va tashuvchisi bo'lgan mahalliy O. papillipes kanalariga qarshi kurashdir. Kanalarning yo'qligi KQT yo'qligini tasdiqlaydi, chunki kasallik faqat Ornithodoros kanalari tarqalgan joylarda uchraydi [1].",
-      "Kanalar bor joyda kasallanish bo'lishi mumkin, shuning uchun kanali, ammo kasallik qayd etilmagan xo'jalik va uylar xavfli hudud hisoblanadi. Taqdimotda ham asosiy profilaktika aholi yashash joylarini obodonlashtirish deb ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Kanalarga qarshi kimyoviy va mexanik choralar", "content": [
-      "Profilaktikaning birinchi qatori O. papillipes yashaydigan hovlidagi qurilish inshootlarini insektitsidlar bilan ishlash, ishlov samarasini tekshirish va kamida 2-3 yil davomida takroran o'tkazishdir. Ishlov yiliga 1-2 marta, issiq davrda (mart-noyabr) rejalashtiriladi [1].",
-      "Mexanik usulda xonalar haftada bir marta tozalanib, chiqindi maxsus chuqurga tashlanadi va tuproq bilan ko'miladi. Kanalar topilgan xonadon egasiga kanalarni ko'rsatib, ularning zarari tushuntiriladi va bu usul tavsiya etiladi; kimyoviy usul bilan birga qo'llash kanalarni tezroq yo'qotadi [1]."
-    ]},
-    {"heading": "Aholi punktlarini obodonlashtirish", "content": [
-      "KQT ning oldini olishda aholi punktlarini sanitar obodonlashtirish muhim o'rin tutadi: kanalar yashaydigan eski kesak devorlar, xo'jalik uchun keraksiz qurilishlar, aholi punkti atrofidagi tabiiy biotoplar qayta qurilishi, kesak devorli xonalar beton poydevorli xonalarga almashtirilishi, xo'jalik chuqurlari betonlanishi nazarda tutilgan [1].",
-      "Xonalar muntazam tozalanishi, ta'mirlanishi, yoriq va kemiruvchilar inlariga dust sepib suvalishi, kemiruvchilarga qarshi kurash tavsiya qilingan; kanalar yo'q qilinmagunicha yoriq va inlarni suvash tavsiya etilmaydi. Taqdimotda eski loy uylar o'rniga beton yoki pishgan g'ishtli uylar qurish ham asosiy choradir [1, 2]."
-    ]},
-    {"heading": "Qurilishda profilaktika", "content": [
-      "O. papillipes kanalarining yangi uyga kirishini oldini olish uchun uyni hovlining bo'sh joyiga qurish kerak, eski inshoot o'rni bog' yoki tomorqa sifatida ishlatilishi mumkin. Yangi bino eskisi o'rnida qurilsa, eski poydevor buziladi, yer yuzasi to'planib dust bilan 1:100 nisbatda aralashtirilib chuqurga tashlanadi [1].",
-      "Qurilish uchun ajratilayotgan yerlar kanalarning tabiiy o'choqlardan kirib kelishini oldini olish maqsadida oldindan Ornithodoros kanalaridan tozalanadi: biotoplar ishlanadi yoki buzib tashlanadi, atrof haydalib bog' va xiyobonlar barpo etiladi. Bino qurilgach, polning tuprog'i va poydevor qayta ishlanadi [1]."
-    ]},
-    {"heading": "Shaxsiy himoya", "content": [
-      "Kanalar yashaydigan joylarda yoki tabiatdagi yashirinish joylariga yaqin hududlarda dam olmaslik va tunamaslik kerak. Tunashga to'g'ri kelsa, karavot devordan uzoqroqqa qo'yilib, oyoqlariga suvli idishlar qo'yiladi, xonalar chiqindidan tozalanib, kavak va inlar suvaladi, imkon bo'lsa xona ishlanadi [1].",
-      "Kanalar kira olmaydigan uxlash qoplaridan foydalanish, yozda eski kesak devorli inshootlardan uzoqda ochiq joyda uxlash tavsiya etilgan. Bayonnomada yopiq kombinezon, surtma vositalar va repellentlar, ayniqsa endemik hududlarda qo'llanishi hamda uy hayvonlari binolarida dezinseksiya va deratizatsiya aytilgan [1, 3]."
-    ]},
-    {"heading": "Sanitariya-targ'ibot ishi", "content": [
-      "Aholining ongli va faol ishtirokisiz KQT ga qarshi kurash mumkin emas. DPM va DSENM aholi o'rtasida kasallik, kanalar va ularning ahamiyati haqida targ'ibot olib boradi; har bir oilada topilgan kanalarni ko'rsatib suhbat o'tkazish samarali hisoblanadi [1].",
-      "Savol-javob kechalarida shifokorlar va entomolog qatnashishi, fotoko'rgazma va plakatlar, qishloqlarda radio va televideniye, dala shiyponlari, maktab va klublarda fotoko'rgazma, maktablarda biologiya darslarida suhbat tavsiya etilgan. Bu choralar aholining kana xavfi haqidagi bilimini oshiradi [1]."
-    ]},
-    {"heading": "Kadrlar tayyorlash va erta aniqlash", "content": [
-      "Qo'llanmada parazitologiya xodimlari uchun turli inshootlarda kanalarni qidirish va ishlov berish bo'yicha muntazam nazariy va amaliy mashg'ulotlar o'tkazilishi, laborantlarning mikroskopik tashxis malakasini va umumiy tarmoq tibbiyot xodimlarining bilimini oshirishga alohida e'tibor qaratilishi ko'rsatilgan [1].",
-      "Bemorlarni erta aniqlash ham profilaktikaning bir qismidir: isitmali va kana chaqqan bemorlardan qalin tomchi olinadi, aniqlanganlar davolanadi. Bayonnomaga ko'ra rekonvalessentlar 6 oy, og'ir shaklda 12 oy dispanser kuzatuvida bo'lib, 2 hafta, 1-2 va 5-6 oydan keyin qayta tekshiriladi [1, 3]."
-    ]},
-    {"heading": "Kompleks yondashuv", "content": [
-      "Respublika markazining taqdimotida endemik qaytalama tif tashuvchisi kanalar uchun muhitni sog'lomlashtirish va uy-joy sharoitini yaxshilash, binolarni ichkaridan ishlash, insektitsid shimdirilgan to'r va himoya vositalari kabi usullar kompleks vektor nazorati doirasida ko'rsatilgan [4].",
-      "Bu yondashuv mahalliy tashuvchi biologiyasiga asoslanishi, insektitsidlardan oqilona foydalanish, aholi va hamkorlar bilan ishlash hamda usullar majmuasini qo'llashni talab qiladi. Milliy qo'llanmadagi kimyoviy, mexanik va qurilish choralari shu tamoyilga mos keladi [1, 4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor endemik hududlarda hovlilarni rejali tekshiradi, kanalar bor xonadonlarni hisob kartasiga kiritadi va insektitsid ishlovi muddatlarini nazorat qiladi. Tadbirlar parazitolog va entomolog ishtirokida bajariladi, shuning uchun uning rahbarlik roli yuqori [1].",
-      "U yana aholi o'rtasida targ'ibotni tashkil qiladi, qurilish va obodonlashtirish rejalarida kanalar yashashiga imkon bermaydigan materiallar qo'llanishini talab qiladi. Farg'ona viloyati tajribasida kasallik barcha oylarda qayd etilgani sababli profilaktika yil davomida davom etishi lozim [1, 2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Davolash bayonnomasida KQT hududlariga boradigan shaxslarga profilaktik emlash, ular qaytganda karantin tekshiruvi tavsiya etilgan, ammo kanali qaytalama terlamaga qarshi vaksina yoki bunday karantin tartibi boshqa manbalarda tasdiqlanmadi. Shuning uchun ular amaliy tavsiya sifatida keltirilmaydi [3].",
-      "Bayonnomadagi ta'rif bit bilan yuqadigan qaytalama terlamaga ham tegishli ko'rinadi, shuning uchun uning profilaktika bandlari faqat kanali shaklga mos kelganda olindi. Antibiotikli kimyoprofilaktika haqida manbalarda ma'lumot yo'q [3]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "KQT profilaktikasi O. papillipes kanalariga qarshi takroriy kimyoviy va mexanik ishlov, aholi punktlarini obodonlashtirish va kanalar yashashiga imkon bermaydigan zamonaviy qurilish, shaxsiy himoya, sanitariya-targ'ibot, kadrlar tayyorlash va bemorlarni erta aniqlashdan iborat; ular parazitolog va entomolog rahbarligida yil davomida bajariladi [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
-    "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Kanalar o'tkazuvchi qaytalama terlamani davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597."
-  ]
+ "number": 70,
+ "title": "70. Kanali qaytalama terlamaning (KQT) profilaktikasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Kanali qaytalama terlamaning profilaktikasi asosan odam yashaydigan joylarda tashuvchi Ornithodoros kanalariga qarshi kurashga, odamni kana chaqishidan himoyalashga va aholini xabardor qilishga qaratiladi. Milliy qo'llanmada KQT bo'yicha endemik joylarni kasallikdan xalos qilish mumkinligi ko'rsatilgan [1].",
+    "Ushbu mavzuda profilaktikaning asosiy yo'nalishlari: kanalarga qarshi ishlov, aholi punktlarini obodonlashtirish va qurilish talablari, shaxsiy himoya, sanitariya-targ'ibot, kadrlar tayyorlash hamda kuzatuv choralari ko'rib chiqiladi. Manbalar orasidagi farqlar ham ko'rsatiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Profilaktikaning asosiy tamoyili",
+   "content": [
+    "Qo'llanmaga ko'ra KQT dan saqlanishda yagona samarali chora kasallik manbai va tashuvchisi bo'lgan mahalliy O. papillipes kanalariga qarshi kurashdir. Kanalarning yo'qligi KQT yo'qligini tasdiqlaydi, chunki kasallik faqat Ornithodoros kanalari tarqalgan joylarda uchraydi [1].",
+    "Kanalar bor joyda kasallanish bo'lishi mumkin, shuning uchun kanali, ammo kasallik qayd etilmagan xo'jalik va uylar xavfli hudud hisoblanadi. Taqdimotda ham asosiy profilaktika aholi yashash joylarini obodonlashtirish deb ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Kanalarga qarshi kimyoviy va mexanik choralar",
+   "content": [
+    "Profilaktikaning birinchi qatori O. papillipes yashaydigan hovlidagi qurilish inshootlarini insektitsidlar bilan ishlash, ishlov samarasini tekshirish va kamida 2-3 yil davomida takroran o'tkazishdir. Ishlov yiliga 1-2 marta, issiq davrda (mart-noyabr) rejalashtiriladi [1].",
+    "Mexanik usulda xonalar haftada bir marta tozalanib, chiqindi maxsus chuqurga tashlanadi va tuproq bilan ko'miladi. Kanalar topilgan xonadon egasiga kanalarni ko'rsatib, ularning zarari tushuntiriladi va bu usul tavsiya etiladi; kimyoviy usul bilan birga qo'llash kanalarni tezroq yo'qotadi [1]."
+   ]
+  },
+  {
+   "heading": "Aholi punktlarini obodonlashtirish",
+   "content": [
+    "KQT ning oldini olishda aholi punktlarini sanitar obodonlashtirish muhim o'rin tutadi: kanalar yashaydigan eski kesak devorlar, xo'jalik uchun keraksiz qurilishlar, aholi punkti atrofidagi tabiiy biotoplar qayta qurilishi, kesak devorli xonalar beton poydevorli xonalarga almashtirilishi, xo'jalik chuqurlari betonlanishi nazarda tutilgan [1].",
+    "Xonalar muntazam tozalanishi, ta'mirlanishi, yoriq va kemiruvchilar inlariga dust sepib suvalishi, kemiruvchilarga qarshi kurash tavsiya qilingan; kanalar yo'q qilinmagunicha yoriq va inlarni suvash tavsiya etilmaydi. Taqdimotda eski loy uylar o'rniga beton yoki pishgan g'ishtli uylar qurish ham asosiy choradir [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qurilishda profilaktika",
+   "content": [
+    "O. papillipes kanalarining yangi uyga kirishini oldini olish uchun uyni hovlining bo'sh joyiga qurish kerak, eski inshoot o'rni bog' yoki tomorqa sifatida ishlatilishi mumkin. Yangi bino eskisi o'rnida qurilsa, eski poydevor buziladi, yer yuzasi to'planib dust bilan 1:100 nisbatda aralashtirilib chuqurga tashlanadi [1].",
+    "Qurilish uchun ajratilayotgan yerlar kanalarning tabiiy o'choqlardan kirib kelishini oldini olish maqsadida oldindan Ornithodoros kanalaridan tozalanadi: biotoplar ishlanadi yoki buzib tashlanadi, atrof haydalib bog' va xiyobonlar barpo etiladi. Bino qurilgach, polning tuprog'i va poydevor qayta ishlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Shaxsiy himoya",
+   "content": [
+    "Kanalar yashaydigan joylarda yoki tabiatdagi yashirinish joylariga yaqin hududlarda dam olmaslik va tunamaslik kerak. Tunashga to'g'ri kelsa, karavot devordan uzoqroqqa qo'yilib, oyoqlariga suvli idishlar qo'yiladi, xonalar chiqindidan tozalanib, kavak va inlar suvaladi, imkon bo'lsa xona ishlanadi [1].",
+    "Kanalar kira olmaydigan uxlash qoplaridan foydalanish, yozda eski kesak devorli inshootlardan uzoqda ochiq joyda uxlash tavsiya etilgan. Bayonnomada yopiq kombinezon, surtma vositalar va repellentlar, ayniqsa endemik hududlarda qo'llanishi hamda uy hayvonlari binolarida dezinseksiya va deratizatsiya aytilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-targ'ibot ishi",
+   "content": [
+    "Aholining ongli va faol ishtirokisiz KQT ga qarshi kurash mumkin emas. DPM va DSENM aholi o'rtasida kasallik, kanalar va ularning ahamiyati haqida targ'ibot olib boradi; har bir oilada topilgan kanalarni ko'rsatib suhbat o'tkazish samarali hisoblanadi [1].",
+    "Savol-javob kechalarida shifokorlar va entomolog qatnashishi, fotoko'rgazma va plakatlar, qishloqlarda radio va televideniye, dala shiyponlari, maktab va klublarda fotoko'rgazma, maktablarda biologiya darslarida suhbat tavsiya etilgan. Bu choralar aholining kana xavfi haqidagi bilimini oshiradi [1]."
+   ]
+  },
+  {
+   "heading": "Kadrlar tayyorlash va erta aniqlash",
+   "content": [
+    "Qo'llanmada parazitologiya xodimlari uchun turli inshootlarda kanalarni qidirish va ishlov berish bo'yicha muntazam nazariy va amaliy mashg'ulotlar o'tkazilishi, laborantlarning mikroskopik tashxis malakasini va umumiy tarmoq tibbiyot xodimlarining bilimini oshirishga alohida e'tibor qaratilishi ko'rsatilgan [1].",
+    "Bemorlarni erta aniqlash ham profilaktikaning bir qismidir: isitmali va kana chaqqan bemorlardan qalin tomchi olinadi, aniqlanganlar davolanadi. Bayonnomaga ko'ra rekonvalessentlar 6 oy, og'ir shaklda 12 oy dispanser kuzatuvida bo'lib, 2 hafta, 1-2 va 5-6 oydan keyin qayta tekshiriladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Kompleks yondashuv",
+   "content": [
+    "Respublika markazining taqdimotida endemik qaytalama tif tashuvchisi kanalar uchun muhitni sog'lomlashtirish va uy-joy sharoitini yaxshilash, binolarni ichkaridan ishlash, insektitsid shimdirilgan to'r va himoya vositalari kabi usullar kompleks vektor nazorati doirasida ko'rsatilgan [4].",
+    "Bu yondashuv mahalliy tashuvchi biologiyasiga asoslanishi, insektitsidlardan oqilona foydalanish, aholi va hamkorlar bilan ishlash hamda usullar majmuasini qo'llashni talab qiladi. Milliy qo'llanmadagi kimyoviy, mexanik va qurilish choralari shu tamoyilga mos keladi [1, 4].",
+    "Qo'llanmaga ko'ra KQT o'chog'i joyli va o'zgarmas bo'lgani uchun tashuvchi kanalardan sog'lomlashtirish uzoq yillar davom etadi. O'choq va potensial o'choqlarda o'tkazilgan tadbirlar, ya'ni bir martalik tekshiruvlar va dorilash samarasini tekshirish natijalari tahlilni osonlashtirish uchun har bir mikroo'choq bo'yicha bitta hujjatda qayd etiladi [1]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor endemik hududlarda hovlilarni rejali tekshiradi, kanalar bor xonadonlarni hisob kartasiga kiritadi va insektitsid ishlovi muddatlarini nazorat qiladi. Tadbirlar parazitolog va entomolog ishtirokida bajariladi, shuning uchun uning rahbarlik roli yuqori [1].",
+    "U yana aholi o'rtasida targ'ibotni tashkil qiladi, qurilish va obodonlashtirish rejalarida kanalar yashashiga imkon bermaydigan materiallar qo'llanishini talab qiladi. Farg'ona viloyati tajribasida kasallik barcha oylarda qayd etilgani sababli profilaktika yil davomida davom etishi lozim [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "KQT profilaktikasi O. papillipes kanalariga qarshi takroriy kimyoviy va mexanik ishlov, aholi punktlarini obodonlashtirish va kanalar yashashiga imkon bermaydigan zamonaviy qurilish, shaxsiy himoya, sanitariya-targ'ibot, kadrlar tayyorlash va bemorlarni erta aniqlashdan iborat; ular parazitolog va entomolog rahbarligida yil davomida bajariladi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
+  "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Kanalar o'tkazuvchi qaytalama terlamani davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597."
+ ]
 }

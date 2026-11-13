@@ -1,69 +1,104 @@
 {
-  "number": 71,
-  "title": "71. Parazitar kasalliklarni spetsifik va mexanik tashuvchilari haqida tushuncha.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Qon so'ruvchi hasharotlar va kanalar ko'plab yuqumli hamda parazitar kasalliklarning qo'zg'atuvchilarini bir xo'jayindan ikkinchisiga o'tkazadi. Tashuvchining roli qo'zg'atuvchi uning tanasida rivojlanishi yoki rivojlanmasligiga qarab farqlanadi va shu asosda tashuvchilar spetsifik hamda mexanik turlarga ajratiladi [1, 2].",
-      "Ushbu mavzuda tashuvchining umumiy tavsifi, spetsifik va mexanik tashuvchilarning belgilari, ularga misollar va o'tkazish muddatlaridagi farqlar ketma-ket ko'rib chiqiladi. Oxirida bu tushunchaning O'zbekiston amaliyotidagi va parazitolog-shifokor faoliyatidagi o'rni yoritiladi [1, 2, 3]."
-    ]},
-    {"heading": "Tashuvchi tushunchasi va o'tkazish bosqichlari", "content": [
-      "Qo'zg'atuvchini tashuvchi orqali o'tkazish uch bosqichdan iborat: qo'zg'atuvchini olish, uni kasal odam yoki hayvondan sog'lomiga ko'chirish va xo'jayin organizmiga kiritish. Birinchi bosqich odatda zararlangan xo'jayinda qon so'rish vaqtida, kamroq hollarda esa ifloslangan muhit bilan tegishganda kechadi [2].",
-      "Kasalliklar tashuvchisiz yuqish imkoniyatiga qarab ham guruhlanadi. Bezgak va leyshmanioz kabi majburiy transmissiv kasalliklar tabiatda faqat kana yoki hasharot orqali beriladi, shartli fakultativ transmissiv kasalliklarda esa qo'zg'atuvchi tashuvchi bilan bir qatorda boshqa yo'l bilan ham yuqishi mumkin [1]."
-    ]},
-    {"heading": "Spetsifik (biologik) tashuvchi", "content": [
-      "Spetsifik tashuvchining tanasida qo'zg'atuvchi parazitlik qilishda davom etadi: rivojlanish tsiklining muayyan bosqichini o'taydi yoki ko'payadi. Shu sababli tashuvchi zararlangan qonni so'rgan zahoti kasallikni yuqtira olmaydi, qo'zg'atuvchi ko'payib, so'lak yoki najas bilan ajralgandan keyingina xavfli bo'ladi [2].",
-      "O'zbekcha qo'llanmada bunday tashuvchilar maxsus, fiziologik yoki biologik tashuvchi deb ataladi. Qo'zg'atuvchi ularning tanasida butun umr saqlanishi mumkin; ayrim hollarda u trans-ovarial yo'l bilan keyingi avlodga, trans-fazali yo'l bilan esa lichinkadan voyaga yetgan davrga o'tadi [1]."
-    ]},
-    {"heading": "Spetsifik tashuvchilarga misollar", "content": [
-      "Bezgak plazmodiysi Anopheles chivinlari tanasida rivojlanib ko'payadi, leyshmaniyalar esa iskabtopar chivinlar tanasida. Qo'llanmada O'zbekistonda bezgakning ikki turi, ya'ni tropik (P. falciparum) va uch kunlik (P. vivax) bezgak uchrashi hamda ularning hayot davri Culicidae oilasi chivinlari ishtirokida o'tishi ko'rsatilgan [1].",
-      "Iskabtopar chivinlar leyshmaniozning spetsifik tashuvchilari bo'lib, Markaziy Osiyoda aprel-mayda paydo bo'ladi va sentyabr-oktyabrda yo'qoladi. Kanali qaytalama terlama qo'zg'atuvchisini esa O'zbekistonda asosan tog' va tog'oldi hududlarida keng tarqalgan O. papillipes kanasi tashiydi, bu kana tabiiy faunaning asosiy tashuvchisi hisoblanadi [3, 5]."
-    ]},
-    {"heading": "Mexanik tashuvchi", "content": [
-      "Mexanik tashuvchining tanasida qo'zg'atuvchi rivojlanmaydi, ko'paymaydi va uzoq saqlanmaydi. U virulentligini yo'qotgunicha tashuvchining tana yuzasida, so'rg'ichida yoki ichagida vaqtincha turadi va keyingi qon so'rish yoki ifloslantirish paytida sog'lom xo'jayinga o'tkaziladi [1, 2].",
-      "Bunday o'tkazish faqat qo'zg'atuvchining tashqi muhitda tirik qolish muddatiga teng davrda, ya'ni bir necha soat yoki kun ichida mumkin. Masalan, kuydirgi qo'zg'atuvchisi kasal hayvondan odamga chivinlar va so'nalar (slepni) orqali aynan shu yo'l bilan o'tadi [2]."
-    ]},
-    {"heading": "Pashshalar va gelmint tuxumlari", "content": [
-      "Uy pashshasi (Musca domestica) qo'llanmada odamlarda oshqozon-ichak va boshqa ko'plab kasalliklarning mexanik tashuvchisi sifatida ko'rsatilgan. MDH faunasida sinantrop pashshalarning 100 dan ortiq turi bo'lib, ulardan Muscidae oilasiga mansub turlar tibbiy jihatdan ko'proq ahamiyatga ega [1].",
-      "Gelmint tuxumlari ham pashsha orqali tarqaladi. Ozarbayjonda 5397 pashsha tekshirilganda 382 tasidan odam gelmintlarining 1769 tuxumi topilgan, ularning ko'pi vlasoglav va askarida tuxumlari bo'lgan, 71,4 foiz pashshada tuxumlar faqat ichakning o'zida aniqlangan [4]."
-    ]},
-    {"heading": "Boshqa mexanik tashuvchilar", "content": [
-      "Tajribalarda mitti gijja (gimenolepidoz) tuxumlari pashsha va qora tarakan tana yuzasida bir sutka, ichagida esa 2-3 sutka tirik qolishi ko'rsatilgan. Bu mexanik tashishning vaqt jihatidan cheklanganini bildiradi, ammo bu muddat tuxumlarni uy ichida tarqatish uchun yetarli bo'ladi [4].",
-      "Qo'ng'izlar ham mexanik tashuvchi bo'la oladi: ularning ichagida tenid onkosferalari hazm bo'lmaydi. Natijada onkosferalar najas tushgan joydan ko'p metr narida tarqaladi, qo'ng'iz o't yoki pichan bilan qoramolga tushsa, hayvonning finnoz bilan zararlanish ehtimoli bir necha barobar ortadi [4]."
-    ]},
-    {"heading": "Spetsifik va mexanik tashuvchining farqi", "content": [
-      "Asosiy farq qo'zg'atuvchining tashuvchi tanasidagi taqdirida: mexanik tashuvchida u faqat saqlanadi, spetsifik tashuvchida esa rivojlanadi yoki ko'payadi. Shu sababli mexanik o'tkazish qisqa muddatli, spetsifik tashuvchi esa qo'zg'atuvchi ko'payib bo'lgandan keyin uzoq vaqt xavfli bo'lib qoladi [2].",
-      "Spetsifik tashuvchida yuqtirish boshlanishi qo'zg'atuvchining tashuvchi tanasidagi rivojlanish davriga bog'liq va u tashuvchi turi hamda tashqi sharoitga qarab o'zgaradi. Bezgak plazmodiysining chivin tanasidagi sporogoniya davri havo haroratiga qarab uzayadi yoki qisqaradi, shuning uchun yuqish mavsumiy tus oladi [2]."
-    ]},
-    {"heading": "Bir tur ikki rolda", "content": [
-      "Bir hasharot turi turli qo'zg'atuvchilar uchun ham maxsus, ham mexanik tashuvchi bo'lishi mumkin. Anopheles chivinlari bezgak va filyariatozning maxsus tashuvchilari bo'lib, shu bilan birga tulyaremiya yoki virusli kasalliklar qo'zg'atuvchilarini mexanik yo'l bilan ham o'tkaza oladi [1].",
-      "Shu sababli baholash tashuvchi turi bilan emas, tashuvchi va aniq qo'zg'atuvchi juftligi bo'yicha olib boriladi. Darslikda chivinlar orasida viruslar va bakteriyalarning nospetsifik tashuvchilari ko'pligi, inson va hayvonlar bezgagining spetsifik tashuvchilari esa bezgak chivinlari ekani alohida qayd etilgan [3]."
-    ]},
-    {"heading": "Kontaminatsiya yo'li", "content": [
-      "Qo'zg'atuvchi tashuvchi tanasi qoplamini ifloslantirish orqali ham o'tishi mumkin. Qo'llanmada bunga kiyim biti bilan epidemik toshmali tif va triatom qandalalari bilan Amerika tripanosomozi misol qilingan; birinchi holda rikketsiyalar bit ichagida ko'payib, najas bilan teri va ich kiyimga tushadi [2].",
-      "Bu mexanizm tashuvchini mexanik qilmaydi: qo'zg'atuvchi uning tanasida ko'payganligi uchun tashuvchi spetsifik bo'lib qoladi. Demak, tasnif yuqish usuli bilan emas, qo'zg'atuvchining tashuvchi tanasidagi biologik taqdiri bilan belgilanadi, bu esa tashuvchini to'g'ri baholash uchun hal qiluvchi mezondir [2]."
-    ]},
-    {"heading": "Kurash yo'nalishlarining farqi", "content": [
-      "Spetsifik tashuvchilar bilan kurash ularning biologiyasiga tayanadi. Iskabtopar chivinlarga qarshi asosan voyaga yetgan zotlar yo'q qilinadi, aholi punktlarida turar joy va yordamchi xonalar mustahkam kontakt insektitsidlar bilan ishlanadi; O. papillipes kanalariga qarshi esa xonalarni muntazam tozalash usuli ham tavsiya etilgan [3, 5].",
-      "Mexanik tashuvchi qo'zg'atuvchini faqat tashqi muhitdan oladi, shuning uchun asosiy chora muhit ifloslanishini kamaytirishdir. Milliy yo'riqnomada hojatxonalarni qurish va ta'mirlash, kommunal obodonlashtirish hamda uy hayvonlarini tartibli saqlash gelmint tuxumlari bilan ifloslanishdan himoya choralari sifatida keltirilgan [6]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor o'choqni tekshirishda tashuvchi turini va uning qo'zg'atuvchi uchun rolini aniqlashi kerak. Spetsifik tashuvchi bo'lsa, entomologik kuzatuv va mavsumiy kurash rejalashtiriladi, mexanik tashuvchi bo'lsa, sanitariya-gigiena choralari va chiqindilar nazorati kuchaytiriladi [2, 4].",
-      "Bu farq tekshiruv yo'nalishini ham belgilaydi. Transmissiv kasalliklarda tashuvchining mavsumiy faolligi va yashash joyi o'rganiladi, gelmintozlarda esa tashqi muhit obyektlaridan surtma namunalari olinadi; milliy yo'riqnomada bu tartib o'yinchoq, choyshab, eshik tutqichi kabi obyektlar uchun belgilangan [6]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "O'zbekiston hududida pashsha, tarakan va qo'ng'izlarning gelmint tuxumlarini mexanik tashishi bo'yicha son ma'lumotlari ko'rilgan manbalarda topilmadi. Keltirilgan tuxum soni Ozarbayjonda o'tkazilgan tadqiqotga tegishli bo'lib, O'zbekistonga bevosita ko'chirilmaydi va shu sababli tasdiqlanmagan hisoblanadi [4].",
-      "Manbalarda atamalar ham bir xil emas: o'zbekcha qo'llanmada «maxsus (fiziologik, biologik)», ruscha manbalarda esa «spetsifik» deyiladi. Mexanik tashuvchilarga keltirilgan misollarning ko'pi bakterial infeksiyalarga oid bo'lib, protozoo va gelmintlar bo'yicha aniq misollar nisbatan cheklangan [1, 3]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Tashuvchilar qo'zg'atuvchi bilan munosabatiga ko'ra ikkiga bo'linadi: spetsifik tashuvchi tanasida qo'zg'atuvchi rivojlanadi yoki ko'payadi, mexanik tashuvchi esa uni faqat vaqtincha ko'taradi. Bu farq yuqish muddatini, mavsumiyligini va kurash yo'nalishini belgilaydi, shuning uchun har bir parazitozda tashuvchining roli aniqlanishi lozim [1, 2, 4]."
-    ]}
-  ],
-  "references": [
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. ISBN 978-9952-504-29-3. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiyasi, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525."
-  ]
+ "number": 71,
+ "title": "71. Parazitar kasalliklarni spetsifik va mexanik tashuvchilari haqida tushuncha.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Qon so'ruvchi hasharotlar va kanalar ko'plab yuqumli hamda parazitar kasalliklarning qo'zg'atuvchilarini bir xo'jayindan ikkinchisiga o'tkazadi. Tashuvchining roli qo'zg'atuvchi uning tanasida rivojlanishi yoki rivojlanmasligiga qarab farqlanadi va shu asosda tashuvchilar spetsifik hamda mexanik turlarga ajratiladi [1, 2].",
+    "Ushbu mavzuda tashuvchining umumiy tavsifi, spetsifik va mexanik tashuvchilarning belgilari, ularga misollar va o'tkazish muddatlaridagi farqlar ketma-ket ko'rib chiqiladi. Oxirida bu tushunchaning O'zbekiston amaliyotidagi va parazitolog-shifokor faoliyatidagi o'rni yoritiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Tashuvchi tushunchasi va o'tkazish bosqichlari",
+   "content": [
+    "Qo'zg'atuvchini tashuvchi orqali o'tkazish uch bosqichdan iborat: qo'zg'atuvchini olish, uni kasal odam yoki hayvondan sog'lomiga ko'chirish va xo'jayin organizmiga kiritish. Birinchi bosqich odatda zararlangan xo'jayinda qon so'rish vaqtida, kamroq hollarda esa ifloslangan muhit bilan tegishganda kechadi [2].",
+    "Kasalliklar tashuvchisiz yuqish imkoniyatiga qarab ham guruhlanadi. Bezgak va leyshmanioz kabi majburiy transmissiv kasalliklar tabiatda faqat kana yoki hasharot orqali beriladi, shartli fakultativ transmissiv kasalliklarda esa qo'zg'atuvchi tashuvchi bilan bir qatorda boshqa yo'l bilan ham yuqishi mumkin [1]."
+   ]
+  },
+  {
+   "heading": "Spetsifik (biologik) tashuvchi",
+   "content": [
+    "Spetsifik tashuvchining tanasida qo'zg'atuvchi parazitlik qilishda davom etadi: rivojlanish tsiklining muayyan bosqichini o'taydi yoki ko'payadi. Shu sababli tashuvchi zararlangan qonni so'rgan zahoti kasallikni yuqtira olmaydi, qo'zg'atuvchi ko'payib, so'lak yoki najas bilan ajralgandan keyingina xavfli bo'ladi [2].",
+    "O'zbekcha qo'llanmada bunday tashuvchilar maxsus, fiziologik yoki biologik tashuvchi deb ataladi. Qo'zg'atuvchi ularning tanasida butun umr saqlanishi mumkin; ayrim hollarda u trans-ovarial yo'l bilan keyingi avlodga, trans-fazali yo'l bilan esa lichinkadan voyaga yetgan davrga o'tadi [1]."
+   ]
+  },
+  {
+   "heading": "O'zbekistondagi spetsifik tashuvchilar",
+   "content": [
+    "Bezgak plazmodiysi Anopheles chivinlari tanasida rivojlanib ko'payadi, leyshmaniyalar esa iskabtopar chivinlar tanasida. Qo'llanmada O'zbekistonda bezgakning ikki turi, ya'ni tropik (P. falciparum) va uch kunlik (P. vivax) bezgak uchrashi hamda ularning hayot davri Culicidae oilasi chivinlari ishtirokida o'tishi ko'rsatilgan [1].",
+    "Iskabtopar chivinlar leyshmaniozning spetsifik tashuvchilari bo'lib, Markaziy Osiyoda aprel-mayda paydo bo'ladi va sentyabr-oktyabrda yo'qoladi. Kanali qaytalama terlama qo'zg'atuvchisini esa O'zbekistonda asosan tog' va tog'oldi hududlarida keng tarqalgan O. papillipes kanasi tashiydi, bu kana tabiiy faunaning asosiy tashuvchisi hisoblanadi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Mexanik tashuvchi",
+   "content": [
+    "Mexanik tashuvchining tanasida qo'zg'atuvchi rivojlanmaydi, ko'paymaydi va uzoq saqlanmaydi. U virulentligini yo'qotgunicha tashuvchining tana yuzasida, so'rg'ichida yoki ichagida vaqtincha turadi va keyingi qon so'rish yoki ifloslantirish paytida sog'lom xo'jayinga o'tkaziladi [1, 2].",
+    "Bunday o'tkazish faqat qo'zg'atuvchining tashqi muhitda tirik qolish muddatiga teng davrda, ya'ni bir necha soat yoki kun ichida mumkin. Masalan, kuydirgi qo'zg'atuvchisi kasal hayvondan odamga chivinlar va so'nalar (slepni) orqali aynan shu yo'l bilan o'tadi [2]."
+   ]
+  },
+  {
+   "heading": "Pashshalar va gelmint tuxumlari",
+   "content": [
+    "Uy pashshasi (Musca domestica) qo'llanmada odamlarda oshqozon-ichak va boshqa ko'plab kasalliklarning mexanik tashuvchisi sifatida ko'rsatilgan. MDH faunasida sinantrop pashshalarning 100 dan ortiq turi bo'lib, ulardan Muscidae oilasiga mansub turlar tibbiy jihatdan ko'proq ahamiyatga ega [1].",
+    "Gelmint tuxumlari ham pashsha orqali tarqaladi. Ozarbayjonda 5397 pashsha tekshirilganda 382 tasidan odam gelmintlarining 1769 tuxumi topilgan, ularning ko'pi vlasoglav va askarida tuxumlari bo'lgan, 71,4 foiz pashshada tuxumlar faqat ichakning o'zida aniqlangan [4]."
+   ]
+  },
+  {
+   "heading": "Boshqa mexanik tashuvchilar",
+   "content": [
+    "Tajribalarda mitti gijja (gimenolepidoz) tuxumlari pashsha va qora tarakan tana yuzasida bir sutka, ichagida esa 2-3 sutka tirik qolishi ko'rsatilgan. Bu mexanik tashishning vaqt jihatidan cheklanganini bildiradi, ammo bu muddat tuxumlarni uy ichida tarqatish uchun yetarli bo'ladi [4].",
+    "Qo'ng'izlar ham mexanik tashuvchi bo'la oladi: ularning ichagida tenid onkosferalari hazm bo'lmaydi. Natijada onkosferalar najas tushgan joydan ko'p metr narida tarqaladi, qo'ng'iz o't yoki pichan bilan qoramolga tushsa, hayvonning finnoz bilan zararlanish ehtimoli bir necha barobar ortadi [4]."
+   ]
+  },
+  {
+   "heading": "Spetsifik va mexanik tashuvchining farqi",
+   "content": [
+    "Asosiy farq qo'zg'atuvchining tashuvchi tanasidagi taqdirida: mexanik tashuvchida u faqat saqlanadi, spetsifik tashuvchida esa rivojlanadi yoki ko'payadi. Shu sababli mexanik o'tkazish qisqa muddatli, spetsifik tashuvchi esa qo'zg'atuvchi ko'payib bo'lgandan keyin uzoq vaqt xavfli bo'lib qoladi [2].",
+    "Spetsifik tashuvchida yuqtirish boshlanishi qo'zg'atuvchining tashuvchi tanasidagi rivojlanish davriga bog'liq va u tashuvchi turi hamda tashqi sharoitga qarab o'zgaradi. Bezgak plazmodiysining chivin tanasidagi sporogoniya davri havo haroratiga qarab uzayadi yoki qisqaradi, shuning uchun yuqish mavsumiy tus oladi [2]."
+   ]
+  },
+  {
+   "heading": "Bir tur ikki rolda",
+   "content": [
+    "Bir hasharot turi turli qo'zg'atuvchilar uchun ham maxsus, ham mexanik tashuvchi bo'lishi mumkin. Anopheles chivinlari bezgak va filyariatozning maxsus tashuvchilari bo'lib, shu bilan birga tulyaremiya yoki virusli kasalliklar qo'zg'atuvchilarini mexanik yo'l bilan ham o'tkaza oladi [1].",
+    "Shu sababli baholash tashuvchi turi bilan emas, tashuvchi va aniq qo'zg'atuvchi juftligi bo'yicha olib boriladi. Darslikda chivinlar orasida viruslar va bakteriyalarning nospetsifik tashuvchilari ko'pligi, inson va hayvonlar bezgagining spetsifik tashuvchilari esa bezgak chivinlari ekani alohida qayd etilgan [3]."
+   ]
+  },
+  {
+   "heading": "Kontaminatsiya yo'li",
+   "content": [
+    "Qo'zg'atuvchi tashuvchi tanasi qoplamini ifloslantirish orqali ham o'tishi mumkin. Qo'llanmada bunga kiyim biti bilan epidemik toshmali tif va triatom qandalalari bilan Amerika tripanosomozi misol qilingan; birinchi holda rikketsiyalar bit ichagida ko'payib, najas bilan teri va ich kiyimga tushadi [2].",
+    "Bu mexanizm tashuvchini mexanik qilmaydi: qo'zg'atuvchi uning tanasida ko'payganligi uchun tashuvchi spetsifik bo'lib qoladi. Demak, tasnif yuqish usuli bilan emas, qo'zg'atuvchining tashuvchi tanasidagi biologik taqdiri bilan belgilanadi, bu esa tashuvchini to'g'ri baholash uchun hal qiluvchi mezondir [2]."
+   ]
+  },
+  {
+   "heading": "Kurash yo'nalishlarining farqi",
+   "content": [
+    "Spetsifik tashuvchilar bilan kurash ularning biologiyasiga tayanadi. Iskabtopar chivinlarga qarshi asosan voyaga yetgan zotlar yo'q qilinadi, aholi punktlarida turar joy va yordamchi xonalar mustahkam kontakt insektitsidlar bilan ishlanadi; O. papillipes kanalariga qarshi esa xonalarni muntazam tozalash usuli ham tavsiya etilgan [3, 5].",
+    "Mexanik tashuvchi qo'zg'atuvchini faqat tashqi muhitdan oladi, shuning uchun asosiy chora muhit ifloslanishini kamaytirishdir. Milliy yo'riqnomada hojatxonalarni qurish va ta'mirlash, kommunal obodonlashtirish hamda uy hayvonlarini tartibli saqlash gelmint tuxumlari bilan ifloslanishdan himoya choralari sifatida keltirilgan [6]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor o'choqni tekshirishda tashuvchi turini va uning qo'zg'atuvchi uchun rolini aniqlashi kerak. Spetsifik tashuvchi bo'lsa, entomologik kuzatuv va mavsumiy kurash rejalashtiriladi, mexanik tashuvchi bo'lsa, sanitariya-gigiena choralari va chiqindilar nazorati kuchaytiriladi [2, 4].",
+    "Bu farq tekshiruv yo'nalishini ham belgilaydi. Transmissiv kasalliklarda tashuvchining mavsumiy faolligi va yashash joyi o'rganiladi, gelmintozlarda esa tashqi muhit obyektlaridan surtma namunalari olinadi; milliy yo'riqnomada bu tartib o'yinchoq, choyshab, eshik tutqichi kabi obyektlar uchun belgilangan [6]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Tashuvchilar qo'zg'atuvchi bilan munosabatiga ko'ra ikkiga bo'linadi: spetsifik tashuvchi tanasida qo'zg'atuvchi rivojlanadi yoki ko'payadi, mexanik tashuvchi esa uni faqat vaqtincha ko'taradi. Bu farq yuqish muddatini, mavsumiyligini va kurash yo'nalishini belgilaydi, shuning uchun har bir parazitozda tashuvchining roli aniqlanishi lozim [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. ISBN 978-9952-504-29-3. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiyasi, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525."
+ ]
 }

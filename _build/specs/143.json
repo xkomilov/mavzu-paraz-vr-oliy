@@ -2,61 +2,96 @@
  "number": 143,
  "title": "143. Amyobiaz epidemiologiyasi",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Amyobiaz epidemiologiyasi kasallikning manbasi, yuqish mexanizmi, tarqalishi, mavsumiyligi va xavf guruhlarini o'rganadi. Davolash bayonnomasida amyobiaz antroponozli protozoy kasallik deb ta'riflangan, ya'ni qo'zg'atuvchining xo'jayini odam hisoblanadi [1, 2].",
-   "Mavzuda invaziya manbai, yuqish mexanizmi, sistalarning tashqi muhitda saqlanishi, jahon va MDH bo'yicha tarqalish, mavsumiylik, yosh va xavf guruhlari hamda kasallanish xarakteri ko'rib chiqiladi. Yuqish yo'llari va omillari alohida mavzuda batafsil yoritilgani uchun bu yerda umumiy epidemiologik manzara beriladi [1, 3, 7]."
-  ]},
-  {"heading": "Antroponoz tabiati", "content": [
-   "Davolash bayonnomasida amyobiaz antroponozli protozoy kasallik, ma'ruzada esa amyobali dizenteriya antroponoz deb belgilangan. Atlasda parazit faqat odamda yashashi ko'rsatilgan, shuning uchun epidemik jarayon odamdan odamga sistalar orqali davom etadi [2, 5, 6].",
-   "JSST amyobiazni klinik belgilari bor yoki yo'qligidan qat'i nazar, E. histolytica bilan infeksiya sifatida ta'riflaydi. Shu sababli epidemiologik jihatdan asemptomatik tashuvchilar ham infeksiyaning bir qismi hisoblanadi, E. dispar esa invaziv kasallik chaqirmaydi [7]."
-  ]},
-  {"heading": "Invaziya manbai", "content": [
-   "Yo'riqnomada kasallik manbai amyobiaz bilan kasallangan odam yoki dizenteriya amyobasi tashuvchisi deb ko'rsatilgan. Atlasda asosiy manba sog'lom sista tashuvchi va tuzalish davridagi bemor ekani, ularda sistalar ko'p miqdorda ajralishi yozilgan [1, 5].",
-   "Darslikda manba sifatida yetilgan sistalarni ajratuvchi, odatda yorug'lik shaklining sog'lom tashuvchilari ko'rsatilgan; bemorlar katta vegetativ shaklni ajratgani va u tez halok bo'lgani uchun ahamiyati kam deb baholangan. Zararlanishning 90 foizi belgisiz tashuvchilik bilan kechishi ham aytilgan [3]."
-  ]},
-  {"heading": "Sistalar ajralishi", "content": [
-   "Yo'riqnomada 1 g najasda 6 mln gacha sista bo'lishi mumkinligi, ma'ruzada esa kuchli zararlanganda sutkasiga 300 mln gacha sista ajralishi ko'rsatilgan. Darslik matnida 1 g da 610 gacha deb bosilgan, bu qiymat tasdiqlanmagan [1, 3, 6].",
-   "Yo'g'on ichak mazmuni distal bo'limlarga siljigan sari vegetativ shakllar kichrayib, sistaga aylanadi. Darslikda bu jarayon ichak mazmuni pH va osmotik bosimining o'zgarishi, suvsizlanishi hamda chirish mahsulotlarining to'planishi bilan bog'liq deb tushuntirilgan [3]."
-  ]},
-  {"heading": "Yuqish mexanizmi", "content": [
-   "Yo'riqnomada kasallik og'iz-najas yo'li bilan, amyoba sistalari bilan ifloslangan suv va oziq-ovqat orqali yuqishi aytilgan. Darslikda mexanizm fekal-oral, yo'llar esa suv, alimentar va kontakt-maishiy ekani yozilgan [1, 3].",
-   "Sistalarning chidamliligi sababli ifloslanish tuproq, suv va oziq-ovqatda uzoq saqlanadi. Darslikda kasallanish sporadik xarakterga ega bo'lsa-da, epidemik avj olishlar asosan suv yo'li bilan yuqqanda kuzatilishi yozilgan; yo'llar tafsiloti alohida mavzuda berilgan [3, 4]."
-  ]},
-  {"heading": "Sistalarning tashqi muhitda saqlanishi", "content": [
-   "Darslikda sistalar 15-20 gradusda najasda ikki hafta, qishda minus 21 gradusda 100 kungacha saqlanishi, quritilganda va 55 gradusgacha qizdirilganda tez halok bo'lishi aytilgan. Boshqa darslikda sistalar tuproqda taxminan 30 sutka saqlanishi yozilgan [3, 4].",
-   "Sistalar suv tozalash inshootlaridagi xlor va ozon konsentratsiyalarida tirik qolishi mumkin, oshqozon kislotali muhitiga va dezinfeksiyalovchi moddalarga bardosh beradi. Bu epidemik jarayonning davomiyligini ta'minlovchi omillardan biri deb qaraladi [3, 4]."
-  ]},
-  {"heading": "Jahon bo'yicha tarqalish", "content": [
-   "Yo'riqnomada amyobiaz ko'p mamlakatlarda keng tarqalgani, aholi o'rtasida zararlanish o'rtacha 10 foiz ekani, tropik va subtropik mamlakatlarda (Afrika, Janubiy Osiyo, Markaziy va Janubiy Amerika) ayniqsa yuqori ekani, u yerda barcha ich ketar kasalliklarning 20 foizini amyobiaz tashkil etishi yozilgan [1].",
-   "JSST hujjatida E. histolytica yiliga 100 000 gacha o'limga sabab bo'lishi va protozoy parazitlar orasida bezgakdan keyin ikkinchi o'rinda turishi aytilgan. Shu hujjatda E. histolytica tarqalishi bo'yicha aniq ma'lumotlar mavjud emasligi ham ta'kidlangan [7]."
-  ]},
-  {"heading": "MDH va Markaziy Osiyo", "content": [
-   "Yo'riqnomada MDH davlatlarida amyobiaz Kavkazda (Armaniston, Gruziya) va O'rta Osiyoda (Turkmaniston, Qirg'iziston) ko'proq uchrashi aytilgan. Darslikda O'rta Osiyo va Zakavkaz respublikalari amyobiaz bo'yicha noqulay, ularda tashuvchilar aholining 9-18 foizini tashkil etishi yozilgan [1, 3].",
-   "Boshqa darslikda amyobiaz tropik va subtropik hududlarda tarqalgani, Kavkazda va O'rta Osiyoda uchrashi ko'rsatilgan. Hech bir manbada O'zbekiston bo'yicha alohida raqam keltirilmagan, shu sababli mamlakat uchun xulosa «Tasdiqlanmagan ma'lumotlar» bo'limida beriladi [4]."
-  ]},
-  {"heading": "Mavsumiylik", "content": [
-   "Yo'riqnomada amyobiaz mavsumiyligi yoz-kuz oylariga to'g'ri kelishi aytilgan. Epidemiologik nazorat yo'riqnomasiga ko'ra mavsumiylikni tahlil qilish yuqori xavf vaqtini aniqlab, profilaktika va epidemiyaga qarshi tadbirlarni o'z vaqtida kuchaytirishga xizmat qiladi [1, 8].",
-   "Darslikda kasallanish sporadik xarakterda ekani, epidemik avj olishlar esa asosan suv yo'li bilan yuqqanda kuzatilishi ko'rsatilgan. O'zbekistonga xos mavsumiy o'zgarishlar bo'yicha ma'lumot ko'rilgan manbalarda topilmadi [3]."
-  ]},
-  {"heading": "Yosh va xavf guruhlari", "content": [
-   "Yo'riqnomada amyobiaz asosan o'rta yoshdagilarda uchrashi qayd etilgan. Davolash bayonnomasida chaqaloqlar va yashash sharoiti yaxshi bo'lmagan bemorlarga alohida e'tibor berilishi ko'rsatilgan [1, 2].",
-   "Epidemiologik xavf guruhiga endemik mamlakatlarga borganlar kiradi: yo'riqnomada kasallanganlarning yarmi bunday mamlakatlarga borgan vaqtidan keyin bir yarim yil ichida kasallanishi, darslikda esa endemikligi yuqori zonalardan kelganlar va dekretirlangan guruhlar nazorat qilinishi aytilgan [1, 3]."
-  ]},
-  {"heading": "Kasallanish va tashuvchilik", "content": [
-   "Darslikda amyobiaz va tashuvchilik holatlari hamma joyda qayd etilishi, ammo tropik va subtropik zonalarda mo'tadil iqlimli mamlakatlarga qaraganda ancha ko'p uchrashi yozilgan. Atlasda ham kasallik hamma joyda, ko'proq tropik va subtropik mamlakatlarda uchrashi aytilgan [3, 5].",
-   "Yo'riqnomada E. dispar topilishi ichburug' amyobalari ko'p topilishini, ammo kasallanish past darajada ekanini tushuntirishi aytilgan. JSST hujjatida tashuvchilik tarqalishi va invaziv kasallikka o'tish ehtimoli bo'yicha ma'lumotlar yetarli emasligi ta'kidlangan [1, 7]."
-  ]},
-  {"heading": "Epidemiologik nazorat", "content": [
-   "Yo'riqnomada amyobiaz bilan og'riganlarning dispanser kuzatuvi 12 oydan kam bo'lmasligi, tibbiy ko'riklar va laboratoriya tekshiruvlari chorakda bir marta o'tkazilishi ko'rsatilgan. Tashuvchi umumiy ovqatlanish va suv ta'minoti xodimi bo'lsa, to'liq davolanguncha dispanser hisobida turadi [1].",
-   "Epidemiologik nazorat yo'riqnomasida kasallanishning ko'p yillik retrospektiv tahlili kamida so'nggi 5 yilni qamrab olishi, hududlar, yosh va kontingentlar bo'yicha baholanishi aytilgan. Bu yondashuv amyobiazning mahalliy epidemiologiyasini o'rganishda ham qo'llanishi mumkin [8]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "O'zbekistonda amyobiaz bilan kasallanish va tashuvchilik ko'rsatkichlari, viloyatlar bo'yicha taqsimot, mavsumiy cho'qqilar hamda E. histolytica va E. dispar nisbati ko'rilgan manbalarda keltirilmagan. Yo'riqnomada O'zbekiston nomi alohida ko'rsatilmagan [1, 4, 7].",
-   "Manbalar orasida farqlar bor: yo'riqnomada manba bemor yoki tashuvchi, darslikda asosan tashuvchi; sistalar soni 1 g da 6 mln, sutkasiga 300 mln va 610 deb turlicha berilgan. Tashuvchilarning 9-18 foiz ulushi O'rta Osiyo va Zakavkaz uchun umumiy, O'zbekistonga xos emas [1, 3, 6]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Amyobiaz antroponoz bo'lib, manba asosan sista ajratuvchi sog'lom tashuvchilar, mexanizm fekal-oral; kasallik tropik va subtropik mintaqalarda ko'p uchraydi, MDH da Kavkaz va O'rta Osiyoda qayd etilgan, mavsumiyligi yoz-kuz. O'zbekiston bo'yicha aniq ko'rsatkichlar manbalarda tasdiqlanmagan [1, 3, 7]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Amyobiaz epidemiologiyasi kasallikning manbasi, yuqish mexanizmi, tarqalishi, mavsumiyligi va xavf guruhlarini o'rganadi. Davolash bayonnomasida amyobiaz antroponozli protozoy kasallik deb ta'riflangan, ya'ni qo'zg'atuvchining xo'jayini odam hisoblanadi [1, 2].",
+    "Mavzuda invaziya manbai, yuqish mexanizmi, sistalarning tashqi muhitda saqlanishi, jahon va MDH bo'yicha tarqalish, mavsumiylik, yosh va xavf guruhlari hamda kasallanish xarakteri ko'rib chiqiladi. Yuqish yo'llari va omillari alohida mavzuda batafsil yoritilgani uchun bu yerda umumiy epidemiologik manzara beriladi [1, 3, 7]."
+   ]
+  },
+  {
+   "heading": "Antroponoz tabiati",
+   "content": [
+    "Davolash bayonnomasida amyobiaz antroponozli protozoy kasallik, ma'ruzada esa amyobali dizenteriya antroponoz deb belgilangan. Atlasda parazit faqat odamda yashashi ko'rsatilgan, shuning uchun epidemik jarayon odamdan odamga sistalar orqali davom etadi [2, 5, 6].",
+    "JSST amyobiazni klinik belgilari bor yoki yo'qligidan qat'i nazar, E. histolytica bilan infeksiya sifatida ta'riflaydi. Shu sababli epidemiologik jihatdan asemptomatik tashuvchilar ham infeksiyaning bir qismi hisoblanadi, E. dispar esa invaziv kasallik chaqirmaydi [7]."
+   ]
+  },
+  {
+   "heading": "Invaziya manbai",
+   "content": [
+    "Yo'riqnomada kasallik manbai amyobiaz bilan kasallangan odam yoki dizenteriya amyobasi tashuvchisi deb ko'rsatilgan. Atlasda asosiy manba sog'lom sista tashuvchi va tuzalish davridagi bemor ekani, ularda sistalar ko'p miqdorda ajralishi yozilgan [1, 5].",
+    "Darslikda manba sifatida yetilgan sistalarni ajratuvchi, odatda yorug'lik shaklining sog'lom tashuvchilari ko'rsatilgan; bemorlar katta vegetativ shaklni ajratgani va u tez halok bo'lgani uchun ahamiyati kam deb baholangan. Zararlanishning 90 foizi belgisiz tashuvchilik bilan kechishi ham aytilgan [3]."
+   ]
+  },
+  {
+   "heading": "Sistalar ajralishi",
+   "content": [
+    "Yo'riqnomada 1 g najasda 6 mln gacha sista bo'lishi mumkinligi, ma'ruzada esa kuchli zararlanganda sutkasiga 300 mln gacha sista ajralishi ko'rsatilgan. Darslik matnida 1 g da 610 gacha deb bosilgan, bu qiymat boshqa manbalar bilan mos kelmaydi va bosma xatosi bo'lishi mumkin [1, 3, 6].",
+    "Yo'g'on ichak mazmuni distal bo'limlarga siljigan sari vegetativ shakllar kichrayib, sistaga aylanadi. Darslikda bu jarayon ichak mazmuni pH va osmotik bosimining o'zgarishi, suvsizlanishi hamda chirish mahsulotlarining to'planishi bilan bog'liq deb tushuntirilgan [3]."
+   ]
+  },
+  {
+   "heading": "Yuqish mexanizmi",
+   "content": [
+    "Yo'riqnomada kasallik og'iz-najas yo'li bilan, amyoba sistalari bilan ifloslangan suv va oziq-ovqat orqali yuqishi aytilgan. Darslikda mexanizm fekal-oral, yo'llar esa suv, alimentar va kontakt-maishiy ekani yozilgan [1, 3].",
+    "Sistalarning chidamliligi sababli ifloslanish tuproq, suv va oziq-ovqatda uzoq saqlanadi. Darslikda kasallanish sporadik xarakterga ega bo'lsa-da, epidemik avj olishlar asosan suv yo'li bilan yuqqanda kuzatilishi yozilgan; yo'llar tafsiloti alohida mavzuda berilgan [3, 4]."
+   ]
+  },
+  {
+   "heading": "Sistalarning tashqi muhitda saqlanishi",
+   "content": [
+    "Darslikda sistalar 15-20 gradusda najasda ikki hafta, qishda minus 21 gradusda 100 kungacha saqlanishi, quritilganda va 55 gradusgacha qizdirilganda tez halok bo'lishi aytilgan. Boshqa darslikda sistalar tuproqda taxminan 30 sutka saqlanishi yozilgan [3, 4].",
+    "Sistalar suv tozalash inshootlaridagi xlor va ozon konsentratsiyalarida tirik qolishi mumkin, oshqozon kislotali muhitiga va dezinfeksiyalovchi moddalarga bardosh beradi. Bu epidemik jarayonning davomiyligini ta'minlovchi omillardan biri deb qaraladi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Jahon bo'yicha tarqalish",
+   "content": [
+    "Yo'riqnomada amyobiaz ko'p mamlakatlarda keng tarqalgani, aholi o'rtasida zararlanish o'rtacha 10 foiz ekani, tropik va subtropik mamlakatlarda (Afrika, Janubiy Osiyo, Markaziy va Janubiy Amerika) ayniqsa yuqori ekani, u yerda barcha ich ketar kasalliklarning 20 foizini amyobiaz tashkil etishi yozilgan [1].",
+    "JSST hujjatida E. histolytica yiliga 100 000 gacha o'limga sabab bo'lishi va protozoy parazitlar orasida bezgakdan keyin ikkinchi o'rinda turishi aytilgan. Shu hujjatda E. histolytica tarqalishi bo'yicha aniq ma'lumotlar mavjud emasligi ham ta'kidlangan [7]."
+   ]
+  },
+  {
+   "heading": "MDH va Markaziy Osiyo",
+   "content": [
+    "Yo'riqnomada MDH davlatlarida amyobiaz Kavkazda (Armaniston, Gruziya) va O'rta Osiyoda (Turkmaniston, Qirg'iziston) ko'proq uchrashi aytilgan. Darslikda O'rta Osiyo va Zakavkaz respublikalari amyobiaz bo'yicha noqulay, ularda tashuvchilar aholining 9-18 foizini tashkil etishi yozilgan [1, 3].",
+    "Boshqa darslikda amyobiaz tropik va subtropik hududlarda tarqalgani, Kavkazda va O'rta Osiyoda uchrashi ko'rsatilgan. Hech bir manbada O'zbekiston bo'yicha alohida raqam keltirilmagan, shu sababli mamlakat bo'yicha miqdoriy xulosa chiqarilmaydi [4]."
+   ]
+  },
+  {
+   "heading": "Mavsumiylik",
+   "content": [
+    "Yo'riqnomada amyobiaz mavsumiyligi yoz-kuz oylariga to'g'ri kelishi aytilgan. Epidemiologik nazorat yo'riqnomasiga ko'ra mavsumiylikni tahlil qilish yuqori xavf vaqtini aniqlab, profilaktika va epidemiyaga qarshi tadbirlarni o'z vaqtida kuchaytirishga xizmat qiladi [1, 8].",
+    "Darslikda kasallanish sporadik xarakterda ekani, epidemik avj olishlar esa asosan suv yo'li bilan yuqqanda kuzatilishi ko'rsatilgan. O'zbekistonga xos mavsumiy o'zgarishlar bo'yicha ma'lumot ko'rilgan manbalarda topilmadi [3]."
+   ]
+  },
+  {
+   "heading": "Yosh va xavf guruhlari",
+   "content": [
+    "Yo'riqnomada amyobiaz asosan o'rta yoshdagilarda uchrashi qayd etilgan. Davolash bayonnomasida chaqaloqlar va yashash sharoiti yaxshi bo'lmagan bemorlarga alohida e'tibor berilishi ko'rsatilgan [1, 2].",
+    "Epidemiologik xavf guruhiga endemik mamlakatlarga borganlar kiradi: yo'riqnomada kasallanganlarning yarmi bunday mamlakatlarga borgan vaqtidan keyin bir yarim yil ichida kasallanishi, darslikda esa endemikligi yuqori zonalardan kelganlar va dekretirlangan guruhlar nazorat qilinishi aytilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Kasallanish va tashuvchilik",
+   "content": [
+    "Darslikda amyobiaz va tashuvchilik holatlari hamma joyda qayd etilishi, ammo tropik va subtropik zonalarda mo'tadil iqlimli mamlakatlarga qaraganda ancha ko'p uchrashi yozilgan. Atlasda ham kasallik hamma joyda, ko'proq tropik va subtropik mamlakatlarda uchrashi aytilgan [3, 5].",
+    "Yo'riqnomada E. dispar topilishi ichburug' amyobalari ko'p topilishini, ammo kasallanish past darajada ekanini tushuntirishi aytilgan. JSST hujjatida tashuvchilik tarqalishi va invaziv kasallikka o'tish ehtimoli bo'yicha ma'lumotlar yetarli emasligi ta'kidlangan [1, 7]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik nazorat",
+   "content": [
+    "Yo'riqnomada amyobiaz bilan og'riganlarning dispanser kuzatuvi 12 oydan kam bo'lmasligi, tibbiy ko'riklar va laboratoriya tekshiruvlari chorakda bir marta o'tkazilishi ko'rsatilgan. Tashuvchi umumiy ovqatlanish va suv ta'minoti xodimi bo'lsa, to'liq davolanguncha dispanser hisobida turadi [1].",
+    "Epidemiologik nazorat yo'riqnomasida kasallanishning ko'p yillik retrospektiv tahlili kamida so'nggi 5 yilni qamrab olishi, hududlar, yosh va kontingentlar bo'yicha baholanishi aytilgan. Bu yondashuv amyobiazning mahalliy epidemiologiyasini o'rganishda ham qo'llanishi mumkin [8]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Amyobiaz antroponoz bo'lib, manba asosan sista ajratuvchi sog'lom tashuvchilar, mexanizm fekal-oral; kasallik tropik va subtropik mintaqalarda ko'p uchraydi, MDH da Kavkaz va O'rta Osiyoda qayd etilgan, mavsumiyligi yoz-kuz. O'zbekiston bo'yicha aniq ko'rsatkichlar manbalarda keltirilmagan [1, 3, 7]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",

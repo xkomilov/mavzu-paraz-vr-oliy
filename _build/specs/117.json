@@ -1,132 +1,125 @@
 {
-  "number": 117,
-  "title": "117. Gelmintlarni laborator tashxisining asosiy usullarini sanang.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Gelmintozlar laborator tashxisining asosini parazitni yoki uning bosqichlarini bevosita topish tashkil qiladi. Milliy yo'riqnomada makroskopik va mikroskopik parazitologik usullar gelmintlar, ularning bo'laklari, tuxumi va lichinkasini topishda to'g'ridan-to'g'ri qo'llanadigan usullar sifatida ta'riflangan [1].",
-        "Mavzuda usullar tasnifi, namuna olish, makroskopik tekshiruv, koproovoskopiyaning sifat va miqdoriy usullari, larvoskopiya, perianal usullar, boshqa materiallarni tekshirish va immunologik usullar ketma-ket ko'rib chiqiladi. Oxirida usul tanlash va tasdiqlanmagan jihatlar yoziladi [1, 2, 3]."
-      ]
-    },
-    {
-      "heading": "Usullar tasnifi",
-      "content": [
-        "Darslikda parazitar kasalliklar laborator tashxisida makroskopik, mikroskopik va immunologik usullar ishlatilishi aytilgan. Makroskopik usul bemor najasi yoki tana yuzasidagi parazitlarni, mikroskopik usul surtma, to'qima va ajralmalardagi parazitlarni topadi [2].",
-        "Immunologik usullardan protozoy va gelmintozlarda ko'proq serologik va allergik reaksiyalar qo'llanadi. Milliy yo'riqnomada esa parazitologik usullar bevosita topish usullari bo'lib, ularni aniqlash uchun boshqa qo'shimcha usul talab qilinmaydi deb ko'rsatilgan [1, 2]."
-      ]
-    },
-    {
-      "heading": "Namuna olish va saqlash",
-      "content": [
-        "Yo'riqnomaga ko'ra najas defekatsiyadan keyin turli joylaridan jami kamida 50 g miqdorda, toza quruq idishga olinadi va imkon qadar shu kuni tekshiriladi. Strongiloidoz uchun najas 1 soat ichida, ankilostomid va trixostrongilid uchun 4 soat ichida tekshirilishi kerak [1].",
-        "Darhol tekshirish mumkin bo'lmasa, najas 0-4 daraja haroratda bir sutkadan ko'p bo'lmagan muddat saqlanadi yoki konservantga solinadi. Barbagallo suyuqligi, 4 foizli formalin va boshqa konservantlar keltirilgan, shuningdek yetuk gijjalar va trixinella bor mushaklar uchun alohida moddalar ko'rsatilgan [1]."
-      ]
-    },
-    {
-      "heading": "Makroskopik usul",
-      "content": [
-        "Makroskopik tekshiruvda najas avval to'liq ko'zdan kechiriladi, so'ng suv bilan suyultirilib, kichik hajmlarda yorug'likda ko'riladi. Gijja yoki uning bo'laklari topilsa, pinset yoki igna bilan alohida olinib, lupa yoki stereoskopik MBS mikroskopida o'rganiladi [1].",
-        "Bu usul asosan sestodalar tashxisida muhim. Yo'riqnomada qoramol va cho'chqa tasmasimon gijjasini farqlashda u asosiy usul sifatida ko'rsatilgan, chunki mikroskopda onkosfera tuzilishi bir xil bo'lgani uchun tuxumlar bo'yicha ularni ajratib bo'lmaydi [1]."
-      ]
-    },
-    {
-      "heading": "Nativ surtma va Lyugol",
-      "content": [
-        "Yo'riqnomada oddiy tekshiruvlar uchun nativ surtma ham Lyugol eritmasi bilan ham tayyorlanishi ko'rsatilgan. Rejali profilaktik ko'riklarda bolalar va dekret guruhlarida perianal surtma bilan birga bitta koproskopik usul va Lyugol eritmali nativ usul qo'llanishi zarur deyilgan [1].",
-        "Bu talab amaliyotda mantiqli, chunki bitta usul hamma gijja turlarini bir xilda aniqlamaydi. Tuxum va lichinkalar ko'pincha Lyugolsiz tomchida, ichak sodda hayvonlari sistasi esa Lyugolli tomchida topiladi [1]."
-      ]
-    },
-    {
-      "heading": "Kato va Miura usuli",
-      "content": [
-        "Kato va Miura usulida najas gigroskopik sellofan ostida qalin surtma ko'rinishida tayyorlanadi; sellofan gliserin va fenol aralashmasi bilan to'yintiriladi. Yo'riqnomada usul oddiy nativ surtmaga qaraganda 20-30 marta ko'p tuxum ko'rsatishi, ammo invaziya intensivligi kam bo'lganda samarasi pasayishi yozilgan [1].",
-        "Usul aholini ommaviy tekshirishda, dekret guruhlari va uyushgan bolalar jamoalarida ishlatiladi, shuningdek yo'llanmada aniq tashxis yozilmagan bo'lsa ham qulay. Ankilostomid va pakana gijja tuxumlari bunday preparatlarda uzoq saqlanmaydi, ularni muzey preparati sifatida qoldirib bo'lmaydi [1]."
-      ]
-    },
-    {
-      "heading": "Sedimentatsiya usullari",
-      "content": [
-        "Formalin-efir usuli sedimentatsiya usuli bo'lib, najas formalin bilan aralashtirilib, filtrlanadi, efir qo'shilib, sentrifuga qilinadi va cho'kma mikroskopda ko'riladi. Yo'riqnomada u universal usul sifatida ta'riflangan va ichak hamda jigar gijjalari, protozoozlarni aniqlash uchun ishlatiladi [1].",
-        "Xuddi shunday sirka-efirli usulda 5 foizli sirka kislotasi eritmasi ishlatiladi, ikkala usul ham 3000 ayl/daqiqa sentrifuga talab qiladi. Formalin-efir usuli trematodozlar va opistorxoz uchun maxsus usul hisoblanadi, tashxisda miqdoriy usul o'rnini bosadi [1]."
-      ]
-    },
-    {
-      "heading": "Flotatsiya usullari",
-      "content": [
-        "Flotatsiya usuli flotatsiya suyuqligi bilan gijja tuxumlari solishtirma og'irligining farqiga asoslanadi: eritma og'irroq bo'lgani uchun tuxumlar yuzaga qalqib chiqadi va yuza qatlamda topiladi. Ishda sim sirtmoq, ustki shisha va areometr ishlatiladi [1].",
-        "Yo'riqnomada bir necha eritma keltirilgan: zichligi 1,3 bo'lgan ammoniy nitrat, 1,38-1,43 zichlikdagi natriy nitrat, 1,43 zichlikdagi natriy tiosulfat va 1,26-1,283 zichlikdagi natriy sulfat. Shuningdek Lerner-Gogol varianti keltirilib, unda tuxumlar rentgen plyonkasiga ko'chiriladi [1]."
-      ]
-    },
-    {
-      "heading": "Miqdoriy usul: Kato-Kats",
-      "content": [
-        "Miqdoriy koproovoskopiya 1 g najasdagi tuxum sonini aniqlab, invaziya intensivligi va qisman davolash samarasi haqida xulosa chiqarishga imkon beradi. Kato-Kats usulida markazida 6 mm teshigi bo'lgan plastinka ishlatiladi va tuxumlar soni 24 koeffitsiyentiga ko'paytiriladi [1].",
-        "JSST hujjatida Kato-Kats usuli STH tadqiqotlarida odatdagi usul sifatida tavsiflangan, 41,7 mg shablon uchun ko'paytirish koeffitsiyenti ham 24 deb ko'rsatilgan. Ikki manbada koeffitsiyentning bir xil bo'lishi usul bir xil tamoyilga asoslanganini ko'rsatadi [1, 4]."
-      ]
-    },
-    {
-      "heading": "Larvoskopiya: Berman usuli",
-      "content": [
-        "Strongiloidoz tashxisi najasdagi tuxum bilan emas, lichinka topilganda qo'yiladi, chunki parazit biologiyasi murakkab. Berman usuli lichinkalarning termotaksis va gidrotaksisiga asoslanadi: 20-50 g najas 40-50 darajagacha isitilgan suv bilan elakda ushlab turiladi [1].",
-        "Suyuqlik 2-4 soatdan keyin sentrifuga qilinadi, cho'kma mikroskopda ko'riladi. Yo'riqnomada usul strongiloid lichinkalarining rabditsimon turlarini aniqlashda ishlatilishi va strongiloidoz tashxisi uchun maxsus usul ekani qayd etilgan [1]."
-      ]
-    },
-    {
-      "heading": "Perianal usullar",
-      "content": [
-        "Perianal qirma usullari enterobioz, teniarinxoz va tenioz tashxisida qo'llanadi. Yo'riqnomada Grexem yopishqoq tasma, Torgushin bo'yicha gliserinli paxta tampon va Kevorkov bo'yicha suvli probirka orqali qirma olish usullari keltirilgan [1].",
-        "Qirma ertalab, yuvinishdan oldin olinadi, preparatlar esa obyektiv x8 yoki x10, okulyar x7 yoki x10 kattalashtirishda ko'riladi. Torgushin va Kevorkov usullarining kamchiligi ommaviy tekshiruvlarda noqulayligidir, Grexem usuli esa yakka va ommaviy tekshiruvda qo'llanadi [1]."
-      ]
-    },
-    {
-      "heading": "Boshqa materiallarni tekshirish",
-      "content": [
-        "Najasdan tashqari o't suyuqligi, balg'am, siydik va mushak to'qimasi ham tekshiriladi. O't suyuqligining A porsiyasida strongiloidoz va ankilostomid lichinkalari, B va C porsiyalarida jigar trematodozlari tuxumlari qidiriladi; balg'am o'pka trematodozlari uchun, siydik esa shistosomozga ishlatiladi [1].",
-        "Trixinellyoz uchun trixinelloskopiya qo'llanadi: yurakdan boshqa ko'ndalang-targ'il mushak to'qimasi kompressorda ko'riladi. Har bir namunadan 24 kesma tayyorlanadi va hech bo'lmasa bitta lichinka topilsa, barcha namunalar yo'q qilinadi [1]."
-      ]
-    },
-    {
-      "heading": "Immunologik usullar",
-      "content": [
-        "Serologik usullar tuxum yoki lichinka najasga ajralmaydigan hollarda, ya'ni erta davr va yengil invaziyada foydali. Darslikda RNGA, RSK, RNIF, IFA va allergik terini sinashlar nomlangan, ammo yo'riqnomada serologik usul asosan differensial tashxis, davolash samarasi va qaytalanishni baholash uchun ishlatilishi aytilgan [1, 3].",
-        "Immunologik usullar alohida mavzuda batafsil ko'riladi. Bu yerda faqat shuni ta'kidlash kerak: serologik natija har doim klinik va parazitologik ma'lumotlar bilan birga baholanadi, chunki JSST ma'lumotiga ko'ra antitelalarni topish joriy, yaqin va o'tgan invaziyani ajratmaydi [1, 6]."
-      ]
-    },
-    {
-      "heading": "Usul tanlash va sifat",
-      "content": [
-        "Yo'llanmada boshlang'ich tashxis yozilishi lozim, chunki laborant gijjani topish yoki rad etish uchun qaysi usul kerakligini bilishi kerak. Tashxis aniq bo'lmasa, najas konservantda kompleks usulda yoki formalin-efir sedimentatsiyasi universal usuli bilan tekshiriladi [1].",
-        "Sifat yana mikroskopiya texnikasiga bog'liq: preparat butun maydon bo'ylab ko'riladi, chunki aralash invaziya bo'lishi mumkin. Tuxum o'lchamini aniqlash uchun mikrometriya ishlatiladi, bunda har bir mikroskop va kattalashtirish uchun okulyar bo'linmasi qiymati alohida aniqlanadi [1]."
-      ]
-    },
-    {
-      "heading": "Parazitolog va laborant uchun ahamiyati",
-      "content": [
-        "Mutaxassis bitta usulga tayanib qolmasligi, natijani epidemiologik va klinik ma'lumotlar bilan solishtirishi kerak. Milliy yo'riqnomada ham tekshiriluvchining endemik hududda bo'lgani, uy hayvonlari bilan aloqasi va xavfli oziq-ovqat iste'moli e'tiborga olinishi aytilgan [1].",
-        "Davolashdan keyin ichak gelmintozlarida najas bir oydan keyin, biogelmintozlarda 3-4-5 oydan keyin qayta tekshiriladi. Shu sababli usul tanlash faqat dastlabki tashxisga emas, kuzatuv rejasiga ham ta'sir qiladi [1, 5]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda ayrim usullarning O'zbekiston laboratoriyalaridagi haqiqiy qo'llanish darajasi, jihozlar bilan ta'minlanganligi va sezgirlik ko'rsatkichlari berilmagan. Shu sababli usullarning o'zaro afzalligi haqida miqdoriy xulosa chiqarilmadi [1, 4].",
-        "Kato-Kats usulida shablon hajmi manbalarda har xil: yo'riqnomada 6 mm teshikli plastinka, JSST hujjatida esa 50 mg, 41,7 mg va 20 mg hajmli shablonlar keltirilgan. Koeffitsiyent ham shablonga qarab o'zgaradi, shuning uchun ishlatilgan shablonni aniq yozib qo'yish kerak [1, 4]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Gelmintlarning laborator tashxisi makroskopik, mikroskopik va immunologik usullarni o'z ichiga oladi. Eng ko'p ishlatiladigani koproovoskopiya: nativ surtma, Kato-Miura, sedimentatsiya, flotatsiya va Kato-Kats, shuningdek Berman va perianal usullar hamda boshqa materiallarni tekshirish qo'shiladi [1, 2, 4]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "World Health Organization. Assessing the epidemiology of soil-transmitted helminths during a transmission assessment survey in the global programme for the elimination of lymphatic filariasis. 2015. https://iris.who.int/server/api/core/bitstreams/b3ce60a0-21c4-4345-87f8-583f4f5a98dd/content",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections"
-  ]
+ "number": 117,
+ "title": "117. Gelmintlarni laborator tashxisining asosiy usullarini sanang.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Gelmintozlar laborator tashxisining asosini parazitni yoki uning bosqichlarini bevosita topish tashkil qiladi. Milliy yo'riqnomada makroskopik va mikroskopik parazitologik usullar gelmintlar, ularning bo'laklari, tuxumi va lichinkasini topishda to'g'ridan-to'g'ri qo'llanadigan usullar sifatida ta'riflangan [1].",
+    "Mavzuda usullar tasnifi, namuna olish, makroskopik tekshiruv, koproovoskopiyaning sifat va miqdoriy usullari, larvoskopiya, perianal usullar, boshqa materiallarni tekshirish va immunologik usullar ketma-ket ko'rib chiqiladi. Oxirida usul tanlash masalasi yoritiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Usullar tasnifi",
+   "content": [
+    "Darslikda parazitar kasalliklar laborator tashxisida makroskopik, mikroskopik va immunologik usullar ishlatilishi aytilgan. Makroskopik usul bemor najasi yoki tana yuzasidagi parazitlarni, mikroskopik usul surtma, to'qima va ajralmalardagi parazitlarni topadi [2].",
+    "Immunologik usullardan protozoy va gelmintozlarda ko'proq serologik va allergik reaksiyalar qo'llanadi. Milliy yo'riqnomada esa parazitologik usullar bevosita topish usullari bo'lib, ularni aniqlash uchun boshqa qo'shimcha usul talab qilinmaydi deb ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Namuna olish va saqlash",
+   "content": [
+    "Yo'riqnomaga ko'ra najas defekatsiyadan keyin turli joylaridan jami kamida 50 g miqdorda, toza quruq idishga olinadi va imkon qadar shu kuni tekshiriladi. Strongiloidoz uchun najas 1 soat ichida, ankilostomid va trixostrongilid uchun 4 soat ichida tekshirilishi kerak [1].",
+    "Darhol tekshirish mumkin bo'lmasa, najas 0-4 daraja haroratda bir sutkadan ko'p bo'lmagan muddat saqlanadi yoki konservantga solinadi. Barbagallo suyuqligi, 4 foizli formalin va boshqa konservantlar keltirilgan, shuningdek yetuk gijjalar va trixinella bor mushaklar uchun alohida moddalar ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Makroskopik usul",
+   "content": [
+    "Makroskopik tekshiruvda najas avval to'liq ko'zdan kechiriladi, so'ng suv bilan suyultirilib, kichik hajmlarda yorug'likda ko'riladi. Gijja yoki uning bo'laklari topilsa, pinset yoki igna bilan alohida olinib, lupa yoki stereoskopik MBS mikroskopida o'rganiladi [1].",
+    "Bu usul asosan sestodalar tashxisida muhim. Yo'riqnomada qoramol va cho'chqa tasmasimon gijjasini farqlashda u asosiy usul sifatida ko'rsatilgan, chunki mikroskopda onkosfera tuzilishi bir xil bo'lgani uchun tuxumlar bo'yicha ularni ajratib bo'lmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Nativ surtma va Lyugol",
+   "content": [
+    "Yo'riqnomada oddiy tekshiruvlar uchun nativ surtma ham Lyugol eritmasi bilan ham tayyorlanishi ko'rsatilgan. Rejali profilaktik ko'riklarda bolalar va dekret guruhlarida perianal surtma bilan birga bitta koproskopik usul va Lyugol eritmali nativ usul qo'llanishi zarur deyilgan [1].",
+    "Bu talab amaliyotda mantiqli, chunki bitta usul hamma gijja turlarini bir xilda aniqlamaydi. Tuxum va lichinkalar ko'pincha Lyugolsiz tomchida, ichak sodda hayvonlari sistasi esa Lyugolli tomchida topiladi [1]."
+   ]
+  },
+  {
+   "heading": "Kato va Miura usuli",
+   "content": [
+    "Kato va Miura usulida najas gigroskopik sellofan ostida qalin surtma ko'rinishida tayyorlanadi; sellofan gliserin va fenol aralashmasi bilan to'yintiriladi. Yo'riqnomada usul oddiy nativ surtmaga qaraganda 20-30 marta ko'p tuxum ko'rsatishi, ammo invaziya intensivligi kam bo'lganda samarasi pasayishi yozilgan [1].",
+    "Usul aholini ommaviy tekshirishda, dekret guruhlari va uyushgan bolalar jamoalarida ishlatiladi, shuningdek yo'llanmada aniq tashxis yozilmagan bo'lsa ham qulay. Ankilostomid va pakana gijja tuxumlari bunday preparatlarda uzoq saqlanmaydi, ularni muzey preparati sifatida qoldirib bo'lmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Sedimentatsiya usullari",
+   "content": [
+    "Formalin-efir usuli sedimentatsiya usuli bo'lib, najas formalin bilan aralashtirilib, filtrlanadi, efir qo'shilib, sentrifuga qilinadi va cho'kma mikroskopda ko'riladi. Yo'riqnomada u universal usul sifatida ta'riflangan va ichak hamda jigar gijjalari, protozoozlarni aniqlash uchun ishlatiladi [1].",
+    "Xuddi shunday sirka-efirli usulda 5 foizli sirka kislotasi eritmasi ishlatiladi, ikkala usul ham 3000 ayl/daqiqa sentrifuga talab qiladi. Formalin-efir usuli trematodozlar va opistorxoz uchun maxsus usul hisoblanadi, tashxisda miqdoriy usul o'rnini bosadi [1]."
+   ]
+  },
+  {
+   "heading": "Flotatsiya usullari",
+   "content": [
+    "Flotatsiya usuli flotatsiya suyuqligi bilan gijja tuxumlari solishtirma og'irligining farqiga asoslanadi: eritma og'irroq bo'lgani uchun tuxumlar yuzaga qalqib chiqadi va yuza qatlamda topiladi. Ishda sim sirtmoq, ustki shisha va areometr ishlatiladi [1].",
+    "Yo'riqnomada bir necha eritma keltirilgan: zichligi 1,3 bo'lgan ammoniy nitrat, 1,38-1,43 zichlikdagi natriy nitrat, 1,43 zichlikdagi natriy tiosulfat va 1,26-1,283 zichlikdagi natriy sulfat. Shuningdek Lerner-Gogol varianti keltirilib, unda tuxumlar rentgen plyonkasiga ko'chiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Miqdoriy usul: Kato-Kats",
+   "content": [
+    "Miqdoriy koproovoskopiya 1 g najasdagi tuxum sonini aniqlab, invaziya intensivligi va qisman davolash samarasi haqida xulosa chiqarishga imkon beradi. Kato-Kats usulida markazida 6 mm teshigi bo'lgan plastinka ishlatiladi va tuxumlar soni 24 koeffitsiyentiga ko'paytiriladi [1].",
+    "JSST hujjatida Kato-Kats usuli STH tadqiqotlarida odatdagi usul sifatida tavsiflangan, 41,7 mg shablon uchun ko'paytirish koeffitsiyenti ham 24 deb ko'rsatilgan. Ikki manbada koeffitsiyentning bir xil bo'lishi usul bir xil tamoyilga asoslanganini ko'rsatadi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Larvoskopiya: Berman usuli",
+   "content": [
+    "Strongiloidoz tashxisi najasdagi tuxum bilan emas, lichinka topilganda qo'yiladi, chunki parazit biologiyasi murakkab. Berman usuli lichinkalarning termotaksis va gidrotaksisiga asoslanadi: 20-50 g najas 40-50 darajagacha isitilgan suv bilan elakda ushlab turiladi [1].",
+    "Suyuqlik 2-4 soatdan keyin sentrifuga qilinadi, cho'kma mikroskopda ko'riladi. Yo'riqnomada usul strongiloid lichinkalarining rabditsimon turlarini aniqlashda ishlatilishi va strongiloidoz tashxisi uchun maxsus usul ekani qayd etilgan [1]."
+   ]
+  },
+  {
+   "heading": "Perianal usullar",
+   "content": [
+    "Perianal qirma usullari enterobioz, teniarinxoz va tenioz tashxisida qo'llanadi. Yo'riqnomada Grexem yopishqoq tasma, Torgushin bo'yicha gliserinli paxta tampon va Kevorkov bo'yicha suvli probirka orqali qirma olish usullari keltirilgan [1].",
+    "Qirma ertalab, yuvinishdan oldin olinadi, preparatlar esa obyektiv x8 yoki x10, okulyar x7 yoki x10 kattalashtirishda ko'riladi. Torgushin va Kevorkov usullarining kamchiligi ommaviy tekshiruvlarda noqulayligidir, Grexem usuli esa yakka va ommaviy tekshiruvda qo'llanadi [1]."
+   ]
+  },
+  {
+   "heading": "Boshqa materiallarni tekshirish",
+   "content": [
+    "Najasdan tashqari o't suyuqligi, balg'am, siydik va mushak to'qimasi ham tekshiriladi. O't suyuqligining A porsiyasida strongiloidoz va ankilostomid lichinkalari, B va C porsiyalarida jigar trematodozlari tuxumlari qidiriladi; balg'am o'pka trematodozlari uchun, siydik esa shistosomozga ishlatiladi [1].",
+    "Trixinellyoz uchun trixinelloskopiya qo'llanadi: yurakdan boshqa ko'ndalang-targ'il mushak to'qimasi kompressorda ko'riladi. Har bir namunadan 24 kesma tayyorlanadi va hech bo'lmasa bitta lichinka topilsa, barcha namunalar yo'q qilinadi [1]."
+   ]
+  },
+  {
+   "heading": "Immunologik usullar",
+   "content": [
+    "Serologik usullar tuxum yoki lichinka najasga ajralmaydigan hollarda, ya'ni erta davr va yengil invaziyada foydali. Darslikda RNGA, RSK, RNIF, IFA va allergik terini sinashlar nomlangan, ammo yo'riqnomada serologik usul asosan differensial tashxis, davolash samarasi va qaytalanishni baholash uchun ishlatilishi aytilgan [1, 3].",
+    "Immunologik usullar alohida mavzuda batafsil ko'riladi. Bu yerda faqat shuni ta'kidlash kerak: serologik natija har doim klinik va parazitologik ma'lumotlar bilan birga baholanadi, chunki JSST ma'lumotiga ko'ra antitelalarni topish joriy, yaqin va o'tgan invaziyani ajratmaydi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Usul tanlash va sifat",
+   "content": [
+    "Yo'llanmada boshlang'ich tashxis yozilishi lozim, chunki laborant gijjani topish yoki rad etish uchun qaysi usul kerakligini bilishi kerak. Tashxis aniq bo'lmasa, najas konservantda kompleks usulda yoki formalin-efir sedimentatsiyasi universal usuli bilan tekshiriladi [1].",
+    "Sifat yana mikroskopiya texnikasiga bog'liq: preparat butun maydon bo'ylab ko'riladi, chunki aralash invaziya bo'lishi mumkin. Tuxum o'lchamini aniqlash uchun mikrometriya ishlatiladi, bunda har bir mikroskop va kattalashtirish uchun okulyar bo'linmasi qiymati alohida aniqlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Usul tanlashning amaliy ahamiyati",
+   "content": [
+    "Mutaxassis bitta usulga tayanib qolmasligi, natijani epidemiologik va klinik ma'lumotlar bilan solishtirishi kerak. Milliy yo'riqnomada ham tekshiriluvchining endemik hududda bo'lgani, uy hayvonlari bilan aloqasi va xavfli oziq-ovqat iste'moli e'tiborga olinishi aytilgan [1].",
+    "Davolashdan keyin ichak gelmintozlarida najas bir oydan keyin, biogelmintozlarda 3-4-5 oydan keyin qayta tekshiriladi. Shu sababli usul tanlash faqat dastlabki tashxisga emas, kuzatuv rejasiga ham ta'sir qiladi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Gelmintlarning laborator tashxisi makroskopik, mikroskopik va immunologik usullarni o'z ichiga oladi. Eng ko'p ishlatiladigani koproovoskopiya: nativ surtma, Kato-Miura, sedimentatsiya, flotatsiya va Kato-Kats, shuningdek Berman va perianal usullar hamda boshqa materiallarni tekshirish qo'shiladi [1, 2, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "World Health Organization. Assessing the epidemiology of soil-transmitted helminths during a transmission assessment survey in the global programme for the elimination of lymphatic filariasis. 2015. https://iris.who.int/server/api/core/bitstreams/b3ce60a0-21c4-4345-87f8-583f4f5a98dd/content",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections"
+ ]
 }

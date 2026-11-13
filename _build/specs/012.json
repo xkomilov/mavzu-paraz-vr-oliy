@@ -1,66 +1,101 @@
 {
-  "number": 12,
-  "title": "12. O'zbekistonda bezgakni tashuvchilarini nechta turlari uchraydi, sanab o'ting.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Bezgakni faqat Anopheles turkumiga mansub urg'ochi chivinlar tashiydi, ammo bu turkumning har bir turi ham bir xil epidemiologik ahamiyatga ega emas. Shuning uchun hududda uchraydigan barcha turlarni aniq bilish entomologik nazorat va kurash choralarini to'g'ri rejalashtirishning asosiy sharti hisoblanadi [1, 2].",
-      "Ushbu savolda O'zbekiston faunasidagi Anopheles turlarining umumiy soni va ro'yxati so'raladi. Mavzuda turlar sistematikasi, manbalardagi raqamlar farqi, har bir turning qisqacha tavsifi va tarqalishi keltiriladi. Yuqishda asosiy ahamiyatga ega turlar alohida savolning predmeti bo'lgani uchun faqat qisqa eslatiladi [1, 2]."
-    ]},
-    {"heading": "Chivinlarning sistematik o'rni", "content": [
-      "Bezgak chivinlari hayvonlar olamining bo'g'imoyoqlilar tipi, hasharotlar sinfi, ikki qanotlilar turkumi, Culicidae oilasiga kiradi. Oila uch kenja oilaga bo'linadi: Anophelinae, Toxorhynchitinae va Culicinae. Anopheles urug'i Anophelinae kenja oilasining MDH hududidagi yagona bezgak chivinlari urug'idir [1].",
-      "Anopheles urug'i ikkita kenja urug'ga ajratiladi: Anopheles va Cellia. Bu bo'linish tur nomini yozishda ham aks etadi, masalan An. (An.) claviger va An. (C.) superpictus. Cellia kenja urug'iga mansub chivinlar qanotining old qismida to'rtta oq dog' bo'lishi bilan boshqalardan farqlanadi [1]."
-    ]},
-    {"heading": "Dunyo va MDH faunasi", "content": [
-      "Jahongirov qo'llanmasiga ko'ra dunyoda Anopheles urug'iga kiruvchi chivinlarning 500 ga yaqin turi bor, ulardan faqat 70 tasi bezgak tashuvchisi hisoblanadi. MDH hududida bezgak chivinlarining 22 turi aniqlangan. Taqdimotda keltirilgan MDH ro'yxati ham 22 nomdan iborat [1, 2].",
-      "Bezgak bo'yicha uslubiy qo'llanmada esa Anopheles turlarining umumiy soni 400 dan ortiq deb yozilgan, ulardan taxminan 70 tasi epidemiologik ahamiyatga ega. Demak, dunyo bo'yicha umumiy son manbalarda farq qiladi, ammo tashuvchi turlar soni ikkala manbada ham 70 atrofida ko'rsatilgan [1, 3]."
-    ]},
-    {"heading": "O'zbekistonda uchraydigan turlar soni", "content": [
-      "Jahongirov qo'llanmasida O'zbekistonda bezgak chivinlarining 7 turi topilgani yozilgan va ro'yxat ham aynan 7 turdan iborat. Bular An. algeriensis, An. artemievi, An. claviger, An. hyrcanus, An. martinius, An. pulcherrimus va An. superpictus turlaridir [1].",
-      "Boshqa manbada, ya'ni Anopheles bo'yicha taqdimotda O'zbekiston faunasi 8 turdan iborat deb ko'rsatilgan. U yetti turga qo'shimcha ravishda An. maculipennis ni ham kiritadi. Shunday qilib, javobda 7 turli (qo'llanma) va 8 turli (taqdimot) ro'yxat borligini ikkalasini ham ko'rsatish to'g'ri bo'ladi [1, 2]."
-    ]},
-    {"heading": "Anopheles kenja urug'i vakillari", "content": [
-      "Anopheles kenja urug'iga An. algeriensis, An. artemievi, An. claviger, An. hyrcanus va An. martinius kiradi. Taqdimotda ular qatoriga An. maculipennis ham qo'shiladi. An. algeriensis va An. claviger qanotlarida dog'lar bo'lmaydi, An. hyrcanus da esa qanot chetida ikkita oq dog' ko'rinadi [1, 2].",
-      "An. artemievi va An. martinius qanotlarida tangachalar yig'indisidan hosil bo'lgan qora dog'lar bor. Bu ikki tur maculipennis kompleksining vakillari bo'lib, qo'llanmada O'zbekistonda bezgak tashuvchilari orasida ahamiyatli kompleks vakillari sifatida qayd etilgan. Ularni tashqi belgilar bo'yicha ajratish qiyin [1]."
-    ]},
-    {"heading": "Cellia kenja urug'i vakillari", "content": [
-      "Cellia kenja urug'idan O'zbekistonda ikki tur uchraydi: An. pulcherrimus va An. superpictus. Ularning umumiy belgisi qanotning old qismida to'rtta oq dog' bo'lishidir. An. pulcherrimus tana va qanotlaridagi oq tuklari bilan An. superpictus dan farqlanadi [1].",
-      "An. pulcherrimus asosan quyi tekisliklarda, dengiz sathidan 500-1000 m balandlikkacha tarqalgan. An. superpictus esa tog' oldi va tog'li hududlarda ko'p uchraydi va qo'llanmada 2800 m balandlikkacha tarqalgani aniqlangani aytilgan. Taqdimotda esa uning bezgakni 2000 m gacha tashiy olishi ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Maculipennis kompleksi va An. artemievi", "content": [
-      "Maculipennis kompleksi 1970-yillargacha politipik tur hisoblangan, hozir esa unga kiruvchi sakkiz tur ajratilgan. Ular orasida Markaziy Osiyo va Qozog'istonda uchraydigan turlar ham bor. Bu o'zgarish sitogenetik va molekulyar usullar qo'llanganidan keyin yuz berdi [1].",
-      "An. artemievi yangi tur sifatida 2004 yilda to'liq morfologik tavsif olgan, nomi esa Gordeev va hammualliflari, 2005 bilan yoziladi. Qo'llanma bu turning O'zbekistonda Qoraqalpog'iston, Surxondaryo, Buxoro, Navoiy va Xorazm viloyatlaridan boshqa barcha viloyatlarda keng tarqalganini yozadi [1]."
-    ]},
-    {"heading": "Turlarning tarqalishi bo'yicha farqlar", "content": [
-      "Taqdimotda maculipennis va artemievi O'zbekistonda Surxondaryo, Qoraqalpog'iston va Xorazm viloyatlaridan boshqa hamma joyda uchraydi deyilgan. Qo'llanma esa artemievi uchun chiqarib tashlangan hududlar qatoriga Buxoro va Navoiy viloyatlarini ham kiritadi. Bu farq tur chegaralari tushunchasi va yangi tadqiqotlar bilan izohlanishi mumkin [1, 2].",
-      "An. martinius qo'llanmada Qoraqalpog'iston Respublikasi va Xorazm viloyatida uchraydi deb ko'rsatilgan. Taqdimotda esa uning O'zbekistonning markaziy va sharqiy qismlarida tarqalishi hali aniqlanishi kerakligi qayd etilgan. An. algeriensis juda kam uchraydi va Surxondaryo viloyatida bahor va kuzda ko'proq topiladi [1, 2]."
-    ]},
-    {"heading": "An. claviger va An. hyrcanus", "content": [
-      "An. claviger O'zbekistonda, Turkmanistonda va Qozog'istonning janubida uchraydi. Uning lichinkalari buloqlar va salqin suv havzalarida rivojlanadi. Imagosi ekzofil bo'lib, ko'payadigan joyidan uzoqqa uchmaydi. Taqdimotda u O'zbekistonning tog'li va tog' oldi tumanlarida uchrashi aytilgan [1, 2].",
-      "An. hyrcanus O'zbekiston, Qirg'iziston, Tojikiston va Qozog'istonda keng tarqalgan. Lichinkalari botqoqlik, qamishzor, sug'orish kanallari va sholipoyalarda rivojlanadi. Imago ekzofil bo'lib, odamga uy ichida ham hujum qiladi, lekin so'rgan qonni tashqarida hazm qiladi [1]."
-    ]},
-    {"heading": "Turlarning umumiy ekologik tavsifi", "content": [
-      "O'zbekistondagi turlar ekologiyasi bo'yicha farqlanadi: An. superpictus va An. pulcherrimus issiqqa chidamli, An. claviger esa namsevar tur. Qo'llanmada bu turlarning lichinkalari uchun qulay harorat ham alohida berilgan, masalan An. claviger uchun +14-16 daraja, An. superpictus uchun +30-35 daraja [1].",
-      "Barcha turlar uchun umumiy xususiyat shundaki, ular polifag bo'lib, faqat bir hayvon yoki odam qoni bilan oziqlanmaydi. Ular ma'lum darajada antropofil yoki zoofildir. Shu sababli ayni tur bir sharoitda bezgakning asosiy, boshqa sharoitda ikkinchi darajali tashuvchisi bo'lishi mumkin [1]."
-    ]},
-    {"heading": "Yuqishdagi ahamiyatiga qisqacha izoh", "content": [
-      "Taqdimotga ko'ra, 8 turdan uchtasi asosiy (maculipennis, pulcherrimus, superpictus), uchtasi ikkinchi darajali yoki epizodik (claviger, hyrcanus, martinius), bittasining roli noaniq (algeriensis). Bu tasnif alohida savol mavzusi bo'lgani uchun bu yerda faqat umumiy turlar ro'yxatiga bog'langan [2].",
-      "Qo'llanma esa hozirgi vaqtda An. superpictus, An. artemievi va An. pulcherrimus ni O'zbekistonda bezgakni tarqatishda eng xavfli turlar deb hisoblaydi. Demak, turlar ro'yxati soni ikki manbada farq qilgani kabi, asosiy tashuvchilar tarkibi bo'yicha ham ikki manbada nomlar mos kelmaydi [1, 2]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Hududdagi aniq tur tarkibini bilish chivinga qarshi tadbirlarni tanlashga bevosita ta'sir qiladi. Masalan, endofil turlarga qarshi xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov beriladi, ekzofil turlarga qarshi esa insektitsid shimdirilgan to'rlar qo'llanadi. Shuning uchun turni aniqlash entomologik nazoratning asosiy vazifasi hisoblanadi [2].",
-      "Morfologik belgilar o'xshash turlarni ajratishga yetmasa, kariosistematik va molekulyar-genetik usullar qo'llanadi. Shu sababli tur nomini yozishda manba va yilni ko'rsatish, ro'yxatni yangi tadqiqotlar bilan solishtirish va farqlarni hisobotda ochiq yozish tavsiya etiladi [1, 2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "O'zbekiston bo'yicha so'nggi yillarda molekulyar usullar bilan tasdiqlangan rasmiy tur ro'yxati kutubxona materiallarida topilmadi. Shuning uchun 7 va 8 turdan qaysi biri hozirgi rasmiy hisoblanishini mustaqil ravishda belgilash mumkin emas, ikkala raqam ham manba bilan keltirildi [1, 2].",
-      "An. martinius ning markaziy va sharqiy O'zbekistonda tarqalishi, An. algeriensis ning bezgak yuqtirishdagi roli taqdimotda hali aniqlanmagan deb yozilgan. Bu jihatlar tasdiqlanmagan ma'lumot hisoblanadi va ular bo'yicha qat'iy xulosa chiqarilmaydi [2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "O'zbekistonda Jahongirov qo'llanmasiga ko'ra bezgak chivinlarining 7 turi uchraydi: An. algeriensis, artemievi, claviger, hyrcanus, martinius, pulcherrimus va superpictus. Anopheles bo'yicha taqdimot ro'yxatiga An. maculipennis ham kiritilgan va jami 8 tur ko'rsatilgan. Raqamlar farqi manbalar farqidan kelib chiqadi [1, 2]."
-    ]}
-  ],
-  "references": [
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Жаҳонгиров Ш.М. Prezentatsiya. Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi (taqdimot). L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1575.",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547."
-  ]
+ "number": 12,
+ "title": "12. O'zbekistonda bezgakni tashuvchilarini nechta turlari uchraydi, sanab o'ting.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Bezgakni faqat Anopheles turkumiga mansub urg'ochi chivinlar tashiydi, ammo bu turkumning har bir turi ham bir xil epidemiologik ahamiyatga ega emas. Shuning uchun hududda uchraydigan barcha turlarni aniq bilish entomologik nazorat va kurash choralarini to'g'ri rejalashtirishning asosiy sharti hisoblanadi [1, 2].",
+    "Ushbu mavzuda O'zbekiston faunasidagi Anopheles turlarining umumiy soni va ro'yxati, turlar sistematikasi, manbalardagi raqamlar farqi, har bir turning qisqacha tavsifi va tarqalishi keltiriladi. Yuqishda asosiy ahamiyatga ega turlar alohida mavzuning predmeti bo'lgani uchun faqat qisqa eslatiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Chivinlarning sistematik o'rni",
+   "content": [
+    "Bezgak chivinlari hayvonlar olamining bo'g'imoyoqlilar tipi, hasharotlar sinfi, ikki qanotlilar turkumi, Culicidae oilasiga kiradi. Oila uch kenja oilaga bo'linadi: Anophelinae, Toxorhynchitinae va Culicinae. Anopheles urug'i Anophelinae kenja oilasining MDH hududidagi yagona bezgak chivinlari urug'idir [1].",
+    "Anopheles urug'i ikkita kenja urug'ga ajratiladi: Anopheles va Cellia. Bu bo'linish tur nomini yozishda ham aks etadi, masalan An. (An.) claviger va An. (C.) superpictus. Cellia kenja urug'iga mansub chivinlar qanotining old qismida to'rtta oq dog' bo'lishi bilan boshqalardan farqlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Dunyo va MDH faunasi",
+   "content": [
+    "Jahongirov qo'llanmasiga ko'ra dunyoda Anopheles urug'iga kiruvchi chivinlarning 500 ga yaqin turi bor, ulardan faqat 70 tasi bezgak tashuvchisi hisoblanadi. MDH hududida bezgak chivinlarining 22 turi aniqlangan. Taqdimotda keltirilgan MDH ro'yxati ham 22 nomdan iborat [1, 2].",
+    "Bezgak bo'yicha uslubiy qo'llanmada esa Anopheles turlarining umumiy soni 400 dan ortiq deb yozilgan, ulardan taxminan 70 tasi epidemiologik ahamiyatga ega. Demak, dunyo bo'yicha umumiy son manbalarda farq qiladi, ammo tashuvchi turlar soni ikkala manbada ham 70 atrofida ko'rsatilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "O'zbekistonda uchraydigan turlar soni",
+   "content": [
+    "Jahongirov qo'llanmasida O'zbekistonda bezgak chivinlarining 7 turi topilgani yozilgan va ro'yxat ham aynan 7 turdan iborat. Bular An. algeriensis, An. artemievi, An. claviger, An. hyrcanus, An. martinius, An. pulcherrimus va An. superpictus turlaridir [1].",
+    "Boshqa manbada, ya'ni Anopheles bo'yicha taqdimotda O'zbekiston faunasi 8 turdan iborat deb ko'rsatilgan. U yetti turga qo'shimcha ravishda An. maculipennis ni ham kiritadi. Shunday qilib, javobda 7 turli (qo'llanma) va 8 turli (taqdimot) ro'yxat borligini ikkalasini ham ko'rsatish to'g'ri bo'ladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Anopheles kenja urug'i vakillari",
+   "content": [
+    "Anopheles kenja urug'iga An. algeriensis, An. artemievi, An. claviger, An. hyrcanus va An. martinius kiradi. Taqdimotda ular qatoriga An. maculipennis ham qo'shiladi. An. algeriensis va An. claviger qanotlarida dog'lar bo'lmaydi, An. hyrcanus da esa qanot chetida ikkita oq dog' ko'rinadi [1, 2].",
+    "An. artemievi va An. martinius qanotlarida tangachalar yig'indisidan hosil bo'lgan qora dog'lar bor. Bu ikki tur maculipennis kompleksining vakillari bo'lib, qo'llanmada O'zbekistonda bezgak tashuvchilari orasida ahamiyatli kompleks vakillari sifatida qayd etilgan. Ularni tashqi belgilar bo'yicha ajratish qiyin [1]."
+   ]
+  },
+  {
+   "heading": "Cellia kenja urug'i vakillari",
+   "content": [
+    "Cellia kenja urug'idan O'zbekistonda ikki tur uchraydi: An. pulcherrimus va An. superpictus. Ularning umumiy belgisi qanotning old qismida to'rtta oq dog' bo'lishidir. An. pulcherrimus tana va qanotlaridagi oq tuklari bilan An. superpictus dan farqlanadi [1].",
+    "An. pulcherrimus asosan quyi tekisliklarda, dengiz sathidan 500-1000 m balandlikkacha tarqalgan. An. superpictus esa tog' oldi va tog'li hududlarda ko'p uchraydi va qo'llanmada 2800 m balandlikkacha tarqalgani aniqlangani aytilgan. Taqdimotda esa uning bezgakni 2000 m gacha tashiy olishi ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Maculipennis kompleksi va An. artemievi",
+   "content": [
+    "Maculipennis kompleksi 1970-yillargacha politipik tur hisoblangan, hozir esa unga kiruvchi sakkiz tur ajratilgan. Ular orasida Markaziy Osiyo va Qozog'istonda uchraydigan turlar ham bor. Bu o'zgarish sitogenetik va molekulyar usullar qo'llanganidan keyin yuz berdi [1].",
+    "An. artemievi yangi tur sifatida 2004 yilda to'liq morfologik tavsif olgan, nomi esa Gordeev va hammualliflari, 2005 bilan yoziladi. Qo'llanma bu turning O'zbekistonda Qoraqalpog'iston, Surxondaryo, Buxoro, Navoiy va Xorazm viloyatlaridan boshqa barcha viloyatlarda keng tarqalganini yozadi [1]."
+   ]
+  },
+  {
+   "heading": "Turlarning tarqalishi bo'yicha farqlar",
+   "content": [
+    "Taqdimotda maculipennis va artemievi O'zbekistonda Surxondaryo, Qoraqalpog'iston va Xorazm viloyatlaridan boshqa hamma joyda uchraydi deyilgan. Qo'llanma esa artemievi uchun chiqarib tashlangan hududlar qatoriga Buxoro va Navoiy viloyatlarini ham kiritadi. Bu farq tur chegaralari tushunchasi va yangi tadqiqotlar bilan izohlanishi mumkin [1, 2].",
+    "An. martinius qo'llanmada Qoraqalpog'iston Respublikasi va Xorazm viloyatida uchraydi deb ko'rsatilgan. Taqdimotda esa uning O'zbekistonning markaziy va sharqiy qismlarida tarqalishi hali aniqlanishi kerakligi qayd etilgan. An. algeriensis juda kam uchraydi va Surxondaryo viloyatida bahor va kuzda ko'proq topiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "An. claviger va An. hyrcanus",
+   "content": [
+    "An. claviger O'zbekistonda, Turkmanistonda va Qozog'istonning janubida uchraydi. Uning lichinkalari buloqlar va salqin suv havzalarida rivojlanadi. Imagosi ekzofil bo'lib, ko'payadigan joyidan uzoqqa uchmaydi. Taqdimotda u O'zbekistonning tog'li va tog' oldi tumanlarida uchrashi aytilgan [1, 2].",
+    "An. hyrcanus O'zbekiston, Qirg'iziston, Tojikiston va Qozog'istonda keng tarqalgan. Lichinkalari botqoqlik, qamishzor, sug'orish kanallari va sholipoyalarda rivojlanadi. Imago ekzofil bo'lib, odamga uy ichida ham hujum qiladi, lekin so'rgan qonni tashqarida hazm qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Turlarning umumiy ekologik tavsifi",
+   "content": [
+    "O'zbekistondagi turlar ekologiyasi bo'yicha farqlanadi: An. superpictus va An. pulcherrimus issiqqa chidamli, An. claviger esa namsevar tur. Qo'llanmada bu turlarning lichinkalari uchun qulay harorat ham alohida berilgan, masalan An. claviger uchun +14-16 daraja, An. superpictus uchun +30-35 daraja [1].",
+    "Barcha turlar uchun umumiy xususiyat shundaki, ular polifag bo'lib, faqat bir hayvon yoki odam qoni bilan oziqlanmaydi. Ular ma'lum darajada antropofil yoki zoofildir. Shu sababli ayni tur bir sharoitda bezgakning asosiy, boshqa sharoitda ikkinchi darajali tashuvchisi bo'lishi mumkin [1]."
+   ]
+  },
+  {
+   "heading": "Yuqishdagi ahamiyatiga qisqacha izoh",
+   "content": [
+    "Taqdimotga ko'ra, 8 turdan uchtasi asosiy (maculipennis, pulcherrimus, superpictus), uchtasi ikkinchi darajali yoki epizodik (claviger, hyrcanus, martinius), bittasining roli noaniq (algeriensis). Bu tasnif alohida mavzuda yoritilgani uchun bu yerda faqat umumiy turlar ro'yxatiga bog'langan [2].",
+    "Qo'llanma esa hozirgi vaqtda An. superpictus, An. artemievi va An. pulcherrimus ni O'zbekistonda bezgakni tarqatishda eng xavfli turlar deb hisoblaydi. Demak, turlar ro'yxati soni ikki manbada farq qilgani kabi, asosiy tashuvchilar tarkibi bo'yicha ham ikki manbada nomlar mos kelmaydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Hududdagi aniq tur tarkibini bilish chivinga qarshi tadbirlarni tanlashga bevosita ta'sir qiladi. Masalan, endofil turlarga qarshi xonalarga qoldiq ta'sirli insektitsidlar bilan ishlov beriladi, ekzofil turlarga qarshi esa insektitsid shimdirilgan to'rlar qo'llanadi. Shuning uchun turni aniqlash entomologik nazoratning asosiy vazifasi hisoblanadi [2].",
+    "Morfologik belgilar o'xshash turlarni ajratishga yetmasa, kariosistematik va molekulyar-genetik usullar qo'llanadi. Shu sababli tur nomini yozishda manba va yilni ko'rsatish, ro'yxatni yangi tadqiqotlar bilan solishtirish va farqlarni hisobotda ochiq yozish tavsiya etiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda Jahongirov qo'llanmasiga ko'ra bezgak chivinlarining 7 turi uchraydi: An. algeriensis, artemievi, claviger, hyrcanus, martinius, pulcherrimus va superpictus. Anopheles bo'yicha taqdimot ro'yxatiga An. maculipennis ham kiritilgan va jami 8 tur ko'rsatilgan. Raqamlar farqi manbalar farqidan kelib chiqadi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Жаҳонгиров Ш.М. Prezentatsiya. Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi (taqdimot). L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1575.",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547."
+ ]
 }

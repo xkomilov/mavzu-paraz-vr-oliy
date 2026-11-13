@@ -1,63 +1,95 @@
 {
-  "number": 65,
-  "title": "65. Kanali qaytalama terlamaning (KQT) etiologiyasi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Kanali qaytalama terlama zoonoz, transmissiv, tabiiy o'choqli kasallik bo'lib, uning qo'zg'atuvchisi spiroxeta (borreliya)lar, tashuvchisi esa Argasidae oilasining Ornithodoros turkumiga mansub kanalardir. Kasallik isitma xurujlari va isitmasiz davrlarning navbatlashishi bilan ta'riflanadi [1, 2].",
-      "Ushbu mavzuda qo'zg'atuvchining taksonomiyasi, morfologiyasi, O'zbekistondagi variantlari, kananing etiologik zanjirdagi o'rni, patogenez asoslari va tashxis uchun ahamiyati ko'rib chiqiladi. Manbalar orasidagi farqlar hamda tasdiqlanmagan ma'lumotlar alohida ko'rsatiladi [1, 2, 3]."
-    ]},
-    {"heading": "Ta'rif va sinonimlar", "content": [
-      "Milliy uslubiy qo'llanmada KQT zoonoz, transmissiv, tabiiy o'choqli kasallik deb ta'riflanib, sinonimlari sifatida kanali spiroxetoz, kanali borrelioz, kanali rekurrenes, kanali isitma va kanali endemik terlama keltirilgan. Qo'zg'atuvchi spiroxetalar (borreliya) deb nomlangan [1].",
-      "Fergana viloyati DSENM taqdimotida ham qo'zg'atuvchi spiroxeta (borreliya), tarqatuvchisi Ornithodoros turkumi va Argasidae oilasidagi kanalar deb ko'rsatilgan, kasallikni 1877 yilda Karter bemor qonida spiroxeta aniqlagani bilan bog'lagan [2]."
-    ]},
-    {"heading": "Qo'zg'atuvchining taksonomiyasi", "content": [
-      "Kuliyevaning «Tibbiy entomologiya» darsligida qaytalama tifning kana orqali yuqadigan shakli Borrelia turkumidagi spiroxetalar bilan bog'langan: B. duttonii, B. crocidurae, B. persica, B. hispanica, B. latyschewii va B. caucasica ma'lum geografik zonalarda tarqalgan. Qo'zg'atuvchi turi hududga bog'liq [3].",
-      "Taqdimotda spiroxetalarning 20 dan ortiq turi va xili ma'lum ekani, har bir xil kananing tegishli turi orqali tarqalishi yozilgan. Bu holat KQT etiologiyasi hududiy xilma-xil bo'lishini, shuning uchun tashuvchi tur bilan qo'zg'atuvchi o'rtasida muvofiqlik mavjudligini ko'rsatadi [2]."
-    ]},
-    {"heading": "O'zbekistondagi qo'zg'atuvchilar", "content": [
-      "Uslubiy qo'llanmaga ko'ra O'zbekistonda KQT qo'zg'atuvchisi mahalliy O. papillipes kanalari orqali yuqadigan Sogdiana spiroxetalari (mahalliy va tabiiy o'choqlarda) hamda in kanasi O. tartakovskyi yuqtiradigan Latishev-Sofiev spiroxetalaridir [1].",
-      "Shu bois mahalliy antropurgik o'choqlarda odam uchun asosiy xavf O. papillipes bilan bog'liq Sogdiana varianti bo'lsa, O. tartakovskyi bilan bog'liq spiroxeta tabiiy o'choqlarda kuzatiladi. Qo'llanmada bu kanalar epidemiologik jarayonda deyarli ishtirok etmasligi ta'kidlangan [1]."
-    ]},
-    {"heading": "Morfologiya va biologik xossalari", "content": [
-      "Qo'llanmaga ko'ra spiroxetalar uzunchoq, ozroq parmasimon ko'k rangli spiral, ayrim hollarda yarim oy shaklida bo'lib, ikki uchi o'tkirlashgan. Ular 4-12 ta katta burama (spiral)dan iborat, ko'ndalang bo'linish yo'li bilan ko'payadi va Romanovskiy-Gimza bo'yog'ida ko'k tusda ko'rinadi [1].",
-      "Taqdimotga ko'ra spiroxetalar harakatchan, 12 va undan ko'p burmali, sun'iy oziqa muhitida ko'paytirish mumkin, tashqi muhitga chidamsiz, yuqori harorat va quritilganda tez halok bo'ladi. Bu xossalar namuna olish va saqlashda ahamiyatli [2]."
-    ]},
-    {"heading": "Tashuvchi kana va rezervuar", "content": [
-      "Odam uchun kasallikning yagona manbai (shifoxona ichi zararlanishidan tashqari) Ornithodoros turkumi kanalaridir. Ular nafaqat tashuvchi, balki qo'zg'atuvchini saqlovchi, tabiiy va mahalliy o'choqlarda asosiy rezervuar hamdir. Kanalar kasal hayvonlar yoki ota-onalari orqali zararlanib, umr bo'yi tashiydi [1].",
-      "Spiroxetalar tuxum orqali keyingi avlodga o'tadi, kanalar har qanday yoshda, ya'ni lichinka, nimfa va yetuk bosqichda yuqtirishi mumkin. Kuliyeva darsligida zararlanganlik kananing butun umri (taxminan 10 yil) saqlanishi va transovarial uzatish qayd etilgan [1, 3]."
-    ]},
-    {"heading": "Yuqish mexanizmi", "content": [
-      "Kasallik kana chaqqanda zararlangan kana so'lagi bilan yaraga qo'zg'atuvchi tushishi orqali yuqadi. Kananing Afrika turlari spiroxetalarni koksal suyuqlik orqali yuqtiradi. Kana qon so'rish chog'ida boshqa qonga to'yingan kananing qonini ham so'rib, spiroxetani yuqtirishi mumkin [1].",
-      "Kuliyeva darsligida kana spiroxetalarni hemolimfaga o'tgach, koksal va so'lak bezlariga o'tgan holda yuqtirish qobiliyatiga ega bo'lishi ko'rsatilgan. Odam kana qon so'rishining dastlabki 1-2 daqiqasidayoq zararlanishi mumkin, chaqqan joyda papula (birlamchi affekt) hosil bo'ladi [3]."
-    ]},
-    {"heading": "Patogenez asoslari", "content": [
-      "Taqdimotga ko'ra chaqishda yuqqan spiroxetalar retikuloendotelial tizim organlarida ko'payib, so'ng qonga tushadi. Qonda ularning ko'p qismi parchalanadi, ajralgan endotoksin intoksikatsiyaga sabab bo'ladi, organizmda lizin va agglyutininlar hosil bo'ladi [2].",
-      "Markaziy asab tizimida saqlanib qolgan spiroxetalarning xossalari o'zgaradi, antitelolar ularga ta'sir qila olmaydi va yangi xossali spiroxetalar qonga o'tib navbatdagi isitma xurujini keltirib chiqaradi. Xurujlar takrorlanishi bilan antitelolar ko'payib, bemor sog'ayadi [2]."
-    ]},
-    {"heading": "Yashirin davr va tashxisdagi ahamiyati", "content": [
-      "Uslubiy qo'llanmada yashirin davr ko'pincha 6-8 kun, ayrim hollarda 3 kungacha qisqarishi yoki 17-20 kungacha uzayishi mumkinligi yozilgan. Spiroxetalar xuruj vaqtida ham, xurujlar oralig'ida ham aniqlanadi, ularni qalin tomchida topish tashxisni tasdiqlaydi [1].",
-      "Manbalarda yashirin davr farqlanadi: taqdimotda 5-14 kun, darslikda 5-14 kun, davolash bayonnomasida 4-15 kun, ko'pincha 6-10 kun deyilgan. Bu farq kana chaqqan sana noaniq bo'lganda tashxis uchun bemor anamnezidagi ehtiyotkorlikni talab qiladi [1, 2, 3, 4]."
-    ]},
-    {"heading": "Epidemik qaytalama terlamadan farqi", "content": [
-      "Qo'llanmada KQT klinik kechishiga ko'ra epidemik (bitli) qaytalama terlama, denge isitmasi va bezgakka o'xshash bo'lgani uchun differensial tashxis zarurligi, epidemik qaytalama terlama esa mamlakatda tugatilgani ko'rsatilgan. Bit orqali yuqadigan qo'zg'atuvchi B. recurrentis bo'lib, faqat odam va bit organizmida saqlanadi [1, 3].",
-      "Davolash bayonnomasining sarlavhasi kanalar o'tkazuvchi qaytalama terlamaga tegishli, ammo ta'rifida bitlar orqali tarqalishi va B. recurrentis yozilgan, qo'zg'atuvchilar ro'yxatida esa B. persica va B. caucasica bor. Bu ichki nomuvofiqlik bo'lib, etiologiyada kana-bit farqini aniq belgilash zarur [4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor qo'zg'atuvchi tabiatini bilib, qalin tomchi va Romanovskiy-Gimza bilan bo'yalgan surtmada spiral shaklli spiroxetalarni ajratadi. Spiroxetalar kam bo'lgani uchun qon namunasi 5-10 daqiqa va 100-200 dan kam bo'lmagan ko'rish maydonida diqqat bilan ko'rilishi kerak [1].",
-      "Shuningdek kana spiroxetani butun umri saqlagani bois bemorning yashash joyida kanalar mavjudligi tekshirilmasa, o'choq saqlanib qolaveradi. Tashxis bilan birga epidemiologik tekshiruvda O. papillipes izlanishi etiologik zanjirni uzish shartidir [1]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Qo'llanmadagi Sogdiana va Latishev-Sofiev nomlari qaysi zamonaviy tur yoki xilga mos kelishi ko'rilgan manbalarda aniqlanmadi. Ularni darslikdagi B. latyschewii bilan tenglashtirish ham tasdiqlanmagan, shuning uchun bu yerda faqat qo'llanma nomlari keltirildi [1, 3].",
-      "Qo'llanmada kanalar 32 yildan ortiq yashashi mumkinligi yozilgan, boshqa manbalarda esa 10-15 yil ovqatlanmasdan yashashi ko'rsatilgan. Bu sondagi farq tekshirilmadi va etiologiya bo'yicha asosiy xulosada qo'llanmaydi [1, 2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Kanali qaytalama terlamaning etiologik omili Ornithodoros kanalari orqali tarqaladigan Borrelia spiroxetalaridir; O'zbekistonda qo'llanmaga ko'ra mahalliy o'choqlarda O. papillipes bilan Sogdiana, tabiiy o'choqlarda O. tartakovskyi bilan Latishev-Sofiev spiroxetalari bog'liq, kana esa tashuvchi va rezervuar vazifasini birga bajaradi [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
-    "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
-    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Kanalar o'tkazuvchi qaytalama terlamani davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559."
-  ]
+ "number": 65,
+ "title": "65. Kanali qaytalama terlamaning (KQT) etiologiyasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Kanali qaytalama terlama zoonoz, transmissiv, tabiiy o'choqli kasallik bo'lib, uning qo'zg'atuvchisi spiroxeta (borreliya)lar, tashuvchisi esa Argasidae oilasining Ornithodoros turkumiga mansub kanalardir. Kasallik isitma xurujlari va isitmasiz davrlarning navbatlashishi bilan ta'riflanadi [1, 2].",
+    "Ushbu mavzuda qo'zg'atuvchining taksonomiyasi, morfologiyasi, O'zbekistondagi variantlari, kananing etiologik zanjirdagi o'rni, patogenez asoslari va tashxis uchun ahamiyati ko'rib chiqiladi. Manbalar orasidagi farqlar ham alohida ko'rsatiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Ta'rif va sinonimlar",
+   "content": [
+    "Milliy uslubiy qo'llanmada KQT zoonoz, transmissiv, tabiiy o'choqli kasallik deb ta'riflanib, sinonimlari sifatida kanali spiroxetoz, kanali borrelioz, kanali rekurrenes, kanali isitma va kanali endemik terlama keltirilgan. Qo'zg'atuvchi spiroxetalar (borreliya) deb nomlangan [1].",
+    "Fergana viloyati DSENM taqdimotida ham qo'zg'atuvchi spiroxeta (borreliya), tarqatuvchisi Ornithodoros turkumi va Argasidae oilasidagi kanalar deb ko'rsatilgan, kasallikni 1877 yilda Karter bemor qonida spiroxeta aniqlagani bilan bog'lagan [2]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining taksonomiyasi",
+   "content": [
+    "Kuliyevaning «Tibbiy entomologiya» darsligida qaytalama tifning kana orqali yuqadigan shakli Borrelia turkumidagi spiroxetalar bilan bog'langan: B. duttonii, B. crocidurae, B. persica, B. hispanica, B. latyschewii va B. caucasica ma'lum geografik zonalarda tarqalgan. Qo'zg'atuvchi turi hududga bog'liq [3].",
+    "Taqdimotda spiroxetalarning 20 dan ortiq turi va xili ma'lum ekani, har bir xil kananing tegishli turi orqali tarqalishi yozilgan. Bu holat KQT etiologiyasi hududiy xilma-xil bo'lishini, shuning uchun tashuvchi tur bilan qo'zg'atuvchi o'rtasida muvofiqlik mavjudligini ko'rsatadi [2]."
+   ]
+  },
+  {
+   "heading": "O'zbekistondagi qo'zg'atuvchilar",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra O'zbekistonda KQT qo'zg'atuvchisi mahalliy O. papillipes kanalari orqali yuqadigan Sogdiana spiroxetalari (mahalliy va tabiiy o'choqlarda) hamda in kanasi O. tartakovskyi yuqtiradigan Latishev-Sofiev spiroxetalaridir [1].",
+    "Shu bois mahalliy antropurgik o'choqlarda odam uchun asosiy xavf O. papillipes bilan bog'liq Sogdiana varianti bo'lsa, O. tartakovskyi bilan bog'liq spiroxeta tabiiy o'choqlarda kuzatiladi. Qo'llanmada bu kanalar epidemiologik jarayonda deyarli ishtirok etmasligi ta'kidlangan [1]."
+   ]
+  },
+  {
+   "heading": "Morfologiya va biologik xossalari",
+   "content": [
+    "Qo'llanmaga ko'ra spiroxetalar uzunchoq, ozroq parmasimon ko'k rangli spiral, ayrim hollarda yarim oy shaklida bo'lib, ikki uchi o'tkirlashgan. Ular 4-12 ta katta burama (spiral)dan iborat, ko'ndalang bo'linish yo'li bilan ko'payadi va Romanovskiy-Gimza bo'yog'ida ko'k tusda ko'rinadi [1].",
+    "Taqdimotga ko'ra spiroxetalar harakatchan, 12 va undan ko'p burmali, sun'iy oziqa muhitida ko'paytirish mumkin, tashqi muhitga chidamsiz, yuqori harorat va quritilganda tez halok bo'ladi. Bu xossalar namuna olish va saqlashda ahamiyatli [2]."
+   ]
+  },
+  {
+   "heading": "Tashuvchi kana va rezervuar",
+   "content": [
+    "Odam uchun kasallikning yagona manbai (shifoxona ichi zararlanishidan tashqari) Ornithodoros turkumi kanalaridir. Ular nafaqat tashuvchi, balki qo'zg'atuvchini saqlovchi, tabiiy va mahalliy o'choqlarda asosiy rezervuar hamdir. Kanalar kasal hayvonlar yoki ota-onalari orqali zararlanib, umr bo'yi tashiydi [1].",
+    "Spiroxetalar tuxum orqali keyingi avlodga o'tadi, kanalar har qanday yoshda, ya'ni lichinka, nimfa va yetuk bosqichda yuqtirishi mumkin. Kuliyeva darsligida zararlanganlik kananing butun umri (taxminan 10 yil) saqlanishi va transovarial uzatish qayd etilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Yuqish mexanizmi",
+   "content": [
+    "Kasallik kana chaqqanda zararlangan kana so'lagi bilan yaraga qo'zg'atuvchi tushishi orqali yuqadi. Kananing Afrika turlari spiroxetalarni koksal suyuqlik orqali yuqtiradi. Kana qon so'rish chog'ida boshqa qonga to'yingan kananing qonini ham so'rib, spiroxetani yuqtirishi mumkin [1].",
+    "Kuliyeva darsligida kana spiroxetalarni hemolimfaga o'tgach, koksal va so'lak bezlariga o'tgan holda yuqtirish qobiliyatiga ega bo'lishi ko'rsatilgan. Odam kana qon so'rishining dastlabki 1-2 daqiqasidayoq zararlanishi mumkin, chaqqan joyda papula (birlamchi affekt) hosil bo'ladi [3]."
+   ]
+  },
+  {
+   "heading": "Patogenez asoslari",
+   "content": [
+    "Taqdimotga ko'ra chaqishda yuqqan spiroxetalar retikuloendotelial tizim organlarida ko'payib, so'ng qonga tushadi. Qonda ularning ko'p qismi parchalanadi, ajralgan endotoksin intoksikatsiyaga sabab bo'ladi, organizmda lizin va agglyutininlar hosil bo'ladi [2].",
+    "Markaziy asab tizimida saqlanib qolgan spiroxetalarning xossalari o'zgaradi, antitelolar ularga ta'sir qila olmaydi va yangi xossali spiroxetalar qonga o'tib navbatdagi isitma xurujini keltirib chiqaradi. Xurujlar takrorlanishi bilan antitelolar ko'payib, bemor sog'ayadi [2]."
+   ]
+  },
+  {
+   "heading": "Yashirin davr va tashxisdagi ahamiyati",
+   "content": [
+    "Uslubiy qo'llanmada yashirin davr ko'pincha 6-8 kun, ayrim hollarda 3 kungacha qisqarishi yoki 17-20 kungacha uzayishi mumkinligi yozilgan. Spiroxetalar xuruj vaqtida ham, xurujlar oralig'ida ham aniqlanadi, ularni qalin tomchida topish tashxisni tasdiqlaydi [1].",
+    "Manbalarda yashirin davr farqlanadi: taqdimotda 5-14 kun, darslikda 5-14 kun, davolash bayonnomasida 4-15 kun, ko'pincha 6-10 kun deyilgan. Bu farq kana chaqqan sana noaniq bo'lganda tashxis uchun bemor anamnezidagi ehtiyotkorlikni talab qiladi [1, 2, 3, 4]."
+   ]
+  },
+  {
+   "heading": "Epidemik qaytalama terlamadan farqi",
+   "content": [
+    "Qo'llanmada KQT klinik kechishiga ko'ra epidemik (bitli) qaytalama terlama, denge isitmasi va bezgakka o'xshash bo'lgani uchun differensial tashxis zarurligi, epidemik qaytalama terlama esa mamlakatda tugatilgani ko'rsatilgan. Bit orqali yuqadigan qo'zg'atuvchi B. recurrentis bo'lib, faqat odam va bit organizmida saqlanadi [1, 3].",
+    "Davolash bayonnomasining sarlavhasi kanalar o'tkazuvchi qaytalama terlamaga tegishli, ammo ta'rifida bitlar orqali tarqalishi va B. recurrentis yozilgan, qo'zg'atuvchilar ro'yxatida esa B. persica va B. caucasica bor. Bu ichki nomuvofiqlik bo'lib, etiologiyada kana-bit farqini aniq belgilash zarur [4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor qo'zg'atuvchi tabiatini bilib, qalin tomchi va Romanovskiy-Gimza bilan bo'yalgan surtmada spiral shaklli spiroxetalarni ajratadi. Spiroxetalar kam bo'lgani uchun qon namunasi 5-10 daqiqa va 100-200 dan kam bo'lmagan ko'rish maydonida diqqat bilan ko'rilishi kerak [1].",
+    "Shuningdek kana spiroxetani butun umri saqlagani bois bemorning yashash joyida kanalar mavjudligi tekshirilmasa, o'choq saqlanib qolaveradi. Tashxis bilan birga epidemiologik tekshiruvda O. papillipes izlanishi etiologik zanjirni uzish shartidir [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Kanali qaytalama terlamaning etiologik omili Ornithodoros kanalari orqali tarqaladigan Borrelia spiroxetalaridir; O'zbekistonda qo'llanmaga ko'ra mahalliy o'choqlarda O. papillipes bilan Sogdiana, tabiiy o'choqlarda O. tartakovskyi bilan Latishev-Sofiev spiroxetalari bog'liq, kana esa tashuvchi va rezervuar vazifasini birga bajaradi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 3-ilova «Kanali qaytalama terlamaning etiologiya, tashxisoti, epidemiologiyasi, epidemiyaga qarshi kurash va oldini olish chora-tadbirlari bo'yicha uslubiy qo'llanma». xayrullokomilov.uz/kutubxona, material ID 1519.",
+  "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot (taqdimot). Farg'ona viloyati DSENM, 2014 yil aprel. xayrullokomilov.uz/kutubxona, material ID 1358.",
+  "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Kanalar o'tkazuvchi qaytalama terlamani davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559."
+ ]
 }

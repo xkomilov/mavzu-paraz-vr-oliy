@@ -2,65 +2,103 @@
  "number": 98,
  "title": "98. Teniarinxoz bilan zararlanishning xavfi.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Teniarinxoz bilan zararlanish xavfi ikki jihatdan baholanadi: kimlar va qanday sharoitda ko'proq zararlanadi hamda zararlanish odam va atrof-muhit uchun qanday oqibat keltiradi. Kasallik qoramol solityori Taeniarhynchus saginatus qo'zg'atadigan biogelmintoz bo'lib, uning manbai bemor odamdir [2, 6].",
-   "Ushbu mavzuda xavf omillari, kasbiy va maishiy xavf guruhlari, hududiy xususiyatlar, parazitning uzoq saqlanishi, ifloslantirish hajmi, asoratlar va davolashdan keyingi qayta rivojlanish xavfi ketma-ket ko'rib chiqiladi. Oxirida xavfni kamaytiruvchi choralar va tasdiqlanmagan jihatlar yoziladi [1, 2, 3]."
-  ]},
-  {"heading": "Moyillik va qayta zararlanish xavfi", "content": [
-   "Darslikka ko'ra odamning teniarinxozga moyilligi yuqori, immuniteti esa beqaror bo'lib, qayta zararlanish mumkin. Bu shuni anglatadiki, bir marta kasallangan yoki davolangan odam keyingi safar finnali go'sht yesa, yana parazit orttirishi mumkin [2].",
-   "Zararlanish uchun asosiy shart tirik finna saqlagan go'shtni iste'mol qilishdir, shu sababli xavf darajasi odamning ovqatlanish odatiga bog'liq. Davolash bayonnomasi ham xom go'sht iste'mol qiluvchi shaxslarga alohida e'tibor berishni belgilaydi [2, 6]."
-  ]},
-  {"heading": "Ovqatlanish odatlari bilan bog'liq xavf", "content": [
-   "Darslikda go'shtni xom, yetarlicha termik ishlamasdan, kuchsiz tuzlangan yoki qoqlangan holda iste'mol qilish xavfli deb ko'rsatilgan. Zakavkaz va O'rta Osiyodagi shashlik an'anasi hamda pelmen uchun tayyorlangan xom qiymani yeyish odati xavfni oshiruvchi ijtimoiy-maishiy omil sanalgan [2].",
-   "Milliy yo'riqnomada xavfli taomlar sifatida kabob, chuchvara, somsa, manti va ijjan ko'rsatilgan. Shu sababli xavf guruhini aniqlashda kasb bilan birga xom yoki chala pishgan go'sht iste'mol qilish odatini ham hisobga olish kerak [1, 6]."
-  ]},
-  {"heading": "Kasbiy xavf guruhlari", "content": [
-   "Darslikda kasbiy xavf guruhlari sifatida cho'ponlar hamda so'yish punktlari va go'sht kombinatlari xodimlari ko'rsatilgan. Milliy yo'riqnomada esa chorvachilik xo'jaligi xodimlari, ya'ni sog'uvchilar va cho'ponlar, ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta tekshirilishi belgilangan [1, 2].",
-   "Bu guruhlar ikki sababga ko'ra xavfli hisoblanadi: ular go'sht bilan tez-tez aloqada bo'ladi, shuningdek invaziyalangan odam bo'lsa, atrofdagi mollarni ham zararlashi mumkin. Shu sababli ularni rejali tekshirish ham shaxsiy, ham epizootik xavfni kamaytiradi [1, 2]."
-  ]},
-  {"heading": "Hududiy va demografik xavf", "content": [
-   "Darslikka ko'ra teniarinxozning zararlanish darajasi qishloq joylarda, chorvachilik rivojlangan hududlarda va katta yoshli aholi orasida yuqori. MDH mamlakatlaridan kasallik O'zbekiston, Tojikiston va Ozarbayjonda uchraydi [2].",
-   "Pavlovich darsligi O'zbekistonni teniarinxoz keng tarqalgan hududlar qatorida sanaydi. Bu ma'lumot hududiy xavf mavjudligini ko'rsatadi, lekin viloyatlar yoki tumanlar kesimida aniq darajani bermaydi, shuning uchun mahalliy tahlil parazitologning vazifasi bo'lib qoladi [1, 3]."
-  ]},
-  {"heading": "Parazitning uzoq yashashi", "content": [
-   "Xavfning muhim tomoni shundaki, qoramol solityori odam ichagida uzoq yashaydi. Vladivostok darsligida uning umri bir necha o'n yilga yetishi, Odessa atlasida esa taxminan 10 yil ekani ko'rsatilgan, ya'ni manbalar bu ko'rsatkichda farq qiladi [2, 4].",
-   "Parazit bu davr mobaynida ichakda bo'lib, bo'g'imlarini muntazam ajratadi. Agar bemor aniqlanmasa va davolanmasa, u uzoq muddat atrofdagilar va chorva uchun invaziya manbai bo'lib qoladi, shu sababli kasallikning yengil kechishi xavfni kamaytirmaydi [2, 7]."
-  ]},
-  {"heading": "Atrof-muhitni ifloslantirish xavfi", "content": [
-   "Bitta bemor kuniga o'rtacha 8 tagacha yetuk bo'g'imni ajratadi, ularning oxirgisida 145 mingtagacha tuxum bo'lishi mumkin. Bo'g'imlar anusdan faol chiqadi, shu sababli ular kiyim, to'shak va tuproqda qoladi [2].",
-   "Romanenko qo'llanmasida bitta qoramol solityori kuniga 6-8 proglottid chiqarishi, har birida 145-175 ming onkosfera borligi, jami sutkasiga 870-1400 ming onkosfera ajralishi ko'rsatilgan. Bunday hajm bitta bemorni ham o'choqning kuchli manbaiga aylantiradi [5]."
-  ]},
-  {"heading": "Klinik xavf va asoratlar", "content": [
-   "Kasallik ko'pincha yengil va o'ziga xos bo'lmagan belgilar bilan kechadi, bu esa uning kech aniqlanishiga olib keladi. Asoratlar kam uchraydi, ammo darslikda appenditsit, ichak tutilishi, o't pufagi va oshqozon osti bezi yallig'lanishi, ichak devori teshilishi hamda bolalarda tutqanoqlar sanalgan [3, 7].",
-   "CDC proglottidlar kamdan-kam hollarda appendiks bo'shlig'iga yoki o't va oshqozon osti bezi yo'llariga tiqilib qolishini yozadi, qoramol solityorida belgilar yirik o'lcham tufayli ko'proq uchrashini ta'kidlaydi. Davolash bayonnomasi o'tkir shakldagi bemorlarni shifoxonaga yotqizishni shart qilib qo'yadi [6, 8]."
-  ]},
-  {"heading": "Sistitserkoz xavfi yo'qligi", "content": [
-   "Odessa atlasiga ko'ra teniarinxozda odam organizmida finna, ya'ni sistitserkoz rivojlanishi mumkin emas. Bu holat teniarinxozni teniozdan farqlaydi, chunki T. solium tuxumlari odamda to'qima lichinkalarini keltirib chiqarishi mumkin [4, 7].",
-   "JSST ma'lumotnomasi T. saginata keltirib chiqaradigan taeniazni odam salomatligiga katta ta'sir ko'rsatmaydigan holat deb ta'riflaydi va asosiy e'tiborni T. solium ga qaratadi. Milliy yondashuv esa bunday bemorni davolash, hisobga olish va nazoratga olishni talab qiladi, ya'ni baholashlarda farq bor [1, 7]."
-  ]},
-  {"heading": "Davolashdan keyin qayta rivojlanish xavfi", "content": [
-   "Milliy yo'riqnomada teniarinxoz va teniozda hech bir preparat bitta davo kursi bilan 100 foiz gijjadan xalos qilmasligi aytilgan. Qolgan qo'zg'atuvchilar, ya'ni strobilalar, 1-3 oydan, hatto 4 oydan keyin qayta rivojlanishi mumkin [1].",
-   "Shu sababli davolangan bemor xavf guruhidan darhol chiqmaydi. Yo'riqnomada u poliklinikada dispanser kuzatuviga olinadi, davolash bayonnomasi esa teniarinxozda 5 oy davomida har oy tekshirishni, bo'g'imlar chiqmasa, sog'lom deb hisoblashni belgilaydi [1, 6]."
-  ]},
-  {"heading": "Chorva orqali xavfning takrorlanishi", "content": [
-   "Bemor najasi bilan ifloslangan o'tni yegan mol zararlanadi va go'shtida finna hosil bo'ladi, shu bilan xavf yangi aholiga o'tadi. Odessa atlasiga ko'ra finnalar odam uchun 7 oydan so'ng yuqumli bo'ladi va 2 yilgacha saqlanadi [4].",
-   "Romanenko qo'llanmasi go'ng qo'ng'izlari onkosferalarni najas tushgan joydan ko'p metr uzoqqa olib ketishini yozadi. Shu sababli bitta bemorning ta'siri uning yashash joyi bilan cheklanmaydi va yaqin chorva xo'jaliklariga ham yetishi mumkin [4, 5]."
-  ]},
-  {"heading": "Xavfni kamaytiruvchi omillar", "content": [
-   "Yo'riqnomada go'sht bo'laklarining ichki harorati 80 gradusga yetganda finna zararsizlangan hisoblanadi; sovutish bo'yicha mol go'shtida qalin joyda minus 12 gradusga yetsa muzlatish to'xtatiladi. Bu qoidalar go'shtni iste'moldan oldin tayyorlashda xavfni pasaytiradi [1].",
-   "Davolash bayonnomasi aholi o'rtasida zararlanish yo'llari va xom hamda chala qovurilgan kabobning xavfi haqida tushuntirish ishlarini muhim deb ataydi, chorvadorlarda esa qo'lni astoydil yuvish odatini shakllantirishni tavsiya qiladi. Bunday chora kasbiy xavf guruhlari uchun qo'shimcha himoya hisoblanadi [1, 6]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Xavf guruhlarini yiliga bir marta so'rov va laboratoriya usullarida tekshirish teniarinxozni faol aniqlashning asosiy yo'li hisoblanadi. Poliklinikalarda so'rov usulida teniidozlarni faol aniqlash ambulator bemorlar birinchi murojaat qilganda va uyma-uy yurib tekshirishda belgilangan [1].",
-   "Parazitologlar kasallanishni har yili yoshi, jinsi, yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Shu tahlil xavf guruhlarini hududiy darajada aniqlashtirishga, rejali tekshiruv hajmini belgilashga va profilaktika samarasini baholashga xizmat qiladi [1]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan manbalarda O'zbekiston bo'yicha teniarinxoz bilan zararlanish xavfini son bilan ifodalovchi ko'rsatkichlar topilmadi: viloyatlar kesimidagi kasallanish, xavf guruhlari orasida zararlanganlar ulushi va mavsumiy xavf yozilmadi. Yo'riqnomada faqat kasallikning mavjudligi va tekshiruv tartibi berilgan [1].",
-   "Manbalar parazitning umri bo'yicha farq qiladi, JSST va milliy hujjat esa kasallikning inson salomatligiga ta'siriga turlicha urg'u beradi. Shu sababli xavfning darajasi aniq raqam bilan emas, sifat jihatidan, ya'ni xavf omillari va guruhlari orqali tasvirlandi [1, 4, 7]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Teniarinxoz bilan zararlanish xavfi yuqori moyillik, xom yoki yetarlicha pishmagan mol go'shti, kasbiy aloqa va qishloq chorvachilik muhiti bilan belgilanadi. Parazit odamda uzoq yashashi, bo'g'imlar va tuxumlar bilan atrofni ifloslantirishi hamda davolashdan keyin qayta rivojlanishi mumkinligi sababli xavf guruhlarini yiliga bir marta tekshirish va kuzatishni davom ettirish zarur [1, 2, 6]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Teniarinxoz bilan zararlanish xavfi ikki jihatdan baholanadi: kimlar va qanday sharoitda ko'proq zararlanadi hamda zararlanish odam va atrof-muhit uchun qanday oqibat keltiradi. Kasallik qoramol solityori Taeniarhynchus saginatus qo'zg'atadigan biogelmintoz bo'lib, uning manbai bemor odamdir [2, 6].",
+    "Ushbu mavzuda xavf omillari, kasbiy va maishiy xavf guruhlari, hududiy xususiyatlar, parazitning uzoq saqlanishi, ifloslantirish hajmi, asoratlar va davolashdan keyingi qayta rivojlanish xavfi ketma-ket ko'rib chiqiladi. Oxirida xavfni kamaytiruvchi choralar yoritiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Moyillik va qayta zararlanish xavfi",
+   "content": [
+    "Darslikka ko'ra odamning teniarinxozga moyilligi yuqori, immuniteti esa beqaror bo'lib, qayta zararlanish mumkin. Bu shuni anglatadiki, bir marta kasallangan yoki davolangan odam keyingi safar finnali go'sht yesa, yana parazit orttirishi mumkin [2].",
+    "Zararlanish uchun asosiy shart tirik finna saqlagan go'shtni iste'mol qilishdir, shu sababli xavf darajasi odamning ovqatlanish odatiga bog'liq. Davolash bayonnomasi ham xom go'sht iste'mol qiluvchi shaxslarga alohida e'tibor berishni belgilaydi [2, 6]."
+   ]
+  },
+  {
+   "heading": "Ovqatlanish odatlari bilan bog'liq xavf",
+   "content": [
+    "Darslikda go'shtni xom, yetarlicha termik ishlamasdan, kuchsiz tuzlangan yoki qoqlangan holda iste'mol qilish xavfli deb ko'rsatilgan. Zakavkaz va O'rta Osiyodagi shashlik an'anasi hamda pelmen uchun tayyorlangan xom qiymani yeyish odati xavfni oshiruvchi ijtimoiy-maishiy omil sanalgan [2].",
+    "Milliy yo'riqnomada xavfli taomlar sifatida kabob, chuchvara, somsa, manti va ijjan ko'rsatilgan. Shu sababli xavf guruhini aniqlashda kasb bilan birga xom yoki chala pishgan go'sht iste'mol qilish odatini ham hisobga olish kerak [1, 6]."
+   ]
+  },
+  {
+   "heading": "Kasbiy xavf guruhlari",
+   "content": [
+    "Darslikda kasbiy xavf guruhlari sifatida cho'ponlar hamda so'yish punktlari va go'sht kombinatlari xodimlari ko'rsatilgan. Milliy yo'riqnomada esa chorvachilik xo'jaligi xodimlari, ya'ni sog'uvchilar va cho'ponlar, ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta tekshirilishi belgilangan [1, 2].",
+    "Bu guruhlar ikki sababga ko'ra xavfli hisoblanadi: ular go'sht bilan tez-tez aloqada bo'ladi, shuningdek invaziyalangan odam bo'lsa, atrofdagi mollarni ham zararlashi mumkin. Shu sababli ularni rejali tekshirish ham shaxsiy, ham epizootik xavfni kamaytiradi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Hududiy va demografik xavf",
+   "content": [
+    "Darslikka ko'ra teniarinxozning zararlanish darajasi qishloq joylarda, chorvachilik rivojlangan hududlarda va katta yoshli aholi orasida yuqori. MDH mamlakatlaridan kasallik O'zbekiston, Tojikiston va Ozarbayjonda uchraydi [2].",
+    "Pavlovich darsligi O'zbekistonni teniarinxoz keng tarqalgan hududlar qatorida sanaydi. Bu ma'lumot hududiy xavf mavjudligini ko'rsatadi, lekin viloyatlar yoki tumanlar kesimida aniq darajani bermaydi, shuning uchun mahalliy tahlil parazitologning vazifasi bo'lib qoladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Parazitning uzoq yashashi",
+   "content": [
+    "Xavfning muhim tomoni shundaki, qoramol solityori odam ichagida uzoq yashaydi. Vladivostok darsligida uning umri bir necha o'n yilga yetishi, Odessa atlasida esa taxminan 10 yil ekani ko'rsatilgan, ya'ni manbalar bu ko'rsatkichda farq qiladi [2, 4].",
+    "Parazit bu davr mobaynida ichakda bo'lib, bo'g'imlarini muntazam ajratadi. Agar bemor aniqlanmasa va davolanmasa, u uzoq muddat atrofdagilar va chorva uchun invaziya manbai bo'lib qoladi, shu sababli kasallikning yengil kechishi xavfni kamaytirmaydi [2, 7]."
+   ]
+  },
+  {
+   "heading": "Atrof-muhitni ifloslantirish xavfi",
+   "content": [
+    "Bitta bemor kuniga o'rtacha 8 tagacha yetuk bo'g'imni ajratadi, ularning oxirgisida 145 mingtagacha tuxum bo'lishi mumkin. Bo'g'imlar anusdan faol chiqadi, shu sababli ular kiyim, to'shak va tuproqda qoladi [2].",
+    "Romanenko qo'llanmasida bitta qoramol solityori kuniga 6-8 proglottid chiqarishi, har birida 145-175 ming onkosfera borligi, jami sutkasiga 870-1400 ming onkosfera ajralishi ko'rsatilgan. Bunday hajm bitta bemorni ham o'choqning kuchli manbaiga aylantiradi [5]."
+   ]
+  },
+  {
+   "heading": "Klinik xavf va asoratlar",
+   "content": [
+    "Kasallik ko'pincha yengil va o'ziga xos bo'lmagan belgilar bilan kechadi, bu esa uning kech aniqlanishiga olib keladi. Asoratlar kam uchraydi, ammo darslikda appenditsit, ichak tutilishi, o't pufagi va oshqozon osti bezi yallig'lanishi, ichak devori teshilishi hamda bolalarda tutqanoqlar sanalgan [3, 7].",
+    "CDC proglottidlar kamdan-kam hollarda appendiks bo'shlig'iga yoki o't va oshqozon osti bezi yo'llariga tiqilib qolishini yozadi, qoramol solityorida belgilar yirik o'lcham tufayli ko'proq uchrashini ta'kidlaydi. Davolash bayonnomasi o'tkir shakldagi bemorlarni shifoxonaga yotqizishni shart qilib qo'yadi [6, 8]."
+   ]
+  },
+  {
+   "heading": "Sistitserkoz xavfi yo'qligi",
+   "content": [
+    "Odessa atlasiga ko'ra teniarinxozda odam organizmida finna, ya'ni sistitserkoz rivojlanishi mumkin emas. Bu holat teniarinxozni teniozdan farqlaydi, chunki T. solium tuxumlari odamda to'qima lichinkalarini keltirib chiqarishi mumkin [4, 7].",
+    "JSST ma'lumotnomasi T. saginata keltirib chiqaradigan taeniazni odam salomatligiga katta ta'sir ko'rsatmaydigan holat deb ta'riflaydi va asosiy e'tiborni T. solium ga qaratadi. Milliy yondashuv esa bunday bemorni davolash, hisobga olish va nazoratga olishni talab qiladi, ya'ni baholashlarda farq bor [1, 7]."
+   ]
+  },
+  {
+   "heading": "Davolashdan keyin qayta rivojlanish xavfi",
+   "content": [
+    "Milliy yo'riqnomada teniarinxoz va teniozda hech bir preparat bitta davo kursi bilan 100 foiz gijjadan xalos qilmasligi aytilgan. Qolgan qo'zg'atuvchilar, ya'ni strobilalar, 1-3 oydan, hatto 4 oydan keyin qayta rivojlanishi mumkin [1].",
+    "Shu sababli davolangan bemor xavf guruhidan darhol chiqmaydi. Yo'riqnomada u poliklinikada dispanser kuzatuviga olinadi, davolash bayonnomasi esa teniarinxozda 5 oy davomida har oy tekshirishni, bo'g'imlar chiqmasa, sog'lom deb hisoblashni belgilaydi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Chorva orqali xavfning takrorlanishi",
+   "content": [
+    "Bemor najasi bilan ifloslangan o'tni yegan mol zararlanadi va go'shtida finna hosil bo'ladi, shu bilan xavf yangi aholiga o'tadi. Odessa atlasiga ko'ra finnalar odam uchun 7 oydan so'ng yuqumli bo'ladi va 2 yilgacha saqlanadi [4].",
+    "Romanenko qo'llanmasi go'ng qo'ng'izlari onkosferalarni najas tushgan joydan ko'p metr uzoqqa olib ketishini yozadi. Shu sababli bitta bemorning ta'siri uning yashash joyi bilan cheklanmaydi va yaqin chorva xo'jaliklariga ham yetishi mumkin [4, 5]."
+   ]
+  },
+  {
+   "heading": "Xavfni kamaytiruvchi omillar",
+   "content": [
+    "Yo'riqnomada go'sht bo'laklarining ichki harorati 80 gradusga yetganda finna zararsizlangan hisoblanadi; sovutish bo'yicha mol go'shtida qalin joyda minus 12 gradusga yetsa muzlatish to'xtatiladi. Bu qoidalar go'shtni iste'moldan oldin tayyorlashda xavfni pasaytiradi [1].",
+    "Davolash bayonnomasi aholi o'rtasida zararlanish yo'llari va xom hamda chala qovurilgan kabobning xavfi haqida tushuntirish ishlarini muhim deb ataydi, chorvadorlarda esa qo'lni astoydil yuvish odatini shakllantirishni tavsiya qiladi. Bunday chora kasbiy xavf guruhlari uchun qo'shimcha himoya hisoblanadi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Xavf guruhlarini yiliga bir marta so'rov va laboratoriya usullarida tekshirish teniarinxozni faol aniqlashning asosiy yo'li hisoblanadi. Poliklinikalarda so'rov usulida teniidozlarni faol aniqlash ambulator bemorlar birinchi murojaat qilganda va uyma-uy yurib tekshirishda belgilangan [1].",
+    "Parazitologlar kasallanishni har yili yoshi, jinsi, yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Shu tahlil xavf guruhlarini hududiy darajada aniqlashtirishga, rejali tekshiruv hajmini belgilashga va profilaktika samarasini baholashga xizmat qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Teniarinxoz bilan zararlanish xavfi yuqori moyillik, xom yoki yetarlicha pishmagan mol go'shti, kasbiy aloqa va qishloq chorvachilik muhiti bilan belgilanadi. Parazit odamda uzoq yashashi, bo'g'imlar va tuxumlar bilan atrofni ifloslantirishi hamda davolashdan keyin qayta rivojlanishi mumkinligi sababli xavf guruhlarini yiliga bir marta tekshirish va kuzatishni davom ettirish zarur [1, 2, 6]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

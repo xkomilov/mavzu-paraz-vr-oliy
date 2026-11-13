@@ -1,67 +1,99 @@
 {
-  "number": 54,
-  "title": "54. Antroponoz teri leyshmaniozining profilaktikasi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Antroponoz teri leyshmaniozida (ATL) manba bemor odam, tashuvchi esa Phlebotomus sergenti bo'lgani uchun profilaktika epidemik zanjirning ikki bo'g'ini, ya'ni bemorlar va iskabtopar chivinlar ustida olib boriladi. Qo'shimcha ravishda aholini himoya qilish, sanitariya holatini yaxshilash va immunoprofilaktika ham ko'rib chiqiladi [1, 7].",
-      "Ushbu mavzuda milliy yo'riqnoma va davolash bayonnomasidagi profilaktika choralari ketma-ket ko'rib chiqiladi: bemorlarni aniqlash va davolash, o'choqda zararsizlantirish, obodonlashtirish, shaxsiy himoya, immunoprofilaktika, itlar bilan bog'liq choralar va samarani baholash. Tasdiqlanmagan jihatlar oxirida alohida ko'rsatiladi [1, 5]."
-    ]},
-    {"heading": "Profilaktikaning asosiy yo'nalishlari", "content": [
-      "Davolash bayonnomasida ATL ni oldini olish tadbirlari beshta band bilan berilgan: bemorlarni faol aniqlash va yaralarni bog'lab davolash, iskabtoparlarni insektitsid bilan qirish va ko'payish joylarini yo'qotish, shaxsiy profilaktika, turar joylarni obodonlashtirish va sanitariya-targ'ibot ishlari [7].",
-      "Yo'riqnomada profilaktikaning ATL uchun bayon etilgan bo'limi bolalar va migrantlar orasida faol aniqlash, bemorlarni o'z vaqtida to'g'ri davolash, past yuqish davrida qaytalanuvchi leyshmaniozlarni erta aniqlash hamda iskabtopar ko'payishiga qarshi obodonlashtirish choralarini o'z ichiga oladi [1]."
-    ]},
-    {"heading": "Bemorlarni faol aniqlash va davolash", "content": [
-      "Yo'riqnomada bemorni o'z vaqtida faol aniqlab davolash uning kasallik manbai sifatida rol o'ynashini oldini olishi ta'kidlangan. Aniqlash DPM xodimlari tomonidan xonadonma-xonadon yurib, bog'cha, maktab, korxona va dala shiyponlarida har bir shaxsni so'rov va ko'rikdan o'tkazish orqali amalga oshiriladi [1].",
-      "ATL da bolalar va migrantlar alohida e'tiborda bo'ladi. Polejayeva va hammualliflari ham profilaktika faol aniqlash va bemorlarni davolash orqali o'tkazilishini yozadi; JSST esa erta tashxis va samarali davolash kasallik tarqalishini kamaytirib, nogironlik va o'limning oldini olishini ta'kidlaydi [3, 4]."
-    ]},
-    {"heading": "Yaralarni himoya qilish", "content": [
-      "Yo'riqnomada iskabtopar chivinlarning zararlanishini kamaytirish uchun kechqurunlari bemorning yarasini bog'lab qo'yish tavsiya etilgan. Davolash bayonnomasida ham bemorlarni faol aniqlash bilan birga yaralarni majburiy bog'lab davolash profilaktika choralarining birinchi bandi sifatida berilgan [1, 7].",
-      "Chivin faol hujum qiladigan vaqt shom va kechqurun bo'lgani sababli, ochiq yara chivin uchun qo'zg'atuvchi olish joyi bo'lib qoladi. Shuning uchun shubhali bemorga birinchi yordam sifatida yaraga quruq bog'lam qo'yish va DSENM ga shoshilinch xabar berish ko'rsatilgan [1]."
-    ]},
-    {"heading": "Iskabtoparlarga qarshi zararsizlantirish", "content": [
-      "Yo'riqnomaga ko'ra bemor aniqlangan xonadonning ichki va tashqi qismi insektitsid bilan ishlanadi. Iskabtoparlarning faol ko'payish mavsumi boshlanishidan oldin zararsizlantirish qo'shni xonadonlarni ham qamrab oladi, bu esa o'chog'ni atrofga kengayishidan ushlab turishga qaratilgan [1].",
-      "O'tkazilgan ishlovning samarasi iskabtopar populyatsiyasi monitoringi, ya'ni ishlovdan oldin va keyingi sonini taqqoslash orqali baholanadi. JSST ham chivinlarni kamaytiruvchi insektitsid purkash, insektitsid shimdirilgan to'rlar va muhitni boshqarishni vektorga qarshi kurash usullari qatorida keltiradi [1, 4]."
-    ]},
-    {"heading": "Obodonlashtirish va ko'payish joylarini yo'qotish", "content": [
-      "ATL da iskabtoparlarning ko'payishiga qarshi choralardan biri aholi punktlari va xonadonlarni obodonlashtirishdir. Xonadon devorlarining pastki qismini beton qoplama bilan yopish, ko'chalarni asfaltlash va hovlilarni pishiq g'isht bilan qoplash iskabtopar ko'payishining oldini oladi deb yozilgan. JSST aniqlagichiga ko'ra Ph. sergenti tekisliklarda shaharlarda uchraydi, chunki u yerda tog'dagiga o'xshash vertikal yuzalar va chuqur yashirinish joylari bor [1, 6].",
-      "Taqdimotda sanitariya-gigiyena choralari sifatida bo'sh yerlarni rejalashtirish va ko'kalamzorlashtirish, go'ng, chiqindi va axlatni muntazam tozalash, kemiruvchilar inlarini yo'qotish, loy binolarni ta'mirlash va keraksiz tashlandiq inshootlarni buzish ko'rsatilgan. JSST ham yomon uy-joy sharoiti chivin ko'payishini oshirishini qayd etadi [4, 5]."
-    ]},
-    {"heading": "Shaxsiy himoya", "content": [
-      "Shaxsiy profilaktika uchun repellentlar hamda uzoq muddat ta'sir qiluvchi insektitsid bilan ishlangan pashshaxonalardan foydalanish tavsiya etilgan. Yo'riqnomada repellentlar, insektitsid bilan ishlangan himoya vositalari orqali shaxsiy himoyalanish mumkinligi aytilgan va u davolash bayonnomasi bilan mos keladi [1, 7].",
-      "Bunday himoya ayniqsa shom va kechqurun, chivinlar faol bo'lgan vaqtda va yashirinish joylariga yaqin bo'lganda muhim. JSST o'rin-ko'rpa uchun to'r, himoya choralari va ochiq joyda yoki yerda uxlash xavfni oshirishini eslatib, shaxsiy himoya va xulq-atvor omillariga e'tibor qaratadi [4]."
-    ]},
-    {"heading": "Immunoprofilaktika", "content": [
-      "Yo'riqnomada ATL bilan kesishuvchi immunitet hosil qilish maqsadida zoonoz teri leyshmaniozi o'choqlarida L. major ning suyuq kulturasi bilan emlash olib borilishi qayd etilgan. Epidemiologik tekshirish kartasida ham bemor va oilasi teri leyshmaniozi bo'yicha qachon emlangani so'raladi [1, 8].",
-      "Pavlovich darsligiga ko'ra teri leyshmaniozlari profilaktikasi uchun tirik vaksina qo'llanadi va 3 oydan keyin deyarli umrbod immunitet hosil bo'ladi. Shu bilan birga ATL bilan kasallangandan keyin ham umrbod immunitet qolishi, lekin ba'zan kasallik qaytalanishi mumkinligi yo'riqnomada aytilgan [1, 2]."
-    ]},
-    {"heading": "Itlar bilan bog'liq choralar", "content": [
-      "Taqdimotda visseral va antroponoz teri leyshmaniozi uchun itlarni tizimli hisobga olish, veterinariya ko'rigi, faol aniqlash va kasal itlarni davolash yoki yo'q qilish, daydi itlarni tutish ko'rsatilgan. Itlarga mahalliy insektitsid qo'llash ham chivin orqali yuqishni kamaytirish uchun tavsiya etilgan [5].",
-      "ATL da itlarning roli manbalarda turlicha baholanganini hisobga olib, epidemiologik kartada uy va daydi itlarning borligi qayd etiladi. Yo'riqnomada visseral leyshmanioz profilaktikasi sanitariya va veterinariya xizmatlari hamkorligida o'tkazilishi aytilgan, ATL uchun esa bunday alohida ko'rsatma berilmagan [1, 8]."
-    ]},
-    {"heading": "Sanitariya-ma'rifiy ish va tashkiliy asoslar", "content": [
-      "Yo'riqnomada sanitariya-targ'ibot ishlari qo'zg'atuvchi, manba, tashuvchi, kasallikning birlamchi belgilari va profilaktikani tushuntirishni o'z ichiga oladi. Aholini obodonlashtirishga jalb qilish, repellent ishlatish, bemorni o'z vaqtida topish kabi tadbirlar chivinlar ko'payishini kamaytirishini anglatadi [1].",
-      "Taqdimotda sanitariya-ma'rifiy ish endemik hududda yashovchi va keluvchi xavf guruhlarini ham qamrab olishi ko'rsatilgan. JSST ham jamoani safarbar qilish va ta'lim mahalliy sharoitga moslashtirilishi kerakligini, jamoa va turli hamkorlar ishtiroki muhimligini qayd etadi [4, 5]."
-    ]},
-    {"heading": "Samaradorlikni baholash", "content": [
-      "Yo'riqnomaga ko'ra kasallikning aholi orasida tarqalish darajasini baholash uchun kasallanganlarni erta faol aniqlash usuli qo'llanadi. Kasallanganlarning o'rtacha yoshi o'rganilib, aholining tanlangan guruhlarida ko'rsatkich taqsimoti tahlil qilinadi va «yosh bo'yicha tarqalganlik» ko'rsatkichi aniqlanadi [1].",
-      "Chivinlarga qarshi ishlovdan keyingi soni bilan oldingi soni taqqoslanadi, taqdimotga ko'ra esa moskitlarning mavsumiy sonini kuzatish entomologik nazoratning bir qismi. Shuningdek taqdimotda o'tkazilgan chora-tadbirlar samarasini baholash va mintaqalar bo'yicha kasallanish tahlili vazifasi ham qo'yilgan [1, 5]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Yo'riqnomaning ATL bo'limida insektitsid nomlari, dozalari va ishlov muddatlari berilmagan; zoonoz shakl bo'limidagi xlorofos va dilor haqidagi ko'rsatmalar ATL uchun to'g'ridan-to'g'ri tasdiqlanmagan, shu sababli ular bu yerda keltirilmadi. DDT va geksoxloranning ishlatilishi cheklanganligi esa yo'riqnomada qayd etilgan [1].",
-      "Zoonoz teri leyshmaniozi o'choqlarida L. major kulturasi bilan emlashning hozirgi O'zbekiston amaliyotidagi o'rni, xavfsizligi va qo'llanish ko'lami tekshirilgan manbalarda berilmagan. ATL ga qarshi alohida vaksina haqida ham tasdiqlangan ma'lumot topilmadi, shuning uchun bu yo'nalish ehtiyotkorlik bilan yoritildi [1, 2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "ATL profilaktikasi bemorlarni (ayniqsa bolalar va migrantlarni) erta aniqlash va davolash, yaralarni himoya qilish, xonadon va qo'shnilarni insektitsid bilan ishlash, obodonlashtirish, shaxsiy himoya vositalari, itlar bilan bog'liq veterinariya choralari va sanitariya-ma'rifiy ishlardan iborat. Samara chivin sonini monitoring qilish va yosh bo'yicha tarqalganlik ko'rsatkichi bilan baholanadi [1, 5, 7]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Определитель москитов (Diptera, Psychodidae, Phlebotominae) Центральной Азии. Всемирная организация здравоохранения, 2019. ISBN 978 92 890 5454 6. xayrullokomilov.uz/kutubxona, material ID 1549.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi», «Oldini olish tadbirlari» bandi). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
-  ]
+ "number": 54,
+ "title": "54. Antroponoz teri leyshmaniozining profilaktikasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Antroponoz teri leyshmaniozida (ATL) manba bemor odam, tashuvchi esa Phlebotomus sergenti bo'lgani uchun profilaktika epidemik zanjirning ikki bo'g'ini, ya'ni bemorlar va iskabtopar chivinlar ustida olib boriladi. Qo'shimcha ravishda aholini himoya qilish, sanitariya holatini yaxshilash va immunoprofilaktika ham ko'rib chiqiladi [1, 7].",
+    "Ushbu mavzuda milliy yo'riqnoma va davolash bayonnomasidagi profilaktika choralari ketma-ket ko'rib chiqiladi: bemorlarni aniqlash va davolash, o'choqda zararsizlantirish, obodonlashtirish, shaxsiy himoya, immunoprofilaktika, itlar bilan bog'liq choralar va samarani baholash [1, 5]."
+   ]
+  },
+  {
+   "heading": "Profilaktikaning asosiy yo'nalishlari",
+   "content": [
+    "Davolash bayonnomasida ATL ni oldini olish tadbirlari beshta band bilan berilgan: bemorlarni faol aniqlash va yaralarni bog'lab davolash, iskabtoparlarni insektitsid bilan qirish va ko'payish joylarini yo'qotish, shaxsiy profilaktika, turar joylarni obodonlashtirish va sanitariya-targ'ibot ishlari [7].",
+    "Yo'riqnomada profilaktikaning ATL uchun bayon etilgan bo'limi bolalar va migrantlar orasida faol aniqlash, bemorlarni o'z vaqtida to'g'ri davolash, past yuqish davrida qaytalanuvchi leyshmaniozlarni erta aniqlash hamda iskabtopar ko'payishiga qarshi obodonlashtirish choralarini o'z ichiga oladi [1]."
+   ]
+  },
+  {
+   "heading": "Bemorlarni faol aniqlash va davolash",
+   "content": [
+    "Yo'riqnomada bemorni o'z vaqtida faol aniqlab davolash uning kasallik manbai sifatida rol o'ynashini oldini olishi ta'kidlangan. Aniqlash DPM xodimlari tomonidan xonadonma-xonadon yurib, bog'cha, maktab, korxona va dala shiyponlarida har bir shaxsni so'rov va ko'rikdan o'tkazish orqali amalga oshiriladi [1].",
+    "ATL da bolalar va migrantlar alohida e'tiborda bo'ladi. Polejayeva va hammualliflari ham profilaktika faol aniqlash va bemorlarni davolash orqali o'tkazilishini yozadi; JSST esa erta tashxis va samarali davolash kasallik tarqalishini kamaytirib, nogironlik va o'limning oldini olishini ta'kidlaydi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Yaralarni himoya qilish",
+   "content": [
+    "Yo'riqnomada iskabtopar chivinlarning zararlanishini kamaytirish uchun kechqurunlari bemorning yarasini bog'lab qo'yish tavsiya etilgan. Davolash bayonnomasida ham bemorlarni faol aniqlash bilan birga yaralarni majburiy bog'lab davolash profilaktika choralarining birinchi bandi sifatida berilgan [1, 7].",
+    "Chivin faol hujum qiladigan vaqt shom va kechqurun bo'lgani sababli, ochiq yara chivin uchun qo'zg'atuvchi olish joyi bo'lib qoladi. Shuning uchun shubhali bemorga birinchi yordam sifatida yaraga quruq bog'lam qo'yish va DSENM ga shoshilinch xabar berish ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Iskabtoparlarga qarshi zararsizlantirish",
+   "content": [
+    "Yo'riqnomaga ko'ra bemor aniqlangan xonadonning ichki va tashqi qismi insektitsid bilan ishlanadi. Iskabtoparlarning faol ko'payish mavsumi boshlanishidan oldin zararsizlantirish qo'shni xonadonlarni ham qamrab oladi, bu esa o'chog'ni atrofga kengayishidan ushlab turishga qaratilgan [1].",
+    "O'tkazilgan ishlovning samarasi iskabtopar populyatsiyasi monitoringi, ya'ni ishlovdan oldin va keyingi sonini taqqoslash orqali baholanadi. JSST ham chivinlarni kamaytiruvchi insektitsid purkash, insektitsid shimdirilgan to'rlar va muhitni boshqarishni vektorga qarshi kurash usullari qatorida keltiradi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Obodonlashtirish va ko'payish joylarini yo'qotish",
+   "content": [
+    "ATL da iskabtoparlarning ko'payishiga qarshi choralardan biri aholi punktlari va xonadonlarni obodonlashtirishdir. Xonadon devorlarining pastki qismini beton qoplama bilan yopish, ko'chalarni asfaltlash va hovlilarni pishiq g'isht bilan qoplash iskabtopar ko'payishining oldini oladi deb yozilgan. JSST aniqlagichiga ko'ra Ph. sergenti tekisliklarda shaharlarda uchraydi, chunki u yerda tog'dagiga o'xshash vertikal yuzalar va chuqur yashirinish joylari bor [1, 6].",
+    "Taqdimotda sanitariya-gigiyena choralari sifatida bo'sh yerlarni rejalashtirish va ko'kalamzorlashtirish, go'ng, chiqindi va axlatni muntazam tozalash, kemiruvchilar inlarini yo'qotish, loy binolarni ta'mirlash va keraksiz tashlandiq inshootlarni buzish ko'rsatilgan. JSST ham yomon uy-joy sharoiti chivin ko'payishini oshirishini qayd etadi [4, 5]."
+   ]
+  },
+  {
+   "heading": "Shaxsiy himoya",
+   "content": [
+    "Shaxsiy profilaktika uchun repellentlar hamda uzoq muddat ta'sir qiluvchi insektitsid bilan ishlangan pashshaxonalardan foydalanish tavsiya etilgan. Yo'riqnomada repellentlar, insektitsid bilan ishlangan himoya vositalari orqali shaxsiy himoyalanish mumkinligi aytilgan va u davolash bayonnomasi bilan mos keladi [1, 7].",
+    "Bunday himoya ayniqsa shom va kechqurun, chivinlar faol bo'lgan vaqtda va yashirinish joylariga yaqin bo'lganda muhim. JSST o'rin-ko'rpa uchun to'r, himoya choralari va ochiq joyda yoki yerda uxlash xavfni oshirishini eslatib, shaxsiy himoya va xulq-atvor omillariga e'tibor qaratadi [4]."
+   ]
+  },
+  {
+   "heading": "Immunoprofilaktika",
+   "content": [
+    "Yo'riqnomada ATL bilan kesishuvchi immunitet hosil qilish maqsadida zoonoz teri leyshmaniozi o'choqlarida L. major ning suyuq kulturasi bilan emlash olib borilishi qayd etilgan. Epidemiologik tekshirish kartasida ham bemor va oilasi teri leyshmaniozi bo'yicha qachon emlangani so'raladi [1, 8].",
+    "Pavlovich darsligiga ko'ra teri leyshmaniozlari profilaktikasi uchun tirik vaksina qo'llanadi va 3 oydan keyin deyarli umrbod immunitet hosil bo'ladi. Shu bilan birga ATL bilan kasallangandan keyin ham umrbod immunitet qolishi, lekin ba'zan kasallik qaytalanishi mumkinligi yo'riqnomada aytilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Itlar bilan bog'liq choralar",
+   "content": [
+    "Taqdimotda visseral va antroponoz teri leyshmaniozi uchun itlarni tizimli hisobga olish, veterinariya ko'rigi, faol aniqlash va kasal itlarni davolash yoki yo'q qilish, daydi itlarni tutish ko'rsatilgan. Itlarga mahalliy insektitsid qo'llash ham chivin orqali yuqishni kamaytirish uchun tavsiya etilgan [5].",
+    "ATL da itlarning roli manbalarda turlicha baholanganini hisobga olib, epidemiologik kartada uy va daydi itlarning borligi qayd etiladi. Yo'riqnomada visseral leyshmanioz profilaktikasi sanitariya va veterinariya xizmatlari hamkorligida o'tkazilishi aytilgan, ATL uchun esa bunday alohida ko'rsatma berilmagan [1, 8]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-ma'rifiy ish va tashkiliy asoslar",
+   "content": [
+    "Yo'riqnomada sanitariya-targ'ibot ishlari qo'zg'atuvchi, manba, tashuvchi, kasallikning birlamchi belgilari va profilaktikani tushuntirishni o'z ichiga oladi. Aholini obodonlashtirishga jalb qilish, repellent ishlatish, bemorni o'z vaqtida topish kabi tadbirlar chivinlar ko'payishini kamaytirishini anglatadi [1].",
+    "Taqdimotda sanitariya-ma'rifiy ish endemik hududda yashovchi va keluvchi xavf guruhlarini ham qamrab olishi ko'rsatilgan. JSST ham jamoani safarbar qilish va ta'lim mahalliy sharoitga moslashtirilishi kerakligini, jamoa va turli hamkorlar ishtiroki muhimligini qayd etadi [4, 5]."
+   ]
+  },
+  {
+   "heading": "Samaradorlikni baholash",
+   "content": [
+    "Yo'riqnomaga ko'ra kasallikning aholi orasida tarqalish darajasini baholash uchun kasallanganlarni erta faol aniqlash usuli qo'llanadi. Kasallanganlarning o'rtacha yoshi o'rganilib, aholining tanlangan guruhlarida ko'rsatkich taqsimoti tahlil qilinadi va «yosh bo'yicha tarqalganlik» ko'rsatkichi aniqlanadi [1].",
+    "Chivinlarga qarshi ishlovdan keyingi soni bilan oldingi soni taqqoslanadi, taqdimotga ko'ra esa moskitlarning mavsumiy sonini kuzatish entomologik nazoratning bir qismi. Shuningdek taqdimotda o'tkazilgan chora-tadbirlar samarasini baholash va mintaqalar bo'yicha kasallanish tahlili vazifasi ham qo'yilgan [1, 5]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "ATL profilaktikasi bemorlarni (ayniqsa bolalar va migrantlarni) erta aniqlash va davolash, yaralarni himoya qilish, xonadon va qo'shnilarni insektitsid bilan ishlash, obodonlashtirish, shaxsiy himoya vositalari, itlar bilan bog'liq veterinariya choralari va sanitariya-ma'rifiy ishlardan iborat. Samara chivin sonini monitoring qilish va yosh bo'yicha tarqalganlik ko'rsatkichi bilan baholanadi [1, 5, 7]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежайева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е. и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Определитель москитов (Diptera, Psychodidae, Phlebotominae) Центральной Азии. Всемирная организация здравоохранения, 2019. ISBN 978 92 890 5454 6. xayrullokomilov.uz/kutubxona, material ID 1549.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Antroponozli teri leyshmaniozining davolash bayonnomasi», «Oldini olish tadbirlari» bandi). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522."
+ ]
 }

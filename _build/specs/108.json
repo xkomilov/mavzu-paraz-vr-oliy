@@ -2,65 +2,103 @@
  "number": 108,
  "title": "108. Exinokokkoz qarshi kurashning kompleks chora-tadbirlarini tashkil etish.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Exinokokkoz odam, it va chorva hayvonlari ishtirok etadigan zoonoz bo'lgani uchun unga qarshi kurash faqat tibbiyot tizimi bilan hal bo'lmaydi. Milliy yo'riqnomada exinokokkoz bo'yicha epidemiologik nazorat tibbiy-veterinariya kompleks chora-tadbirlari sifatida belgilangan [2].",
-   "Ushbu mavzuda kompleksni tashkil etish ketma-ketligi ko'rib chiqiladi: yondashuv tamoyili, ijrochilar, ma'lumot yig'ish, hisobga olish, xavf guruhlarini tekshirish, davolash va kuzatuv, itlar va chorva bo'yicha tadbirlar, targ'ibot hamda samarani baholash. Oxirida tasdiqlanmagan jihatlar yoziladi [1, 2, 7]."
-  ]},
-  {"heading": "Kompleks yondashuv tamoyili", "content": [
-   "Qo'llanmada epidemik jarayon epizootiyaga bog'liqligi, hayvonlarda kasallik bo'lmasa odamda ham uchramasligi yozilgan. Shu sababli chora-tadbirlar epizootik va epidemik jarayonning barcha bo'g'inlariga qarshi yo'naltirilishi, epizootik o'choq ustidan epidemiologik kuzatuv olib borilishi kerak [1].",
-   "JSST kistoz exinokokkozni uy hayvonlari oxirgi va oraliq xo'jayin bo'lgani uchun oldini olish mumkin bo'lgan kasallik deb ataydi. Itlar va qo'ylar uchun choralar «Yagona salomatlik» yondashuvi doirasida, veterinariya va oziq-ovqat xavfsizligi organlari bilan birga rejalashtirilishi tavsiya etiladi [7]."
-  ]},
-  {"heading": "Tashkiliy asos va ijrochilar", "content": [
-   "Yo'riqnomaga ko'ra har bir exinokokkoz holatini epidemiologik tekshirishni hududiy DSENM parazitologlari veterinariya xodimlari ishtirokida o'tkazadi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur chora-tadbirlar bajarilishini nazorat qiladi [2].",
-   "Uslubiy qo'llanmada epidemiologik nazoratning vazifalari sifatida ma'lumotlarni tizimli yig'ish, laboratoriya kuzatuvi, hayvonlar sonini hisobga olish, ma'lumotlarni tahlil qilish va sog'liqni saqlash hamda veterinariya tashkilotlariga tavsiya berish keltirilgan. Axborot milliy xizmat, JSST va Xalqaro epizootik byuro bilan almashinadi [1]."
-  ]},
-  {"heading": "Ma'lumot yig'ish va tahlil", "content": [
-   "Yo'riqnomada DSENM ma'lum hudud va davr bo'yicha kasallanish, jarrohlik operatsiyalari soni, nogironlik, o'lim, iqtisodiy zarar hamda sanitariya-gigiyenik va tibbiy-profilaktik tadbirlarning hajmini tahlil qilishi ko'rsatilgan. Aholi immunitetini monitoring qilish ham rejalashtiriladi [2].",
-   "Qo'llanmada tahlil o'choqda ma'lum vaqt oralig'ida (oy, yarim yil, yil) o'tkazilib, qayerda, qachon, kimlar kasallanganiga javob berishi kerakligi yozilgan. Muntazam epidemiologik nazorat natijalari maqsadli chora-tadbirlarni rejalashtirish va tendensiya o'zgarishini aniqlash uchun asos bo'ladi [1]."
-  ]},
-  {"heading": "Hisobga olish va xabar berish tartibi", "content": [
-   "Yo'riqnomaga ko'ra jarroh, terapevt, rentgenolog yoki nevropatolog exinokokkozni aniqlasa, shoshilinch xabarnoma (ф.058/u) tuzilib DSENMga yuboriladi. Har bir holat DPMda ф.060/u jurnaliga yoziladi, DSENM kasalliklar hisobotida ф. №2 ga kiritiladi [2].",
-   "Aniqlangan bemorlarning hammasi «D» hisobiga olinadi, ф. №030/u to'ldiriladi. Bemorlar sonini aniqlash uchun DSENM parazitologlari ambulator kartalar, kasallik tarixi, statistik talonlar, operatsiyalar jurnali, biopsiya va autopsiya natijalarini retrospektiv tahlil qiladi, birinchi navbatda onkologiya, sil, jarrohlik va pulmonologiya bo'limlarida [2]."
-  ]},
-  {"heading": "Xavf guruhlarini aniqlash va tekshirish", "content": [
-   "Yo'riqnomada kasallanish xavfi bor aholi orasida har yili serologik tekshiruv (IFA) o'tkazish zarurligi ko'rsatilgan. Tekshiruv cho'ponlar, ovchilar, jun tayyorlovchilar, mo'yna sexi ishchilari va ularning oilalari, avval operatsiya qilinganlar, veterinariya xodimlari hamda it egalarini qamrab oladi [2].",
-   "Qo'llanmada endemik o'choqlarda aholini ommaviy tibbiy ko'rikdan o'tkazish kasallikni erta aniqlashga imkon berishi, ko'riklarni yuqori malakali xodimlar, avtotransport va ko'chma diagnostik asboblar bilan tashkil etish kerakligi yozilgan. Darslikda bu maqsadda ko'chma flyuorografik qurilmali brigadalar tavsiya etilgan [1, 4]."
-  ]},
-  {"heading": "Davolash va dispanser kuzatuvi", "content": [
-   "Bayonnomada davolashning asosiy usuli jarrohlik, kimyoterapiya esa xavfli holatlarda va qaytalanishning oldini olish uchun beriladi. Operatsiyadan keyin bemorlar 5 yil dispanser nazoratida turadi, 5 yil davomida qaytalanish bo'lmasa va serologik natija manfiy bo'lsa nazoratdan chiqariladi [3].",
-   "Yo'riqnomada operatsiya qilingan bemorlar yiliga bir-ikki marta qon, siydik, biokimyoviy tahlil, serologik reaksiya, ko'krak qafasi rentgeni va jigar exografiyasi bilan tekshirilishi, qaytalanishga qarshi albendazol 1 oy tayinlanishi ko'rsatilgan. Alveokokkoz bilan kasallanganlar umr bo'yi hisobda turadi [2]."
-  ]},
-  {"heading": "Itlar bo'yicha tadbirlar", "content": [
-   "JSST kistoz exinokokkozni nazorat qilishda itlarni prazikvantel bilan yiliga kamida to'rt marta degelmintizatsiya qilishni asosiy chora deb ko'rsatadi. Qo'llanmada daydi itlarni yo'q qilish, itlarni davolash va tuxum ajratadigan davrda ajratib qo'yish, o'lgan hayvonlarni ko'mish zarurligi yozilgan [1, 7].",
-   "Darslikda xizmat va uy itlarini muntazam tekshirish, gelmintozlar bo'yicha noqulay joylarda har chorakda degelmintizatsiya qilish hamda itlarni gigiyenik saqlash veterinariya xizmati vazifasi sifatida berilgan. Atlasda uy itlarini yiliga ikki marta degelmintizatsiya qilish tavsiya etilgan; chastotalar farq qiladi [4, 6]."
-  ]},
-  {"heading": "Chorva va so'yish joylarida nazorat", "content": [
-   "Yo'riqnomada mollarni so'yish, so'yish joylarining sanitariya holati, zararlangan a'zolarni to'liq yo'qotish, exinokokkozdan nobud bo'lgan hayvonlar va uy hayvonlarini hisobga olish ustidan doimiy nazorat belgilangan. Bunda daydi va egasiz itlarni yo'q qilish ham nazoratda turadi [2].",
-   "JSST so'yishda gigiyenani yaxshilash, shu jumladan zararlangan ichki a'zolarni to'g'ri yo'q qilish va jamoatchilik ma'rifati kistoz exinokokkoz tarqalishini kamaytirishini yozadi. Bayonnomada ichki a'zolarni itlarga yedirmaslik va so'yish joylariga daydi itlar kirishini taqiqlash qayd etilgan; darslikda ham zararlangan a'zolarni itlarga yedirmaslik ko'rsatilgan [3, 5, 7]."
-  ]},
-  {"heading": "Sanitariya-gelmintologik nazorat", "content": [
-   "Yo'riqnomaga ko'ra o'choqlarda ichki muhitni ifloslantiruvchi manba, yuqish yo'llari va omillarini uzish uchun sanitariya-gelmintologik tekshiruv o'tkaziladi. Tekshiruv rejali va epidemiologik ko'rsatma bo'yicha DSENM xodimlari tomonidan itlar saqlanadigan joylarda, fermer xonadonlarida va chorvador xo'jaliklarda bajariladi [2].",
-   "Namuna olishda hayvonlar turadigan joydan 10 m atrofdagi tuproq va ko'katlar tekshiriladi, bir obyektdan 25 ta surtma, 4 tadan tuproq, sabzavot, ko'kat va suv olinadi. Namunalar 24 soatda tekshiriladi; qishda itlar tuxum ajratishi to'xtashi, bahorda avj olishi hisobga olinadi [2]."
-  ]},
-  {"heading": "Immunoprofilaktika imkoniyatlari", "content": [
-   "JSST qo'ylarni E. granulosus rekombinant antigeni (EG95) bilan emlash istiqbolli ekanini va vaksina Xitoy va Argentinada ro'yxatdan o'tganini yozadi. Qo'zilarni emlash, itlarni degelmintizatsiya qilish va keksa qo'ylarni brakka chiqarish dasturi 10 yildan kamroq muddatda odamda kasallikni yo'qotishi mumkin [7].",
-   "Qo'llanmada ham EG95 bilan emlash istiqbolli profilaktik chora deb ko'rsatilgan, 1990-yillarda O'zbekistonda hayvonlar exinokokkoziga qarshi vaksina yaratilgani aytilgan. Biroq O'zbekiston sharoitida erta tashxis, degelmintizatsiya va immunoprofilaktikaga asoslangan usullar bo'yicha tadqiqotlar yetarli o'tkazilmagan [1]."
-  ]},
-  {"heading": "Sanitariya-tarbiyaviy ishlar", "content": [
-   "Qo'llanmada exinokokkoz bilan kasallanish darajasi aholining bilim darajasi bilan to'g'ri bog'liqligi va sanitariya-oqartuv ishlari ahamiyati Koreya, Xitoy va Mo'g'uliston misolida ko'rsatilgan. Chorvachilik rayonlarida cho'ponlar katta rol o'ynashi mumkin, shuning uchun ular yuqish yo'llari bilan tanishishi kerak [1].",
-   "Yo'riqnomada sanitariya-targ'ibot sifatida kinofilmlar, ilmiy-ommabop adabiyot, plakatlar va eslatmalar nazarda tutilgan. Bayonnomada ham shaxsiy gigiena qoidalariga rioya qilish, qo'lni mevalar, itlar va er ishlaridan keyin yaxshilab yuvish tavsiya etilgan [2, 3]."
-  ]},
-  {"heading": "Samarani baholash va monitoring", "content": [
-   "Yo'riqnomada o'tkazilgan chora-tadbirlar samarasini baholashda tashqi muhit o'choqda sanitariya-gelmintologik nazoratdan o'tkaziladi. Shuningdek, kasalliklar o'choqlari kadastri yuritilib, barqaror o'choqlar, tekshirilmagan hududlar va birinchi navbatda chora ko'riladigan aholi kontingentini aniqlash uchun ishlatiladi [2].",
-   "JSST kasallanish yiliga 100 ming aholiga 5 ta holat bo'lgan hududni giperendemik deb belgilagan, davlat darajasida epidemiologik va nazorat jarayoni ko'rsatkichlari ishlab chiqilmoqda. Qo'llanmaga ko'ra Islandiya kompleks tadbirlar tufayli 1953 yilga kelib kasallikni bartaraf etgan [1, 7]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan milliy hujjatlarda O'zbekistonda exinokokkozga qarshi kompleks dasturning hududlar bo'yicha maqsadli ko'rsatkichlari, itlarni degelmintizatsiya qilish chastotasi va davlat dasturi muddati topilmadi. Shu sababli bu raqamlar yozilmadi; faqat manbalardagi tavsiyalar keltirildi [1, 2].",
-   "Itlarni degelmintizatsiya qilish chastotasi JSST (yiliga kamida to'rt marta), darslik (har chorakda) va atlasda (yiliga ikki marta) farq qiladi. Qaysi tartib O'zbekiston sharoiti uchun rasmiy ekani manbalarda aniqlanmadi, shuning uchun uchala ma'lumot ko'rsatildi [4, 6, 7]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Exinokokkozga qarshi kompleks aholini faol aniqlash va davolash, dispanser kuzatuvi, itlarni degelmintizatsiya qilish, so'yish joylarida nazorat, sanitariya-gelmintologik tekshiruv, targ'ibot va samarani monitoring qilishni birlashtiradi. Uni DSENM va veterinariya xizmati birgalikda, o'zaro axborot almashinuvi bilan tashkil etishi zarur [1, 2, 7]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Exinokokkoz odam, it va chorva hayvonlari ishtirok etadigan zoonoz bo'lgani uchun unga qarshi kurash faqat tibbiyot tizimi bilan hal bo'lmaydi. Milliy yo'riqnomada exinokokkoz bo'yicha epidemiologik nazorat tibbiy-veterinariya kompleks chora-tadbirlari sifatida belgilangan [2].",
+    "Ushbu mavzuda kompleksni tashkil etish ketma-ketligi ko'rib chiqiladi: yondashuv tamoyili, ijrochilar, ma'lumot yig'ish, hisobga olish, xavf guruhlarini tekshirish, davolash va kuzatuv, itlar va chorva bo'yicha tadbirlar, targ'ibot hamda samarani baholash [1, 2, 7]."
+   ]
+  },
+  {
+   "heading": "Kompleks yondashuv tamoyili",
+   "content": [
+    "Qo'llanmada epidemik jarayon epizootiyaga bog'liqligi, hayvonlarda kasallik bo'lmasa odamda ham uchramasligi yozilgan. Shu sababli chora-tadbirlar epizootik va epidemik jarayonning barcha bo'g'inlariga qarshi yo'naltirilishi, epizootik o'choq ustidan epidemiologik kuzatuv olib borilishi kerak [1].",
+    "JSST kistoz exinokokkozni uy hayvonlari oxirgi va oraliq xo'jayin bo'lgani uchun oldini olish mumkin bo'lgan kasallik deb ataydi. Itlar va qo'ylar uchun choralar «Yagona salomatlik» yondashuvi doirasida, veterinariya va oziq-ovqat xavfsizligi organlari bilan birga rejalashtirilishi tavsiya etiladi [7]."
+   ]
+  },
+  {
+   "heading": "Tashkiliy asos va ijrochilar",
+   "content": [
+    "Yo'riqnomaga ko'ra har bir exinokokkoz holatini epidemiologik tekshirishni hududiy DSENM parazitologlari veterinariya xodimlari ishtirokida o'tkazadi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holati va zarur chora-tadbirlar bajarilishini nazorat qiladi [2].",
+    "Uslubiy qo'llanmada epidemiologik nazoratning vazifalari sifatida ma'lumotlarni tizimli yig'ish, laboratoriya kuzatuvi, hayvonlar sonini hisobga olish, ma'lumotlarni tahlil qilish va sog'liqni saqlash hamda veterinariya tashkilotlariga tavsiya berish keltirilgan. Axborot milliy xizmat, JSST va Xalqaro epizootik byuro bilan almashinadi [1]."
+   ]
+  },
+  {
+   "heading": "Ma'lumot yig'ish va tahlil",
+   "content": [
+    "Yo'riqnomada DSENM ma'lum hudud va davr bo'yicha kasallanish, jarrohlik operatsiyalari soni, nogironlik, o'lim, iqtisodiy zarar hamda sanitariya-gigiyenik va tibbiy-profilaktik tadbirlarning hajmini tahlil qilishi ko'rsatilgan. Aholi immunitetini monitoring qilish ham rejalashtiriladi [2].",
+    "Qo'llanmada tahlil o'choqda ma'lum vaqt oralig'ida (oy, yarim yil, yil) o'tkazilib, qayerda, qachon, kimlar kasallanganiga javob berishi kerakligi yozilgan. Muntazam epidemiologik nazorat natijalari maqsadli chora-tadbirlarni rejalashtirish va tendensiya o'zgarishini aniqlash uchun asos bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Hisobga olish va xabar berish tartibi",
+   "content": [
+    "Yo'riqnomaga ko'ra jarroh, terapevt, rentgenolog yoki nevropatolog exinokokkozni aniqlasa, shoshilinch xabarnoma (ф.058/u) tuzilib DSENMga yuboriladi. Har bir holat DPMda ф.060/u jurnaliga yoziladi, DSENM kasalliklar hisobotida ф. №2 ga kiritiladi [2].",
+    "Aniqlangan bemorlarning hammasi «D» hisobiga olinadi, ф. №030/u to'ldiriladi. Bemorlar sonini aniqlash uchun DSENM parazitologlari ambulator kartalar, kasallik tarixi, statistik talonlar, operatsiyalar jurnali, biopsiya va autopsiya natijalarini retrospektiv tahlil qiladi, birinchi navbatda onkologiya, sil, jarrohlik va pulmonologiya bo'limlarida [2]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlarini aniqlash va tekshirish",
+   "content": [
+    "Yo'riqnomada kasallanish xavfi bor aholi orasida har yili serologik tekshiruv (IFA) o'tkazish zarurligi ko'rsatilgan. Tekshiruv cho'ponlar, ovchilar, jun tayyorlovchilar, mo'yna sexi ishchilari va ularning oilalari, avval operatsiya qilinganlar, veterinariya xodimlari hamda it egalarini qamrab oladi [2].",
+    "Qo'llanmada endemik o'choqlarda aholini ommaviy tibbiy ko'rikdan o'tkazish kasallikni erta aniqlashga imkon berishi, ko'riklarni yuqori malakali xodimlar, avtotransport va ko'chma diagnostik asboblar bilan tashkil etish kerakligi yozilgan. Darslikda bu maqsadda ko'chma flyuorografik qurilmali brigadalar tavsiya etilgan [1, 4]."
+   ]
+  },
+  {
+   "heading": "Davolash va dispanser kuzatuvi",
+   "content": [
+    "Bayonnomada davolashning asosiy usuli jarrohlik, kimyoterapiya esa xavfli holatlarda va qaytalanishning oldini olish uchun beriladi. Operatsiyadan keyin bemorlar 5 yil dispanser nazoratida turadi, 5 yil davomida qaytalanish bo'lmasa va serologik natija manfiy bo'lsa nazoratdan chiqariladi [3].",
+    "Yo'riqnomada operatsiya qilingan bemorlar yiliga bir-ikki marta qon, siydik, biokimyoviy tahlil, serologik reaksiya, ko'krak qafasi rentgeni va jigar exografiyasi bilan tekshirilishi, qaytalanishga qarshi albendazol 1 oy tayinlanishi ko'rsatilgan. Alveokokkoz bilan kasallanganlar umr bo'yi hisobda turadi [2]."
+   ]
+  },
+  {
+   "heading": "Itlar bo'yicha tadbirlar",
+   "content": [
+    "JSST kistoz exinokokkozni nazorat qilishda itlarni prazikvantel bilan yiliga kamida to'rt marta degelmintizatsiya qilishni asosiy chora deb ko'rsatadi. Qo'llanmada daydi itlarni yo'q qilish, itlarni davolash va tuxum ajratadigan davrda ajratib qo'yish, o'lgan hayvonlarni ko'mish zarurligi yozilgan [1, 7].",
+    "Darslikda xizmat va uy itlarini muntazam tekshirish, gelmintozlar bo'yicha noqulay joylarda har chorakda degelmintizatsiya qilish hamda itlarni gigiyenik saqlash veterinariya xizmati vazifasi sifatida berilgan. Atlasda uy itlarini yiliga ikki marta degelmintizatsiya qilish tavsiya etilgan; chastotalar farq qiladi [4, 6]."
+   ]
+  },
+  {
+   "heading": "Chorva va so'yish joylarida nazorat",
+   "content": [
+    "Yo'riqnomada mollarni so'yish, so'yish joylarining sanitariya holati, zararlangan a'zolarni to'liq yo'qotish, exinokokkozdan nobud bo'lgan hayvonlar va uy hayvonlarini hisobga olish ustidan doimiy nazorat belgilangan. Bunda daydi va egasiz itlarni yo'q qilish ham nazoratda turadi [2].",
+    "JSST so'yishda gigiyenani yaxshilash, shu jumladan zararlangan ichki a'zolarni to'g'ri yo'q qilish va jamoatchilik ma'rifati kistoz exinokokkoz tarqalishini kamaytirishini yozadi. Bayonnomada ichki a'zolarni itlarga yedirmaslik va so'yish joylariga daydi itlar kirishini taqiqlash qayd etilgan; darslikda ham zararlangan a'zolarni itlarga yedirmaslik ko'rsatilgan [3, 5, 7]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-gelmintologik nazorat",
+   "content": [
+    "Yo'riqnomaga ko'ra o'choqlarda ichki muhitni ifloslantiruvchi manba, yuqish yo'llari va omillarini uzish uchun sanitariya-gelmintologik tekshiruv o'tkaziladi. Tekshiruv rejali va epidemiologik ko'rsatma bo'yicha DSENM xodimlari tomonidan itlar saqlanadigan joylarda, fermer xonadonlarida va chorvador xo'jaliklarda bajariladi [2].",
+    "Namuna olishda hayvonlar turadigan joydan 10 m atrofdagi tuproq va ko'katlar tekshiriladi, bir obyektdan 25 ta surtma, 4 tadan tuproq, sabzavot, ko'kat va suv olinadi. Namunalar 24 soatda tekshiriladi; qishda itlar tuxum ajratishi to'xtashi, bahorda avj olishi hisobga olinadi [2]."
+   ]
+  },
+  {
+   "heading": "Immunoprofilaktika imkoniyatlari",
+   "content": [
+    "JSST qo'ylarni E. granulosus rekombinant antigeni (EG95) bilan emlash istiqbolli ekanini va vaksina Xitoy va Argentinada ro'yxatdan o'tganini yozadi. Qo'zilarni emlash, itlarni degelmintizatsiya qilish va keksa qo'ylarni brakka chiqarish dasturi 10 yildan kamroq muddatda odamda kasallikni yo'qotishi mumkin [7].",
+    "Qo'llanmada ham EG95 bilan emlash istiqbolli profilaktik chora deb ko'rsatilgan, 1990-yillarda O'zbekistonda hayvonlar exinokokkoziga qarshi vaksina yaratilgani aytilgan. Biroq O'zbekiston sharoitida erta tashxis, degelmintizatsiya va immunoprofilaktikaga asoslangan usullar bo'yicha tadqiqotlar yetarli o'tkazilmagan [1]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-tarbiyaviy ishlar",
+   "content": [
+    "Qo'llanmada exinokokkoz bilan kasallanish darajasi aholining bilim darajasi bilan to'g'ri bog'liqligi va sanitariya-oqartuv ishlari ahamiyati Koreya, Xitoy va Mo'g'uliston misolida ko'rsatilgan. Chorvachilik rayonlarida cho'ponlar katta rol o'ynashi mumkin, shuning uchun ular yuqish yo'llari bilan tanishishi kerak [1].",
+    "Yo'riqnomada sanitariya-targ'ibot sifatida kinofilmlar, ilmiy-ommabop adabiyot, plakatlar va eslatmalar nazarda tutilgan. Bayonnomada ham shaxsiy gigiena qoidalariga rioya qilish, qo'lni mevalar, itlar va er ishlaridan keyin yaxshilab yuvish tavsiya etilgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Samarani baholash va monitoring",
+   "content": [
+    "Yo'riqnomada o'tkazilgan chora-tadbirlar samarasini baholashda tashqi muhit o'choqda sanitariya-gelmintologik nazoratdan o'tkaziladi. Shuningdek, kasalliklar o'choqlari kadastri yuritilib, barqaror o'choqlar, tekshirilmagan hududlar va birinchi navbatda chora ko'riladigan aholi kontingentini aniqlash uchun ishlatiladi [2].",
+    "JSST kasallanish yiliga 100 ming aholiga 5 ta holat bo'lgan hududni giperendemik deb belgilagan, davlat darajasida epidemiologik va nazorat jarayoni ko'rsatkichlari ishlab chiqilmoqda. Qo'llanmaga ko'ra Islandiya kompleks tadbirlar tufayli 1953 yilga kelib kasallikni bartaraf etgan [1, 7]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Exinokokkozga qarshi kompleks aholini faol aniqlash va davolash, dispanser kuzatuvi, itlarni degelmintizatsiya qilish, so'yish joylarida nazorat, sanitariya-gelmintologik tekshiruv, targ'ibot va samarani monitoring qilishni birlashtiradi. Uni DSENM va veterinariya xizmati birgalikda, o'zaro axborot almashinuvi bilan tashkil etishi zarur [1, 2, 7]."
+   ]
+  }
  ],
  "references": [
   "Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati: o'quv-uslubiy qo'llanma. Toshkent: Toshkent tibbiyot akademiyasi, 2021. xayrullokomilov.uz/kutubxona, material ID 1607.",

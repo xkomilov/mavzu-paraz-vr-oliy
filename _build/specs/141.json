@@ -1,60 +1,91 @@
 {
-  "number": 141,
-  "title": "141. Visseral leyshmaniozning kasallik tarixidan ko'chirma va dispanser nazorati.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Visseral leyshmanioz bilan kasallangan bemor shifoxonadan chiqqach, davolash ma'lumotlari kasallik tarixidan ko'chirma ko'rinishida davolash-profilaktika muassasasidan sanitariya-epidemiologik xizmatga beriladi, bemor esa qaytalanish xavfi sababli dispanser nazoratiga olinadi. Bu ikki hujjat va tadbir kasallik o'chog'i bo'yicha qarorlar uchun asos bo'ladi [1, 3].",
-      "Ushbu mavzuda ko'chirmaga kiritiladigan ma'lumotlar, ularning manbalardagi asosi, dispanser nazoratining jadvali, hisobdan chiqarish shartlari va davolashni baholash testi ko'rib chiqiladi. Alohida epikriz shakli manbalarda topilmagani ochiq aytiladi [1, 2, 3]."
-    ]},
-    {"heading": "Ko'chirma qaysi hujjatlardan beriladi", "content": [
-      "Parazitar kasalliklarning epidemiologik nazorati yo'riqnomasiga ko'ra yakuniy ma'lumot bilan birga Respublika DSENMga DPMdan bemorning ambulator kartasidan, kasallik tarixi varag'idan va epidemiologik tekshiruv kartasidan ko'chirmalar taqdim etilishi lozim [3].",
-      "Har qanday o'lim holatida «Statsionar yotgan bemor kartasi»dan to'liq ko'chirma, shuningdek patologoanatomik va gistologik tekshiruv protokoli ma'lumotlari talab qilinadi. Yakuniy ma'lumot o'choq tugagandan keyin 7 kundan kechiktirmay olinishi kerak [3]."
-    ]},
-    {"heading": "Bemor va kasallanish haqidagi ma'lumotlar", "content": [
-      "Navbatdan tashqari ma'lumot shakli bemorning ism-sharifi yoki yashash manzilini, ish yoki o'qish joyini, kasallangan, murojaat qilgan, yotqizilgan va o'lim kunlarini, yotqizilgan muassasa nomi va bo'limini so'raydi. Yotqizish yo'llanmasi hamda DPM yo'llanmasi bo'yicha tashxis ham yoziladi [3].",
-      "Epidemiologik anamnezda ichki leyshmaniozga kasallanganlik, bir yil ichida donor qoni olinganligi va muolajalar olinganligi, taxmin qilingan manba va yuqish yo'li, avval shu kasallikni o'tkazgani va qachon ekani ko'rsatiladi. Bemor bilan muloqotda bo'lganlar ham yoziladi [3]."
-    ]},
-    {"heading": "Tashxis va laboratoriya ma'lumotlari", "content": [
-      "Ko'chirmada qon yoki boshqa namuna olingan, laboratoriyaga keltirilgan va tekshirilgan kunlar, natija va qo'zg'atuvchi turi lotincha nomi bilan yoziladi. Yo'riqnomaga ko'ra VL tashxisi suyak ko'migi, taloq, jigar yoki limfa tugunlarida leyshmaniyalar topilishiga asoslanadi [3, 1].",
-      "Serologik usulda ELISA, rK39 tez-test va PZR qo'llanadi, residivga shubha bo'lsa yagona parazitologik usul ishlatiladi. JSST holat ta'rifiga ko'ra VL holati davomli tartibsiz isitma, splenomegaliya va vazn yo'qotishi klinik belgilari hamda serologik yoki parazitologik tasdiqdan iborat [1, 4]."
-    ]},
-    {"heading": "Davo haqidagi ma'lumotlar", "content": [
-      "Epidemiologik tekshiruv kartasi yo'riqnomasiga ko'ra davolashning boshlangan kuni, qayerda va qanday usulda o'tkazilgani, davomiyligi, qaysi preparat bilan va qanday dozada davolangani yoziladi. Navbatdan tashqari ma'lumotda ham maxsus davo preparati nomi, miqdori va olingan kun ko'rsatiladi [3].",
-      "Bayonnomadagi umumiy tuzilma ham tashxis tasniflanishi, og'irlik mezonlari, gospitalizatsiya, bazis, etiotrop va patogenetik davo bo'limlaridan iborat. Shu sababli ko'chirmada kurs davomiyligi, preparat va yordamchi davo ma'lumoti aniq bo'lishi dispanserda baholash uchun muhim [3, 5]."
-    ]},
-    {"heading": "Klinik va laboratoriya dinamikasi", "content": [
-      "Yo'riqnomada davo samarasi klinik jihatdan tana haroratining ko'tarilmasligi, holatning yaxshilanishi, taloq hajmining kichrayishi, gemoglobinning ko'payishi, vaznning barqarorlashishi yoki oshishi bilan baholanadi. Residivli bemorlarni shifokor har hafta, undan ham tez-tez ko'rishi kerak [1].",
-      "Standartlar jadvalida VL uchun umumiy qon tahlili, bilirubin, AsAT, AlAT, timol sinamasi, umumiy oqsil va uning fraksiyalari ko'rsatilgan, ayrim bo'g'inlarda suyak ko'migi punktatini tekshirish ham kiradi. Sog'ayish mezoni klinik-tahliliy ko'rsatkichlar me'yorlashishi va umumiy holat yaxshilanishidir [2]."
-    ]},
-    {"heading": "Dispanser nazoratining jadvali", "content": [
-      "Yo'riqnomaga ko'ra kasallikning qaytalanishini hisobga olib, bemor kasalxonadan chiqqach dispanser nazoratiga olinadi va 1, 3, 6, 9 va 12 oydan keyin qon tahlillari, ya'ni leykotsit, eritrotsit va leykotsitar formula tekshiriladi [1].",
-      "Birlamchi kursdan so'ng limfa tugunlari, taloq va suyak ko'migi tekshirilib, parazitologik tahlillar manfiy bo'lsa va kasallik belgilari bo'lmasa, bemor 12 oydan keyin dispanser hisobidan chiqariladi. Taqdimotda dispanser nazorati kasallanganlar va seropozitiv shaxslarni ham qamrab olishi ko'rsatilgan [1, 4]."
-    ]},
-    {"heading": "Davolashni baholash testi va residiv", "content": [
-      "Davolashni baholash testi davodan keyin klinik sog'ayish kuzatilmasa, klinik residiv bo'lsa yoki davo uzilib belgilar qaytsa o'tkaziladi. Residiv taxminan 5 foiz bemorlarda, OIV bilan kasallanganlarda 12 oy ichida 50 foizgacha uchraydi va ko'pincha shifoxonadan chiqqandan keyin 6 oygacha qayd etiladi [1].",
-      "Birlamchi residivdan keyin ham ikkilamchi residiv bo'lishi mumkin. Residivli bemorlar to'liq davolangach va baholash testi manfiy bo'lgandagina shifoxonadan chiqariladi, chunki takroriy residivlarni davolash juda qiyin. OIVli bemorlarda davo boshlanishidan oldin parazit miqdorini aniqlash tavsiya qilinadi [1]."
-    ]},
-    {"heading": "Standartdagi kuzatuv muddati", "content": [
-      "Parazitar kasalliklarni tashxisoti va davolash standartlari jadvalida VL uchun kuzatuvning o'rtacha muddati birlamchi bo'g'inda bir yilgacha ko'rsatilgan. Uchlamchi bo'g'indagi jadvalda bir yil mobaynida har oylik ko'rik bilan kuzatish qayd etilgan [2].",
-      "Bu yozuv yo'riqnomadagi 1, 3, 6, 9 va 12 oylik tekshiruv jadvalidan farq qiladi: standart oylik ko'rikni nazarda tutadi, yo'riqnoma esa qon tahlillarini aniq oylarga bog'laydi. Umumiy muddat ikkala manbada bir yil bo'lib mos keladi, farq ko'riklar chastotasida [1, 2]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor ko'chirmada tashxis tasdig'i, davo kursi va chiqarish sanasi to'liq ekanini tekshiradi, o'chog'ni epidemiologik tekshiruv kartasi bilan taqqoslaydi. Chunki 2016 yil tahlilida hisobot sanalari haqiqatga to'g'ri kelmagani, masalan Samarqand viloyatida hamma bemor kasallangan kunning o'zida aniqlangani qayd etilgan [4].",
-      "Shuningdek u dispanser jadvaliga rioya qilinishini nazorat qilib, residivlarni erta topishga xizmat qiladi. Taqdimotga ko'ra laboratoriya tasdiqlagan holatlarga davo 24 soat ichida boshlanishi va dispanser kuzatuvi kasallanganlar hamda seropozitiv shaxslar uchun olib borilishi nazarda tutilgan [4]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Ko'rilgan manbalarda visseral leyshmanioz uchun alohida epikriz yoki kasallik tarixidan ko'chirma shakli (shablon, shakl raqami) topilmadi. Ko'chirma tarkibi yuqorida 7-ilovadagi navbatdan tashqari va yakuniy ma'lumot ro'yxatlariga tayanib tavsiflandi, ularning barchasi VL uchun alohida belgilanmagan [3].",
-      "Seropozitiv shaxslar dispanser nazoratining muddati va tekshiruv hajmi, shuningdek dispanser hisobining shakl raqami manbalarda ko'rsatilmagan. Standartdagi qo'shimcha «6 oygacha» yozuvi jadval ustunlarining sarlavhasi bo'lmagani sababli talqin qilinmadi [2, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Visseral leyshmaniozda kasallik tarixidan ko'chirma bemor identifikatsiyasi, epidemiologik anamnez, laboratoriya tasdig'i va davo ma'lumotlarini o'z ichiga olib yakuniy ma'lumot bilan DSENMga topshiriladi, dispanser nazorati esa 1, 3, 6, 9 va 12 oy qon tahlillari bilan bir yil davom etib, parazitologik manfiylik va belgilar yo'qligida yakunlanadi [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559."
-  ]
+ "number": 141,
+ "title": "141. Visseral leyshmaniozning kasallik tarixidan ko'chirma va dispanser nazorati.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Visseral leyshmanioz bilan kasallangan bemor shifoxonadan chiqqach, davolash ma'lumotlari kasallik tarixidan ko'chirma ko'rinishida davolash-profilaktika muassasasidan sanitariya-epidemiologik xizmatga beriladi, bemor esa qaytalanish xavfi sababli dispanser nazoratiga olinadi. Bu ikki hujjat va tadbir kasallik o'chog'i bo'yicha qarorlar uchun asos bo'ladi [1, 3].",
+    "Ushbu mavzuda ko'chirmaga kiritiladigan ma'lumotlar, ularning manbalardagi asosi, dispanser nazoratining jadvali, hisobdan chiqarish shartlari va davolashni baholash testi ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Ko'chirma qaysi hujjatlardan beriladi",
+   "content": [
+    "Parazitar kasalliklarning epidemiologik nazorati yo'riqnomasiga ko'ra yakuniy ma'lumot bilan birga Respublika DSENMga DPMdan bemorning ambulator kartasidan, kasallik tarixi varag'idan va epidemiologik tekshiruv kartasidan ko'chirmalar taqdim etilishi lozim [3].",
+    "Har qanday o'lim holatida «Statsionar yotgan bemor kartasi»dan to'liq ko'chirma, shuningdek patologoanatomik va gistologik tekshiruv protokoli ma'lumotlari talab qilinadi. Yakuniy ma'lumot o'choq tugagandan keyin 7 kundan kechiktirmay olinishi kerak [3]."
+   ]
+  },
+  {
+   "heading": "Bemor va kasallanish haqidagi ma'lumotlar",
+   "content": [
+    "Navbatdan tashqari ma'lumot shakli bemorning ism-sharifi yoki yashash manzilini, ish yoki o'qish joyini, kasallangan, murojaat qilgan, yotqizilgan va o'lim kunlarini, yotqizilgan muassasa nomi va bo'limini so'raydi. Yotqizish yo'llanmasi hamda DPM yo'llanmasi bo'yicha tashxis ham yoziladi [3].",
+    "Epidemiologik anamnezda ichki leyshmaniozga kasallanganlik, bir yil ichida donor qoni olinganligi va muolajalar olinganligi, taxmin qilingan manba va yuqish yo'li, avval shu kasallikni o'tkazgani va qachon ekani ko'rsatiladi. Bemor bilan muloqotda bo'lganlar ham yoziladi [3]."
+   ]
+  },
+  {
+   "heading": "Tashxis va laboratoriya ma'lumotlari",
+   "content": [
+    "Ko'chirmada qon yoki boshqa namuna olingan, laboratoriyaga keltirilgan va tekshirilgan kunlar, natija va qo'zg'atuvchi turi lotincha nomi bilan yoziladi. Yo'riqnomaga ko'ra VL tashxisi suyak ko'migi, taloq, jigar yoki limfa tugunlarida leyshmaniyalar topilishiga asoslanadi [1, 3].",
+    "Serologik usulda ELISA, rK39 tez-test va PZR qo'llanadi, residivga shubha bo'lsa yagona parazitologik usul ishlatiladi. JSST holat ta'rifiga ko'ra VL holati davomli tartibsiz isitma, splenomegaliya va vazn yo'qotishi klinik belgilari hamda serologik yoki parazitologik tasdiqdan iborat [1, 4]."
+   ]
+  },
+  {
+   "heading": "Davo haqidagi ma'lumotlar",
+   "content": [
+    "Epidemiologik tekshiruv kartasi yo'riqnomasiga ko'ra davolashning boshlangan kuni, qayerda va qanday usulda o'tkazilgani, davomiyligi, qaysi preparat bilan va qanday dozada davolangani yoziladi. Navbatdan tashqari ma'lumotda ham maxsus davo preparati nomi, miqdori va olingan kun ko'rsatiladi [3].",
+    "Bayonnomadagi umumiy tuzilma ham tashxis tasniflanishi, og'irlik mezonlari, gospitalizatsiya, bazis, etiotrop va patogenetik davo bo'limlaridan iborat. Shu sababli ko'chirmada kurs davomiyligi, preparat va yordamchi davo ma'lumoti aniq bo'lishi dispanserda baholash uchun muhim [3, 5]."
+   ]
+  },
+  {
+   "heading": "Klinik va laboratoriya dinamikasi",
+   "content": [
+    "Yo'riqnomada davo samarasi klinik jihatdan tana haroratining ko'tarilmasligi, holatning yaxshilanishi, taloq hajmining kichrayishi, gemoglobinning ko'payishi, vaznning barqarorlashishi yoki oshishi bilan baholanadi. Residivli bemorlarni shifokor har hafta, undan ham tez-tez ko'rishi kerak [1].",
+    "Standartlar jadvalida VL uchun umumiy qon tahlili, bilirubin, AsAT, AlAT, timol sinamasi, umumiy oqsil va uning fraksiyalari ko'rsatilgan, ayrim bo'g'inlarda suyak ko'migi punktatini tekshirish ham kiradi. Sog'ayish mezoni klinik-tahliliy ko'rsatkichlar me'yorlashishi va umumiy holat yaxshilanishidir [2]."
+   ]
+  },
+  {
+   "heading": "Dispanser nazoratining jadvali",
+   "content": [
+    "Yo'riqnomaga ko'ra kasallikning qaytalanishini hisobga olib, bemor kasalxonadan chiqqach dispanser nazoratiga olinadi va 1, 3, 6, 9 va 12 oydan keyin qon tahlillari, ya'ni leykotsit, eritrotsit va leykotsitar formula tekshiriladi [1].",
+    "Birlamchi kursdan so'ng limfa tugunlari, taloq va suyak ko'migi tekshirilib, parazitologik tahlillar manfiy bo'lsa va kasallik belgilari bo'lmasa, bemor 12 oydan keyin dispanser hisobidan chiqariladi. Taqdimotda dispanser nazorati kasallanganlar va seropozitiv shaxslarni ham qamrab olishi ko'rsatilgan [1, 4]."
+   ]
+  },
+  {
+   "heading": "Davolashni baholash testi va residiv",
+   "content": [
+    "Davolashni baholash testi davodan keyin klinik sog'ayish kuzatilmasa, klinik residiv bo'lsa yoki davo uzilib belgilar qaytsa o'tkaziladi. Residiv taxminan 5 foiz bemorlarda, OIV bilan kasallanganlarda 12 oy ichida 50 foizgacha uchraydi va ko'pincha shifoxonadan chiqqandan keyin 6 oygacha qayd etiladi [1].",
+    "Birlamchi residivdan keyin ham ikkilamchi residiv bo'lishi mumkin. Residivli bemorlar to'liq davolangach va baholash testi manfiy bo'lgandagina shifoxonadan chiqariladi, chunki takroriy residivlarni davolash juda qiyin. OIVli bemorlarda davo boshlanishidan oldin parazit miqdorini aniqlash tavsiya qilinadi [1].",
+    "JSST ma'lumotiga ko'ra visseral leyshmaniozdan keyin kala-azardan keyingi teri leyshmanoidi (PKDL) rivojlanishi mumkin. U odatda yuz, yelka va tanada dog'li, papulali yoki tugunli toshma ko'rinishida bo'lib, asosan Sharqiy Afrika va Hind yarim orolida uchraydi; Hind yarim orolida kala-azar bilan og'riganlarning 5-10 foizida qayd etiladi [6]."
+   ]
+  },
+  {
+   "heading": "Standartdagi kuzatuv muddati",
+   "content": [
+    "Parazitar kasalliklarni tashxisoti va davolash standartlari jadvalida VL uchun kuzatuvning o'rtacha muddati birlamchi bo'g'inda bir yilgacha ko'rsatilgan. Uchlamchi bo'g'indagi jadvalda bir yil mobaynida har oylik ko'rik bilan kuzatish qayd etilgan [2].",
+    "Bu yozuv yo'riqnomadagi 1, 3, 6, 9 va 12 oylik tekshiruv jadvalidan farq qiladi: standart oylik ko'rikni nazarda tutadi, yo'riqnoma esa qon tahlillarini aniq oylarga bog'laydi. Umumiy muddat ikkala manbada bir yil bo'lib mos keladi, farq ko'riklar chastotasida [1, 2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor ko'chirmada tashxis tasdig'i, davo kursi va chiqarish sanasi to'liq ekanini tekshiradi, o'chog'ni epidemiologik tekshiruv kartasi bilan taqqoslaydi. Chunki 2016 yil tahlilida hisobot sanalari haqiqatga to'g'ri kelmagani, masalan Samarqand viloyatida hamma bemor kasallangan kunning o'zida aniqlangani qayd etilgan [4].",
+    "Shuningdek u dispanser jadvaliga rioya qilinishini nazorat qilib, residivlarni erta topishga xizmat qiladi. Taqdimotga ko'ra laboratoriya tasdiqlagan holatlarga davo 24 soat ichida boshlanishi va dispanser kuzatuvi kasallanganlar hamda seropozitiv shaxslar uchun olib borilishi nazarda tutilgan [4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Visseral leyshmaniozda kasallik tarixidan ko'chirma bemor identifikatsiyasi, epidemiologik anamnez, laboratoriya tasdig'i va davo ma'lumotlarini o'z ichiga olib yakuniy ma'lumot bilan DSENMga topshiriladi, dispanser nazorati esa 1, 3, 6, 9 va 12 oy qon tahlillari bilan bir yil davom etib, parazitologik manfiylik va belgilar yo'qligida yakunlanadi [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis"
+ ]
 }

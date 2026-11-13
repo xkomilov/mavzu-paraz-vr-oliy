@@ -4,10 +4,12 @@ Sana: 2026-11-13. Manba: `Parazitolog-vraç-oliy-toifa.docx` (1 sarlavha qatori 
 
 ## 1. Fayllar va hajm
 - Yaratilgan: 148 ta fayl — manbadagi 148 mavzuga mos (`check_outputs.py --expected 148`: mos).
-- So'z soni (sarlavha va adabiyotlarsiz): min 837 (063), max 1403 (138). 800 dan kam fayl yo'q. XATO yo'q.
+- So'z soni (sarlavha va adabiyotlarsiz): min 804, max 1314 (repetitorlik uslubidagi bo'limlar olib tashlangandan keyin). 800 dan kam fayl yo'q. XATO yo'q.
 - Manbalar: asosan xayrullokomilov.uz/kutubxona (121-son buyruq va 7 ilovasi, 166-son standart va bayonnomalar, 473-son bezgak protokoli, bezgak qo'llanmasi 2009, Jahongirov 2016, exinokokkoz uslubiy qo'llanmasi, SOM'lar, Pavlovich 2012, Polejayeva 2017, Bajora 2001, Romanenko 2000 va b.), shuningdek who.int, NCBI/PMC, lex.uz.
 
-## 2. Tasdiqlanmagan faktlar (asosiy guruhlar; har faylda «Tasdiqlanmagan ma'lumotlar» bo'limi bor)
+## 2. Tasdiqlanmagan faktlar (asosiy guruhlar)
+
+Maqolalar matnida «Tasdiqlanmagan ma'lumotlar» bo'limi yo'q (foydalanuvchi qarori, 2026-11-13). Har bir fayl bo'yicha to'liq ro'yxat: `_build/tasdiqlanmagan.md`.
 - O'zbekiston bo'yicha joriy statistika (viloyatlar kesimida kasallanish, zararlanish foizlari, o'choqlar soni) deyarli barcha mavzularda manbalarda topilmadi — raqam yozilmadi (masalan 040, 073, 074, 087–094, 095, 125, 132, 139, 142, 143).
 - 005: mikstinvaziya ta'rifi iqtibos bilan tasdiqlanmagan.
 - 007, 030: bezgak individual kimyoprofilaktikasi uchun milliy preparat/doza topilmadi; JSST albendazol/mebendazol dozalari milliy bayonnoma bilan solishtirilmagan.

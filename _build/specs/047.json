@@ -1,111 +1,104 @@
 {
-  "number": 47,
-  "title": "47. Zoonoz teri leyshmaniozining profilaktikasi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Zoonoz teri leyshmaniozining profilaktikasi kasallik zanjirining har bir bo'g'ini, ya'ni manba bo'lgan kemiruvchilar, tashuvchi iskabtoparlar va moyil aholiga qaratilgan chora-tadbirlar majmuasidir. Kasallik tabiiy o'choqli bo'lgani uchun faqat bemorni davolash profilaktika vazifasini bajarmaydi. Shu sababli profilaktika bir vaqtda bir necha yo'nalishda olib boriladi [1, 2].",
-        "Mavzuda avval milliy yo'riqnomadagi profilaktika yo'nalishlari, so'ng kemiruvchilar va iskabtoparlarga qarshi choralar, shaxsiy himoya, sanitar-obodonlashtirish, erta aniqlash va maxsus profilaktika ko'rib chiqiladi. Keyin samarani baholash, manbalardagi farqlar va tasdiqlanmagan jihatlar ochiq yoritiladi. Har bir band milliy hujjat va taqdimot ma'lumotlariga tayanadi [1, 3]."
-      ]
-    },
-    {
-      "heading": "Profilaktika yo'nalishlari",
-      "content": [
-        "Yo'riqnomaga ko'ra teri leyshmanioziga qarshi kompleks choralar yetti yo'nalishdan iborat: qum sichqonlariga qarshi kurash, iskabtoparlarga qarshi kurash, iskabtoparlar hujumidan individual himoyalanish, kasallarni erta aniqlash va davolash hamda epidemiologik tekshiruv, maxsus profilaktika, aholi punktlari sanitar holatini yaxshilash va sanitariya-ma'rifat ishlari [1].",
-        "Milliy davolash bayonnomasida zoonoz shakl uchun besh yo'nalish keltirilgan: qum sichqonlariga qarshi dala deratizatsiyasi va ularning yashash maydonlarini vayron qilish, iskabtoparlarga qarshi dezinseksiya, shaxsiy himoya, aholi turar joyi atrofini obodonlashtirish va sanitariya-targ'ibot. Ikkala hujjat mazmunan mos keladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Manbaga qarshi chora: deratizatsiya",
-      "content": [
-        "Zoonoz shaklda profilaktikaning asosiy bo'g'ini katta qum sichqonlarini yo'qotishdir. Dala deratizatsiyasi aholi punktlari va dala shiyponlaridan 3-5 km radiusda yiliga 3 marta o'tkaziladi, mexanik usulda esa qum sichqonlari to'dalari traktor yordamida buzib tashlanadi. Bu chora kasallik zanjirining asosiy bo'g'inini uzadi [1].",
-        "Mexanik usul zaharli kimyoviy vositalarni talab qilmaydi va bir vaqtning o'zida manbani, tashuvchining yashash joyini yo'qotadi. Biroq u ariq, kanal bo'ylarida, temir yo'l atrofida va qabristonlarda qo'llanmaydi, u yerlarda faqat zaharli yem ishlatiladi. Usullar keyingi mavzuda batafsil ko'riladi [1]."
-      ]
-    },
-    {
-      "heading": "Tashuvchiga qarshi chora: dezinseksiya",
-      "content": [
-        "Iskabtoparlarga qarshi kurash dala va aholi punktlarida, hayvonlar inlarida o'tkaziladi. Yo'riqnomada u ikki turda, birinchisi aprel o'rtalarida boshlanib may boshigacha, ikkinchisi iyul davomida o'tkazilishi, kemiruvchi inlari esa aholi punktidan 3 km radiusda ishlanishi ko'rsatilgan [1].",
-        "Respublika markazi taqdimotiga ko'ra iskabtoparlarga qarshi choralar qatoriga entomologik nazorat, ya'ni turlar tarkibini o'rganish va tabiatda hamda aholi punktlarida sonining mavsumiy o'zgarishini kuzatish kiradi. Bunday nazorat dezinseksiya vaqtini aniq belgilashga imkon beradi. Shu tariqa tadbirlar iskabtoparlarning real faolligiga moslashtiriladi [3]."
-      ]
-    },
-    {
-      "heading": "Shaxsiy himoya",
-      "content": [
-        "Iskabtopar hujumidan shaxsiy himoyalanish repellentlar, himoya kiyimi, deraza va eshiklarga to'r tutish hamda pashshaxona kabi vositalar bilan ta'minlanadi. Yo'riqnomada bu choralar mexanik va kimyoviy usullar sifatida tavsiya etilgan, chunki iskabtopar shom va kechqurun faol bo'ladi [1].",
-        "JSST ham tashuvchiga qarshi kurash usullari qatorida insektitsid purkash, insektitsid shimdirilgan to'rlar, atrof-muhitni boshqarish va shaxsiy himoyani sanaydi. Demak, shaxsiy himoya mahalliy sharoitga moslashtirilgan holda, boshqa choralar bilan birga qo'llanilishi lozim. Bu usullar ayniqsa iskabtopar faol bo'ladigan shom va kechqurun paytida muhim [1, 6]."
-      ]
-    },
-    {
-      "heading": "Sanitar-obodonlashtirish",
-      "content": [
-        "Sanitar-obodonlashtirish aholi punktlarida iskabtoparlar ko'payadigan joylarni yo'qotishga qaratilgan. Unga hududlarni axlat, tashlandiqlar va go'ngdan muntazam tozalash, kemiruvchi inlarini buzish, tashlandiq bostirmalarni buzish, qabristonlarni obodonlashtirish kiradi va 3-5 km radiusda o'tkaziladi. Bu ishlar xo'jalik tashkilotlari, ya'ni sovxoz, kolxoz va qurilish tashkilotlari tomonidan bajariladi [1].",
-        "Taqdimotda ham bo'sh hududlarni rejalashtirish va ko'kalamzorlashtirish, go'ng va chiqindilardan tozalash, kemiruvchi inlarini yo'qotish, loy binolarni ta'mirlash va keraksiz inshootlarni buzish sanitar-gigiyenik choralar sifatida sanalgan. JSST ham yomon uy-joy va sanitariya iskabtopar ko'payishini oshirishini ta'kidlaydi [3, 6]."
-      ]
-    },
-    {
-      "heading": "Bemorlarni erta aniqlash va davolash",
-      "content": [
-        "Bemorni o'z vaqtida faol aniqlab davolash uni kasallik manbai sifatida o'ynashi mumkin bo'lgan rolning oldini oladi. Aniqlash DPM xodimlari tomonidan xonadonma-xonadon yurib, maktab, bog'cha va dala shiyponlarida iyuldan oktyabrgacha haftada 2 marta o'tkaziladi. Bolalar muassasalarida bunday tekshiruv ayniqsa muhim [1].",
-        "Zoonoz shaklda odam epidemik jihatdan manba hisoblanmaydi, shuning uchun bemorni aniqlash bu shaklda birinchi navbatda asoratlarni kamaytirish, o'choqning mavjudligini bilish va epidemiologik tekshiruvni boshlash uchun muhim. Antropoz shaklda esa bu choralar manbani yo'qotishning o'zidir [1, 4]."
-      ]
-    },
-    {
-      "heading": "Maxsus profilaktika",
-      "content": [
-        "Yo'riqnomada teri leyshmaniozi kompleks choralari qatorida maxsus profilaktika alohida band sifatida ko'rsatilgan, antropoz shaklga qarshi kesishuvchi immunitet hosil qilish uchun zoonoz o'choqlarda L. major ning suyuq madaniyati bilan emlash ishlari olib borilishi aytilgan. Bu band yo'riqnomadagi yetti yo'nalishning beshinchisi sifatida ko'rsatilgan [1].",
-        "Darslikda teri leyshmaniozlari profilaktikasi uchun tirik vaksina qo'llanishi, emlangandan 3 oy o'tgach mustahkam immunitet hosil bo'lishi, leyshmanizatsiya, ya'ni virulent shtamm bilan sun'iy zararlash yuqori samarali chora bo'lib qolishi yozilgan. Bu usulning bugungi qo'llanishi bo'yicha ma'lumot topilmadi [4, 5]."
-      ]
-    },
-    {
-      "heading": "Sanitariya-targ'ibot va rejalashtirish",
-      "content": [
-        "Sanitariya-targ'ibot ishlariga aholini jalb etish chora-tadbirlarni ancha yengillashtiradi va yaxshi samara beradi. Targ'ibotda kasallik qo'zg'atuvchisi, manbai, yuqtiruvchisi, dastlabki belgilari va profilaktikasi bayon etiladi, aholi dezinseksiya, bemorni o'z vaqtida topish va repellentlardan foydalanishga chaqiriladi. Aholining har bir vakili kurashda ishtirok etishi kerakligi alohida ta'kidlangan [1].",
-        "Aholi punktlarini qurishni loyihalashda DSENM xodimlari dastlabki (rekognossirovka) tekshiruvi o'tkazib, hududning yaroqliligini aniqlaydi. Tabiiy o'choq yaqinida qurilish zarur bo'lsa, 3-5 km radiusda yerni haydash va tekislash tavsiya qilinadi. Bu profilaktikaning shaharsozlik jihatidir. Shu tariqa profilaktika qurilish bosqichidayoq boshlanadi [1]."
-      ]
-    },
-    {
-      "heading": "Profilaktika samarasini baholash",
-      "content": [
-        "Deratizatsiya samarasi dastlabki va keyingi qum sichqonlari soni bilan, dezinseksiya samarasi esa iskabtoparlar soni bilan baholanadi. Hisobotda shuningdek aholi orasida kasallanish darajasi, kasallanganlarning o'rtacha yoshi va «yosh tarqalganlik» ko'rsatkichi o'rganiladi. Bu ko'rsatkichlar profilaktika sifati va o'choq holatini obyektiv baholash uchun kerak [1].",
-        "Ko'rsatkichlar yil sayin qiyoslanishi kerak, chunki profilaktikaning samarasi kelgusi mavsumda ko'rinadi. Masalan, deratizatsiyaning uchinchi turi keyingi yilda epidemiologik samara berishi mumkin bo'lgan, qishdan chiqadigan kemiruvchilar sonini kamaytirishga qaratilgan. Shu sababli bir mavsumdagi natijaga qarab chora samarasiz deb hukm qilish to'g'ri emas [1]."
-      ]
-    },
-    {
-      "heading": "Manbalardagi farqlar",
-      "content": [
-        "JSST tavsiyalariga ko'ra kemiruvchilar ustidan nazorat zoonoz teri leyshmaniozida juda samarali bo'lishi mumkin; sobiq SSSRda qum sichqonlari koloniyalari haydash, zaharli yem va tabiiy to'siqlar bilan deyarli to'liq yo'q qilingan, ammo bu usullar qimmat. Taqdimotda ayni usullar iskabtopar ko'payish joylarini yo'qotishda ham ba'zi hududlarda samarali bo'lgani aytilgan [3].",
-        "Darslikda esa xuddi shunday profilaktika moliyaviy cheklovlar sabab hozir o'tkazilmasligi, uy-joy va kemiruvchi inlariga insektitsid purkash kam samarali ekani, eng samarali chora esa leyshmanizatsiya bo'lib qolishi ta'kidlangan. O'zbekiston yo'riqnomasi dezinseksiyani kompleksning tarkibiy qismi sifatida saqlaydi [1, 4]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Parazitolog-shifokor profilaktikani o'choqning xususiyatiga qarab rejalashtiradi: zoonoz o'choqda deratizatsiya va kemiruvchi inlarini dezinseksiya qilish, antropoz o'choqda bemorni faol aniqlash va aholi turar joylarini ishlash ustun. Reja mahalliy hokimiyat bilan kelishiladi, hamkor tashkilotlar jalb etiladi [1].",
-        "ZTL ga qarshi choralarni sifatli o'tkazish uchun DSENM bosh vrachi, parazitologiya bo'limi mudiri va leyshmaniozga qarshi kurash guruhi boshlig'i javobgardir. Reja aholining kasallanishi, qo'zg'atuvchining tabiiy manbalarda tarqalganligi, fauna va iskabtoparlar soniga asoslanadi. Rejaning bajarilishi uchun mas'uliyat aniq mansabdorlarga yuklatiladi [1]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda zoonoz teri leyshmaniozi bo'yicha O'zbekistonda hozir emlash (leyshmanizatsiya) o'tkazilishi, qo'llanadigan shtamm, ko'rsatma va asoratlari to'g'risida ma'lumot yo'q. Shu bois emlash faqat tarixiy va adabiy ma'lumot sifatida eslatildi, amaliy tavsiya sifatida berilmadi. Shu sababli bu masala bo'yicha qaror mahalliy rasmiy hujjatlarga asoslanishi kerak [1, 4].",
-        "Profilaktik choralarning aniq epidemiologik samarasi, ya'ni kasallanishning necha foizga kamayishi O'zbekiston uchun manbalarda keltirilmagan. Shuningdek insektitsid va rodentitsidlarning bugungi ro'yxatdan o'tgan nomlari va me'yorlari alohida tekshirilishi kerak, chunki yo'riqnomada eski vositalar ham tilga olingan [1]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Zoonoz teri leyshmaniozining profilaktikasi kemiruvchilarga qarshi deratizatsiya, iskabtoparlarga qarshi dezinseksiya, shaxsiy himoya, sanitar-obodonlashtirish, bemorlarni faol aniqlash va davolash hamda sanitariya-targ'ibotdan iborat kompleks bo'lib, uning samarasi dastlabki va keyingi ko'rsatkichlarni solishtirib baholanadi. Profilaktikaning to'liq samarasi uchun barcha yo'nalishlar mahalliy hokimiyat va hamkor tashkilotlar bilan kelishilgan rejada birlashtirilishi kerak [1, 2, 3]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis"
-  ]
+ "number": 47,
+ "title": "47. Zoonoz teri leyshmaniozining profilaktikasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Zoonoz teri leyshmaniozining profilaktikasi kasallik zanjirining har bir bo'g'ini, ya'ni manba bo'lgan kemiruvchilar, tashuvchi iskabtoparlar va moyil aholiga qaratilgan chora-tadbirlar majmuasidir. Kasallik tabiiy o'choqli bo'lgani uchun faqat bemorni davolash profilaktika vazifasini bajarmaydi. Shu sababli profilaktika bir vaqtda bir necha yo'nalishda olib boriladi [1, 2].",
+    "Mavzuda avval milliy yo'riqnomadagi profilaktika yo'nalishlari, so'ng kemiruvchilar va iskabtoparlarga qarshi choralar, shaxsiy himoya, sanitar-obodonlashtirish, erta aniqlash va maxsus profilaktika ko'rib chiqiladi. Keyin samarani baholash va manbalardagi farqlar yoritiladi. Har bir band milliy hujjat va taqdimot ma'lumotlariga tayanadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Profilaktika yo'nalishlari",
+   "content": [
+    "Yo'riqnomaga ko'ra teri leyshmanioziga qarshi kompleks choralar yetti yo'nalishdan iborat: qum sichqonlariga qarshi kurash, iskabtoparlarga qarshi kurash, iskabtoparlar hujumidan individual himoyalanish, kasallarni erta aniqlash va davolash hamda epidemiologik tekshiruv, maxsus profilaktika, aholi punktlari sanitar holatini yaxshilash va sanitariya-ma'rifat ishlari [1].",
+    "Milliy davolash bayonnomasida zoonoz shakl uchun besh yo'nalish keltirilgan: qum sichqonlariga qarshi dala deratizatsiyasi va ularning yashash maydonlarini vayron qilish, iskabtoparlarga qarshi dezinseksiya, shaxsiy himoya, aholi turar joyi atrofini obodonlashtirish va sanitariya-targ'ibot. Ikkala hujjat mazmunan mos keladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Manbaga qarshi chora: deratizatsiya",
+   "content": [
+    "Zoonoz shaklda profilaktikaning asosiy bo'g'ini katta qum sichqonlarini yo'qotishdir. Dala deratizatsiyasi aholi punktlari va dala shiyponlaridan 3-5 km radiusda yiliga 3 marta o'tkaziladi, mexanik usulda esa qum sichqonlari to'dalari traktor yordamida buzib tashlanadi. Bu chora kasallik zanjirining asosiy bo'g'inini uzadi [1].",
+    "Mexanik usul zaharli kimyoviy vositalarni talab qilmaydi va bir vaqtning o'zida manbani, tashuvchining yashash joyini yo'qotadi. Biroq u ariq, kanal bo'ylarida, temir yo'l atrofida va qabristonlarda qo'llanmaydi, u yerlarda faqat zaharli yem ishlatiladi. Usullar keyingi mavzuda batafsil ko'riladi [1]."
+   ]
+  },
+  {
+   "heading": "Tashuvchiga qarshi chora: dezinseksiya",
+   "content": [
+    "Iskabtoparlarga qarshi kurash dala va aholi punktlarida, hayvonlar inlarida o'tkaziladi. Yo'riqnomada u ikki turda, birinchisi aprel o'rtalarida boshlanib may boshigacha, ikkinchisi iyul davomida o'tkazilishi, kemiruvchi inlari esa aholi punktidan 3 km radiusda ishlanishi ko'rsatilgan [1].",
+    "Respublika markazi taqdimotiga ko'ra iskabtoparlarga qarshi choralar qatoriga entomologik nazorat, ya'ni turlar tarkibini o'rganish va tabiatda hamda aholi punktlarida sonining mavsumiy o'zgarishini kuzatish kiradi. Bunday nazorat dezinseksiya vaqtini aniq belgilashga imkon beradi. Shu tariqa tadbirlar iskabtoparlarning real faolligiga moslashtiriladi [3]."
+   ]
+  },
+  {
+   "heading": "Shaxsiy himoya",
+   "content": [
+    "Iskabtopar hujumidan shaxsiy himoyalanish repellentlar, himoya kiyimi, deraza va eshiklarga to'r tutish hamda pashshaxona kabi vositalar bilan ta'minlanadi. Yo'riqnomada bu choralar mexanik va kimyoviy usullar sifatida tavsiya etilgan, chunki iskabtopar shom va kechqurun faol bo'ladi [1].",
+    "JSST ham tashuvchiga qarshi kurash usullari qatorida insektitsid purkash, insektitsid shimdirilgan to'rlar, atrof-muhitni boshqarish va shaxsiy himoyani sanaydi. Demak, shaxsiy himoya mahalliy sharoitga moslashtirilgan holda, boshqa choralar bilan birga qo'llanilishi lozim. Bu usullar ayniqsa iskabtopar faol bo'ladigan shom va kechqurun paytida muhim [1, 6]."
+   ]
+  },
+  {
+   "heading": "Sanitar-obodonlashtirish",
+   "content": [
+    "Sanitar-obodonlashtirish aholi punktlarida iskabtoparlar ko'payadigan joylarni yo'qotishga qaratilgan. Unga hududlarni axlat, tashlandiqlar va go'ngdan muntazam tozalash, kemiruvchi inlarini buzish, tashlandiq bostirmalarni buzish, qabristonlarni obodonlashtirish kiradi va 3-5 km radiusda o'tkaziladi. Bu ishlar xo'jalik tashkilotlari, ya'ni sovxoz, kolxoz va qurilish tashkilotlari tomonidan bajariladi [1].",
+    "Taqdimotda ham bo'sh hududlarni rejalashtirish va ko'kalamzorlashtirish, go'ng va chiqindilardan tozalash, kemiruvchi inlarini yo'qotish, loy binolarni ta'mirlash va keraksiz inshootlarni buzish sanitar-gigiyenik choralar sifatida sanalgan. JSST ham yomon uy-joy va sanitariya iskabtopar ko'payishini oshirishini ta'kidlaydi [3, 6]."
+   ]
+  },
+  {
+   "heading": "Bemorlarni erta aniqlash va davolash",
+   "content": [
+    "Bemorni o'z vaqtida faol aniqlab davolash uni kasallik manbai sifatida o'ynashi mumkin bo'lgan rolning oldini oladi. Aniqlash DPM xodimlari tomonidan xonadonma-xonadon yurib, maktab, bog'cha va dala shiyponlarida iyuldan oktyabrgacha haftada 2 marta o'tkaziladi. Bolalar muassasalarida bunday tekshiruv ayniqsa muhim [1].",
+    "Zoonoz shaklda odam epidemik jihatdan manba hisoblanmaydi, shuning uchun bemorni aniqlash bu shaklda birinchi navbatda asoratlarni kamaytirish, o'choqning mavjudligini bilish va epidemiologik tekshiruvni boshlash uchun muhim. Antropoz shaklda esa bu choralar manbani yo'qotishning o'zidir [1, 4]."
+   ]
+  },
+  {
+   "heading": "Maxsus profilaktika",
+   "content": [
+    "Yo'riqnomada teri leyshmaniozi kompleks choralari qatorida maxsus profilaktika alohida band sifatida ko'rsatilgan, antropoz shaklga qarshi kesishuvchi immunitet hosil qilish uchun zoonoz o'choqlarda L. major ning suyuq madaniyati bilan emlash ishlari olib borilishi aytilgan. Bu band yo'riqnomadagi yetti yo'nalishning beshinchisi sifatida ko'rsatilgan [1].",
+    "Darslikda teri leyshmaniozlari profilaktikasi uchun tirik vaksina qo'llanishi, emlangandan 3 oy o'tgach mustahkam immunitet hosil bo'lishi, leyshmanizatsiya, ya'ni virulent shtamm bilan sun'iy zararlash yuqori samarali chora bo'lib qolishi yozilgan. Bu usulning bugungi qo'llanishi bo'yicha ma'lumot topilmadi [4, 5]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-targ'ibot va rejalashtirish",
+   "content": [
+    "Sanitariya-targ'ibot ishlariga aholini jalb etish chora-tadbirlarni ancha yengillashtiradi va yaxshi samara beradi. Targ'ibotda kasallik qo'zg'atuvchisi, manbai, yuqtiruvchisi, dastlabki belgilari va profilaktikasi bayon etiladi, aholi dezinseksiya, bemorni o'z vaqtida topish va repellentlardan foydalanishga chaqiriladi. Aholining har bir vakili kurashda ishtirok etishi kerakligi alohida ta'kidlangan [1].",
+    "Aholi punktlarini qurishni loyihalashda DSENM xodimlari dastlabki (rekognossirovka) tekshiruvi o'tkazib, hududning yaroqliligini aniqlaydi. Tabiiy o'choq yaqinida qurilish zarur bo'lsa, 3-5 km radiusda yerni haydash va tekislash tavsiya qilinadi. Bu profilaktikaning shaharsozlik jihatidir. Shu tariqa profilaktika qurilish bosqichidayoq boshlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Profilaktika samarasini baholash",
+   "content": [
+    "Deratizatsiya samarasi dastlabki va keyingi qum sichqonlari soni bilan, dezinseksiya samarasi esa iskabtoparlar soni bilan baholanadi. Hisobotda shuningdek aholi orasida kasallanish darajasi, kasallanganlarning o'rtacha yoshi va «yosh tarqalganlik» ko'rsatkichi o'rganiladi. Bu ko'rsatkichlar profilaktika sifati va o'choq holatini obyektiv baholash uchun kerak [1].",
+    "Ko'rsatkichlar yil sayin qiyoslanishi kerak, chunki profilaktikaning samarasi kelgusi mavsumda ko'rinadi. Masalan, deratizatsiyaning uchinchi turi keyingi yilda epidemiologik samara berishi mumkin bo'lgan, qishdan chiqadigan kemiruvchilar sonini kamaytirishga qaratilgan. Shu sababli bir mavsumdagi natijaga qarab chora samarasiz deb hukm qilish to'g'ri emas [1]."
+   ]
+  },
+  {
+   "heading": "Manbalardagi farqlar",
+   "content": [
+    "JSST tavsiyalariga ko'ra kemiruvchilar ustidan nazorat zoonoz teri leyshmaniozida juda samarali bo'lishi mumkin; sobiq SSSRda qum sichqonlari koloniyalari haydash, zaharli yem va tabiiy to'siqlar bilan deyarli to'liq yo'q qilingan, ammo bu usullar qimmat. Taqdimotda ayni usullar iskabtopar ko'payish joylarini yo'qotishda ham ba'zi hududlarda samarali bo'lgani aytilgan [3].",
+    "Darslikda esa xuddi shunday profilaktika moliyaviy cheklovlar sabab hozir o'tkazilmasligi, uy-joy va kemiruvchi inlariga insektitsid purkash kam samarali ekani, eng samarali chora esa leyshmanizatsiya bo'lib qolishi ta'kidlangan. O'zbekiston yo'riqnomasi dezinseksiyani kompleksning tarkibiy qismi sifatida saqlaydi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor profilaktikani o'choqning xususiyatiga qarab rejalashtiradi: zoonoz o'choqda deratizatsiya va kemiruvchi inlarini dezinseksiya qilish, antropoz o'choqda bemorni faol aniqlash va aholi turar joylarini ishlash ustun. Reja mahalliy hokimiyat bilan kelishiladi, hamkor tashkilotlar jalb etiladi [1].",
+    "ZTL ga qarshi choralarni sifatli o'tkazish uchun DSENM bosh vrachi, parazitologiya bo'limi mudiri va leyshmaniozga qarshi kurash guruhi boshlig'i javobgardir. Reja aholining kasallanishi, qo'zg'atuvchining tabiiy manbalarda tarqalganligi, fauna va iskabtoparlar soniga asoslanadi. Rejaning bajarilishi uchun mas'uliyat aniq mansabdorlarga yuklatiladi [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Zoonoz teri leyshmaniozining profilaktikasi kemiruvchilarga qarshi deratizatsiya, iskabtoparlarga qarshi dezinseksiya, shaxsiy himoya, sanitar-obodonlashtirish, bemorlarni faol aniqlash va davolash hamda sanitariya-targ'ibotdan iborat kompleks bo'lib, uning samarasi dastlabki va keyingi ko'rsatkichlarni solishtirib baholanadi. Profilaktikaning to'liq samarasi uchun barcha yo'nalishlar mahalliy hokimiyat va hamkor tashkilotlar bilan kelishilgan rejada birlashtirilishi kerak [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis"
+ ]
 }

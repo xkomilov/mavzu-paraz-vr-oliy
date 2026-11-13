@@ -1,71 +1,98 @@
 {
-  "number": 7,
-  "title": "7. Qanday parazitar kasalliklarda kimyoprofilaktika qo'llaniladi va qaysi preparatlar ishlatiladi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Kimyoprofilaktika deganda kasallikning oldini olish maqsadida sog'lom, ammo zararlanish xavfi yuqori bo'lgan odamlar yoki aholi guruhlariga parazitga qarshi dori vositalarini berish tushuniladi. Parazitologiyada u asosan bezgak, ayrim gelmintozlar va tarixan ba'zi tripanosomozlarda qo'llanadi [1, 2].",
-      "Ushbu mavzuda avval bezgakdagi kimyoprofilaktika turlari: mavsum orasidagi, individual supressiv va mavsumiy kimyoprofilaktika, so'ng enterobioz va gimenolepidozda aloqadorlarni profilaktik davolash, JSSTning gelmintozlarga qarshi profilaktik kimyoterapiya tavsiyalari va boshqa misollar ko'rib chiqiladi [1, 3, 4]."
-    ]},
-    {"heading": "Kimyoprofilaktikaning maqsadi", "content": [
-      "Bezgak bo'yicha uslubiy qo'llanmada kimyoprofilaktika odamning bezgakdan individual himoya vositalaridan biri sifatida, dezanofelizatsiya va zooprofilaktika esa jamoaviy himoya vositalari sifatida ko'rsatilgan. Demak kimyoprofilaktika boshqa tadbirlar o'rnini bosmaydi, balki ularni to'ldiradi [1].",
-      "Kimyoprofilaktikada dori tanlash parazitning qaysi bosqichiga ta'sir qilish kerakligiga bog'liq: jigar to'qimasidagi uyqudagi shakllarga, eritrotsitlardagi jinssiz shakllarga yoki ichakdagi gelmintlarga. Shu sababli preparatlar gipnozoitotrop, gematoshizotrop va antigelmint guruhlarga bo'linadi [1]."
-    ]},
-    {"heading": "Bezgakda mavsum orasidagi kimyoprofilaktika", "content": [
-      "Qo'llanmaga ko'ra profilaktik davolash organizmni P. vivax gipnozoitlaridan xalos etish uchun buyuriladi. Kishining gipnozoitlar bilan zararlanganligini aniqlashning imkoni bo'lmagani uchun primaxin tavakkaliga qo'llanadi. Bunday davolash uch kunlik bezgak bilan zararlanish xavfi yuqori bo'lgan joydan chiqqan kishilarga buyuriladi [1].",
-      "U individual bo'lishi mumkin, masalan 1980 yillarda Afg'onistondan qaytgan harbiylar orasida qo'llangan, yoki ommaviy, uch kunlik bezgak epidemiyasi bo'lgan aholi punktlarida yuqishning mavsumiy tanaffusi davrida. Shu sababli bu usul mavsum orasidagi kimyoprofilaktika deb ataladi [1]."
-    ]},
-    {"heading": "Ommaviy primaxin profilaktikasining tashkiliy talablari", "content": [
-      "Qo'llanmada ommaviy primaxin profilaktikasi juda samarali, ammo qimmat va murakkab tadbir ekani, dori 14 kun davomida berilishi va muvaffaqiyat uchun aholining taxminan 95 foizini qamrab olish zarurligi ko'rsatilgan. Tibbiyot xodimlari har bir xonadonga har kuni borib, dori qabul qilinishini nazorat qiladi [1].",
-      "Ayrim kishilarda primaxin gemoliz chaqirishi mumkinligi sababli bemorlarning ahvoli, ayniqsa siydik rangining to'qlashishi so'raladi. Dori qabuli bir kundan ortiq o'tkazib yuborilsa va bu 10 kundan kam davrda bo'lsa, davolash qaytadan boshlanadi [1]."
-    ]},
-    {"heading": "Bezgakda individual supressiv kimyoprofilaktika", "content": [
-      "Supressiv davolash zararlanish xavfi yuqori bo'lgan kishini kasallikdan himoya qilish uchun buyuriladi va unda gematoshizotrop ta'sirli dorilar qo'llanadi. Dori zararlanishdan himoya qilmaydi, ammo parazitlar jigardan qonga chiqishi bilan ularni o'ldiradi. Bu individual kimyoprofilaktika deb ataladi [1].",
-      "Individual kimyoprofilaktika asosan tropik bezgak bo'yicha endemik hududlarga chiquvchilarga buyuriladi. Dori ketishdan bir hafta oldin boshlanadi, butun xavf davrida va undan keyin 1 oy davom ettiriladi. Dori tanlash bezgakka qarshi davolashning milliy siyosatiga muvofiq amalga oshiriladi [1]."
-    ]},
-    {"heading": "Supressiv profilaktikaning cheklovlari", "content": [
-      "Uch kunlik bezgakda supressiv kimyoprofilaktika faqat dastlabki belgilardan himoya qiladi va kechki, uzoq inkubatsiyali holatlarga ta'sir qilmaydi. Shu sababli kimyoprofilaktika olgan kishilar ko'pincha qaytib kelganidan bir necha oy o'tib uch kunlik bezgak bilan kasallanadi [1].",
-      "Ommaviy shakli, ya'ni yuqish davom etayotgan o'choqlar aholisiga beriladigan mavsumiy kimyoprofilaktika ham har doim o'zini oqlamaydi. Qo'llanmaga ko'ra u uzoq inkubatsiyali holatlar sonining sun'iy oshishiga olib kelishi mumkin, chunki belgilar mavsum orasida rivojlanadi [1]."
-    ]},
-    {"heading": "Bezgak profilaktikasida milliy talablar", "content": [
-      "121-son buyruqning bezgak bo'yicha yo'riqnomasida tropik va subtropik davlatlarga xizmat safariga yuboruvchi tashkilotlar va sayyohlik agentliklari bezgak bo'yicha yo'l-yo'riq o'tkazishi, maslahat xonalari tashkil etilishi va qaytgach kimyoprofilaktika olganligi haqida shifokorni ogohlantirish tavsiya etilishi belgilangan [3].",
-      "Yo'riqnomada chegaradosh hududlarda aholini bezgakdan saqlash tadbirlari qatorida epidemik ko'rsatmalarga asosan kimyoprofilaktika o'tkazish ham ko'rsatilgan. Bu tadbir pashshaxonalar, derazalarni to'r bilan to'sish va chivinlarga qarshi kurash bilan birga qo'llanadi [3]."
-    ]},
-    {"heading": "Kimyoprofilaktikada qo'llanmaydigan preparatlar", "content": [
-      "Bezgakni davolash protokolida artemeter-lyumefantrin kombinatsiyasi asoratsiz tropik bezgakni davolash uchun tavsiya etilgan, ammo u kimyoprofilaktika maqsadida qo'llanmasligi alohida ta'kidlangan. Bu davolash va profilaktika preparatlarini aralashtirmaslik zarurligini ko'rsatadi [5].",
-      "Protokolda tropik bezgakni davolash uchun artesunat asosidagi kombinatsiyalar, masalan artesunat va meflaxin, artesunat va amodiaxin ham keltirilgan. Biroq qaysi preparat kimyoprofilaktika uchun milliy tavsiya etilishi kutubxona manbalarida aniq ko'rsatilmagan, shuning uchun bu mavzuda profilaktik dozalar keltirilmaydi [5]."
-    ]},
-    {"heading": "Enterobioz va gimenolepidozda profilaktik davolash", "content": [
-      "121-son buyruqning gelmintozlar bo'yicha yo'riqnomasida oilada enterobioz yoki gimenolepidoz bilan aloqada bo'lganlar tekshirilishi yoki tekshiruvsiz profilaktik davolanishi belgilangan. Bunday davolashni turar joy yoki ish joyidagi davolovchi shifokor va muassasa rahbarlari ta'minlaydi [4].",
-      "Yopiq turdagi bolalar muassasalarida, masalan bolalar uyi va internatlarda, enterobioz aniqlangan bolalarga degelmintizatsiya o'tkaziladi, boshqa bolalarga esa oldindan tekshiruvsiz yiliga 2 marta 1 kurs profilaktik davolash o'tkaziladi. Muassasada enterobioz aniqlansa, bolalar va xodimlarning 100 foiziga 1-2 kurs degelmintizatsiya qilinadi [4]."
-    ]},
-    {"heading": "JSSTning profilaktik kimyoterapiya tavsiyalari", "content": [
-      "JSST tuproq orqali yuqadigan gelmintozlar, ya'ni askaridoz, trixotsefalyoz va ankilostomidozlarga qarshi xavf guruhlarida profilaktik kimyoterapiyani, ya'ni antigelmint dorilarni davriy ommaviy berishni tavsiya etadi. Bu tadbir suv, sanitariya va gigiena sharoitlarini yaxshilash bilan birga o'tkazilishi kerak [6, 7].",
-      "JSST tavsiyasiga ko'ra, bolalar orasida bunday invaziyalarning boshlang'ich tarqalishi 20 foiz va undan ko'p bo'lgan hududlarda 12 oylikdan 12 yoshgacha bo'lgan bolalarga yiliga bir yoki ikki marta albendazol 400 mg yoki mebendazol 500 mg bir martalik dozada beriladi, tarqalish 50 foizdan oshsa yiliga ikki marta beriladi [7]."
-    ]},
-    {"heading": "Boshqa misollar", "content": [
-      "Darslikda gambiya uyqu kasalligining epidemik ko'tarilishi yillarida pentamidin bilan ommaviy kimyoprofilaktika o'tkazilishi keltirilgan. Bu kasallik O'zbekistonda uchramaydi, ammo misol kimyoprofilaktikaning transmissiv protozoozlarda tashuvchiga qarshi tadbirlarni to'ldirish usuli ekanini ko'rsatadi [2].",
-      "Attestatsiya biletlarida ham bolalar o'rtasida ommaviy degelmintizatsiya uchun JSST tavsiya etgan dori vositalari va bezgakdagi kimyoprofilaktika turlari alohida savol sifatida berilgan. Bu mavzuning parazitolog-shifokor malakasi uchun ahamiyatini tasdiqlaydi [8]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor kimyoprofilaktikani rejalashtirishda epidemik ko'rsatmani, qamrov darajasini, preparat xavfsizligini va qarshi ko'rsatmalarni hisobga oladi. Masalan, ommaviy primaxin profilaktikasida gemoliz xavfi sababli kunlik kuzatuv tashkil etiladi, enterobiozda esa davolash dam olish kunlariga rejalashtiriladi [1, 4].",
-      "Kimyoprofilaktika natijasi albatta baholanishi kerak: bezgakda qaytgan shaxslar 3 yil davomida dispanser kuzatuvida bo'ladi, gelmintozlarda esa nazorat tahlillari o'tkaziladi. Bu tadbirlar profilaktikaning haqiqiy samarasini ko'rsatadi [3, 4]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Bezgakning individual kimyoprofilaktikasi uchun hozirgi milliy tavsiya etilgan preparatlar ro'yxati va dozalari kutubxona manbalarida topilmadi. Uslubiy qo'llanma faqat dori tanlash milliy siyosatga muvofiq bo'lishini aytadi, shuning uchun bu mavzuda aniq preparat va doza ko'rsatilmadi [1, 5].",
-      "JSST tavsiya etgan albendazol va mebendazol dozalari xalqaro tavsiya bo'lib, ular O'zbekistondagi milliy davolash bayonnomalari bilan solishtirilmagan. Amaliy qo'llashdan oldin amaldagi milliy bayonnomani tekshirish zarur [7]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Parazitologiyada kimyoprofilaktika asosan bezgakda (primaxin bilan mavsum orasidagi profilaktika, gematoshizotrop preparatlar bilan individual va mavsumiy supressiv profilaktika), kontagioz gelmintozlarda (enterobioz va gimenolepidozda aloqadorlarni profilaktik davolash) va tuproq orqali yuqadigan gelmintozlarda (JSST bo'yicha albendazol yoki mebendazol) qo'llanadi. U boshqa profilaktik tadbirlarni to'ldiradi, ularning o'rnini bosmaydi [1, 4, 7]."
-    ]}
-  ],
-  "references": [
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
-    "World Health Organization. Guideline: preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups. Geneva: WHO, 2017. https://www.who.int/publications/i/item/9789241550116",
-    "World Health Organization. Deworming in children (e-Library of Evidence for Nutrition Actions, yangilangan 09.08.2023). https://www.who.int/tools/elena/interventions/deworming",
-    "Attestatsiya toifasini olish uchun parazitologlarga imtihon biletlari. xayrullokomilov.uz/kutubxona, material ID 2493."
-  ]
+ "number": 7,
+ "title": "7. Qanday parazitar kasalliklarda kimyoprofilaktika qo'llaniladi va qaysi preparatlar ishlatiladi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Kimyoprofilaktika deganda kasallikning oldini olish maqsadida sog'lom, ammo zararlanish xavfi yuqori bo'lgan odamlar yoki aholi guruhlariga parazitga qarshi dori vositalarini berish tushuniladi. Parazitologiyada u asosan bezgak, ayrim gelmintozlar va tarixan ba'zi tripanosomozlarda qo'llanadi [1, 2].",
+    "Ushbu mavzuda avval bezgakdagi kimyoprofilaktika turlari: mavsum orasidagi, individual supressiv va mavsumiy kimyoprofilaktika, so'ng enterobioz va gimenolepidozda aloqadorlarni profilaktik davolash, JSSTning gelmintozlarga qarshi profilaktik kimyoterapiya tavsiyalari ko'rib chiqiladi [1, 3, 4]."
+   ]
+  },
+  {
+   "heading": "Kimyoprofilaktikaning maqsadi",
+   "content": [
+    "Bezgak bo'yicha uslubiy qo'llanmada kimyoprofilaktika odamning bezgakdan individual himoya vositalaridan biri sifatida, dezanofelizatsiya va zooprofilaktika esa jamoaviy himoya vositalari sifatida ko'rsatilgan. Demak kimyoprofilaktika boshqa tadbirlar o'rnini bosmaydi, balki ularni to'ldiradi [1].",
+    "Kimyoprofilaktikada dori tanlash parazitning qaysi bosqichiga ta'sir qilish kerakligiga bog'liq: jigar to'qimasidagi uyqudagi shakllarga, eritrotsitlardagi jinssiz shakllarga yoki ichakdagi gelmintlarga. Shu sababli preparatlar gipnozoitotrop, gematoshizotrop va antigelmint guruhlarga bo'linadi [1]."
+   ]
+  },
+  {
+   "heading": "Bezgakda mavsum orasidagi kimyoprofilaktika",
+   "content": [
+    "Qo'llanmaga ko'ra profilaktik davolash organizmni P. vivax gipnozoitlaridan xalos etish uchun buyuriladi. Kishining gipnozoitlar bilan zararlanganligini aniqlashning imkoni bo'lmagani uchun primaxin tavakkaliga qo'llanadi. Bunday davolash uch kunlik bezgak bilan zararlanish xavfi yuqori bo'lgan joydan chiqqan kishilarga buyuriladi [1].",
+    "U individual bo'lishi mumkin, masalan 1980 yillarda Afg'onistondan qaytgan harbiylar orasida qo'llangan, yoki ommaviy, uch kunlik bezgak epidemiyasi bo'lgan aholi punktlarida yuqishning mavsumiy tanaffusi davrida. Shu sababli bu usul mavsum orasidagi kimyoprofilaktika deb ataladi [1]."
+   ]
+  },
+  {
+   "heading": "Ommaviy primaxin profilaktikasining tashkiliy talablari",
+   "content": [
+    "Qo'llanmada ommaviy primaxin profilaktikasi juda samarali, ammo qimmat va murakkab tadbir ekani, dori 14 kun davomida berilishi va muvaffaqiyat uchun aholining taxminan 95 foizini qamrab olish zarurligi ko'rsatilgan. Tibbiyot xodimlari har bir xonadonga har kuni borib, dori qabul qilinishini nazorat qiladi [1].",
+    "Ayrim kishilarda primaxin gemoliz chaqirishi mumkinligi sababli bemorlarning ahvoli, ayniqsa siydik rangining to'qlashishi so'raladi. Dori qabuli bir kundan ortiq o'tkazib yuborilsa va bu 10 kundan kam davrda bo'lsa, davolash qaytadan boshlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Bezgakda individual supressiv kimyoprofilaktika",
+   "content": [
+    "Supressiv davolash zararlanish xavfi yuqori bo'lgan kishini kasallikdan himoya qilish uchun buyuriladi va unda gematoshizotrop ta'sirli dorilar qo'llanadi. Dori zararlanishdan himoya qilmaydi, ammo parazitlar jigardan qonga chiqishi bilan ularni o'ldiradi. Bu individual kimyoprofilaktika deb ataladi [1].",
+    "Individual kimyoprofilaktika asosan tropik bezgak bo'yicha endemik hududlarga chiquvchilarga buyuriladi. Dori ketishdan bir hafta oldin boshlanadi, butun xavf davrida va undan keyin 1 oy davom ettiriladi. Dori tanlash bezgakka qarshi davolashning milliy siyosatiga muvofiq amalga oshiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Supressiv profilaktikaning cheklovlari",
+   "content": [
+    "Uch kunlik bezgakda supressiv kimyoprofilaktika faqat dastlabki belgilardan himoya qiladi va kechki, uzoq inkubatsiyali holatlarga ta'sir qilmaydi. Shu sababli kimyoprofilaktika olgan kishilar ko'pincha qaytib kelganidan bir necha oy o'tib uch kunlik bezgak bilan kasallanadi [1].",
+    "Ommaviy shakli, ya'ni yuqish davom etayotgan o'choqlar aholisiga beriladigan mavsumiy kimyoprofilaktika ham har doim o'zini oqlamaydi. Qo'llanmaga ko'ra u uzoq inkubatsiyali holatlar sonining sun'iy oshishiga olib kelishi mumkin, chunki belgilar mavsum orasida rivojlanadi [1]."
+   ]
+  },
+  {
+   "heading": "Bezgak profilaktikasida milliy talablar",
+   "content": [
+    "121-son buyruqning bezgak bo'yicha yo'riqnomasida tropik va subtropik davlatlarga xizmat safariga yuboruvchi tashkilotlar va sayyohlik agentliklari bezgak bo'yicha yo'l-yo'riq o'tkazishi, maslahat xonalari tashkil etilishi va qaytgach kimyoprofilaktika olganligi haqida shifokorni ogohlantirish tavsiya etilishi belgilangan [3].",
+    "Yo'riqnomada chegaradosh hududlarda aholini bezgakdan saqlash tadbirlari qatorida epidemik ko'rsatmalarga asosan kimyoprofilaktika o'tkazish ham ko'rsatilgan. Bu tadbir pashshaxonalar, derazalarni to'r bilan to'sish va chivinlarga qarshi kurash bilan birga qo'llanadi [3]."
+   ]
+  },
+  {
+   "heading": "Kimyoprofilaktikada qo'llanmaydigan preparatlar",
+   "content": [
+    "Bezgakni davolash protokolida artemeter-lyumefantrin kombinatsiyasi asoratsiz tropik bezgakni davolash uchun tavsiya etilgan, ammo u kimyoprofilaktika maqsadida qo'llanmasligi alohida ta'kidlangan. Bu davolash va profilaktika preparatlarini aralashtirmaslik zarurligini ko'rsatadi [5].",
+    "Protokolda tropik bezgakni davolash uchun artesunat asosidagi kombinatsiyalar, masalan artesunat va meflaxin, artesunat va amodiaxin ham keltirilgan. Biroq qaysi preparat kimyoprofilaktika uchun milliy tavsiya etilishi kutubxona manbalarida aniq ko'rsatilmagan, shuning uchun bu mavzuda profilaktik dozalar keltirilmaydi [5]."
+   ]
+  },
+  {
+   "heading": "Enterobioz va gimenolepidozda profilaktik davolash",
+   "content": [
+    "121-son buyruqning gelmintozlar bo'yicha yo'riqnomasida oilada enterobioz yoki gimenolepidoz bilan aloqada bo'lganlar tekshirilishi yoki tekshiruvsiz profilaktik davolanishi belgilangan. Bunday davolashni turar joy yoki ish joyidagi davolovchi shifokor va muassasa rahbarlari ta'minlaydi [4].",
+    "Yopiq turdagi bolalar muassasalarida, masalan bolalar uyi va internatlarda, enterobioz aniqlangan bolalarga degelmintizatsiya o'tkaziladi, boshqa bolalarga esa oldindan tekshiruvsiz yiliga 2 marta 1 kurs profilaktik davolash o'tkaziladi. Muassasada enterobioz aniqlansa, bolalar va xodimlarning 100 foiziga 1-2 kurs degelmintizatsiya qilinadi [4]."
+   ]
+  },
+  {
+   "heading": "JSSTning profilaktik kimyoterapiya tavsiyalari",
+   "content": [
+    "JSST tuproq orqali yuqadigan gelmintozlar, ya'ni askaridoz, trixotsefalyoz va ankilostomidozlarga qarshi xavf guruhlarida profilaktik kimyoterapiyani, ya'ni antigelmint dorilarni davriy ommaviy berishni tavsiya etadi. Bu tadbir suv, sanitariya va gigiena sharoitlarini yaxshilash bilan birga o'tkazilishi kerak [6, 7].",
+    "JSST tavsiyasiga ko'ra, bolalar orasida bunday invaziyalarning boshlang'ich tarqalishi 20 foiz va undan ko'p bo'lgan hududlarda 12 oylikdan 12 yoshgacha bo'lgan bolalarga yiliga bir yoki ikki marta albendazol 400 mg yoki mebendazol 500 mg bir martalik dozada beriladi, tarqalish 50 foizdan oshsa yiliga ikki marta beriladi [7]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor kimyoprofilaktikani rejalashtirishda epidemik ko'rsatmani, qamrov darajasini, preparat xavfsizligini va qarshi ko'rsatmalarni hisobga oladi. Masalan, ommaviy primaxin profilaktikasida gemoliz xavfi sababli kunlik kuzatuv tashkil etiladi, enterobiozda esa davolash dam olish kunlariga rejalashtiriladi [1, 4].",
+    "Kimyoprofilaktika natijasi albatta baholanishi kerak: bezgakda qaytgan shaxslar 3 yil davomida dispanser kuzatuvida bo'ladi, gelmintozlarda esa nazorat tahlillari o'tkaziladi. Bu tadbirlar profilaktikaning haqiqiy samarasini ko'rsatadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Parazitologiyada kimyoprofilaktika asosan bezgakda (primaxin bilan mavsum orasidagi profilaktika, gematoshizotrop preparatlar bilan individual va mavsumiy supressiv profilaktika), kontagioz gelmintozlarda (enterobioz va gimenolepidozda aloqadorlarni profilaktik davolash) va tuproq orqali yuqadigan gelmintozlarda (JSST bo'yicha albendazol yoki mebendazol) qo'llanadi. U boshqa profilaktik tadbirlarni to'ldiradi, ularning o'rnini bosmaydi [1, 4, 7]."
+   ]
+  }
+ ],
+ "references": [
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+  "World Health Organization. Guideline: preventive chemotherapy to control soil-transmitted helminth infections in at-risk population groups. Geneva: WHO, 2017. https://www.who.int/publications/i/item/9789241550116",
+  "World Health Organization. Deworming in children (e-Library of Evidence for Nutrition Actions, yangilangan 09.08.2023). https://www.who.int/tools/elena/interventions/deworming"
+ ]
 }

@@ -1,75 +1,113 @@
 {
-  "number": 88,
-  "title": "88. Askaridozning klinikasi va tashxisi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Askaridoz klinikasi ikki bosqichga bo'linadi: boshlang'ich migratsion va kechki ichak davri. Birinchisida lichinkalar ko'chishi bilan bog'liq toksik-allergik belgilar, ikkinchisida ichak shikastlanishi, intoksikatsiya va allergizatsiya ustun turadi [1, 2].",
-      "Mavzuda har bir davrning klinik ko'rinishi, asoratlar, ichakdan tashqari joylashuv, so'ng klinik-epidemiologik, laboratoriya va asbobiy tashxis usullari, differensial tashxis va tashxisdan keyingi nazorat bayon etiladi. Davolash dozalari bu mavzuga kirmaydi [1, 3]."
-    ]},
-    {"heading": "Klinik davrlar va og'irlik mezonlari", "content": [
-      "Milliy bayonnomada askaridoz boshlang'ich (migratsion) va kechki (ichak) davrlarga ajratiladi. Og'irlik darajasi intoksikatsiya sindromining namoyon bo'lishi, ichki a'zo va tizimlarning jarayonga jalb etilishi hamda migratsiya davrida organizm allergizatsiyasi bilan baholanadi [1].",
-      "Darslikda inkubatsiya davri 2-3 kun deb ko'rsatilgan, kasallikning ikki fazasi, ya'ni erta migratsion va kech faza ajratiladi. Yengil invaziyada belgilar kam yoki umuman bo'lmaydi, JSST ham yengil intensivlikda odam odatda kasallikdan aziyat chekmasligini qayd etadi [3, 4]."
-    ]},
-    {"heading": "Migratsion davr klinikasi", "content": [
-      "Migratsion askaridozda umumiy holsizlik, isitma, bosh og'rig'i, terlash, teri qichishi, qovoq va yuzning shishishi, ba'zan toshmalar, zotiljam va qonda eozinofiliya kuzatiladi. Lichinkalar o'pkada sensibilizatsiya hamda mayda qon quyilishlarini keltirib chiqaradi [2, 4].",
-      "O'pka tomondan yo'tal, ko'krak og'rig'i, quruq va nam xirillashlar, harorat ko'tarilishi uchraydi. Harorat odatda subfebril, kamdan-kam 38 gradusgacha ko'tariladi; ba'zan qon tupurish bo'ladi. Rentgenda uchuvchi eozinofil infiltratlar aniqlanadi, eozinofiliya bilan birga bu Lyofler sindromi deyiladi [2, 4, 5]."
-    ]},
-    {"heading": "Ichak davri klinikasi", "content": [
-      "Ichak davrida ishtaha pasayadi, so'lak ko'payadi, ko'ngil aynish, qusish, qorin og'rig'i, holsizlik va jizzakilik paydo bo'ladi. Ayrim bemorlarda ich ketishi yoki qabziyat, teri toshmalari, bosh og'rig'i va bosh aylanishi qayd etiladi [2, 4].",
-      "Gelmintlar o'tkir uchlari bilan ichak devoriga tayanib, shilliq qavatni shikastlaydi va mahalliy yallig'lanish chaqiradi. Ular ichak ishida patologik reflekslarni, vitaminlar tanqisligi va ozishni keltirib chiqarishi mumkin; bolalarda tutqanoq ham tasvirlangan. Gelmintlar ba'zan najas bilan o'zi ham chiqadi [2, 4, 5]."
-    ]},
-    {"heading": "Asoratlar", "content": [
-      "Ichak askaridozining asoratlariga gelmintlar tugunidan yoki ichak spazmidan kelib chiqadigan obturatsion va spastik ichak tutilishi, ichak teshilishi va peritonit, appenditsit kiradi. Gelmintlarning to'planishi ichak o'tkazuvchanligining buzilishiga olib keladi [2, 5].",
-      "Askaridalar o't pufagi va o't yo'llariga o'tsa, qusish, epigastriy va o'ng qovurg'a ostida kuchli og'riq hamda sariqlik paydo bo'ladi. Ikkilamchi bakterial infeksiya o'tkir yiringli xolangit, jigar xo'ppozi va hatto sepsisga olib kelishi mumkin [4, 5]."
-    ]},
-    {"heading": "Ichakdan tashqari joylashuv", "content": [
-      "Askaridalarning harakatchanligi tufayli ichakdan tashqari joylashuv uchraydi. Ko'pincha ular jigarga o'tib, xo'ppoz va o't yo'llari tiqilishi sababli mexanik sariqlik chaqiradi. Bu holat jigar, o'pka va oshqozon osti bezi shikastlanishiga ham olib kelishi mumkin [4, 5].",
-      "Gelmintlarning hiqildoq va burun yo'llariga o'tishi bo'g'ilishga, burun yondosh bo'shliqlari va o'rta quloqqa joylashishi esa tegishli a'zolar zararlanishiga sabab bo'lishi tasvirlangan. Bunday holatlarda kasallik og'ir kechadi va shifoxona sharoitida kuzatuv talab etiladi [5]."
-    ]},
-    {"heading": "Klinik-epidemiologik tashxis", "content": [
-      "Bayonnomaga ko'ra tashxis qo'yishda klinik-epidemiologik belgilar va ichak a'zolarining zararlanishi muhim; klinik tashxisni ichak belgilari polimorfizmi qiyinlashtiradi. Shu sababli asosiy ahamiyatni parazitologik tekshiruv va epidemiologik anamnez egallaydi [1].",
-      "Migratsion davrda o'pkada uchuvchi infiltratlar, eozinofiliya va allergik hodisalar kuzatilsa, askaridozga shubha tug'iladi. Bu bosqichda parazitologik tashxis kamdan-kam qo'yiladi, chunki najasda tuxum hali paydo bo'lmagan bo'ladi. Ichak fazasida esa tuxum yoki gelmint topilishi aniqlovchi hisoblanadi [2]."
-    ]},
-    {"heading": "Koproovoskopiya", "content": [
-      "Bayonnomaga ko'ra askaridoz tashxisi najasda askaridaning urg'ochisi yoki erkagi topilganda, hamda urug'langan tuxum topilganda qo'yiladi. Tekshiruv najasni makroskopiyasi, Kato, cho'ktirish va boyitish usullaridagi mikroskopiyani o'z ichiga oladi. Tashxisiy degelmintizatsiyadan so'ng yetuk gelmint topilishi ham tashxisni tasdiqlaydi [1].",
-      "Urug'langan tuxum oval, yirik do'ngli qo'ng'ir po'stli bo'lib, o'lchami 50-70 x 40-50 mkm. Agar ichakda faqat urg'ochilar bo'lsa, najasda urug'lanmagan tuxumlar topiladi, faqat erkaklar yoki yosh gelmintlar bo'lsa, tuxum bo'lmasligi mumkin, shuning uchun salbiy natija invaziyani butunlay inkor etmaydi [3, 5]."
-    ]},
-    {"heading": "Kato-Miura va Kato-Kats usullari", "content": [
-      "Kato-Miura usulida 30-50 mg najas buyum oynasiga qo'yilib, 24 soat Kato eritmasida ushlangan 20 x 40 mm gidrofil tselofan bilan yopiladi. Preparat rangsizlangach mikroskopda ko'riladi; usul nativ surtmaga qaraganda 20-30 marta ko'proq material ko'rish imkonini beradi [6].",
-      "Yo'riqnomaga ko'ra usul invaziyaning yuqori va o'rta intensivligida samarali, intensivlik past bo'lganda samarasi ancha pasayadi. Kato-Kats variantida diametri 6 mm teshikli plastinkadan foydalaniladi va topilgan tuxumlar soni 24 koeffitsiyentiga ko'paytirilib, 1 g najasdagi tuxum miqdori aniqlanadi [6]."
-    ]},
-    {"heading": "Flotatsiya va boshqa usullar", "content": [
-      "Flotatsiya usullari yumaloq va lentasimon gijja tuxumlarini aniqlash uchun samarali bo'lib, solishtirma og'irligi 1,38-1,40 bo'lgan eritmalarda ishlatish qulay; bunda yetilmagan askarida tuxumlari ham suzib chiqadi. Trematoda tuxumlarini aniqlashda bu usul samarasiz [6].",
-      "Natriy xloridning to'yingan eritmasi (Fyulleborn usuli) 1 litr qaynatilgan suvga 400-420 g tuz bilan tayyorlanadi, uning zichligi 1,18-1,23 bo'lishi kerak. Eritma zichligini areometr bilan o'lchash majburiy, ekspozitsiya vaqti eritmaga qarab 30-60 daqiqa [6]."
-    ]},
-    {"heading": "Balg'am, serologiya va asbobiy usullar", "content": [
-      "Migratsion davrda balg'amda ba'zan askarida lichinkalari topiladi, lekin bu ko'pincha tasodifiy topilma hisoblanadi. Bayonnomada balg'am surtmasi mikroskopiyasi tashxis usullari qatoriga kiritilgan. Serologik usullar, ya'ni IFT va IFR, faqat migratsion davrda yagona tashxisiy usul, ichak davrida esa yordamchi hisoblanadi [1, 5].",
-      "Darslikda migratsion fazada mikropretsipitatsiya va bilvosita gemagglyutinatsiya (RNGA) reaksiyalari, rentgenda yumaloq noaniq chegarali zichlashgan o'choqlar tasvirlangan. Kontrastli ichakda 4-6 mm kenglikdagi cho'zinchoq yorug'lik gelmint tasviri bo'lishi mumkin; rektoromanoskopiyada eroziya va yaralar ko'rinadi [4]."
-    ]},
-    {"heading": "Differensial tashxis va minimal tekshiruvlar", "content": [
-      "Askaridozni zotiljam, boshqa sabablarga ko'ra bronxit, o'tkir ichak infeksiyalari va boshqa ichak gelmintozlaridan farqlash kerak. Milliy bayonnomada minimal ro'yxatga parazitologik, rentgenologik tekshiruv va umumiy qon tahlili kiritilgan [1].",
-      "Davolash standartlarida koproovoskopiya (Kato va nativ surtma) va umumiy qon, umumiy najas tahlili ko'rsatilgan; serologik (IFT) va immunologik tahlillar ko'rsatmaga qarab o'tkaziladi. Ayniqsa o'pka infiltratlari bo'lganda toksokaroz kabi boshqa gelmintozlar ham hisobga olinadi [7, 1]."
-    ]},
-    {"heading": "Xabarnoma va kuzatuv", "content": [
-      "Har bir askaridoz holatiga shoshilinch xabarnoma 058/u shakli yuboriladi. Aniqlangan bemorlarni degelmintizatsiya qilish va uning samaradorligini baholashni davolash-profilaktika muassasalari tizimi bajaradi, klinik-diagnostik laboratoriyalar faoliyatini esa hududiy DSENM nazorat qiladi [8].",
-      "Bayonnomaga ko'ra kasalxonaga erta davrdagi bolalar va intensiv invaziyali bemorlar yotqiziladi. Rekonvalesentlar 6 oygacha dispanser kuzatuvida bo'ladi va davolashdan 3, 4 hamda 6 oy o'tgach qayta najas tahlili o'tkaziladi [1]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Manbalar migratsion davr belgilariga turlicha baho beradi: bir darslikda u odatda yengil yoki bilinmas kechadi, boshqasida isitma, yo'tal va zotiljam bilan ifodalanadi. Bu farq bemorlarning ahvoliga va invaziya intensivligiga bog'liq bo'lishi mumkin, lekin manbalarda aniq izoh yo'q [2, 4].",
-      "O'zbekistonda askaridozning klinik shakllari va asoratlari chastotasi bo'yicha ma'lumot tekshirilgan manbalarda topilmadi. Shu sababli asoratlar, ichakdan tashqari joylashuv va qon ko'rsatkichlari haqidagi bayon faqat darslik va atlaslarga tayanadi, mahalliy statistika berilmaydi [4, 5]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Askaridoz tashxisi klinik-epidemiologik belgilar, koproovoskopiya, migratsion davrda esa serologiya, balg'am tekshiruvi va rentgenologik topilmalarning birligiga asoslanadi. Ichak davrida najasdan urug'langan tuxum yoki gelmint topilishi tashxisni tasdiqlaydi, salbiy natija esa takroriy tekshiruv bilan nazorat qilinishi lozim [1, 6]."
-    ]}
-  ],
-  "references": [
-    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525."
-  ]
+ "number": 88,
+ "title": "88. Askaridozning klinikasi va tashxisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Askaridoz klinikasi ikki bosqichga bo'linadi: boshlang'ich migratsion va kechki ichak davri. Birinchisida lichinkalar ko'chishi bilan bog'liq toksik-allergik belgilar, ikkinchisida ichak shikastlanishi, intoksikatsiya va allergizatsiya ustun turadi [1, 2].",
+    "Mavzuda har bir davrning klinik ko'rinishi, asoratlar, ichakdan tashqari joylashuv, so'ng klinik-epidemiologik, laboratoriya va asbobiy tashxis usullari, differensial tashxis va tashxisdan keyingi nazorat bayon etiladi. Davolash dozalari bu mavzuga kirmaydi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Klinik davrlar va og'irlik mezonlari",
+   "content": [
+    "Milliy bayonnomada askaridoz boshlang'ich (migratsion) va kechki (ichak) davrlarga ajratiladi. Og'irlik darajasi intoksikatsiya sindromining namoyon bo'lishi, ichki a'zo va tizimlarning jarayonga jalb etilishi hamda migratsiya davrida organizm allergizatsiyasi bilan baholanadi [1].",
+    "Darslikda inkubatsiya davri 2-3 kun deb ko'rsatilgan, kasallikning ikki fazasi, ya'ni erta migratsion va kech faza ajratiladi. Yengil invaziyada belgilar kam yoki umuman bo'lmaydi, JSST ham yengil intensivlikda odam odatda kasallikdan aziyat chekmasligini qayd etadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Migratsion davr klinikasi",
+   "content": [
+    "Migratsion askaridozda umumiy holsizlik, isitma, bosh og'rig'i, terlash, teri qichishi, qovoq va yuzning shishishi, ba'zan toshmalar, zotiljam va qonda eozinofiliya kuzatiladi. Lichinkalar o'pkada sensibilizatsiya hamda mayda qon quyilishlarini keltirib chiqaradi [2, 4].",
+    "O'pka tomondan yo'tal, ko'krak og'rig'i, quruq va nam xirillashlar, harorat ko'tarilishi uchraydi. Harorat odatda subfebril, kamdan-kam 38 gradusgacha ko'tariladi; ba'zan qon tupurish bo'ladi. Rentgenda uchuvchi eozinofil infiltratlar aniqlanadi, eozinofiliya bilan birga bu Lyofler sindromi deyiladi [2, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Ichak davri klinikasi",
+   "content": [
+    "Ichak davrida ishtaha pasayadi, so'lak ko'payadi, ko'ngil aynish, qusish, qorin og'rig'i, holsizlik va jizzakilik paydo bo'ladi. Ayrim bemorlarda ich ketishi yoki qabziyat, teri toshmalari, bosh og'rig'i va bosh aylanishi qayd etiladi [2, 4].",
+    "Gelmintlar o'tkir uchlari bilan ichak devoriga tayanib, shilliq qavatni shikastlaydi va mahalliy yallig'lanish chaqiradi. Ular ichak ishida patologik reflekslarni, vitaminlar tanqisligi va ozishni keltirib chiqarishi mumkin; bolalarda tutqanoq ham tasvirlangan. Gelmintlar ba'zan najas bilan o'zi ham chiqadi [2, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Asoratlar",
+   "content": [
+    "Ichak askaridozining asoratlariga gelmintlar tugunidan yoki ichak spazmidan kelib chiqadigan obturatsion va spastik ichak tutilishi, ichak teshilishi va peritonit, appenditsit kiradi. Gelmintlarning to'planishi ichak o'tkazuvchanligining buzilishiga olib keladi [2, 5].",
+    "Askaridalar o't pufagi va o't yo'llariga o'tsa, qusish, epigastriy va o'ng qovurg'a ostida kuchli og'riq hamda sariqlik paydo bo'ladi. Ikkilamchi bakterial infeksiya o'tkir yiringli xolangit, jigar xo'ppozi va hatto sepsisga olib kelishi mumkin [4, 5]."
+   ]
+  },
+  {
+   "heading": "Ichakdan tashqari joylashuv",
+   "content": [
+    "Askaridalarning harakatchanligi tufayli ichakdan tashqari joylashuv uchraydi. Ko'pincha ular jigarga o'tib, xo'ppoz va o't yo'llari tiqilishi sababli mexanik sariqlik chaqiradi. Bu holat jigar, o'pka va oshqozon osti bezi shikastlanishiga ham olib kelishi mumkin [4, 5].",
+    "Gelmintlarning hiqildoq va burun yo'llariga o'tishi bo'g'ilishga, burun yondosh bo'shliqlari va o'rta quloqqa joylashishi esa tegishli a'zolar zararlanishiga sabab bo'lishi tasvirlangan. Bunday holatlarda kasallik og'ir kechadi va shifoxona sharoitida kuzatuv talab etiladi [5]."
+   ]
+  },
+  {
+   "heading": "Klinik-epidemiologik tashxis",
+   "content": [
+    "Bayonnomaga ko'ra tashxis qo'yishda klinik-epidemiologik belgilar va ichak a'zolarining zararlanishi muhim; klinik tashxisni ichak belgilari polimorfizmi qiyinlashtiradi. Shu sababli asosiy ahamiyatni parazitologik tekshiruv va epidemiologik anamnez egallaydi [1].",
+    "Migratsion davrda o'pkada uchuvchi infiltratlar, eozinofiliya va allergik hodisalar kuzatilsa, askaridozga shubha tug'iladi. Bu bosqichda parazitologik tashxis kamdan-kam qo'yiladi, chunki najasda tuxum hali paydo bo'lmagan bo'ladi. Ichak fazasida esa tuxum yoki gelmint topilishi aniqlovchi hisoblanadi [2]."
+   ]
+  },
+  {
+   "heading": "Koproovoskopiya",
+   "content": [
+    "Bayonnomaga ko'ra askaridoz tashxisi najasda askaridaning urg'ochisi yoki erkagi topilganda, hamda urug'langan tuxum topilganda qo'yiladi. Tekshiruv najasni makroskopiyasi, Kato, cho'ktirish va boyitish usullaridagi mikroskopiyani o'z ichiga oladi. Tashxisiy degelmintizatsiyadan so'ng yetuk gelmint topilishi ham tashxisni tasdiqlaydi [1].",
+    "Urug'langan tuxum oval, yirik do'ngli qo'ng'ir po'stli bo'lib, o'lchami 50-70 x 40-50 mkm. Agar ichakda faqat urg'ochilar bo'lsa, najasda urug'lanmagan tuxumlar topiladi, faqat erkaklar yoki yosh gelmintlar bo'lsa, tuxum bo'lmasligi mumkin, shuning uchun salbiy natija invaziyani butunlay inkor etmaydi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Kato-Miura va Kato-Kats usullari",
+   "content": [
+    "Kato-Miura usulida 30-50 mg najas buyum oynasiga qo'yilib, 24 soat Kato eritmasida ushlangan 20 x 40 mm gidrofil tselofan bilan yopiladi. Preparat rangsizlangach mikroskopda ko'riladi; usul nativ surtmaga qaraganda 20-30 marta ko'proq material ko'rish imkonini beradi [6].",
+    "Yo'riqnomaga ko'ra usul invaziyaning yuqori va o'rta intensivligida samarali, intensivlik past bo'lganda samarasi ancha pasayadi. Kato-Kats variantida diametri 6 mm teshikli plastinkadan foydalaniladi va topilgan tuxumlar soni 24 koeffitsiyentiga ko'paytirilib, 1 g najasdagi tuxum miqdori aniqlanadi [6]."
+   ]
+  },
+  {
+   "heading": "Flotatsiya va boshqa usullar",
+   "content": [
+    "Flotatsiya usullari yumaloq va lentasimon gijja tuxumlarini aniqlash uchun samarali bo'lib, solishtirma og'irligi 1,38-1,40 bo'lgan eritmalarda ishlatish qulay; bunda yetilmagan askarida tuxumlari ham suzib chiqadi. Trematoda tuxumlarini aniqlashda bu usul samarasiz [6].",
+    "Natriy xloridning to'yingan eritmasi (Fyulleborn usuli) 1 litr qaynatilgan suvga 400-420 g tuz bilan tayyorlanadi, uning zichligi 1,18-1,23 bo'lishi kerak. Eritma zichligini areometr bilan o'lchash majburiy, ekspozitsiya vaqti eritmaga qarab 30-60 daqiqa [6]."
+   ]
+  },
+  {
+   "heading": "Balg'am, serologiya va asbobiy usullar",
+   "content": [
+    "Migratsion davrda balg'amda ba'zan askarida lichinkalari topiladi, lekin bu ko'pincha tasodifiy topilma hisoblanadi. Bayonnomada balg'am surtmasi mikroskopiyasi tashxis usullari qatoriga kiritilgan. Serologik usullar, ya'ni IFT va IFR, faqat migratsion davrda yagona tashxisiy usul, ichak davrida esa yordamchi hisoblanadi [1, 5].",
+    "Darslikda migratsion fazada mikropretsipitatsiya va bilvosita gemagglyutinatsiya (RNGA) reaksiyalari, rentgenda yumaloq noaniq chegarali zichlashgan o'choqlar tasvirlangan. Kontrastli ichakda 4-6 mm kenglikdagi cho'zinchoq yorug'lik gelmint tasviri bo'lishi mumkin; rektoromanoskopiyada eroziya va yaralar ko'rinadi [4]."
+   ]
+  },
+  {
+   "heading": "Differensial tashxis va minimal tekshiruvlar",
+   "content": [
+    "Askaridozni zotiljam, boshqa sabablarga ko'ra bronxit, o'tkir ichak infeksiyalari va boshqa ichak gelmintozlaridan farqlash kerak. Milliy bayonnomada minimal ro'yxatga parazitologik, rentgenologik tekshiruv va umumiy qon tahlili kiritilgan [1].",
+    "Davolash standartlarida koproovoskopiya (Kato va nativ surtma) va umumiy qon, umumiy najas tahlili ko'rsatilgan; serologik (IFT) va immunologik tahlillar ko'rsatmaga qarab o'tkaziladi. Ayniqsa o'pka infiltratlari bo'lganda toksokaroz kabi boshqa gelmintozlar ham hisobga olinadi [1, 7]."
+   ]
+  },
+  {
+   "heading": "Xabarnoma va kuzatuv",
+   "content": [
+    "Har bir askaridoz holatiga shoshilinch xabarnoma 058/u shakli yuboriladi. Aniqlangan bemorlarni degelmintizatsiya qilish va uning samaradorligini baholashni davolash-profilaktika muassasalari tizimi bajaradi, klinik-diagnostik laboratoriyalar faoliyatini esa hududiy DSENM nazorat qiladi [8].",
+    "Bayonnomaga ko'ra kasalxonaga erta davrdagi bolalar va intensiv invaziyali bemorlar yotqiziladi. Rekonvalesentlar 6 oygacha dispanser kuzatuvida bo'ladi va davolashdan 3, 4 hamda 6 oy o'tgach qayta najas tahlili o'tkaziladi [1]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Askaridoz tashxisi klinik-epidemiologik belgilar, koproovoskopiya, migratsion davrda esa serologiya, balg'am tekshiruvi va rentgenologik topilmalarning birligiga asoslanadi. Ichak davrida najasdan urug'langan tuxum yoki gelmint topilishi tashxisni tasdiqlaydi, salbiy natija esa takroriy tekshiruv bilan nazorat qilinishi lozim [1, 6]."
+   ]
+  }
+ ],
+ "references": [
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Бажора Ю.И. (ред.). Медицинская паразитология: атлас. Одесса: Одесский государственный медицинский университет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari. xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525."
+ ]
 }

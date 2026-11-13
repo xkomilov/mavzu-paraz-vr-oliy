@@ -2,61 +2,96 @@
  "number": 97,
  "title": "97. Teniarinxoz/ tenioz bilan zararlanishning yo'llari va omili.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Teniarinxoz va tenioz lentasimon solityorlar qo'zg'atadigan biogelmintozlar bo'lib, ularda odam ichagida voyaga yetgan parazitni saqlaydi. Yo'riqnomada bu kasalliklar xom va yetarlicha pishirilmagan go'sht, ya'ni tirik finnalar bilan zararlangan taomlar orqali yuqishi ko'rsatilgan [1, 2].",
-   "Ushbu mavzuda zararlanish yo'llari va omillari ketma-ket ko'rib chiqiladi: yuqish mexanizmi, xavfli taomlar, ijtimoiy-maishiy sharoit, tashqi muhit va chorvaning ifloslanishi. Alohida bo'limda tenioz tuxumlari orqali sistitserkoz xavfi yoritiladi, oxirida tasdiqlanmagan jihatlar ochiq yoziladi [1, 2, 6]."
-  ]},
-  {"heading": "Teniarinxozda yuqish mexanizmi va yo'li", "content": [
-   "Darslikka ko'ra teniarinxozda yuqish mexanizmi najas-og'iz mexanizmi, yo'li esa ovqat orqali amalga oshadi. Odam finnalari tirik xom, yetarlicha termik ishlanmagan, kuchsiz tuzlangan yoki qoqlangan mol go'shtini iste'mol qilganda zararlanadi [2].",
-   "Demak, yuqishning hal qiluvchi sharti go'shtdagi tirik finnadir. Yo'riqnomada ham biogelmintozlar xom va chala pishirilgan go'sht, tirik parazit lichinkalari bilan zararlangan taomlar orqali yuqishi aytilgan, shu sababli termik ishlov zararlanishni to'xtatuvchi asosiy bo'g'in hisoblanadi [1, 2]."
-  ]},
-  {"heading": "Xavfli taomlar va tayyorlash usullari", "content": [
-   "Milliy yo'riqnomada finna yoki sistitserk bilan zararlangan go'shtdan tayyorlanadigan kabob, chuchvara, somsa, manti va ijjan taomlari yuqish omillari sifatida sanalgan. Bu taomlarning umumiy xususiyati shundaki, go'sht yoki qiyma ichi yetarlicha qizimasligi mumkin [1].",
-   "Darslikda Zakavkaz va O'rta Osiyodagi shashlik, ya'ni kabob an'anasi hamda pelmen uchun tayyorlangan xom qiymani iste'mol qilish odati ijtimoiy-maishiy omil sifatida ko'rsatilgan. Davolash bayonnomasi ham xom va chala qovurilgan kabob go'shti xavfini aholiga tushuntirishni talab qiladi [2, 7]."
-  ]},
-  {"heading": "Ijtimoiy-maishiy omillar", "content": [
-   "Darslikda teniarinxoz ijtimoiy-maishiy gelmintoz deb ta'riflangan, chunki u turli xalqlarda an'anaviy bo'lib qolgan yetarlicha pishirilmagan go'sht iste'moli bilan bog'liq. Bunday odatlar kasallikning saqlanib qolishini ta'minlaydi [2].",
-   "Vladivostok darsligiga ko'ra tenioz ko'proq cho'chqachilik bilan shug'ullanadigan mamlakatlarda uchraydi. Gipperendemiya sabablari sifatida ijtimoiy-iqtisodiy rivojlanishning pastligi, tuproqning odam najasi bilan ifloslanishi, sarson cho'chqalar va oziq-ovqat odatlari sanalgan [2, 3]."
-  ]},
-  {"heading": "Tenioz bilan zararlanish yo'li", "content": [
-   "Tenioz bilan odam xom, yetarlicha termik ishlanmagan, kuchsiz tuzlangan yoki qoqlangan finnali cho'chqa go'shti orqali zararlanadi. Davolash bayonnomasi cho'chqa go'shtining xom, chala qovurilgan hamda qaynatilgan holda iste'moli ham xavfli ekanini alohida ta'kidlaydi [2, 7].",
-   "Darslikda bo'g'imlar najasda zararlanishdan 2-3 oy o'tgach paydo bo'lishi, inkubatsiya davri esa 2-2,5 oy ekani yozilgan. Boshqa darslikda sistitserk yutilgandan birinchi yetuk bo'g'imlar paydo bo'lgunga qadar 67-72 sutka o'tishi ko'rsatilgan [2, 3]."
-  ]},
-  {"heading": "Tuxumlar orqali zararlanish va sistitserkoz xavfi", "content": [
-   "Teniozning o'ziga xos xavfi shundaki, odam T. solium tuxumlarini yutsa, to'qimalarda lichinka rivojlanib, sistitserkoz yuzaga keladi. JSST bu holatni najas-og'iz yo'li bilan, ya'ni ifloslangan oziq yoki suv orqali yuqishi mumkin deb ta'riflaydi [6].",
-   "Pavlovich darsligiga ko'ra qusish paytida ko'p bo'g'imlar oshqozonga tushsa, tuxumlar qonga o'tib mushaklar, yurak, ko'z va markaziy asab tizimini zararlashi mumkin. Teniarinxozda esa odamda finna rivojlanishi mumkin emas, bu ikki kasallik xavfini farqlaydi [3, 4]."
-  ]},
-  {"heading": "Tashqi muhitning ifloslanishi", "content": [
-   "Bemor najasi bilan tashqi muhitga tushgan tuxum yoki bo'g'imlar hayvonlar uchun yuqish omiliga aylanadi. Teniarinxozda bo'g'imlar anusdan faol chiqib, o'rtacha 8 tagacha yetuk bo'g'im ajraladi, ularda 145 mingtagacha tuxum bo'lishi mumkin [2].",
-   "Onkosferalar tashqi muhitda 2 haftadan 8 oygacha hayotchan qoladi, bu harorat, namlik va quyosh nuriga bog'liq. Sanitariya parazitologiyasi qo'llanmasida Novosibirsk viloyatidagi sug'orilgan dalalar tuprog'ida onkosferalar 101 kungacha saqlangani qayd etilgan [2, 5]."
-  ]},
-  {"heading": "Oqova suv va yem-xashak", "content": [
-   "Milliy yo'riqnomada yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emasligi aytilgan. Bu qoida teniidlar onkosferalari oqova suvda bo'lishi va o'tlar orqali mollarga o'tishi xavfiga asoslanadi [1, 5].",
-   "Romanenko qo'llanmasiga ko'ra, oqova suvlar bilan sug'orilgan maydonlarda o'sgan o'tlarni yem qilishdan mollarning finnoz bilan zararlangan holatlari tasvirlangan. Shu sababli suvning ifloslanishi tashqi muhitdagi muhim omil sifatida qaraladi [1, 5]."
-  ]},
-  {"heading": "Mexanik tashuvchilar", "content": [
-   "Romanenko qo'llanmasida go'ng qo'ng'izlari mexanik tashuvchi sifatida tavsiflangan: onkosferalar ularning ichagida hazm bo'lmaydi va najas tushgan joydan ko'p metr uzoqqa olib ketiladi. Zararlangan qo'ng'izlar o't yoki pichan bilan mollarga tushishi mumkin [5].",
-   "Shu qo'llanmada cho'chqa, it va kalamush kabi koprofaglar qoramol sistitserkozi epizootologiyasida rol o'ynamasligi ta'kidlangan, chunki ularning ichagida onkosferalar rivojlanmaydi. Demak, asosiy tashuvchilar sifatida hasharotlarni hisobga olish kerak [5]."
-  ]},
-  {"heading": "Chorvaning zararlanishi va finnaning saqlanishi", "content": [
-   "Mollar tuxum yoki bo'g'im bilan ifloslangan ozuqani yeb zararlanadi, onkosfera esa qon bilan mushaklar, yurak va tilga yetib finnaga aylanadi. Mollarda finna 4 oyda (Vladivostok darsligi) yoki 7 oyda (Odessa atlasi) yuqumli bo'ladi [2, 4].",
-   "Sistitserklar mushaklarda 1-2 yilgacha hayotchanligini saqlashi darslikda, odam uchun yuqumli finnalar 2 yilgacha saqlanishi atlasda yozilgan. Shu davr mobaynida har bir finnali go'sht odam uchun yuqish manbai bo'lib qoladi [2, 4]."
-  ]},
-  {"heading": "Kasbiy va uy sharoitidagi omillar", "content": [
-   "Darslikda cho'ponlar, so'yish punktlari va go'sht kombinatlari xodimlari kasbiy xavf guruhi deb ko'rsatilgan. Milliy yo'riqnomada sog'uvchilar, cho'ponlar va ularning oila a'zolari, qassoblar va oshpazlar yiliga bir marta tekshirilishi belgilangan [1, 2].",
-   "Yo'riqnomada molni uyda so'yish va mollarni saqlash bo'yicha mahalla yig'inlari bilan sanitariya-targ'ibot ishlari olib borilishi talab qilingan. Rossiya talablarini bayon qilgan darslikda ham xonadonda veterinariya-sanitariya nazoratisiz hayvon so'yish taqiqlangan; bu uyda so'yilgan go'sht nazoratdan chetda qolishi xavfini ko'rsatadi [1, 2]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Aholi punktlarida yoki chorva xo'jaliklarida finnoz qayd etilsa, invaziya manbaini topish uchun shu hududdagi aholi epidemiologik ko'rsatma bo'yicha tekshiriladi. Hayvonlarda sistitserkoz topilsa, tekshiruv hajmi va soni hududiy DSENM parazitologi tomonidan belgilanadi [1].",
-   "Shu sababli parazitolog yuqish yo'llarini mavhum emas, aniq voqea bilan bog'lashi kerak: qaysi go'sht, qayerda so'yilgan, qaysi taom va kimlar iste'mol qilgan. Bunday tahlil bemorlarni topishga va chorva o'chog'ini aniqlashga imkon beradi [1, 2]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan manbalarda O'zbekistondagi aholi uchun zararlanishning mavsumiyligi, eng xavfli taomlarning ulushi va viloyatlar kesimidagi yuqish omillari bo'yicha raqamlar topilmadi. Darslikda mavsum faqat Rossiyadagi o'choqlar uchun noyabr-dekabr deb berilgan, uni O'zbekistonga ko'chirish mumkin emas [1, 2].",
-   "O'zbekistonda teniozning tarqalganligi va cho'chqa finnozi bo'yicha tekshiriladigan raqamli manba ham topilmadi. Davolash bayonnomasi teniozni alohida tavsiflaydi, ammo kasallanish ko'rsatkichlarini bermaydi, shu sababli ular yozilmadi [7]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Teniarinxoz va tenioz bilan zararlanish yo'li bitta: tirik finnali xom yoki yetarlicha pishmagan go'sht. Omillar esa odamning najasi bilan ifloslangan tashqi muhit, oqova suv bilan sug'orilgan o'tlar, mexanik tashuvchilar, an'anaviy taomlar va kasbiy aloqa orqali kuchayadi; tenioz tuxumlari qo'shimcha ravishda sistitserkoz xavfini tug'diradi [1, 2, 6]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Teniarinxoz va tenioz lentasimon solityorlar qo'zg'atadigan biogelmintozlar bo'lib, ularda odam ichagida voyaga yetgan parazitni saqlaydi. Yo'riqnomada bu kasalliklar xom va yetarlicha pishirilmagan go'sht, ya'ni tirik finnalar bilan zararlangan taomlar orqali yuqishi ko'rsatilgan [1, 2].",
+    "Ushbu mavzuda zararlanish yo'llari va omillari ketma-ket ko'rib chiqiladi: yuqish mexanizmi, xavfli taomlar, ijtimoiy-maishiy sharoit, tashqi muhit va chorvaning ifloslanishi. Alohida bo'limda tenioz tuxumlari orqali sistitserkoz xavfi yoritiladi [1, 2, 6]."
+   ]
+  },
+  {
+   "heading": "Teniarinxozda yuqish mexanizmi va yo'li",
+   "content": [
+    "Darslikka ko'ra teniarinxozda yuqish mexanizmi najas-og'iz mexanizmi, yo'li esa ovqat orqali amalga oshadi. Odam finnalari tirik xom, yetarlicha termik ishlanmagan, kuchsiz tuzlangan yoki qoqlangan mol go'shtini iste'mol qilganda zararlanadi [2].",
+    "Demak, yuqishning hal qiluvchi sharti go'shtdagi tirik finnadir. Yo'riqnomada ham biogelmintozlar xom va chala pishirilgan go'sht, tirik parazit lichinkalari bilan zararlangan taomlar orqali yuqishi aytilgan, shu sababli termik ishlov zararlanishni to'xtatuvchi asosiy bo'g'in hisoblanadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xavfli taomlar va tayyorlash usullari",
+   "content": [
+    "Milliy yo'riqnomada finna yoki sistitserk bilan zararlangan go'shtdan tayyorlanadigan kabob, chuchvara, somsa, manti va ijjan taomlari yuqish omillari sifatida sanalgan. Bu taomlarning umumiy xususiyati shundaki, go'sht yoki qiyma ichi yetarlicha qizimasligi mumkin [1].",
+    "Darslikda Zakavkaz va O'rta Osiyodagi shashlik, ya'ni kabob an'anasi hamda pelmen uchun tayyorlangan xom qiymani iste'mol qilish odati ijtimoiy-maishiy omil sifatida ko'rsatilgan. Davolash bayonnomasi ham xom va chala qovurilgan kabob go'shti xavfini aholiga tushuntirishni talab qiladi [2, 7]."
+   ]
+  },
+  {
+   "heading": "Ijtimoiy-maishiy omillar",
+   "content": [
+    "Darslikda teniarinxoz ijtimoiy-maishiy gelmintoz deb ta'riflangan, chunki u turli xalqlarda an'anaviy bo'lib qolgan yetarlicha pishirilmagan go'sht iste'moli bilan bog'liq. Bunday odatlar kasallikning saqlanib qolishini ta'minlaydi [2].",
+    "Vladivostok darsligiga ko'ra tenioz ko'proq cho'chqachilik bilan shug'ullanadigan mamlakatlarda uchraydi. Gipperendemiya sabablari sifatida ijtimoiy-iqtisodiy rivojlanishning pastligi, tuproqning odam najasi bilan ifloslanishi, sarson cho'chqalar va oziq-ovqat odatlari sanalgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Tenioz bilan zararlanish yo'li",
+   "content": [
+    "Tenioz bilan odam xom, yetarlicha termik ishlanmagan, kuchsiz tuzlangan yoki qoqlangan finnali cho'chqa go'shti orqali zararlanadi. Davolash bayonnomasi cho'chqa go'shtining xom, chala qovurilgan hamda qaynatilgan holda iste'moli ham xavfli ekanini alohida ta'kidlaydi [2, 7].",
+    "Darslikda bo'g'imlar najasda zararlanishdan 2-3 oy o'tgach paydo bo'lishi, inkubatsiya davri esa 2-2,5 oy ekani yozilgan. Boshqa darslikda sistitserk yutilgandan birinchi yetuk bo'g'imlar paydo bo'lgunga qadar 67-72 sutka o'tishi ko'rsatilgan [2, 3]."
+   ]
+  },
+  {
+   "heading": "Tuxumlar orqali zararlanish va sistitserkoz xavfi",
+   "content": [
+    "Teniozning o'ziga xos xavfi shundaki, odam T. solium tuxumlarini yutsa, to'qimalarda lichinka rivojlanib, sistitserkoz yuzaga keladi. JSST bu holatni najas-og'iz yo'li bilan, ya'ni ifloslangan oziq yoki suv orqali yuqishi mumkin deb ta'riflaydi [6].",
+    "Pavlovich darsligiga ko'ra qusish paytida ko'p bo'g'imlar oshqozonga tushsa, tuxumlar qonga o'tib mushaklar, yurak, ko'z va markaziy asab tizimini zararlashi mumkin. Teniarinxozda esa odamda finna rivojlanishi mumkin emas, bu ikki kasallik xavfini farqlaydi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Tashqi muhitning ifloslanishi",
+   "content": [
+    "Bemor najasi bilan tashqi muhitga tushgan tuxum yoki bo'g'imlar hayvonlar uchun yuqish omiliga aylanadi. Teniarinxozda bo'g'imlar anusdan faol chiqib, o'rtacha 8 tagacha yetuk bo'g'im ajraladi, ularda 145 mingtagacha tuxum bo'lishi mumkin [2].",
+    "Onkosferalar tashqi muhitda 2 haftadan 8 oygacha hayotchan qoladi, bu harorat, namlik va quyosh nuriga bog'liq. Sanitariya parazitologiyasi qo'llanmasida Novosibirsk viloyatidagi sug'orilgan dalalar tuprog'ida onkosferalar 101 kungacha saqlangani qayd etilgan [2, 5]."
+   ]
+  },
+  {
+   "heading": "Oqova suv va yem-xashak",
+   "content": [
+    "Milliy yo'riqnomada yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emasligi aytilgan. Bu qoida teniidlar onkosferalari oqova suvda bo'lishi va o'tlar orqali mollarga o'tishi xavfiga asoslanadi [1, 5].",
+    "Romanenko qo'llanmasiga ko'ra, oqova suvlar bilan sug'orilgan maydonlarda o'sgan o'tlarni yem qilishdan mollarning finnoz bilan zararlangan holatlari tasvirlangan. Shu sababli suvning ifloslanishi tashqi muhitdagi muhim omil sifatida qaraladi [1, 5]."
+   ]
+  },
+  {
+   "heading": "Mexanik tashuvchilar",
+   "content": [
+    "Romanenko qo'llanmasida go'ng qo'ng'izlari mexanik tashuvchi sifatida tavsiflangan: onkosferalar ularning ichagida hazm bo'lmaydi va najas tushgan joydan ko'p metr uzoqqa olib ketiladi. Zararlangan qo'ng'izlar o't yoki pichan bilan mollarga tushishi mumkin [5].",
+    "Shu qo'llanmada cho'chqa, it va kalamush kabi koprofaglar qoramol sistitserkozi epizootologiyasida rol o'ynamasligi ta'kidlangan, chunki ularning ichagida onkosferalar rivojlanmaydi. Demak, asosiy tashuvchilar sifatida hasharotlarni hisobga olish kerak [5]."
+   ]
+  },
+  {
+   "heading": "Chorvaning zararlanishi va finnaning saqlanishi",
+   "content": [
+    "Mollar tuxum yoki bo'g'im bilan ifloslangan ozuqani yeb zararlanadi, onkosfera esa qon bilan mushaklar, yurak va tilga yetib finnaga aylanadi. Mollarda finna 4 oyda (Vladivostok darsligi) yoki 7 oyda (Odessa atlasi) yuqumli bo'ladi [2, 4].",
+    "Sistitserklar mushaklarda 1-2 yilgacha hayotchanligini saqlashi darslikda, odam uchun yuqumli finnalar 2 yilgacha saqlanishi atlasda yozilgan. Shu davr mobaynida har bir finnali go'sht odam uchun yuqish manbai bo'lib qoladi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Kasbiy va uy sharoitidagi omillar",
+   "content": [
+    "Darslikda cho'ponlar, so'yish punktlari va go'sht kombinatlari xodimlari kasbiy xavf guruhi deb ko'rsatilgan. Milliy yo'riqnomada sog'uvchilar, cho'ponlar va ularning oila a'zolari, qassoblar va oshpazlar yiliga bir marta tekshirilishi belgilangan [1, 2].",
+    "Yo'riqnomada molni uyda so'yish va mollarni saqlash bo'yicha mahalla yig'inlari bilan sanitariya-targ'ibot ishlari olib borilishi talab qilingan. Rossiya talablarini bayon qilgan darslikda ham xonadonda veterinariya-sanitariya nazoratisiz hayvon so'yish taqiqlangan; bu uyda so'yilgan go'sht nazoratdan chetda qolishi xavfini ko'rsatadi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Aholi punktlarida yoki chorva xo'jaliklarida finnoz qayd etilsa, invaziya manbaini topish uchun shu hududdagi aholi epidemiologik ko'rsatma bo'yicha tekshiriladi. Hayvonlarda sistitserkoz topilsa, tekshiruv hajmi va soni hududiy DSENM parazitologi tomonidan belgilanadi [1].",
+    "Shu sababli parazitolog yuqish yo'llarini mavhum emas, aniq voqea bilan bog'lashi kerak: qaysi go'sht, qayerda so'yilgan, qaysi taom va kimlar iste'mol qilgan. Bunday tahlil bemorlarni topishga va chorva o'chog'ini aniqlashga imkon beradi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Teniarinxoz va tenioz bilan zararlanish yo'li bitta: tirik finnali xom yoki yetarlicha pishmagan go'sht. Omillar esa odamning najasi bilan ifloslangan tashqi muhit, oqova suv bilan sug'orilgan o'tlar, mexanik tashuvchilar, an'anaviy taomlar va kasbiy aloqa orqali kuchayadi; tenioz tuxumlari qo'shimcha ravishda sistitserkoz xavfini tug'diradi [1, 2, 6]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

@@ -1,60 +1,89 @@
 {
-  "number": 63,
-  "title": "63. Visseral leyshmaniozini profilaktikasi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Visseral leyshmanioz iskabtopar chivinlar orqali yuqadigan, itlar va yovvoyi hayvonlar rezervuar bo'lgan tabiiy o'choqli zoonozdir. Profilaktika rejalashtirilganda kasallikning transmissiv tabiiy o'choqli ekani hisobga olinadi, hozirgi vaqtda asosiy maqsad kasallanishni kamaytirish va oldini olishdir [1].",
-      "Ushbu mavzuda bemorlarni erta aniqlash, aholini iskabtopar chaqishidan himoyalash, itlarga qarshi choralar, sanitar-obodonlashtirish, JSST tavsiyalari va sanitariya-tarbiyaviy ish ketma-ket ko'rib chiqiladi. Manbalar orasidagi farq va tasdiqlanmagan usullar oxirida alohida aytiladi [1, 2, 3]."
-    ]},
-    {"heading": "Profilaktika tizimining tuzilishi", "content": [
-      "Yo'riqnomaga ko'ra chora-tadbirlar majmuasi bemorga, kasallik manbasiga va tashuvchilarga qaratiladi. Endemik hududdan tashqarida shifokorlar VL haqida to'liq ma'lumotga ega bo'lishi, endemik hududlarda esa zararlangan bemorlarni erta aniqlashni ta'minlashi lozim [1].",
-      "Respublika markazining taqdimotida bu tizim tashkiliy, davolash-profilaktika, entomologik nazorat, veterinariya, sanitariya-gigiyena tadbirlari va shaxsiy hamda jamoat profilaktikasidan iborat deb ko'rsatilgan. Har bir tadbir hududning ekologik xususiyatiga moslab rejalashtiriladi [1, 2]."
-    ]},
-    {"heading": "Bemorlarni erta aniqlash va davolash", "content": [
-      "Endemik tumanlarda bemorlar DPMga murojaat va xonadonma-xonadon yurish orqali aniqlanadi, endemik bo'lmagan tumanlarda pediatriya, gematologiya muassasalarida va endemik hududga borib kelganlar orasida topiladi. O'z vaqtida aniqlangan bemorni maxsus davolash o'limning oldini oladi [1].",
-      "Taqdimotga ko'ra 14 yoshgacha bo'lgan, jigari va taloqi kattalashgan, kamqonligi hamda sababi noma'lum isitmasi bor bolalarga klinik-epidemiologik ko'rsatma bo'yicha suyak ko'migi punksiyasi o'tkazilishi shart. Shuningdek davolangan va seropozitiv shaxslar dispanser nazoratiga olinadi [2]."
-    ]},
-    {"heading": "Aholini iskabtopar chaqishidan himoya qilish", "content": [
-      "Yo'riqnomada endemik aholi punktlarida iskabtoparlarning imaginal oldi fazasini yo'qotish uchun sanitar-obodonlashtirish ishlari, xonalarga to'r tutish, yashaydigan va yashamaydigan xonalarga insektitsid bilan ishlov berish tavsiya etilgan. Asosiy tashuvchi Ph. longiductus o'choqlarida mavsum davomida 1-3 marta ishlov o'tkaziladi [1].",
-      "Bayonnomada ham mavjud yo'nalishlar bir xil: iskabtopar uchish joylarini kamaytirish, qanotli shakllarga qarshi mexanik himoya va binoning ichki hamda tashqi devorlarini insektitsid bilan ishlash. Sinuzan, dimilin va fipronil kabi ruxsat etilgan preparatlar yo'riqnomada eslatilgan [1, 3]."
-    ]},
-    {"heading": "Shaxsiy va jamoaviy himoya", "content": [
-      "Chaqishdan shaxsiy va ommaviy saqlanish uchun himoya kiyimi, eshik va derazalarga to'r, pashshaxona hamda repellentlar qo'llanadi. Ayrim hududlarda binolar qamish bilan qurilgani sababli insektitsid samarasi past bo'ladi, bunday xonadonlarda tunda shaxsiy himoya vositalari tavsiya etiladi [1].",
-      "Maktab va maktabgacha bolalar muassasalarida to'rli eshik-deraza pardalari yo'riqnomada har 1-2 haftada, bayonnomada esa 2-3 haftada bir marta repellent bilan ishlanishi aytilgan. Farq amaliy ahamiyatga ega, shuning uchun qisqa muddat ustun ko'rilib, mahalliy ko'rsatmaga amal qilinadi [1, 3]."
-    ]},
-    {"heading": "Itlarga qarshi choralar", "content": [
-      "Yo'riqnomaga ko'ra VL dan saqlanishning samarali usullaridan biri daydi itlarni doimiy yo'qotishdir. Endemik o'choqlarda daydi itlar ushlanadi, xonadondagi itlar hisobga olinib veterinar ko'rigidan o'tkaziladi, har yili VL qayd etiladigan o'choqlarda barcha itlar yiliga 1-2 marta parazitologik tekshiriladi [1].",
-      "Taqdimotda itlarni mahalliy insektitsid bilan himoyalash, kimyoviy o'ljalar zaxirasi va uy hamda daydi itlarni tekshirish ko'rsatilgan. Piretroidlar (permetrin, deltametrin, flumetrin) yakka yoki imidakloprid bilan birga purkagich, tomchi va bo'yinbog' shaklida chivinlardan himoya qilishi qayd etilgan [2]."
-    ]},
-    {"heading": "Sanitariya-gigiyena choralari", "content": [
-      "Taqdimotda xonadonlarni obodonlashtirish va tozalash orqali iskabtoparlar ko'payadigan joylarni yo'qotish va samaradorligini nazorat qilish talab qilingan. Bunga bo'sh yerlarni tekislash va ko'kalamzorlashtirish, go'ng va chiqindilarni muntazam tozalash, kemiruvchilar inlarini yo'qotish, loy binolarni ta'mirlash kiradi [2].",
-      "Yo'riqnomaga ko'ra aholi punktlarida iskabtoparlar asosan pollar ostida, axlatxonalarda ko'payadi, shuning uchun sanitar-obodonlashtirish profilaktikaning poydevori hisoblanadi. Bu choralar kasallik tashuvchisining soni va odam bilan aloqasini kamaytirishga qaratilgan [1, 2]."
-    ]},
-    {"heading": "JSST tavsiyalari", "content": [
-      "JSST ma'lumotiga ko'ra leyshmaniozni nazorat qilish bir necha vositani talab qiladi: erta tashxis va samarali davo, insektitsid purkash, insektitsidli to'rlar, atrof-muhit boshqaruvi va shaxsiy himoya orqali tashuvchilarni nazorat qilish, samarali kuzatuv hamda aholini jalb qilish [5].",
-      "Taqdimotda keltirilgan JSST minimal choralariga ko'ra VL da holatlarni faol va passiv aniqlash, erta tashxis va davo, zararlangan itlarni davolash yoki yo'qotish, daydi itlar nazorati hamda itlarga mahalliy insektitsid qo'llash tavsiya etiladi. Uylarni ishlash faqat endofil turlar uchun samarali bo'lishi mumkin [2, 5]."
-    ]},
-    {"heading": "Sanitariya-ma'rifiy ish va kadrlar tayyorlash", "content": [
-      "Yo'riqnomaga ko'ra VL profilaktikasi bo'yicha kadrlar tayyorlash va aholi o'rtasida sanitariya-targ'ibot ishlarini doimiy ravishda rejaga kiritish zarur. DPM vrachlari, pediatrlar va klinik laboratoriya vrach-laborantlarining parazitar kasalliklar bo'yicha bilimini muntazam oshirish bemorni o'z vaqtida aniqlash shartidir [1].",
-      "Taqdimotda xavf guruhlari va endemik hududga tashrif buyuruvchilar o'rtasida sanitariya-ma'rifiy ish, dermatolog, infeksionist, pediatr kabi shifokorlarning ogohligini oshirish hamda davolash-profilaktika, parazitologiya va veterinariya xodimlari uchun seminarlar o'tkazish ko'rsatilgan. Bu choralar erta tashxis va o'lim holatlarining oldini olishga xizmat qiladi [2]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Parazitolog-shifokor endemik hududda itlarni ro'yxatga olish va tekshirishni veterinariya xizmati bilan birgalikda tashkil qiladi, iskabtopar ishlovi sifatini nazorat qiladi va kasallikka shubhali bemorlarni erta suyak ko'migi tekshiruviga yo'naltiradi. Barcha tadbirlar sanitariya va veterinariya xodimlari yaqin hamkorligida olib boriladi [1].",
-      "2016 yil tahlilida Urgut tumanida VL holatlari 5 tadan 12 taga oshgani qayd etilgan. Bunday hududlarda profilaktika tadbirlari rejadagi hajmda bajarilganini, itlar tekshirilganini va hisobotlar real ekanini nazorat qilish parazitologning vazifasidir [2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Talabalik taqdimotida VL profilaktikasi sifatida xloridin bilan mavsumiy kimyoprofilaktika va tirik vaksina bilan immunoprofilaktika yozilgan, ammo milliy yo'riqnoma va bayonnomada bunday usullar yo'q. Shuning uchun ular amaliy tavsiya sifatida keltirilmaydi [1, 4].",
-      "Itlarga qarshi insektitsidli bo'yinbog' va purkagichlar taqdimotda JSST tavsiyasi sifatida berilgan, ammo O'zbekistonda ruxsat etilgan aniq tijorat nomlari manbada ko'rsatilmagan. Vaksina yoki kimyoprofilaktikaning milliy ahamiyati ham tasdiqlanmagan [2, 4]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Visseral leyshmaniozning profilaktikasi bemorlarni erta aniqlash va davolash, iskabtoparlarga qarshi sanitar va insektitsid choralar, shaxsiy himoya, itlarni hisobga olish, tekshirish va daydi itlarni yo'qotish, shuningdek kadrlar tayyorlash va sanitariya-ma'rifiy ishdan iborat murakkab kompleksdir [1, 2, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
-    "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Юлдашова С. Висцеральный лейшманиоз (talabalik taqdimoti). xayrullokomilov.uz/kutubxona, material ID 1579.",
-    "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis"
-  ]
+ "number": 63,
+ "title": "63. Visseral leyshmaniozini profilaktikasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Visseral leyshmanioz iskabtopar chivinlar orqali yuqadigan, itlar va yovvoyi hayvonlar rezervuar bo'lgan tabiiy o'choqli zoonozdir. Profilaktika rejalashtirilganda kasallikning transmissiv tabiiy o'choqli ekani hisobga olinadi, hozirgi vaqtda asosiy maqsad kasallanishni kamaytirish va oldini olishdir [1].",
+    "Ushbu mavzuda bemorlarni erta aniqlash, aholini iskabtopar chaqishidan himoyalash, itlarga qarshi choralar, sanitar-obodonlashtirish, JSST tavsiyalari va sanitariya-tarbiyaviy ish ketma-ket ko'rib chiqiladi. Manbalar orasidagi farqlar ham ko'rsatiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Profilaktika tizimining tuzilishi",
+   "content": [
+    "Yo'riqnomaga ko'ra chora-tadbirlar majmuasi bemorga, kasallik manbasiga va tashuvchilarga qaratiladi. Endemik hududdan tashqarida shifokorlar VL haqida to'liq ma'lumotga ega bo'lishi, endemik hududlarda esa zararlangan bemorlarni erta aniqlashni ta'minlashi lozim [1].",
+    "Respublika markazining taqdimotida bu tizim tashkiliy, davolash-profilaktika, entomologik nazorat, veterinariya, sanitariya-gigiyena tadbirlari va shaxsiy hamda jamoat profilaktikasidan iborat deb ko'rsatilgan. Har bir tadbir hududning ekologik xususiyatiga moslab rejalashtiriladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Bemorlarni erta aniqlash va davolash",
+   "content": [
+    "Endemik tumanlarda bemorlar DPMga murojaat va xonadonma-xonadon yurish orqali aniqlanadi, endemik bo'lmagan tumanlarda pediatriya, gematologiya muassasalarida va endemik hududga borib kelganlar orasida topiladi. O'z vaqtida aniqlangan bemorni maxsus davolash o'limning oldini oladi [1].",
+    "Taqdimotga ko'ra 14 yoshgacha bo'lgan, jigari va taloqi kattalashgan, kamqonligi hamda sababi noma'lum isitmasi bor bolalarga klinik-epidemiologik ko'rsatma bo'yicha suyak ko'migi punksiyasi o'tkazilishi shart. Shuningdek davolangan va seropozitiv shaxslar dispanser nazoratiga olinadi [2]."
+   ]
+  },
+  {
+   "heading": "Aholini iskabtopar chaqishidan himoya qilish",
+   "content": [
+    "Yo'riqnomada endemik aholi punktlarida iskabtoparlarning imaginal oldi fazasini yo'qotish uchun sanitar-obodonlashtirish ishlari, xonalarga to'r tutish, yashaydigan va yashamaydigan xonalarga insektitsid bilan ishlov berish tavsiya etilgan. Asosiy tashuvchi Ph. longiductus o'choqlarida mavsum davomida 1-3 marta ishlov o'tkaziladi [1].",
+    "Bayonnomada ham mavjud yo'nalishlar bir xil: iskabtopar uchish joylarini kamaytirish, qanotli shakllarga qarshi mexanik himoya va binoning ichki hamda tashqi devorlarini insektitsid bilan ishlash. Sinuzan, dimilin va fipronil kabi ruxsat etilgan preparatlar yo'riqnomada eslatilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Shaxsiy va jamoaviy himoya",
+   "content": [
+    "Chaqishdan shaxsiy va ommaviy saqlanish uchun himoya kiyimi, eshik va derazalarga to'r, pashshaxona hamda repellentlar qo'llanadi. Ayrim hududlarda binolar qamish bilan qurilgani sababli insektitsid samarasi past bo'ladi, bunday xonadonlarda tunda shaxsiy himoya vositalari tavsiya etiladi [1].",
+    "Maktab va maktabgacha bolalar muassasalarida to'rli eshik-deraza pardalari yo'riqnomada har 1-2 haftada, bayonnomada esa 2-3 haftada bir marta repellent bilan ishlanishi aytilgan. Farq amaliy ahamiyatga ega, shuning uchun qisqa muddat ustun ko'rilib, mahalliy ko'rsatmaga amal qilinadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Itlarga qarshi choralar",
+   "content": [
+    "Yo'riqnomaga ko'ra VL dan saqlanishning samarali usullaridan biri daydi itlarni doimiy yo'qotishdir. Endemik o'choqlarda daydi itlar ushlanadi, xonadondagi itlar hisobga olinib veterinar ko'rigidan o'tkaziladi, har yili VL qayd etiladigan o'choqlarda barcha itlar yiliga 1-2 marta parazitologik tekshiriladi [1].",
+    "Taqdimotda itlarni mahalliy insektitsid bilan himoyalash, kimyoviy o'ljalar zaxirasi va uy hamda daydi itlarni tekshirish ko'rsatilgan. Piretroidlar (permetrin, deltametrin, flumetrin) yakka yoki imidakloprid bilan birga purkagich, tomchi va bo'yinbog' shaklida chivinlardan himoya qilishi qayd etilgan [2]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-gigiyena choralari",
+   "content": [
+    "Taqdimotda xonadonlarni obodonlashtirish va tozalash orqali iskabtoparlar ko'payadigan joylarni yo'qotish va samaradorligini nazorat qilish talab qilingan. Bunga bo'sh yerlarni tekislash va ko'kalamzorlashtirish, go'ng va chiqindilarni muntazam tozalash, kemiruvchilar inlarini yo'qotish, loy binolarni ta'mirlash kiradi [2].",
+    "Yo'riqnomaga ko'ra aholi punktlarida iskabtoparlar asosan pollar ostida, axlatxonalarda ko'payadi, shuning uchun sanitar-obodonlashtirish profilaktikaning poydevori hisoblanadi. Bu choralar kasallik tashuvchisining soni va odam bilan aloqasini kamaytirishga qaratilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "JSST tavsiyalari",
+   "content": [
+    "JSST ma'lumotiga ko'ra leyshmaniozni nazorat qilish bir necha vositani talab qiladi: erta tashxis va samarali davo, insektitsid purkash, insektitsidli to'rlar, atrof-muhit boshqaruvi va shaxsiy himoya orqali tashuvchilarni nazorat qilish, samarali kuzatuv hamda aholini jalb qilish [4].",
+    "Taqdimotda keltirilgan JSST minimal choralariga ko'ra VL da holatlarni faol va passiv aniqlash, erta tashxis va davo, zararlangan itlarni davolash yoki yo'qotish, daydi itlar nazorati hamda itlarga mahalliy insektitsid qo'llash tavsiya etiladi. Uylarni ishlash faqat endofil turlar uchun samarali bo'lishi mumkin [2, 4].",
+    "JSST ma'lumotiga ko'ra leyshmanioz eng kambag'al aholi qatlamlarida ko'proq uchraydi va ovqatlanish yetishmovchiligi, aholi ko'chishi, yomon uy-joy sharoiti, zaif immunitet hamda moliyaviy resurslar yetishmasligi bilan bog'liq. Parazit bilan zararlanganlarning faqat kichik qismida kasallik rivojlanadi, bu esa xavf omillarini kamaytirishning profilaktik ahamiyatini ko'rsatadi [4]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-ma'rifiy ish va kadrlar tayyorlash",
+   "content": [
+    "Yo'riqnomaga ko'ra VL profilaktikasi bo'yicha kadrlar tayyorlash va aholi o'rtasida sanitariya-targ'ibot ishlarini doimiy ravishda rejaga kiritish zarur. DPM vrachlari, pediatrlar va klinik laboratoriya vrach-laborantlarining parazitar kasalliklar bo'yicha bilimini muntazam oshirish bemorni o'z vaqtida aniqlash shartidir [1].",
+    "Taqdimotda xavf guruhlari va endemik hududga tashrif buyuruvchilar o'rtasida sanitariya-ma'rifiy ish, dermatolog, infeksionist, pediatr kabi shifokorlarning ogohligini oshirish hamda davolash-profilaktika, parazitologiya va veterinariya xodimlari uchun seminarlar o'tkazish ko'rsatilgan. Bu choralar erta tashxis va o'lim holatlarining oldini olishga xizmat qiladi [2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor endemik hududda itlarni ro'yxatga olish va tekshirishni veterinariya xizmati bilan birgalikda tashkil qiladi, iskabtopar ishlovi sifatini nazorat qiladi va kasallikka shubhali bemorlarni erta suyak ko'migi tekshiruviga yo'naltiradi. Barcha tadbirlar sanitariya va veterinariya xodimlari yaqin hamkorligida olib boriladi [1].",
+    "2016 yil tahlilida Urgut tumanida VL holatlari 5 tadan 12 taga oshgani qayd etilgan. Bunday hududlarda profilaktika tadbirlari rejadagi hajmda bajarilganini, itlar tekshirilganini va hisobotlar real ekanini nazorat qilish parazitologning vazifasidir [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Visseral leyshmaniozning profilaktikasi bemorlarni erta aniqlash va davolash, iskabtoparlarga qarshi sanitar va insektitsid choralar, shaxsiy himoya, itlarni hisobga olish, tekshirish va daydi itlarni yo'qotish, shuningdek kadrlar tayyorlash va sanitariya-ma'rifiy ishdan iborat murakkab kompleksdir [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Тё И.Л. Эпидемиологический надзор за лейшманиозами в Республике Узбекистан (taqdimot). РесЦГСЭН МЗ РУз, Ташкент, 17.04.2017. xayrullokomilov.uz/kutubxona, material ID 1597.",
+  "Parazitar kasalliklarni davolash bayonnomalari («Visseral leyshmaniozni davolash bayonnomasi»). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "World Health Organization. Leishmaniasis (fact sheet). https://www.who.int/news-room/fact-sheets/detail/leishmaniasis"
+ ]
 }

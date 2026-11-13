@@ -1,112 +1,105 @@
 {
-  "number": 41,
-  "title": "41. Zoonoz teri leyshmaniozining etiologiyasi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Zoonoz teri leyshmaniozi tabiiy o'choqli transmissiv zoonoz kasallik bo'lib, uning etiologiyasi qo'zg'atuvchining turi, tuzilishi, hayot sikli va xo'jayinlari bilan belgilanadi. Etiologiyani bilish kasallikni boshqa teri yaralaridan va antropoz shakldan ajratishda hamda profilaktika yo'nalishini tanlashda asos bo'ladi [1, 3].",
-        "Mavzuda avval qo'zg'atuvchining nomi va tizimdagi o'rni, so'ng morfologiyasi, hayot sikli va xo'jayinlari yoritiladi. Keyin Leishmania major ning L. tropica dan farqi, immunitet xususiyatlari va laboratoriyada aniqlash usullari ko'rib chiqiladi, oxirida tasdiqlanmagan jihatlar ochiq yoziladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Qo'zg'atuvchi va sinonimlar",
-      "content": [
-        "Zoonoz teri leyshmaniozining qo'zg'atuvchisi Leishmania major bo'lib, yo'riqnomada kasallik Borovskiy kasalligi, o'tkir nekrotik teri leyshmaniozi, qishloq turidagi teri leyshmaniozi, pendinka, Murg'ob yarasi, Afg'on yarasi va boshqa nomlar bilan ham ataladi. Milliy bayonnomada u L. major qo'zg'atadigan transmissiv protozoy kasallik deb ta'riflangan [1, 6].",
-        "1898 yilda P.F. Borovskiy Turkistonda «pendin yarasi» qo'zg'atuvchisini jahonda birinchi marta tasvirlagan. Mahalliy aholi kasallikni pendinka, ashxabodka kabi nomlar bilan atagan, hozir esa ashxabodka antropoz, pendinka zoonoz leyshmanioz deb yuritiladi. Bu kasallikning Markaziy Osiyo o'choqlari bilan tarixiy bog'liqligini ko'rsatadi [2]."
-      ]
-    },
-    {
-      "heading": "Taksonomik o'rni",
-      "content": [
-        "Yo'riqnomaga ko'ra L. major Protozoa, Flagellata sinfi, Protomonadina guruhi, Trypanosomatidae oilasi, Leishmania Ross turkumiga mansub. Leyshmaniyalar umurtqali xo'jayinlar hujayralari ichida majburiy parazitlik qiladi va morfologik jihatdan bir-biridan deyarli farq qilmaydi. Shu sababli turlar tuzilishiga ko'ra emas, biologik va serologik belgilariga ko'ra farqlanadi [1, 5].",
-        "Darslikda leyshmaniyalar to'rt guruhga bo'linadi: L. donovani, L. tropica, L. mexicana va L. brasiliensis. L. tropica guruhida tropica (minor) kenja turi antropoz, major kenja turi esa zoonoz teri leyshmaniozini qo'zg'atadi. Shu sababli eski tasniflarda zoonoz shakl qo'zg'atuvchisi L. tropica guruhi ichida ko'rsatiladi [2]."
-      ]
-    },
-    {
-      "heading": "Amastigot shakli",
-      "content": [
-        "Amastigot, ya'ni leyshmanial bosqich harakatsiz, yumaloq yoki oval shaklli bo'lib, odam va hayvon hujayralari ichida yashaydi. Yo'riqnomada uning uzunligi 2-6, eni 1-3 mikron, darslikda diametri 2-5,5 mikron deb berilgan. Hujayrada yadro va tayoqchasimon kinetoplast ajraladi [1, 2].",
-        "Romanovskiy-Gimza usulida bo'yalganda sitoplazma kulrang-ko'k, yadro qizil-binafsha, kinetoplast to'q binafsha rangga kiradi. Amastigotlar tabiiy o'choqdagi bemor odam va hayvonlarda topiladi, shu sababli yaradan olingan surtmada aynan shu bosqichni izlash laboratoriya tashxisining asosini tashkil qiladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Promastigot shakli",
-      "content": [
-        "Iskabtopar tanasida parazit harakatchan xivchinli promastigot, ya'ni leptomonad bosqichiga o'tadi. Yo'riqnomada xivchinli shaklning uzunligi 10-20 mikron, eni 5-6 mikron deb yozilgan. Darslikda promastigot uzunligi 12-20, eni 1,5-3,5 mikron, xivchini esa 16-20 mikron deb ko'rsatilgan, ya'ni manbalar o'lchamlarda farq qiladi [1, 2].",
-        "Promastigotlarni iskabtopar ichagi suyuqligidan bo'yalmagan nativ preparatda ko'rish mumkin, qurutilgan va bo'yalgan preparatlarda esa ularning barcha tuzilmalari ko'rinadi. Bu bosqich entomologik tekshiruvda zararlangan iskabtoparlarni aniqlash uchun muhim ahamiyatga ega. Natijada tashuvchi chivinlarni mikroskopda ko'rib, ularning parazit bilan zararlanganligini aniqlash mumkin bo'ladi [1]."
-      ]
-    },
-    {
-      "heading": "Hayot sikli",
-      "content": [
-        "Qo'zg'atuvchi rivojlanishida xo'jayinni almashtirib ikki davrni o'taydi: odam va hayvon organizmida amastigot, iskabtopar tanasida promastigot shaklida bo'ladi. Tabiiy zanjirda umurtqali xo'jayin sifatida kemiruvchilar qatnashadi, odam esa epidemik jihatdan manba vazifasini bajarmaydi. Shu sababli parazit aylanishi uchun ham kemiruvchi, ham iskabtopar zarur [1, 3].",
-        "Parazit iskabtopar ichagida ko'payib, halqumda to'planadi; darslikda promastigotlar halqumda 9-10 kundan keyin to'planishi aytilgan. Zararlangan chivin 6-8 kundan so'ng yuqumli bo'ladi va chaqqanda parazitni odam makrofaglariga o'tkazadi, u yerda parazit yana amastigotga aylanadi. Bu muddat tashuvchining epidemik xavfli bo'lishini belgilaydi [2, 4]."
-      ]
-    },
-    {
-      "heading": "Tashuvchi chivinlar",
-      "content": [
-        "Leishmania major ni Ph. papatasi, Ph. caucasicus, Ph. andrejevi, Ph. mongolensis, qisman Sergentomyia arpaklensis va S. clydei tashiydi. Antropoz shaklning L. tropica si esa faqat Ph. sergenti bilan bog'liq. Zoonoz shaklda iskabtoparlar parazit aylanishini kemiruvchilar orasida ham ta'minlaydi [4, 7].",
-        "Leyshmaniyalarning iskabtoparda transovarial yoki transfazaviy yo'l bilan o'tishi ma'lum emas, umurtqalidan umurtqaliga tashuvchisiz muntazam o'tishi deyarli mumkin emas. Shuning uchun parazit saqlanib qolishi uchun kemiruvchi rezervuar va tashuvchi chivin bir joyda birga bo'lishi shart [7]."
-      ]
-    },
-    {
-      "heading": "Umurtqali xo'jayinlar",
-      "content": [
-        "Zoonoz shaklning asosiy rezervuari katta qum sichqoni (Rhombomys opimus) va qizil dumli qum sichqoni (Meriones libycus) hisoblanadi. Kasal kemiruvchilarning quloq, burun va ko'z qovoqlarida yara va bo'rtmalar ko'rinadi, ya'ni iskabtoparlar chaqishi oson bo'lgan joylarda [1, 7].",
-        "Kemiruvchilar kasallikni butun umr davomida tashiydi, parazit mavsumdan mavsumga ularning organizmida saqlanadi. Odam esa manba rolini o'ynamaydi. Shu sababli zoonoz teri leyshmaniozi o'chog'ini tugatish uchun, avvalo, kemiruvchilar populyatsiyasiga va ularning inlariga ta'sir ko'rsatish zarur [1, 3]."
-      ]
-    },
-    {
-      "heading": "L. major va L. tropica farqi",
-      "content": [
-        "Yo'riqnomadagi N.I. Latishev jadvaliga ko'ra zoonoz shaklda parazitlar kam, oq sichqonlarda virulentlik yuqori; antropoz shaklda esa parazitlar ko'p, oq sichqonlarda virulentlik past. Inkubatsion davr L. major da qisqa, asosan 1-2 hafta, L. tropica da 2-6 oy [1].",
-        "Teri sinamasi zoonoz shaklda kasallik boshlanganidan 2 oy o'tib, antropoz shaklda 6 oy o'tib musbat bo'ladi. Darslikda esa leyshmanin bilan allergik sinama kasallikning 10-15 kunidan boshlab musbat bo'lishi aytilgan; bu muddatlar manbalarda farq qiladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Immunitet xususiyatlari",
-      "content": [
-        "Zoonoz teri leyshmaniozidan so'ng mustahkam, umrbod immunitet hosil bo'ladi. Darslikda reinfeksiyaga to'liq chidamlilik yara bosqichida kasallikning 3-4 oyida shakllanishi va takroriy kasallanish 2 foizdan oshmasligi aytilgan, yo'riqnomada esa qaytalanish 2-10 foiz deb ko'rsatilgan. Bu raqamlar farqli bo'lsa-da, ikkala manba ham takroriy kasallanishning kam uchrashini tasdiqlaydi [1, 2].",
-        "Bu xususiyat amaliy ahamiyatga ega: intensiv o'choqlarda mahalliy aholining ko'pchiligi bolalikda kasallanib bo'ladi, immuniteti yo'q kelgan kishilar esa xavf ostida qoladi. Yo'riqnomada antropoz shaklga qarshi kesishuvchi immunitet hosil qilish uchun L. major suyuq madaniyati bilan emlash eslatilgan [1, 3]."
-      ]
-    },
-    {
-      "heading": "Laboratoriyada aniqlash",
-      "content": [
-        "Darslikka ko'ra zoonoz shaklning diagnostikasi antropoz shakl bilan bir xil. Yo'riqnomada leyshmaniyalar yara tubidagi bo'rtmadan va infiltrat chetidan olingan namunada topilganda tashxis tasdiqlanishi, biologik sinama oq sichqon va xomyaklarda o'tkazilishi, madaniyat ham olinishi mumkinligi yozilgan [1, 3].",
-        "Milliy bayonnomada qirindi yara atrofidagi yallig'langan bo'rtma to'qimasidan olinadi va Romanovskiy-Gimza usulida bo'yaladi. Darslikda NNN muhitida o'stirilgan promastigotlar immersion mikroskopda chigallashgan xivchinli yulduzsimon to'plamlar ko'rinishida tasvirlangan. Madaniyat usullari ixtisoslashgan laboratoriya imkoniyatiga bog'liq. Bu usullarda promastigot bosqichi o'stiriladi, amastigot bosqichi esa hujayra monoqatlamida olinadi [2, 6]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Parazitolog-shifokor etiologik ma'lumotni epidemiologik qarorga aylantiradi: qo'zg'atuvchi L. major bo'lsa, manba kemiruvchilar, tashuvchi iskabtopar. Shuning uchun dala deratizatsiyasi va iskabtoparga qarshi dezinseksiya birgalikda rejalashtiriladi, bemor odam esa manba hisoblanmaydi. Bunday yondashuv resurslarni to'g'ri yo'naltirishga va tadbirlarning samarasini oshirishga yordam beradi [1, 3].",
-        "Teri yarasi bor bemorda tur aniqlanmasa, zoonoz shaklni antropoz shakl bilan adashtirish mumkin. Antropoz shaklda manba odam bo'lgani uchun bemorlarni faol aniqlash va yaralarni bog'lash muhim, zoonoz shaklda esa asosiy e'tibor kemiruvchi o'choqlariga qaratiladi [1, 6]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Yo'riqnomaning hujayra tuzilishi tavsifida ekssentrik joylashgan ikkita yadro ko'rsatilgan, darslikda esa yadro va kinetoplast keltirilgan. Bu farq aniqlashtirishni talab qiladi, shu sababli ushbu mavzuda yadro va kinetoplast tavsifi darslik asosida berildi, yo'riqnoma tavsifi esa faktdek qabul qilinmadi [1, 2].",
-        "Qo'zg'atuvchining zamonaviy molekulyar tasnifi va O'zbekistonda L. major shtammlarining genetik xususiyatlari bo'yicha ma'lumot ko'rilgan manbalarda topilmadi. PZR orqali tur aniqlash faqat umumiy tarzda, ma'lumotnomadagi ma'lumotlarga tayanib eslatildi va mahalliy amaliyot haqida xulosa chiqarilmadi. Bu masala alohida ilmiy tadqiqotlar va mahalliy laboratoriya ma'lumotlari bilan to'ldirilishi kerak [5]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Zoonoz teri leyshmaniozining qo'zg'atuvchisi Leishmania major bo'lib, Trypanosomatidae oilasiga mansub; hayot sikli kemiruvchi (amastigot) va iskabtopar (promastigot) o'rtasida kechadi. Shifokor uchun asosiy qoidalar: amastigotni yara surtmasida topish, antropoz shakldan farqlash va kasallikdan keyingi mustahkam immunitetni hisobga olish [1, 2, 3]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Pearson R.D. Leishmaniasis (Leyshmanioz). MSD ma'lumotnomasi, professional versiya; mazmun oxirgi marta 2019 yil may oyida o'zgartirilgan. xayrullokomilov.uz/kutubxona, material ID 1536.",
-    "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Кулиева Х.Ф. Медицинская энтомология. xayrullokomilov.uz/kutubxona, material ID 1604."
-  ]
+ "number": 41,
+ "title": "41. Zoonoz teri leyshmaniozining etiologiyasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Zoonoz teri leyshmaniozi tabiiy o'choqli transmissiv zoonoz kasallik bo'lib, uning etiologiyasi qo'zg'atuvchining turi, tuzilishi, hayot sikli va xo'jayinlari bilan belgilanadi. Etiologiyani bilish kasallikni boshqa teri yaralaridan va antropoz shakldan ajratishda hamda profilaktika yo'nalishini tanlashda asos bo'ladi [1, 3].",
+    "Mavzuda avval qo'zg'atuvchining nomi va tizimdagi o'rni, so'ng morfologiyasi, hayot sikli va xo'jayinlari yoritiladi. Keyin Leishmania major ning L. tropica dan farqi, immunitet xususiyatlari va laboratoriyada aniqlash usullari ko'rib chiqiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchi va sinonimlar",
+   "content": [
+    "Zoonoz teri leyshmaniozining qo'zg'atuvchisi Leishmania major bo'lib, yo'riqnomada kasallik Borovskiy kasalligi, o'tkir nekrotik teri leyshmaniozi, qishloq turidagi teri leyshmaniozi, pendinka, Murg'ob yarasi, Afg'on yarasi va boshqa nomlar bilan ham ataladi. Milliy bayonnomada u L. major qo'zg'atadigan transmissiv protozoy kasallik deb ta'riflangan [1, 6].",
+    "1898 yilda P.F. Borovskiy Turkistonda «pendin yarasi» qo'zg'atuvchisini jahonda birinchi marta tasvirlagan. Mahalliy aholi kasallikni pendinka, ashxabodka kabi nomlar bilan atagan, hozir esa ashxabodka antropoz, pendinka zoonoz leyshmanioz deb yuritiladi. Bu kasallikning Markaziy Osiyo o'choqlari bilan tarixiy bog'liqligini ko'rsatadi [2]."
+   ]
+  },
+  {
+   "heading": "Taksonomik o'rni",
+   "content": [
+    "Yo'riqnomaga ko'ra L. major Protozoa, Flagellata sinfi, Protomonadina guruhi, Trypanosomatidae oilasi, Leishmania Ross turkumiga mansub. Leyshmaniyalar umurtqali xo'jayinlar hujayralari ichida majburiy parazitlik qiladi va morfologik jihatdan bir-biridan deyarli farq qilmaydi. Shu sababli turlar tuzilishiga ko'ra emas, biologik va serologik belgilariga ko'ra farqlanadi [1, 5].",
+    "Darslikda leyshmaniyalar to'rt guruhga bo'linadi: L. donovani, L. tropica, L. mexicana va L. brasiliensis. L. tropica guruhida tropica (minor) kenja turi antropoz, major kenja turi esa zoonoz teri leyshmaniozini qo'zg'atadi. Shu sababli eski tasniflarda zoonoz shakl qo'zg'atuvchisi L. tropica guruhi ichida ko'rsatiladi [2]."
+   ]
+  },
+  {
+   "heading": "Amastigot shakli",
+   "content": [
+    "Amastigot, ya'ni leyshmanial bosqich harakatsiz, yumaloq yoki oval shaklli bo'lib, odam va hayvon hujayralari ichida yashaydi. Yo'riqnomada uning uzunligi 2-6, eni 1-3 mikron, darslikda diametri 2-5,5 mikron deb berilgan. Hujayrada yadro va tayoqchasimon kinetoplast ajraladi [1, 2].",
+    "Romanovskiy-Gimza usulida bo'yalganda sitoplazma kulrang-ko'k, yadro qizil-binafsha, kinetoplast to'q binafsha rangga kiradi. Amastigotlar tabiiy o'choqdagi bemor odam va hayvonlarda topiladi, shu sababli yaradan olingan surtmada aynan shu bosqichni izlash laboratoriya tashxisining asosini tashkil qiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Promastigot shakli",
+   "content": [
+    "Iskabtopar tanasida parazit harakatchan xivchinli promastigot, ya'ni leptomonad bosqichiga o'tadi. Yo'riqnomada xivchinli shaklning uzunligi 10-20 mikron, eni 5-6 mikron deb yozilgan. Darslikda promastigot uzunligi 12-20, eni 1,5-3,5 mikron, xivchini esa 16-20 mikron deb ko'rsatilgan, ya'ni manbalar o'lchamlarda farq qiladi [1, 2].",
+    "Promastigotlarni iskabtopar ichagi suyuqligidan bo'yalmagan nativ preparatda ko'rish mumkin, qurutilgan va bo'yalgan preparatlarda esa ularning barcha tuzilmalari ko'rinadi. Bu bosqich entomologik tekshiruvda zararlangan iskabtoparlarni aniqlash uchun muhim ahamiyatga ega. Natijada tashuvchi chivinlarni mikroskopda ko'rib, ularning parazit bilan zararlanganligini aniqlash mumkin bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Hayot sikli",
+   "content": [
+    "Qo'zg'atuvchi rivojlanishida xo'jayinni almashtirib ikki davrni o'taydi: odam va hayvon organizmida amastigot, iskabtopar tanasida promastigot shaklida bo'ladi. Tabiiy zanjirda umurtqali xo'jayin sifatida kemiruvchilar qatnashadi, odam esa epidemik jihatdan manba vazifasini bajarmaydi. Shu sababli parazit aylanishi uchun ham kemiruvchi, ham iskabtopar zarur [1, 3].",
+    "Parazit iskabtopar ichagida ko'payib, halqumda to'planadi; darslikda promastigotlar halqumda 9-10 kundan keyin to'planishi aytilgan. Zararlangan chivin 6-8 kundan so'ng yuqumli bo'ladi va chaqqanda parazitni odam makrofaglariga o'tkazadi, u yerda parazit yana amastigotga aylanadi. Bu muddat tashuvchining epidemik xavfli bo'lishini belgilaydi [2, 4]."
+   ]
+  },
+  {
+   "heading": "Tashuvchi chivinlar",
+   "content": [
+    "Leishmania major ni Ph. papatasi, Ph. caucasicus, Ph. andrejevi, Ph. mongolensis, qisman Sergentomyia arpaklensis va S. clydei tashiydi. Antropoz shaklning L. tropica si esa faqat Ph. sergenti bilan bog'liq. Zoonoz shaklda iskabtoparlar parazit aylanishini kemiruvchilar orasida ham ta'minlaydi [4, 7].",
+    "Leyshmaniyalarning iskabtoparda transovarial yoki transfazaviy yo'l bilan o'tishi ma'lum emas, umurtqalidan umurtqaliga tashuvchisiz muntazam o'tishi deyarli mumkin emas. Shuning uchun parazit saqlanib qolishi uchun kemiruvchi rezervuar va tashuvchi chivin bir joyda birga bo'lishi shart [7]."
+   ]
+  },
+  {
+   "heading": "Umurtqali xo'jayinlar",
+   "content": [
+    "Zoonoz shaklning asosiy rezervuari katta qum sichqoni (Rhombomys opimus) va qizil dumli qum sichqoni (Meriones libycus) hisoblanadi. Kasal kemiruvchilarning quloq, burun va ko'z qovoqlarida yara va bo'rtmalar ko'rinadi, ya'ni iskabtoparlar chaqishi oson bo'lgan joylarda [1, 7].",
+    "Kemiruvchilar kasallikni butun umr davomida tashiydi, parazit mavsumdan mavsumga ularning organizmida saqlanadi. Odam esa manba rolini o'ynamaydi. Shu sababli zoonoz teri leyshmaniozi o'chog'ini tugatish uchun, avvalo, kemiruvchilar populyatsiyasiga va ularning inlariga ta'sir ko'rsatish zarur [1, 3]."
+   ]
+  },
+  {
+   "heading": "L. major va L. tropica farqi",
+   "content": [
+    "Yo'riqnomadagi N.I. Latishev jadvaliga ko'ra zoonoz shaklda parazitlar kam, oq sichqonlarda virulentlik yuqori; antropoz shaklda esa parazitlar ko'p, oq sichqonlarda virulentlik past. Inkubatsion davr L. major da qisqa, asosan 1-2 hafta, L. tropica da 2-6 oy [1].",
+    "Teri sinamasi zoonoz shaklda kasallik boshlanganidan 2 oy o'tib, antropoz shaklda 6 oy o'tib musbat bo'ladi. Darslikda esa leyshmanin bilan allergik sinama kasallikning 10-15 kunidan boshlab musbat bo'lishi aytilgan; bu muddatlar manbalarda farq qiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Immunitet xususiyatlari",
+   "content": [
+    "Zoonoz teri leyshmaniozidan so'ng mustahkam, umrbod immunitet hosil bo'ladi. Darslikda reinfeksiyaga to'liq chidamlilik yara bosqichida kasallikning 3-4 oyida shakllanishi va takroriy kasallanish 2 foizdan oshmasligi aytilgan, yo'riqnomada esa qaytalanish 2-10 foiz deb ko'rsatilgan. Bu raqamlar farqli bo'lsa-da, ikkala manba ham takroriy kasallanishning kam uchrashini tasdiqlaydi [1, 2].",
+    "Bu xususiyat amaliy ahamiyatga ega: intensiv o'choqlarda mahalliy aholining ko'pchiligi bolalikda kasallanib bo'ladi, immuniteti yo'q kelgan kishilar esa xavf ostida qoladi. Yo'riqnomada antropoz shaklga qarshi kesishuvchi immunitet hosil qilish uchun L. major suyuq madaniyati bilan emlash eslatilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Laboratoriyada aniqlash",
+   "content": [
+    "Darslikka ko'ra zoonoz shaklning diagnostikasi antropoz shakl bilan bir xil. Yo'riqnomada leyshmaniyalar yara tubidagi bo'rtmadan va infiltrat chetidan olingan namunada topilganda tashxis tasdiqlanishi, biologik sinama oq sichqon va xomyaklarda o'tkazilishi, madaniyat ham olinishi mumkinligi yozilgan [1, 3].",
+    "Milliy bayonnomada qirindi yara atrofidagi yallig'langan bo'rtma to'qimasidan olinadi va Romanovskiy-Gimza usulida bo'yaladi. Darslikda NNN muhitida o'stirilgan promastigotlar immersion mikroskopda chigallashgan xivchinli yulduzsimon to'plamlar ko'rinishida tasvirlangan. Madaniyat usullari ixtisoslashgan laboratoriya imkoniyatiga bog'liq. Bu usullarda promastigot bosqichi o'stiriladi, amastigot bosqichi esa hujayra monoqatlamida olinadi [2, 6]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Parazitolog-shifokor etiologik ma'lumotni epidemiologik qarorga aylantiradi: qo'zg'atuvchi L. major bo'lsa, manba kemiruvchilar, tashuvchi iskabtopar. Shuning uchun dala deratizatsiyasi va iskabtoparga qarshi dezinseksiya birgalikda rejalashtiriladi, bemor odam esa manba hisoblanmaydi. Bunday yondashuv resurslarni to'g'ri yo'naltirishga va tadbirlarning samarasini oshirishga yordam beradi [1, 3].",
+    "Teri yarasi bor bemorda tur aniqlanmasa, zoonoz shaklni antropoz shakl bilan adashtirish mumkin. Antropoz shaklda manba odam bo'lgani uchun bemorlarni faol aniqlash va yaralarni bog'lash muhim, zoonoz shaklda esa asosiy e'tibor kemiruvchi o'choqlariga qaratiladi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Zoonoz teri leyshmaniozining qo'zg'atuvchisi Leishmania major bo'lib, Trypanosomatidae oilasiga mansub; hayot sikli kemiruvchi (amastigot) va iskabtopar (promastigot) o'rtasida kechadi. Shifokor uchun asosiy qoidalar: amastigotni yara surtmasida topish, antropoz shakldan farqlash va kasallikdan keyingi mustahkam immunitetni hisobga olish [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 2-ilova «Aholi o'rtasida teri va visseral leyshmanioz kasalligini oldini olish va epidemiyaga qarshi chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1524.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Полежаева и др. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Pearson R.D. Leishmaniasis (Leyshmanioz). MSD ma'lumotnomasi, professional versiya; mazmun oxirgi marta 2019 yil may oyida o'zgartirilgan. xayrullokomilov.uz/kutubxona, material ID 1536.",
+  "Parazitar kasalliklarni davolash bayonnomalari (Parazitar kasalliklarni tashxisoti va davolash standartlari ilovasi). O'zbekiston Respublikasi Sog'liqni saqlash vazirligi. xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Кулиева Х.Ф. Медицинская энтомология. xayrullokomilov.uz/kutubxona, material ID 1604."
+ ]
 }

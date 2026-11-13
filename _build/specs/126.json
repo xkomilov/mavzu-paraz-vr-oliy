@@ -2,65 +2,103 @@
  "number": 126,
  "title": "126. Lyamblioz etiologiyasi.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Lyamblioz ingichka ichakni zararlaydigan protozoy kasallik bo'lib, yashirin parazit tashuvchilik yoki yaqqol klinik shaklda kechadi. Kasallik mohiyatini tushunish uchun avval qo'zg'atuvchining tabiati, morfologiyasi va hayot siklini bilish zarur, chunki tashxis hamda profilaktika aynan shu xususiyatlarga tayanadi [1, 2].",
-   "Mavzuda qo'zg'atuvchining nomlanishi va tasnifi, tarixiy ma'lumotlar, trofozoit va sista tuzilishi, hayot sikli, sistalarning tashqi muhitga chidamliligi hamda zararlash qobiliyati ko'rib chiqiladi. Epidemiologiya, tashxis va profilaktika alohida mavzularda yoritilgani uchun bu yerda faqat etiologik jihatlar bayon etiladi [1, 3, 9]."
-  ]},
-  {"heading": "Qo'zg'atuvchining nomi va sinonimlari", "content": [
-   "Yo'riqnomada lyamblioz qo'zg'atuvchisi Lamblia intestinalis (Lambl, 1859) deb ko'rsatilgan, sinonimlari esa Giardia intestinalis, G. lamblia va G. duodenalis. Davolash bayonnomasida ham qo'zg'atuvchi Lamblia intestinalis va Giardia lamblia nomlari bilan berilgan, shuning uchun ikkala nom amaliyotda qo'llanadi [1, 2].",
-   "Darslikda Lamblia turkumi fransuz biologi A. Jiar sharafiga Giardia deb qayta nomlangani, hozir qo'zg'atuvchi G. intestinalis yoki G. lamblia deb atalishi aytilgan. Ma'ruza materialida esa 1915 yilda Stils uni Giardia lamblia deb qayta nomlagani ko'rsatilgan [3, 6]."
-  ]},
-  {"heading": "Tasnifi", "content": [
-   "Yo'riqnomaga ko'ra lyamblia Polymastigota oilasiga, Diplomonadea sinfiga va Diplomonadida turkumiga kiradi. Darslikda esa Mastigophora kenja tipi, Zoomastigophorea sinfi, Diplomonadida turkumi va Hexamitidae oilasi ko'rsatilgan; tasnif sxemalaridagi bu farq turli nashrlar sistematikasiga bog'liq [1, 3].",
-   "Boshqa darslikda odam uchun patogen protistlarning taxminan 20 turi borligi, ular orasida lyamblialar ham Sarcomastigophora tipiga kiritilgani yozilgan. Atlasda lyamblia xivchinlilar sinfiga mansub, ya'ni harakat organi xivchin bo'lgan bir hujayrali jonzot sifatida berilgan [3, 5]."
-  ]},
-  {"heading": "Tarixiy ma'lumotlar", "content": [
-   "Ma'ruza materialida parazitni 1681 yilda A. van Levenguk kuzatgani, 1859 yilda D.F. Lambl esa Cercomonas intestinalis nomi bilan tasvirlagani qayd etilgan. Hozirgi vaqtda Lamblia turkumida uchta tur, ya'ni L. intestinalis, L. muris va L. agilis ma'lum deb ko'rsatilgan [6].",
-   "Darslikda ham qo'zg'atuvchini birinchi bo'lib D.F. Lambl 1859 yilda tasvirlagani aytilgan. Boshqa o'quv qo'llanmada lyamblialar mutlaqo sog'lom odamlarda ham tez-tez topilishi qayd etilgan, shu sababli parazit topilishini klinik belgilar bilan birga baholash lozim [3, 4]."
-  ]},
-  {"heading": "Trofozoit tuzilishi", "content": [
-   "Darslikda trofozoit qovoq urug'iga o'xshash, uzunligi 10-18, eni 8-10 mkm, ikki yadroli, kengaygan old qismida so'rg'ich diski, to'rt juft xivchini va ikkita parabazal tanasi bor deb tasvirlangan. Bu bosqichda parazit uzunasiga bo'linish yo'li bilan ko'payadi [3].",
-   "Boshqa manbalarda o'lchamlar farq qiladi: atlasda trofozoit noksimon, uzunligi 9-12, eni 8-10 mkm deb berilgan, o'quv qo'llanmada esa tanasi 10-18 mkm, o'rtasida ikkita aksostil yotishi aytilgan. Atlas rasmlarida ikki yadro, aksostil va xivchinlar ko'rsatilgan [4, 5]."
-  ]},
-  {"heading": "Sista tuzilishi", "content": [
-   "Yo'riqnomaga ko'ra yetilgan sistalar oval shaklli, uzunligi 10-14, eni 6-10 mkm bo'lib, najas bilan tashqi muhitga ajraladi va boshqa xo'jayinni zararlash qobiliyatiga ega. Atlas ham shu o'lchamni beradi, sista qobig'i zich va ko'pincha sitoplazmadan ajralgan bo'ladi [1, 5].",
-   "Atlasga ko'ra yetilgan sistada to'rtta yadro bo'lib, ular odatda old qutbda joylashadi. Boshqa darslikda sista 10 x 8 mkm, qobig'i ikki qavatli, 2-4 yadroli deb yozilgan; ikkinchi atlasda ham sista ikki konturli qobiqli va to'rt yadroli ekani ko'rsatilgan [3, 5, 7]."
-  ]},
-  {"heading": "Hayot sikli", "content": [
-   "Parazit yashashi ikki bosqichda, ya'ni vegetativ trofozoit va harakatsiz sista ko'rinishida kechadi. Sistalar alimentar yo'l bilan o'zgarishsiz oshqozonga tushadi, ingichka ichakning yuqori qismida o'n ikki barmoqli ichak suyuqligi ta'sirida ulardan harakatchan trofozoitlar ozod bo'ladi [1].",
-   "Atlasda sista ichakka tushgach taxminan 30 daqiqadan keyin undan ikkita trofozoit chiqishi va ular faol ko'payishi yozilgan. Boshqa o'quv qo'llanmada sistaning eksistirlanishi o'n ikki barmoqli ichakda kechishi qayd etilgan, bu yo'riqnomadagi ta'rifga mos keladi [1, 4, 5]."
-  ]},
-  {"heading": "Ichakdagi joylashuv va ko'payish", "content": [
-   "Trofozoitlar ingichka ichakka joylashib ko'payadi. Yo'riqnomada ularning ichak shilliq qavati yuzasida yashashi, 1 sm2 shilliq qavatda 1 mln va undan ko'p lyamblia bo'lishi mumkinligi ko'rsatilgan. Lyamblialar qat'iy parazitlar bo'lib, shakllangan ovqat zarralari bilan oziqlana olmaydi [1].",
-   "Yo'riqnomada lyamblialarning o't yo'llarida yashay olmasligi, o't suyuqligi ularni halok qilishi yozilgan. Boshqa o'quv qo'llanmada esa lyamblialar yuqori ingichka ichakda va o't yo'llarida yashashi aytilgan; manbalar orasidagi bu farq «Tasdiqlanmagan ma'lumotlar» bo'limida alohida qayd etiladi [1, 4]."
-  ]},
-  {"heading": "Sistalarning hosil bo'lishi va ajralishi", "content": [
-   "Ma'lum sharoitda trofozoitlarning bir qismi o'ziga xos shaklini yo'qotib, yumaloqlanadi va sistaga aylanadi. Odamdan sista ajralishi o'rtacha zararlangandan keyin 9-12-sutkada boshlanadi va oylab davom etadi; ajralish to'lqinsimon bo'lib, uzilishlar 1 sutkadan 17 sutkagacha cho'zilishi mumkin [1].",
-   "Yo'riqnomada 1 g najasda 20 mln gacha sista bo'lishi mumkinligi, zararlangan odam sutkasiga 18 mlrd sista ajratishi aytilgan. Ma'ruza materialida esa kasal odam har 10-20 kunda taxminan 900 mln sista chiqarishi ko'rsatilgan, ya'ni raqamlar keskin farq qiladi [1, 6]."
-  ]},
-  {"heading": "Sistalarning chidamliligi", "content": [
-   "Najas bilan ajralgan sistalar namlik yetarli bo'lganda 66 kungacha, suyuq axlatda 3 haftagacha, ichimlik va quduq suvida 4-20 gradusda 1-3 oy saqlanadi. Qaynatilganda bir zumda, 55 gradusda 5 daqiqadan keyin halok bo'ladi, havoda quritilganda 24 soat ichida nobud bo'ladi [1].",
-   "Lyamblia sistalari xlorga chidamli: suvni zararsizlantirish uchun tavsiya etilgan xlor konsentratsiyasi ularga samarasiz, 1 mg/l da 72 soatdan keyin halok bo'ladi. Atlasda ham sistalar bir oygacha invazion qolishi, quriganda tez nobud bo'lishi ko'rsatilgan [1, 5]."
-  ]},
-  {"heading": "Zararlash dozasi va patogen ta'siri", "content": [
-   "Yo'riqnomada zararlanish dozasi 10-100 sista deb berilgan, boshqa joyda esa lyamblioz rivojlanishi uchun 10 tagacha sistani yuqtirish yetarli ekani yozilgan. Darslik va ma'ruza 10-100 sistani ko'rsatadi, atlas esa infeksiya 100 dan ortiq sista tushganda rivojlanadi deydi [1, 4, 5, 6].",
-   "Lyamblialar ichak shilliq qavatini mexanik to'sib, devor oldi hazmini buzadi va ichak harakat faolligiga ta'sir qiladi. Atlasda yog' va yog'da eriydigan vitaminlar so'rilishining buzilishi ta'riflangan; davolash bayonnomasida kasallik astenizatsiya va malabsorbsiya belgilari bilan namoyon bo'lishi ko'rsatilgan [1, 2, 5]."
-  ]},
-  {"heading": "Zoonoz jihatlari va genetik xilma-xillik", "content": [
-   "JSST 2025 yilgi hujjatida G. duodenalis odamni ham, keng doiradagi sutemizuvchilarni ham zararlashi, odam infeksiyasi asosan A va B assemblajlar bilan bog'liqligi va bu assemblajlar chorva hamda boshqa hayvonlarda ham topilishi ko'rsatilgan. Bu zoonoz yuqish imkoniyatini bildiradi [9].",
-   "Yo'riqnomada lyamblia it, mushuk, qo'y, qoramol, ayiq kabi sutemizuvchilarda, qushlarda va sudralib yuruvchilarda uchrashi yozilgan. Atlasda esa parazit faqat odamda yashashi aytilgan, shu sababli hayvonlarning rezervuar roli bo'yicha manbalar bir xil fikrda emas [1, 5]."
-  ]},
-  {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-   "Etiologik bilim tashxisni to'g'ri qo'yishda muhim: o'n ikki barmoqli ichak suyuqligi yoki suyuq najasda trofozoit, shakllangan najasda sista topiladi. Surunkali shaklda sistalar davriy ajralgani uchun yo'riqnomada 2-4 hafta davomida 5-6 marta najas tekshirilishi ko'rsatilgan [1].",
-   "Laboratoriya yo'riqnomasida lyamblia vegetativ shakllarini aniqlash uchun suyuq najasni ajralgandan keyin 1-1,5 soatdan kechiktirmay tekshirish talab qilinadi. Serologik testlarning sezuvchanligi past bo'lgani uchun ular lyamblioz tashxisini o'zi tasdiqlay olmaydi, parazitologik tasdiq kerak bo'ladi [8]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "O'zbekistonda aylanib yuruvchi lyamblia genotiplari, ularning hududiy tarqalishi va sistalarning mahalliy tashqi muhitda saqlanish muddati ko'rilgan manbalarda keltirilmagan. Shu sababli bu jihatlar bo'yicha O'zbekistonga xos raqam yoki xulosa yozilmaydi va matnda taxmin qilinmaydi [1, 9].",
-   "Manbalar orasida farqlar bor: trofozoit uzunligi 9-12 va 10-18 mkm, sista chiqarish miqdori, zararlash dozasi, o't yo'llarida yashash va hayvonlarning roli. Bu farqlar turli nashrlar ma'lumoti ekanini bildiradi, birini tanlab ikkinchisini yashirish to'g'ri emas [1, 3, 4, 5]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Lyamblioz qo'zg'atuvchisi Lamblia intestinalis (Giardia lamblia) ikki bosqichli bir hujayrali parazit bo'lib, trofozoit ingichka ichakda ko'payadi, sista esa tashqi muhitda chidamli va xlorga bardoshli, 10-100 sista bilan zararlash mumkin. Etiologik xususiyatlar tashxis va profilaktika taktikasini belgilaydi [1, 3, 6, 9]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Lyamblioz ingichka ichakni zararlaydigan protozoy kasallik bo'lib, yashirin parazit tashuvchilik yoki yaqqol klinik shaklda kechadi. Kasallik mohiyatini tushunish uchun avval qo'zg'atuvchining tabiati, morfologiyasi va hayot siklini bilish zarur, chunki tashxis hamda profilaktika aynan shu xususiyatlarga tayanadi [1, 2].",
+    "Mavzuda qo'zg'atuvchining nomlanishi va tasnifi, tarixiy ma'lumotlar, trofozoit va sista tuzilishi, hayot sikli, sistalarning tashqi muhitga chidamliligi hamda zararlash qobiliyati ko'rib chiqiladi. Epidemiologiya, tashxis va profilaktika alohida mavzularda yoritilgani uchun bu yerda faqat etiologik jihatlar bayon etiladi [1, 3, 9]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining nomi va sinonimlari",
+   "content": [
+    "Yo'riqnomada lyamblioz qo'zg'atuvchisi Lamblia intestinalis (Lambl, 1859) deb ko'rsatilgan, sinonimlari esa Giardia intestinalis, G. lamblia va G. duodenalis. Davolash bayonnomasida ham qo'zg'atuvchi Lamblia intestinalis va Giardia lamblia nomlari bilan berilgan, shuning uchun ikkala nom amaliyotda qo'llanadi [1, 2].",
+    "Darslikda Lamblia turkumi fransuz biologi A. Jiar sharafiga Giardia deb qayta nomlangani, hozir qo'zg'atuvchi G. intestinalis yoki G. lamblia deb atalishi aytilgan. Ma'ruza materialida esa 1915 yilda Stils uni Giardia lamblia deb qayta nomlagani ko'rsatilgan [3, 6]."
+   ]
+  },
+  {
+   "heading": "Tasnifi",
+   "content": [
+    "Yo'riqnomaga ko'ra lyamblia Polymastigota oilasiga, Diplomonadea sinfiga va Diplomonadida turkumiga kiradi. Darslikda esa Mastigophora kenja tipi, Zoomastigophorea sinfi, Diplomonadida turkumi va Hexamitidae oilasi ko'rsatilgan; tasnif sxemalaridagi bu farq turli nashrlar sistematikasiga bog'liq [1, 3].",
+    "Boshqa darslikda odam uchun patogen protistlarning taxminan 20 turi borligi, ular orasida lyamblialar ham Sarcomastigophora tipiga kiritilgani yozilgan. Atlasda lyamblia xivchinlilar sinfiga mansub, ya'ni harakat organi xivchin bo'lgan bir hujayrali jonzot sifatida berilgan [3, 5]."
+   ]
+  },
+  {
+   "heading": "Tarixiy ma'lumotlar",
+   "content": [
+    "Ma'ruza materialida parazitni 1681 yilda A. van Levenguk kuzatgani, 1859 yilda D.F. Lambl esa Cercomonas intestinalis nomi bilan tasvirlagani qayd etilgan. Hozirgi vaqtda Lamblia turkumida uchta tur, ya'ni L. intestinalis, L. muris va L. agilis ma'lum deb ko'rsatilgan [6].",
+    "Darslikda ham qo'zg'atuvchini birinchi bo'lib D.F. Lambl 1859 yilda tasvirlagani aytilgan. Boshqa o'quv qo'llanmada lyamblialar mutlaqo sog'lom odamlarda ham tez-tez topilishi qayd etilgan, shu sababli parazit topilishini klinik belgilar bilan birga baholash lozim [3, 4]."
+   ]
+  },
+  {
+   "heading": "Trofozoit tuzilishi",
+   "content": [
+    "Darslikda trofozoit qovoq urug'iga o'xshash, uzunligi 10-18, eni 8-10 mkm, ikki yadroli, kengaygan old qismida so'rg'ich diski, to'rt juft xivchini va ikkita parabazal tanasi bor deb tasvirlangan. Bu bosqichda parazit uzunasiga bo'linish yo'li bilan ko'payadi [3].",
+    "Boshqa manbalarda o'lchamlar farq qiladi: atlasda trofozoit noksimon, uzunligi 9-12, eni 8-10 mkm deb berilgan, o'quv qo'llanmada esa tanasi 10-18 mkm, o'rtasida ikkita aksostil yotishi aytilgan. Atlas rasmlarida ikki yadro, aksostil va xivchinlar ko'rsatilgan [4, 5]."
+   ]
+  },
+  {
+   "heading": "Sista tuzilishi",
+   "content": [
+    "Yo'riqnomaga ko'ra yetilgan sistalar oval shaklli, uzunligi 10-14, eni 6-10 mkm bo'lib, najas bilan tashqi muhitga ajraladi va boshqa xo'jayinni zararlash qobiliyatiga ega. Atlas ham shu o'lchamni beradi, sista qobig'i zich va ko'pincha sitoplazmadan ajralgan bo'ladi [1, 5].",
+    "Atlasga ko'ra yetilgan sistada to'rtta yadro bo'lib, ular odatda old qutbda joylashadi. Boshqa darslikda sista 10 x 8 mkm, qobig'i ikki qavatli, 2-4 yadroli deb yozilgan; ikkinchi atlasda ham sista ikki konturli qobiqli va to'rt yadroli ekani ko'rsatilgan [3, 5, 7]."
+   ]
+  },
+  {
+   "heading": "Hayot sikli",
+   "content": [
+    "Parazit yashashi ikki bosqichda, ya'ni vegetativ trofozoit va harakatsiz sista ko'rinishida kechadi. Sistalar alimentar yo'l bilan o'zgarishsiz oshqozonga tushadi, ingichka ichakning yuqori qismida o'n ikki barmoqli ichak suyuqligi ta'sirida ulardan harakatchan trofozoitlar ozod bo'ladi [1].",
+    "Atlasda sista ichakka tushgach taxminan 30 daqiqadan keyin undan ikkita trofozoit chiqishi va ular faol ko'payishi yozilgan. Boshqa o'quv qo'llanmada sistaning eksistirlanishi o'n ikki barmoqli ichakda kechishi qayd etilgan, bu yo'riqnomadagi ta'rifga mos keladi [1, 4, 5]."
+   ]
+  },
+  {
+   "heading": "Ichakdagi joylashuv va ko'payish",
+   "content": [
+    "Trofozoitlar ingichka ichakka joylashib ko'payadi. Yo'riqnomada ularning ichak shilliq qavati yuzasida yashashi, 1 sm2 shilliq qavatda 1 mln va undan ko'p lyamblia bo'lishi mumkinligi ko'rsatilgan. Lyamblialar qat'iy parazitlar bo'lib, shakllangan ovqat zarralari bilan oziqlana olmaydi [1].",
+    "Yo'riqnomada lyamblialarning o't yo'llarida yashay olmasligi, o't suyuqligi ularni halok qilishi yozilgan. Boshqa o'quv qo'llanmada esa lyamblialar yuqori ingichka ichakda va o't yo'llarida yashashi aytilgan, ya'ni bu masalada manbalar bir-biridan farq qiladi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Sistalarning hosil bo'lishi va ajralishi",
+   "content": [
+    "Ma'lum sharoitda trofozoitlarning bir qismi o'ziga xos shaklini yo'qotib, yumaloqlanadi va sistaga aylanadi. Odamdan sista ajralishi o'rtacha zararlangandan keyin 9-12-sutkada boshlanadi va oylab davom etadi; ajralish to'lqinsimon bo'lib, uzilishlar 1 sutkadan 17 sutkagacha cho'zilishi mumkin [1].",
+    "Yo'riqnomada 1 g najasda 20 mln gacha sista bo'lishi mumkinligi, zararlangan odam sutkasiga 18 mlrd sista ajratishi aytilgan. Ma'ruza materialida esa kasal odam har 10-20 kunda taxminan 900 mln sista chiqarishi ko'rsatilgan, ya'ni raqamlar keskin farq qiladi [1, 6]."
+   ]
+  },
+  {
+   "heading": "Sistalarning chidamliligi",
+   "content": [
+    "Najas bilan ajralgan sistalar namlik yetarli bo'lganda 66 kungacha, suyuq axlatda 3 haftagacha, ichimlik va quduq suvida 4-20 gradusda 1-3 oy saqlanadi. Qaynatilganda bir zumda, 55 gradusda 5 daqiqadan keyin halok bo'ladi, havoda quritilganda 24 soat ichida nobud bo'ladi [1].",
+    "Lyamblia sistalari xlorga chidamli: suvni zararsizlantirish uchun tavsiya etilgan xlor konsentratsiyasi ularga samarasiz, 1 mg/l da 72 soatdan keyin halok bo'ladi. Atlasda ham sistalar bir oygacha invazion qolishi, quriganda tez nobud bo'lishi ko'rsatilgan [1, 5]."
+   ]
+  },
+  {
+   "heading": "Zararlash dozasi va patogen ta'siri",
+   "content": [
+    "Yo'riqnomada zararlanish dozasi 10-100 sista deb berilgan, boshqa joyda esa lyamblioz rivojlanishi uchun 10 tagacha sistani yuqtirish yetarli ekani yozilgan. Darslik va ma'ruza 10-100 sistani ko'rsatadi, atlas esa infeksiya 100 dan ortiq sista tushganda rivojlanadi deydi [1, 4, 5, 6].",
+    "Lyamblialar ichak shilliq qavatini mexanik to'sib, devor oldi hazmini buzadi va ichak harakat faolligiga ta'sir qiladi. Atlasda yog' va yog'da eriydigan vitaminlar so'rilishining buzilishi ta'riflangan; davolash bayonnomasida kasallik astenizatsiya va malabsorbsiya belgilari bilan namoyon bo'lishi ko'rsatilgan [1, 2, 5]."
+   ]
+  },
+  {
+   "heading": "Zoonoz jihatlari va genetik xilma-xillik",
+   "content": [
+    "JSST 2025 yilgi hujjatida G. duodenalis odamni ham, keng doiradagi sutemizuvchilarni ham zararlashi, odam infeksiyasi asosan A va B assemblajlar bilan bog'liqligi va bu assemblajlar chorva hamda boshqa hayvonlarda ham topilishi ko'rsatilgan. Bu zoonoz yuqish imkoniyatini bildiradi [9].",
+    "Yo'riqnomada lyamblia it, mushuk, qo'y, qoramol, ayiq kabi sutemizuvchilarda, qushlarda va sudralib yuruvchilarda uchrashi yozilgan. Atlasda esa parazit faqat odamda yashashi aytilgan, shu sababli hayvonlarning rezervuar roli bo'yicha manbalar bir xil fikrda emas [1, 5]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Etiologik bilim tashxisni to'g'ri qo'yishda muhim: o'n ikki barmoqli ichak suyuqligi yoki suyuq najasda trofozoit, shakllangan najasda sista topiladi. Surunkali shaklda sistalar davriy ajralgani uchun yo'riqnomada 2-4 hafta davomida 5-6 marta najas tekshirilishi ko'rsatilgan [1].",
+    "Laboratoriya yo'riqnomasida lyamblia vegetativ shakllarini aniqlash uchun suyuq najasni ajralgandan keyin 1-1,5 soatdan kechiktirmay tekshirish talab qilinadi. Serologik testlarning sezuvchanligi past bo'lgani uchun ular lyamblioz tashxisini o'zi tasdiqlay olmaydi, parazitologik tasdiq kerak bo'ladi [8]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Lyamblioz qo'zg'atuvchisi Lamblia intestinalis (Giardia lamblia) ikki bosqichli bir hujayrali parazit bo'lib, trofozoit ingichka ichakda ko'payadi, sista esa tashqi muhitda chidamli va xlorga bardoshli, 10-100 sista bilan zararlash mumkin. Etiologik xususiyatlar tashxis va profilaktika taktikasini belgilaydi [1, 3, 6, 9]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",

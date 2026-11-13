@@ -1,123 +1,116 @@
 {
-  "number": 118,
-  "title": "118. Ichak gelmintlarini tekshirishning ko'rsatkichlari.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Ichak gelmintozlari ko'pincha yashirin yoki yengil kechadi, shuning uchun ularni faqat shikoyat bilan murojaat qilganlar orasida emas, xavf guruhlarida ham rejali ravishda qidirish kerak. Tekshiruv ko'rsatkichlari kimlar, qachon va qanday asosda laboratoriyaga yuborilishini belgilaydi [1, 2].",
-        "Mavzuda tekshiruvning maqsadlari, rejali profilaktik va epidemik ko'rsatmalar, kontingentlar, qabul qilishdan oldingi tekshiruv, kontaktlar, biogelmintozlar va geogelmintozlar bo'yicha guruhlar hamda davolangandan keyingi nazorat ko'rib chiqiladi. Oxirida JSST yondashuvi bilan taqqoslanadi [1, 2, 4]."
-      ]
-    },
-    {
-      "heading": "Tekshiruvning maqsadlari",
-      "content": [
-        "Laboratoriya yo'riqnomasiga ko'ra parazitar kasalliklarning laborator usullari tashxis uchun, davolash samarasini nazorat qilish, profilaktik tadbirlar sifatini baholash, zararlanish manbasini aniqlash va aholining kasallanish darajasini belgilash maqsadlarida qo'llanadi. Bu tasnif tekshiruv ko'rsatmalarini asosiy guruhlarga ajratadi [2].",
-        "Yo'riqnomada yana infeksiyalar ko'pincha bolalarda ham subklinik yoki latent kechishi qayd etilgan. Shu sababli faqat klinik belgi bo'lgan kishilarni tekshirish yetarli emas, rejali va epidemik ko'rsatmalar bo'yicha qidiruv ham zarur [2]."
-      ]
-    },
-    {
-      "heading": "Rejali profilaktik tekshiruv",
-      "content": [
-        "Milliy yo'riqnomada rejali profilaktik tekshiruvlar tibbiyot tashkilotlari bilan kelishilgan reja-jadvallarga yoki epidemik ko'rsatmalarga asoslanishi aytilgan. Maktabgacha ta'lim muassasalari bolalari va maktablarning boshlang'ich sinf o'quvchilari yiliga bir marta gelmintozlarga profilaktik tekshiriladi [1].",
-        "JSST ko'rsatmasiga asosan tanlab tekshiruvga qamrab olinadigan bolalar jamoalari 5 foizdan kam bo'lmasligi kerak. Tekshiruv usullari sifatida yo'riqnomada JSST tavsiya etgan standart flotatsiya, formalin-efir, sirka-efir, Kato-Kats va sedimentatsiya usullari ko'rsatilgan [1]."
-      ]
-    },
-    {
-      "heading": "Enterobioz va gimenolepidozda tekshiriladiganlar",
-      "content": [
-        "Yo'riqnomada enterobioz va gimenolepidozga MTM bolalari va xodimlari, 1-4 sinf o'quvchilari, dispanser va chuqurlashtirilgan tibbiy-profilaktik ko'riklardagi bolalar, o'smirlar va dekret kontingentlari tekshirilishi belgilangan. Ular orasida UIK bilan tez-tez kasallanuvchi hamda antisanitar sharoitda yashovchi bolalar epidemik ko'rsatma bilan qo'shiladi [1].",
-        "Shuningdek MTM, maktab, bolalar uyi, maktab-internat, sog'lomlashtirish oromgohi, sanatoriya va DPMga joylashuvchi bolalar, bolalar shifoxonasiga yotqiziladiganlar va basseynga qatnaydiganlar ham tekshiriladi. Kasallangan yoki parazit tashuvchi bilan muloqotda bo'lganlar alohida guruh hisoblanadi [1]."
-      ]
-    },
-    {
-      "heading": "Qabul qilishdan oldingi tekshiruv",
-      "content": [
-        "Yo'riqnomada gelmintozlarga tekshirilmasdan qabul qilish man etiladi. Bu qoida MTMga yangi qabul qilinadigan bolalarga va 1 oy yoki undan ko'p uzilishdan keyin qaytganlarga tegishli, shuningdek MTM, maktab, bolalar uyi, internat, oziq-ovqat korxonasi, oromgoh va basseyndagi yangi ishchilarga ham qo'llanadi [1].",
-        "Bunday tekshiruv ko'rsatma sifatida alohida ahamiyatli, chunki u yopiq jamoaga manba kiritilishining oldini oladi. Shifoxonaga kelgan maktabgacha va boshlang'ich sinf bolalari klinik ko'rsatmadan qat'i nazar enterobioz va gimenolepidozga DPM laboratoriyalarida tekshiriladi [1]."
-      ]
-    },
-    {
-      "heading": "Dekret kontingentlar",
-      "content": [
-        "Dekret va xizmat xodimlarini enterobiozga tekshirish, aniqlanganlarni davolash va kimyoviy profilaktikani tashkil etish tashkilot rahbariyati va xususiy tadbirkorlar zimmasida. Tekshiruv ish yoki yashash joyida «sanitariya kitobchasi» talablariga muvofiq DPM, DSENM yoki ruxsati bor laboratoriyada o'tkaziladi [1].",
-        "Bu guruhda tekshiruvning ahamiyati manba bo'lib qolishi mumkin bo'lgan xodimlarni aniqlashdadir. Yo'riqnomada ularni davolash davrida ish faoliyatidan chetlatish qoidalari ham alohida keltirilgan, biroq dekret kasbdagi kattalar davolash davrida odatda ishdan chetlatilmaydi [1]."
-      ]
-    },
-    {
-      "heading": "Geogelmintozlar bo'yicha tanlab tekshiruv",
-      "content": [
-        "Askaridoz va trixosefalyozni aniqlash hamda o'choqlarda epidemiologik vaziyatni baholash uchun tanlab tekshiriladiganlar quyidagilar: 7-14 yoshdagi bolalar, 3-6 yoshdagi MTM bolalari, epidemik ko'rsatma bo'yicha kattalar, fermer xo'jaligi ishchilari va sabzavot yetishtiruvchilar. Kasalxona va ambulatoriya bemorlari tibbiy ko'rsatma bo'yicha tekshiriladi [1].",
-        "Tekshiruv koproovoskopiya usulida o'tkaziladi, har bir askaridoz va trixosefalyoz holati bo'yicha shoshilinch xabarnoma (shakl 058/u) yuboriladi. Hududiy DSENM tekshiruvning to'liq qamrab olinishini yiliga bir marta nazorat qiladi [1]."
-      ]
-    },
-    {
-      "heading": "Biogelmintozlar bo'yicha guruhlar",
-      "content": [
-        "Teniarinxoz va tenioz bo'yicha chorvachilik xodimlari, ya'ni sog'uvchilar va cho'ponlar, ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta so'rov va laboratoriya usullarida tekshiriladi. Hayvonlarda sistitserkoz topilsa, aholini tekshirish soni hududiy DSENM parazitologi tomonidan belgilanadi [1].",
-        "Baliq va dengiz mahsulotlari orqali yuqadigan gelmintozlarga ambulatoriyaga murojaat qilganlardan birinchi marta jigar-o't yo'llari kasalligi yoki oshqozon-ichak allergiyasi bilan kelganlar tekshiriladi. Epidemiologik muhim kontingentlarga suv transporti ishchilari, o'rmon xo'jaligi xodimlari, baliqchilar va baliq qayta ishlovchilar kiradi [1]."
-      ]
-    },
-    {
-      "heading": "Klinik va anamnestik ko'rsatmalar",
-      "content": [
-        "Yo'riqnomada amalda ko'plab tekshiruvlar yo'llanma asosida, ya'ni ambulatoriya yoki shifoxonaga kelgan bemorlarda klinik ko'rsatma bo'yicha o'tkazilishi aytilgan. Yo'llanmaga boshlang'ich tashxis yozilsa, laborant qaysi usulni qo'llashni bilib oladi [1, 2].",
-        "Laboratoriya yo'riqnomasi usulni tanlashda tekshiriluvchining endemik hududda bo'lishi, uy hayvonlari bilan aloqasi, geofagiya va xavfli oziq-ovqat iste'moli kabi anamnestik ma'lumotlarni hisobga olishni talab qiladi. Bunday ma'lumotlar parazit turini taxmin qilishda yordam beradi [2]."
-      ]
-    },
-    {
-      "heading": "Kontaktlarni tekshirish",
-      "content": [
-        "Oilada enterobioz yoki gimenolepidoz bilan muloqotda bo'lganlar yo tekshiriladi, yo tekshiruvsiz profilaktik davolanadi. Yo'riqnomada gimenolepidoz bilan zararlanganlarni 5-7 kun, enterobiozda 2-3 kun oraliq bilan uch marta tekshirish ham ko'rsatilgan [1].",
-        "Epidemiologik nazorat yo'riqnomasida ham o'choqda kontaktlarni tekshirish va bolalar muassasalarida sanitar-parazitologik nazorat o'rnatish profilaktika tadbirlari qatorida sanalgan. Demak, kontaktlar tekshiruvi mustaqil ko'rsatma sifatida e'tirof etiladi [3]."
-      ]
-    },
-    {
-      "heading": "Davolangandan keyingi nazorat",
-      "content": [
-        "Laboratoriya yo'riqnomasi ichak gelmintozlarida najas davolangandan 1 oy o'tgach tekshirilishini ko'rsatadi. Gimenolepidozda 6 oylik dispanser kuzatuvida kamida uch marta najas, enterobiozda 2-3 kunlik oraliq bilan uch marta perianal surtma, biogelmintozlarda 3-4-5 oydan keyin kamida uch marta najas tekshiriladi [2].",
-        "Milliy yo'riqnoma ham gimenolepidoz bilan kasallanganlar 6 oy dispanser kuzatuvida bo'lishi, 1, 3 va 6 oyda qayta tahlil o'tkazilishini ko'rsatadi. Ikki hujjatdagi muddatlar bir-biriga to'liq mos kelmaydi, shu sababli amalda aniq sxemani hududiy DSENM bilan kelishib olish maqsadga muvofiq [1, 2]."
-      ]
-    },
-    {
-      "heading": "Jamoadagi zararlanish darajasi ko'rsatkichlari",
-      "content": [
-        "Bola jamoasi bir marta enterobiozga tekshirilganda zararlanganlar 15 foiz va undan yuqori bo'lsa, jamoa 100 foiz davolanadi va sog'lomlashtirish samaradorligi laborator qayta tahlil bilan baholanadi. Bu tekshiruv natijasining boshqaruv qaroriga aylanishiga misoldir [1].",
-        "Askaridozda aholining zararlanish darajasi 30 foiz va undan yuqori bo'lsa o'choq intensiv, 15-29 foiz bo'lsa o'rta intensiv, 15 foizgacha bo'lsa susti intensiv hisoblanadi. Intensiv o'choqlarda yiliga ikki marta ommaviy degelmintizatsiya, o'rtacha o'choqlarda faqat mikroo'choqlarda degelmintizatsiya o'tkaziladi [1]."
-      ]
-    },
-    {
-      "heading": "JSST yondashuvi bilan taqqoslash",
-      "content": [
-        "JSST tuproq orqali yuqadigan gelmintozlarda xavf ostidagi guruhlar sifatida maktabgacha va maktab yoshidagi bolalar, reproduktiv yoshdagi ayollar va choy terimchilari yoki konchilar kabi kasblar vakillarini ko'rsatadi. Ular endemik hududda individual tashxissiz davriy davolanishi tavsiya etiladi [4].",
-        "Milliy yo'riqnomada esa koproovoskopiya orqali ko'rsatma va tanlab tekshiruv ko'zda tutilgan. Demak, JSST xavf guruhlari davolash dasturi uchun, milliy hujjat tekshiruv va hisobga olish uchun mo'ljallangan, bu ikki yondashuvni bir-biriga qarshi qo'yib bo'lmaydi [1, 4]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Shifokor tekshiruv ko'rsatmasini quyidagi savollarga javob berish orqali aniqlaydi: bemor yoki bola qaysi kontingentga kiradi, ko'rik rejalimi yoki epidemikmi, kontakt bormi va davolashdan keyin nazorat vaqti qachon. Shu tartib hujjatlarda belgilangan [1, 2].",
-        "Yo'llanmaga to'g'ri ko'rsatma yozish laboratoriya usulini to'g'ri tanlashni ta'minlaydi. Yo'riqnomada rejali ko'riklarda perianal surtma bilan bir vaqtda bitta koproskopik usul va Lyugolli nativ usul qo'llanishi zarur deyilgan, shuning uchun bu ma'lumot yo'llanmada ko'rsatilishi kerak [2]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda ayrim kontingentlarni tekshirish ko'p yoki oz ekanini baholovchi joriy O'zbekiston statistikasi topilmadi. Yo'riqnoma 2015 yil 25 martdagi buyruq ilovasi, ammo 4-ilova matnida buyruq sanasi bo'sh qoldirilgan va amaldagi tahrir tekshirilmadi [1, 2].",
-        "Trixosefalyoz uchun o'choq intensivligi jadvali matnda qisman o'qiladi, ya'ni 10-15 foiz va 3-9 foiz qiymatlari ko'rinadi, lekin ustunlar aniq ajralmagani sababli ular bu yerda keltirilmadi. Gimenolepidoz bo'yicha kuzatuv muddatlarining farqi ham aniqlashtirishni talab qiladi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Ichak gelmintlarini tekshirish ko'rsatkichlari rejali profilaktik va epidemik ko'rsatmalar, kontingentlar, qabul qilishdan oldingi tekshiruv, kontaktlar, klinik anamnez va davolangandan keyingi nazoratni qamrab oladi. Eng ko'p tekshiriladiganlar maktabgacha va boshlang'ich sinf bolalari, dekret xodimlari, xavfli kasb vakillari va kontaktlardir [1, 2, 3]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
-    "World Health Organization. Soil-transmitted helminth infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections"
-  ]
+ "number": 118,
+ "title": "118. Ichak gelmintlarini tekshirishning ko'rsatkichlari.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Ichak gelmintozlari ko'pincha yashirin yoki yengil kechadi, shuning uchun ularni faqat shikoyat bilan murojaat qilganlar orasida emas, xavf guruhlarida ham rejali ravishda qidirish kerak. Tekshiruv ko'rsatkichlari kimlar, qachon va qanday asosda laboratoriyaga yuborilishini belgilaydi [1, 2].",
+    "Mavzuda tekshiruvning maqsadlari, rejali profilaktik va epidemik ko'rsatmalar, kontingentlar, qabul qilishdan oldingi tekshiruv, kontaktlar, biogelmintozlar va geogelmintozlar bo'yicha guruhlar hamda davolangandan keyingi nazorat ko'rib chiqiladi. Oxirida JSST yondashuvi bilan taqqoslanadi [1, 2, 4]."
+   ]
+  },
+  {
+   "heading": "Tekshiruvning maqsadlari",
+   "content": [
+    "Laboratoriya yo'riqnomasiga ko'ra parazitar kasalliklarning laborator usullari tashxis uchun, davolash samarasini nazorat qilish, profilaktik tadbirlar sifatini baholash, zararlanish manbasini aniqlash va aholining kasallanish darajasini belgilash maqsadlarida qo'llanadi. Bu tasnif tekshiruv ko'rsatmalarini asosiy guruhlarga ajratadi [2].",
+    "Yo'riqnomada yana infeksiyalar ko'pincha bolalarda ham subklinik yoki latent kechishi qayd etilgan. Shu sababli faqat klinik belgi bo'lgan kishilarni tekshirish yetarli emas, rejali va epidemik ko'rsatmalar bo'yicha qidiruv ham zarur [2]."
+   ]
+  },
+  {
+   "heading": "Rejali profilaktik tekshiruv",
+   "content": [
+    "Milliy yo'riqnomada rejali profilaktik tekshiruvlar tibbiyot tashkilotlari bilan kelishilgan reja-jadvallarga yoki epidemik ko'rsatmalarga asoslanishi aytilgan. Maktabgacha ta'lim muassasalari bolalari va maktablarning boshlang'ich sinf o'quvchilari yiliga bir marta gelmintozlarga profilaktik tekshiriladi [1].",
+    "JSST ko'rsatmasiga asosan tanlab tekshiruvga qamrab olinadigan bolalar jamoalari 5 foizdan kam bo'lmasligi kerak. Tekshiruv usullari sifatida yo'riqnomada JSST tavsiya etgan standart flotatsiya, formalin-efir, sirka-efir, Kato-Kats va sedimentatsiya usullari ko'rsatilgan [1]."
+   ]
+  },
+  {
+   "heading": "Enterobioz va gimenolepidozda tekshiriladiganlar",
+   "content": [
+    "Yo'riqnomada enterobioz va gimenolepidozga MTM bolalari va xodimlari, 1-4 sinf o'quvchilari, dispanser va chuqurlashtirilgan tibbiy-profilaktik ko'riklardagi bolalar, o'smirlar va dekret kontingentlari tekshirilishi belgilangan. Ular orasida UIK bilan tez-tez kasallanuvchi hamda antisanitar sharoitda yashovchi bolalar epidemik ko'rsatma bilan qo'shiladi [1].",
+    "Shuningdek MTM, maktab, bolalar uyi, maktab-internat, sog'lomlashtirish oromgohi, sanatoriya va DPMga joylashuvchi bolalar, bolalar shifoxonasiga yotqiziladiganlar va basseynga qatnaydiganlar ham tekshiriladi. Kasallangan yoki parazit tashuvchi bilan muloqotda bo'lganlar alohida guruh hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Qabul qilishdan oldingi tekshiruv",
+   "content": [
+    "Yo'riqnomada gelmintozlarga tekshirilmasdan qabul qilish man etiladi. Bu qoida MTMga yangi qabul qilinadigan bolalarga va 1 oy yoki undan ko'p uzilishdan keyin qaytganlarga tegishli, shuningdek MTM, maktab, bolalar uyi, internat, oziq-ovqat korxonasi, oromgoh va basseyndagi yangi ishchilarga ham qo'llanadi [1].",
+    "Bunday tekshiruv ko'rsatma sifatida alohida ahamiyatli, chunki u yopiq jamoaga manba kiritilishining oldini oladi. Shifoxonaga kelgan maktabgacha va boshlang'ich sinf bolalari klinik ko'rsatmadan qat'i nazar enterobioz va gimenolepidozga DPM laboratoriyalarida tekshiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Dekret kontingentlar",
+   "content": [
+    "Dekret va xizmat xodimlarini enterobiozga tekshirish, aniqlanganlarni davolash va kimyoviy profilaktikani tashkil etish tashkilot rahbariyati va xususiy tadbirkorlar zimmasida. Tekshiruv ish yoki yashash joyida «sanitariya kitobchasi» talablariga muvofiq DPM, DSENM yoki ruxsati bor laboratoriyada o'tkaziladi [1].",
+    "Bu guruhda tekshiruvning ahamiyati manba bo'lib qolishi mumkin bo'lgan xodimlarni aniqlashdadir. Yo'riqnomada ularni davolash davrida ish faoliyatidan chetlatish qoidalari ham alohida keltirilgan, biroq dekret kasbdagi kattalar davolash davrida odatda ishdan chetlatilmaydi [1]."
+   ]
+  },
+  {
+   "heading": "Geogelmintozlar bo'yicha tanlab tekshiruv",
+   "content": [
+    "Askaridoz va trixosefalyozni aniqlash hamda o'choqlarda epidemiologik vaziyatni baholash uchun tanlab tekshiriladiganlar quyidagilar: 7-14 yoshdagi bolalar, 3-6 yoshdagi MTM bolalari, epidemik ko'rsatma bo'yicha kattalar, fermer xo'jaligi ishchilari va sabzavot yetishtiruvchilar. Kasalxona va ambulatoriya bemorlari tibbiy ko'rsatma bo'yicha tekshiriladi [1].",
+    "Tekshiruv koproovoskopiya usulida o'tkaziladi, har bir askaridoz va trixosefalyoz holati bo'yicha shoshilinch xabarnoma (shakl 058/u) yuboriladi. Hududiy DSENM tekshiruvning to'liq qamrab olinishini yiliga bir marta nazorat qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Biogelmintozlar bo'yicha guruhlar",
+   "content": [
+    "Teniarinxoz va tenioz bo'yicha chorvachilik xodimlari, ya'ni sog'uvchilar va cho'ponlar, ularning oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta so'rov va laboratoriya usullarida tekshiriladi. Hayvonlarda sistitserkoz topilsa, aholini tekshirish soni hududiy DSENM parazitologi tomonidan belgilanadi [1].",
+    "Baliq va dengiz mahsulotlari orqali yuqadigan gelmintozlarga ambulatoriyaga murojaat qilganlardan birinchi marta jigar-o't yo'llari kasalligi yoki oshqozon-ichak allergiyasi bilan kelganlar tekshiriladi. Epidemiologik muhim kontingentlarga suv transporti ishchilari, o'rmon xo'jaligi xodimlari, baliqchilar va baliq qayta ishlovchilar kiradi [1]."
+   ]
+  },
+  {
+   "heading": "Klinik va anamnestik ko'rsatmalar",
+   "content": [
+    "Yo'riqnomada amalda ko'plab tekshiruvlar yo'llanma asosida, ya'ni ambulatoriya yoki shifoxonaga kelgan bemorlarda klinik ko'rsatma bo'yicha o'tkazilishi aytilgan. Yo'llanmaga boshlang'ich tashxis yozilsa, laborant qaysi usulni qo'llashni bilib oladi [1, 2].",
+    "Laboratoriya yo'riqnomasi usulni tanlashda tekshiriluvchining endemik hududda bo'lishi, uy hayvonlari bilan aloqasi, geofagiya va xavfli oziq-ovqat iste'moli kabi anamnestik ma'lumotlarni hisobga olishni talab qiladi. Bunday ma'lumotlar parazit turini taxmin qilishda yordam beradi [2]."
+   ]
+  },
+  {
+   "heading": "Kontaktlarni tekshirish",
+   "content": [
+    "Oilada enterobioz yoki gimenolepidoz bilan muloqotda bo'lganlar yo tekshiriladi, yo tekshiruvsiz profilaktik davolanadi. Yo'riqnomada gimenolepidoz bilan zararlanganlarni 5-7 kun, enterobiozda 2-3 kun oraliq bilan uch marta tekshirish ham ko'rsatilgan [1].",
+    "Epidemiologik nazorat yo'riqnomasida ham o'choqda kontaktlarni tekshirish va bolalar muassasalarida sanitar-parazitologik nazorat o'rnatish profilaktika tadbirlari qatorida sanalgan. Demak, kontaktlar tekshiruvi mustaqil ko'rsatma sifatida e'tirof etiladi [3]."
+   ]
+  },
+  {
+   "heading": "Davolangandan keyingi nazorat",
+   "content": [
+    "Laboratoriya yo'riqnomasi ichak gelmintozlarida najas davolangandan 1 oy o'tgach tekshirilishini ko'rsatadi. Gimenolepidozda 6 oylik dispanser kuzatuvida kamida uch marta najas, enterobiozda 2-3 kunlik oraliq bilan uch marta perianal surtma, biogelmintozlarda 3-4-5 oydan keyin kamida uch marta najas tekshiriladi [2].",
+    "Milliy yo'riqnoma ham gimenolepidoz bilan kasallanganlar 6 oy dispanser kuzatuvida bo'lishi, 1, 3 va 6 oyda qayta tahlil o'tkazilishini ko'rsatadi. Ikki hujjatdagi muddatlar bir-biriga to'liq mos kelmaydi, shu sababli amalda aniq sxemani hududiy DSENM bilan kelishib olish maqsadga muvofiq [1, 2]."
+   ]
+  },
+  {
+   "heading": "Jamoadagi zararlanish darajasi ko'rsatkichlari",
+   "content": [
+    "Bola jamoasi bir marta enterobiozga tekshirilganda zararlanganlar 15 foiz va undan yuqori bo'lsa, jamoa 100 foiz davolanadi va sog'lomlashtirish samaradorligi laborator qayta tahlil bilan baholanadi. Bu tekshiruv natijasining boshqaruv qaroriga aylanishiga misoldir [1].",
+    "Askaridozda aholining zararlanish darajasi 30 foiz va undan yuqori bo'lsa o'choq intensiv, 15-29 foiz bo'lsa o'rta intensiv, 15 foizgacha bo'lsa susti intensiv hisoblanadi. Intensiv o'choqlarda yiliga ikki marta ommaviy degelmintizatsiya, o'rtacha o'choqlarda faqat mikroo'choqlarda degelmintizatsiya o'tkaziladi [1]."
+   ]
+  },
+  {
+   "heading": "JSST yondashuvi bilan taqqoslash",
+   "content": [
+    "JSST tuproq orqali yuqadigan gelmintozlarda xavf ostidagi guruhlar sifatida maktabgacha va maktab yoshidagi bolalar, reproduktiv yoshdagi ayollar va choy terimchilari yoki konchilar kabi kasblar vakillarini ko'rsatadi. Ular endemik hududda individual tashxissiz davriy davolanishi tavsiya etiladi [4].",
+    "Milliy yo'riqnomada esa koproovoskopiya orqali ko'rsatma va tanlab tekshiruv ko'zda tutilgan. Demak, JSST xavf guruhlari davolash dasturi uchun, milliy hujjat tekshiruv va hisobga olish uchun mo'ljallangan, bu ikki yondashuvni bir-biriga qarshi qo'yib bo'lmaydi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Shifokor tekshiruv ko'rsatmasini quyidagi savollarga javob berish orqali aniqlaydi: bemor yoki bola qaysi kontingentga kiradi, ko'rik rejalimi yoki epidemikmi, kontakt bormi va davolashdan keyin nazorat vaqti qachon. Shu tartib hujjatlarda belgilangan [1, 2].",
+    "Yo'llanmaga to'g'ri ko'rsatma yozish laboratoriya usulini to'g'ri tanlashni ta'minlaydi. Yo'riqnomada rejali ko'riklarda perianal surtma bilan bir vaqtda bitta koproskopik usul va Lyugolli nativ usul qo'llanishi zarur deyilgan, shuning uchun bu ma'lumot yo'llanmada ko'rsatilishi kerak [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Ichak gelmintlarini tekshirish ko'rsatkichlari rejali profilaktik va epidemik ko'rsatmalar, kontingentlar, qabul qilishdan oldingi tekshiruv, kontaktlar, klinik anamnez va davolangandan keyingi nazoratni qamrab oladi. Eng ko'p tekshiriladiganlar maktabgacha va boshlang'ich sinf bolalari, dekret xodimlari, xavfli kasb vakillari va kontaktlardir [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 6-ilova «Parazitar kasalliklarning laborator diagnostikasi to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1521.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 7-ilova «Parazitar kasalliklarning epidemiologik nazorati to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1522.",
+  "World Health Organization. Soil-transmitted helminth infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections"
+ ]
 }

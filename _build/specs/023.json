@@ -1,75 +1,113 @@
 {
-  "number": 23,
-  "title": "23. Bezgak tashxisi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Bezgak tashxisi klinik, epidemiologik va laboratoriya ma'lumotlarining uyg'unligiga asoslanadi. Uslubiy qo'llanmada birlamchi tashxis klinik va epidemiologik ma'lumotlarga ko'ra qo'yilishi, yakuniy tashxis esa qonning qalin tomchi usulida plazmodiylar topilib, qo'zg'atuvchi turi aniqlangandan keyin tasdiqlanishi bayon etilgan [1].",
-      "Ushbu mavzuda klinik tashxis, epidemiologik anamnez, laboratoriya tasdig'i, mikroskopiya qoidalari, tashxisni rasmiylashtirish va tashxis qo'yishdagi tipik xatolar ko'rib chiqiladi. Maqsad tashxis bosqichlari o'rtasidagi mantiqiy bog'liqlikni ko'rsatishdir [1, 2, 3]."
-    ]},
-    {"heading": "Tashxis bosqichlari", "content": [
-      "Bezgak tashxisi uch bosqichda shakllanadi: shubha qilish, bemorni tekshirish va laboratoriyada tasdiqlash. Davolash bayonnomalarida tashxislash mezonlari sifatida klinik-epidemiologik ma'lumotlar hamda qon preparatlari mikroskopiyasida plazmodiylarning yupqa surtma va qalin tomchida topilishi ko'rsatilgan [3].",
-      "Bu ikki mezon bir-birini to'ldiradi: klinika va anamnez bemorni tekshiruvga yo'naltiradi, laboratoriya natijasi esa tashxisni tasdiqlaydi va qo'zg'atuvchi turini ko'rsatadi. Shu sababli faqat bittasiga tayanish tashxis xatosiga olib kelishi mumkin [1, 3]."
-    ]},
-    {"heading": "Klinik tashxis", "content": [
-      "Uslubiy qo'llanmada 38 °C dan yuqori isitma bezgakning eng doimiy belgisi deb ko'rsatilgan. Harorat chizmasi va xuruj davridagi klinik belgilarga qarab uch kunlik bezgakni osongina farqlash mumkin, chunki o'ziga xos isitma paroksizmlari kasallik boshida yoki undan keyin darhol shakllanadi [1].",
-      "Tropik bezgakning klinik ko'rinishi juda xilma-xil bo'lib, «mim-kasallik» deyiladi. Unda bezgakka xos isitma ko'pincha kuzatilmaydi, ichak, o'pka, jigar va markaziy asab tizimi belgilari birinchi o'ringa chiqadi, shuning uchun faqat klinikaga tayanib tashxis qo'yish qiyin [1]."
-    ]},
-    {"heading": "Epidemiologik anamnez", "content": [
-      "Milliy yo'riqnomada isitmalayotgan bemorlarda geografik anamnez aniqlanadi, ya'ni bemorning bezgak bo'yicha endemik joylarga borganligi o'rganiladi. Geografik anamnez musbat bo'lsa, boshqa belgilar bor-yo'qligidan qat'i nazar qon bezgakka tekshiriladi [2].",
-      "Uslubiy qo'llanmada Markaziy Osiyoda uch kunlik bezgakning mahalliy tarqalish ehtimoli yuqoriligi sababli epidemiologik anamnez ahamiyatini yo'qotgani yozilgan, tropik bezgakda esa so'nggi kunlarda tropik mamlakatlarga yoki Janubiy Tojikistonga borish e'tibor markazida bo'ladi [1]."
-    ]},
-    {"heading": "Mavsum va yashirin davr omili", "content": [
-      "Yilning issiq davrlarida bezgakka xos klinik belgilarning qayd etilishi kasallik mavjudligini ko'rsatadi. Biroq uch kunlik bezgakning latentligi uzoq davom etgani uchun u birlamchi kasallik ko'rinishida mavsumdan tashqari vaqtda ham namoyon bo'lishi mumkin [1].",
-      "Shu sababli qish yoki erta bahorda isitmalagan, ammo xorijga borgan yoki avval bezgak o'tkazgan bemorda bezgakni inkor etmaslik kerak. Uzoq inkubatsiya jigardagi bradisporozoitlarga bog'liq va tashxis qo'yishda mavsum faqat yordamchi ma'lumot hisoblanadi [1]."
-    ]},
-    {"heading": "Klinik tashxisning cheklovi", "content": [
-      "Uslubiy qo'llanmaga ko'ra bezgakka faqat klinik tashxis qo'yish yetarli emas, bunday yondashuv bezgak epidemiyasi davrida va laboratoriya xizmati yaxshi rivojlanmagan davlatlardagina qo'llanishi mumkin. Imkon qadar gumon laboratoriyada tasdiqlanishi kerak [1].",
-      "Qon tekshiruvi tez o'tkazilmasa, ehtiyot choralariga amal qilish lozim: tropik bezgakka gumon qilinganda laboratoriya tasdig'ini kutmasdan davolashni boshlash zarur. Protokolda ham natija 3 dan 6 soatdan ko'p kechiksa, davolash boshlanishi mumkinligi qayd etilgan [1, 5]."
-    ]},
-    {"heading": "Laboratoriya tashxisi", "content": [
-      "Mikroskopiya Laveran 1880 yilda bezgak parazitini kashf etganidan beri asosiy tashxis usuli bo'lib kelmoqda. Qalin tomchini tekshirish asosiy usul hisoblanadi, yupqa surtma esa ayrim hollarda foydali, lekin shart emas [1].",
-      "JSST ham bezgakka gumon qilingan barcha bemorlarda davodan oldin mikroskopiya yoki tezkor test bilan parazitga asoslangan tashxis o'tkazishni tavsiya etadi. Mikroskopiya turlarni, rivojlanish bosqichlarini, shu jumladan gametotsitlarni aniqlash va parazit zichligini o'lchash imkonini beradi [7, 8]."
-    ]},
-    {"heading": "Qalin tomchi va yupqa surtma", "content": [
-      "Standart amaliy muolajaga ko'ra qalin tomchi parazitni topish, yupqa surtma esa tur va aralash infeksiyani aniqlash uchun xizmat qiladi. Qalin tomchida shubhali elementlar yoki aralash infeksiyaga gumon bo'lsa, yupqa surtma x100 immersion obyektivda sinchiklab o'rganiladi [6].",
-      "Preparat periferik qondan tayyorlanadi va Romanovskiy-Gimza bo'yog'i bilan bo'yaladi. Bo'yoq ishchi eritmasi pH 7,0 dan 7,2 gacha bo'lgan buferli suvda tayyorlanishi kerak, aks holda parazit yadrosini aniqlash qiyinlashadi [1]."
-    ]},
-    {"heading": "Mikroskopiya qoidalari", "content": [
-      "Qalin tomchi x90 immersion obyektivda ko'riladi va ko'rish maydonida 10 dan 20 tagacha leykotsit bo'lgan qismi tanlanadi. Tekshiruvchi 100 ta maydonni ko'rib chiqqach, parazit topilmasa, bezgak tashxisi inkor etiladi [1].",
-      "Standart amaliy muolajada ham kamida 100 ta maydon tekshirilishi shart, 100 tagacha parazit topilsa ham aralash infeksiya ehtimoli sababli tekshiruv davom ettiriladi. Tajribali mutaxassis mikroskopda 1 mkl da 5 dan 10 gacha parazitni aniqlashi mumkin. Davolash standartlarida manfiy natijada tekshiruv ikki kun davomida 6 dan 12 soatdan keyin qaytarilishi belgilangan [1, 4, 6]."
-    ]},
-    {"heading": "Minimal laboratoriya ro'yxati", "content": [
-      "Uch kunlik bezgakning davolash bayonnomasida laboratoriya mezonlarining minimal ro'yxati qonning umumiy tahlili hamda Romanovskiy-Gimza bilan bo'yalgan qalin va yupqa surtma mikroskopiyasidan iborat. Bu ro'yxat bemorni baholash uchun ham, davo tanlash uchun ham asos bo'ladi [3].",
-      "Tropik bezgakda bularga siydikning umumiy tahlili, jumladan o't pigmentlariga tekshirish ham qo'shiladi. Bu tahlil gemoglobinuriya va buyrak shikastlanishi kabi asoratlarni erta payqashga yordam beradi [3]."
-    ]},
-    {"heading": "Tashxisni rasmiylashtirish", "content": [
-      "Uslubiy qo'llanmaga ko'ra tashxisda nima ko'rilgani, qalin tomchi yoki surtma, ko'rilgan maydonlar soni, parazit turi, P. falciparum bo'lsa uning rivojlanish bosqichi (halqa, gametotsit yoki ikkalasi) hamda parazitemiya darajasi ko'rsatiladi [1].",
-      "Standart amaliy muolajaga ko'ra parazit topilmasa «bezgak parazitlari aniqlanmadi», topilsa lotincha nomi «P.» shaklida qisqartirilib, rivojlanish bosqichi bilan yoziladi. Bunday rasmiylashtirish davo va epidemiologik nazorat uchun zarur [6]."
-    ]},
-    {"heading": "Ijobiy tashxisdan keyingi harakatlar", "content": [
-      "Aniqlangan va gumon qilingan barcha bemorlar haqida hududiy DSENMga shoshilinch xabarnoma beriladi. Bezgak tashxisi tasdiqlangach, barcha musbat qon preparatlari 24 soat ichida nazorat uchun Respublika DSENMga yuboriladi [2].",
-      "Uch kunlik va tropik bezgakda barcha bemorlar bayonnomaga ko'ra shifoxonada davolanadi, manfiy natijada esa davo tezda to'xtatiladi. Shu tariqa tashxis nafaqat klinik, balki epidemiologik va tashkiliy chora-tadbirlarni ham belgilaydi [2, 3, 5]."
-    ]},
-    {"heading": "O'zbekiston sharoitida ahamiyati", "content": [
-      "JSST ma'lumotiga ko'ra O'zbekiston 2018 yilda bezgakdan holi hudud deb sertifikatlangan davlatlar qatoriga kirgan. Bunday sharoitda tashxisning vazifasi birinchi navbatda xorijdan olib kelingan holatlarni o'z vaqtida aniqlash va mahalliy tarqalish qayta tiklanishining oldini olishdir [8].",
-      "Shu sababli xorijga borgan shaxslarni hisobga olish, ularni 3 yil davomida dispanser nazoratida saqlash va isitma paydo bo'lganda bezgakka tekshirish tashxis tizimining ajralmas qismi hisoblanadi. Parazitolog-shifokor bu jarayonda laboratoriya natijasini klinik kontekst bilan baholaydi [2]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Uslubiy qo'llanma 2009 yilda yozilgan va epidemiologik anamnezning ahamiyati haqidagi qaydlari o'sha davrdagi vaziyatga tegishli. O'zbekistonda hozirgi sharoitda bu fikrlarning amaliy qo'llanilishi ushbu mavzudagi manbalar bilan tekshirilmagan, shuning uchun tasdiqlanmagan hisoblanadi.",
-      "Tezkor testlar va PCRning milliy bayonnomalardagi o'rni ushbu mavzudagi mahalliy manbalarda topilmadi. Isitma chegarasi bo'yicha yo'riqnoma (37,5 °C) va qo'llanma (38 °C dan yuqori) o'rtasidagi farq ham rasmiy izohlanmagan [1, 2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Bezgak tashxisi klinik va epidemiologik ma'lumotlar asosida shubha qilinadi, Romanovskiy-Gimza bilan bo'yalgan qalin tomchi va yupqa surtma mikroskopiyasida plazmodiy turi, bosqichi hamda parazitemiya darajasi aniqlanib tasdiqlanadi, tropik bezgakka gumon bo'lsa esa davo laboratoriya tasdig'ini kutmasdan boshlanadi [1, 3, 6]."
-    ]}
-  ],
-  "references": [
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
-    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
-    "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
-    "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104.",
-    "World Health Organization. Microscopy (Global Malaria Programme). https://www.who.int/teams/global-malaria-programme/case-management/diagnosis/microscopy",
-    "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria"
-  ]
+ "number": 23,
+ "title": "23. Bezgak tashxisi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Bezgak tashxisi klinik, epidemiologik va laboratoriya ma'lumotlarining uyg'unligiga asoslanadi. Uslubiy qo'llanmada birlamchi tashxis klinik va epidemiologik ma'lumotlarga ko'ra qo'yilishi, yakuniy tashxis esa qonning qalin tomchi usulida plazmodiylar topilib, qo'zg'atuvchi turi aniqlangandan keyin tasdiqlanishi bayon etilgan [1].",
+    "Ushbu mavzuda klinik tashxis, epidemiologik anamnez, laboratoriya tasdig'i, mikroskopiya qoidalari, tashxisni rasmiylashtirish va tashxis qo'yishdagi tipik xatolar ko'rib chiqiladi. Maqsad tashxis bosqichlari o'rtasidagi mantiqiy bog'liqlikni ko'rsatishdir [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Tashxis bosqichlari",
+   "content": [
+    "Bezgak tashxisi uch bosqichda shakllanadi: shubha qilish, bemorni tekshirish va laboratoriyada tasdiqlash. Davolash bayonnomalarida tashxislash mezonlari sifatida klinik-epidemiologik ma'lumotlar hamda qon preparatlari mikroskopiyasida plazmodiylarning yupqa surtma va qalin tomchida topilishi ko'rsatilgan [3].",
+    "Bu ikki mezon bir-birini to'ldiradi: klinika va anamnez bemorni tekshiruvga yo'naltiradi, laboratoriya natijasi esa tashxisni tasdiqlaydi va qo'zg'atuvchi turini ko'rsatadi. Shu sababli faqat bittasiga tayanish tashxis xatosiga olib kelishi mumkin [1, 3]."
+   ]
+  },
+  {
+   "heading": "Klinik tashxis",
+   "content": [
+    "Uslubiy qo'llanmada 38 °C dan yuqori isitma bezgakning eng doimiy belgisi deb ko'rsatilgan. Harorat chizmasi va xuruj davridagi klinik belgilarga qarab uch kunlik bezgakni osongina farqlash mumkin, chunki o'ziga xos isitma paroksizmlari kasallik boshida yoki undan keyin darhol shakllanadi [1].",
+    "Tropik bezgakning klinik ko'rinishi juda xilma-xil bo'lib, «mim-kasallik» deyiladi. Unda bezgakka xos isitma ko'pincha kuzatilmaydi, ichak, o'pka, jigar va markaziy asab tizimi belgilari birinchi o'ringa chiqadi, shuning uchun faqat klinikaga tayanib tashxis qo'yish qiyin [1]."
+   ]
+  },
+  {
+   "heading": "Epidemiologik anamnez",
+   "content": [
+    "Milliy yo'riqnomada isitmalayotgan bemorlarda geografik anamnez aniqlanadi, ya'ni bemorning bezgak bo'yicha endemik joylarga borganligi o'rganiladi. Geografik anamnez musbat bo'lsa, boshqa belgilar bor-yo'qligidan qat'i nazar qon bezgakka tekshiriladi [2].",
+    "Uslubiy qo'llanmada Markaziy Osiyoda uch kunlik bezgakning mahalliy tarqalish ehtimoli yuqoriligi sababli epidemiologik anamnez ahamiyatini yo'qotgani yozilgan, tropik bezgakda esa so'nggi kunlarda tropik mamlakatlarga yoki Janubiy Tojikistonga borish e'tibor markazida bo'ladi [1]."
+   ]
+  },
+  {
+   "heading": "Mavsum va yashirin davr omili",
+   "content": [
+    "Yilning issiq davrlarida bezgakka xos klinik belgilarning qayd etilishi kasallik mavjudligini ko'rsatadi. Biroq uch kunlik bezgakning latentligi uzoq davom etgani uchun u birlamchi kasallik ko'rinishida mavsumdan tashqari vaqtda ham namoyon bo'lishi mumkin [1].",
+    "Shu sababli qish yoki erta bahorda isitmalagan, ammo xorijga borgan yoki avval bezgak o'tkazgan bemorda bezgakni inkor etmaslik kerak. Uzoq inkubatsiya jigardagi bradisporozoitlarga bog'liq va tashxis qo'yishda mavsum faqat yordamchi ma'lumot hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Klinik tashxisning cheklovi",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra bezgakka faqat klinik tashxis qo'yish yetarli emas, bunday yondashuv bezgak epidemiyasi davrida va laboratoriya xizmati yaxshi rivojlanmagan davlatlardagina qo'llanishi mumkin. Imkon qadar gumon laboratoriyada tasdiqlanishi kerak [1].",
+    "Qon tekshiruvi tez o'tkazilmasa, ehtiyot choralariga amal qilish lozim: tropik bezgakka gumon qilinganda laboratoriya tasdig'ini kutmasdan davolashni boshlash zarur. Protokolda ham natija 3 dan 6 soatdan ko'p kechiksa, davolash boshlanishi mumkinligi qayd etilgan [1, 5]."
+   ]
+  },
+  {
+   "heading": "Laboratoriya tashxisi",
+   "content": [
+    "Mikroskopiya Laveran 1880 yilda bezgak parazitini kashf etganidan beri asosiy tashxis usuli bo'lib kelmoqda. Qalin tomchini tekshirish asosiy usul hisoblanadi, yupqa surtma esa ayrim hollarda foydali, lekin shart emas [1].",
+    "JSST ham bezgakka gumon qilingan barcha bemorlarda davodan oldin mikroskopiya yoki tezkor test bilan parazitga asoslangan tashxis o'tkazishni tavsiya etadi. Mikroskopiya turlarni, rivojlanish bosqichlarini, shu jumladan gametotsitlarni aniqlash va parazit zichligini o'lchash imkonini beradi [7, 8]."
+   ]
+  },
+  {
+   "heading": "Qalin tomchi va yupqa surtma",
+   "content": [
+    "Standart amaliy muolajaga ko'ra qalin tomchi parazitni topish, yupqa surtma esa tur va aralash infeksiyani aniqlash uchun xizmat qiladi. Qalin tomchida shubhali elementlar yoki aralash infeksiyaga gumon bo'lsa, yupqa surtma x100 immersion obyektivda sinchiklab o'rganiladi [6].",
+    "Preparat periferik qondan tayyorlanadi va Romanovskiy-Gimza bo'yog'i bilan bo'yaladi. Bo'yoq ishchi eritmasi pH 7,0 dan 7,2 gacha bo'lgan buferli suvda tayyorlanishi kerak, aks holda parazit yadrosini aniqlash qiyinlashadi [1]."
+   ]
+  },
+  {
+   "heading": "Mikroskopiya qoidalari",
+   "content": [
+    "Qalin tomchi x90 immersion obyektivda ko'riladi va ko'rish maydonida 10 dan 20 tagacha leykotsit bo'lgan qismi tanlanadi. Tekshiruvchi 100 ta maydonni ko'rib chiqqach, parazit topilmasa, bezgak tashxisi inkor etiladi [1].",
+    "Standart amaliy muolajada ham kamida 100 ta maydon tekshirilishi shart, 100 tagacha parazit topilsa ham aralash infeksiya ehtimoli sababli tekshiruv davom ettiriladi. Tajribali mutaxassis mikroskopda 1 mkl da 5 dan 10 gacha parazitni aniqlashi mumkin. Davolash standartlarida manfiy natijada tekshiruv ikki kun davomida 6 dan 12 soatdan keyin qaytarilishi belgilangan [1, 4, 6]."
+   ]
+  },
+  {
+   "heading": "Minimal laboratoriya ro'yxati",
+   "content": [
+    "Uch kunlik bezgakning davolash bayonnomasida laboratoriya mezonlarining minimal ro'yxati qonning umumiy tahlili hamda Romanovskiy-Gimza bilan bo'yalgan qalin va yupqa surtma mikroskopiyasidan iborat. Bu ro'yxat bemorni baholash uchun ham, davo tanlash uchun ham asos bo'ladi [3].",
+    "Tropik bezgakda bularga siydikning umumiy tahlili, jumladan o't pigmentlariga tekshirish ham qo'shiladi. Bu tahlil gemoglobinuriya va buyrak shikastlanishi kabi asoratlarni erta payqashga yordam beradi [3]."
+   ]
+  },
+  {
+   "heading": "Tashxisni rasmiylashtirish",
+   "content": [
+    "Uslubiy qo'llanmaga ko'ra tashxisda nima ko'rilgani, qalin tomchi yoki surtma, ko'rilgan maydonlar soni, parazit turi, P. falciparum bo'lsa uning rivojlanish bosqichi (halqa, gametotsit yoki ikkalasi) hamda parazitemiya darajasi ko'rsatiladi [1].",
+    "Standart amaliy muolajaga ko'ra parazit topilmasa «bezgak parazitlari aniqlanmadi», topilsa lotincha nomi «P.» shaklida qisqartirilib, rivojlanish bosqichi bilan yoziladi. Bunday rasmiylashtirish davo va epidemiologik nazorat uchun zarur [6]."
+   ]
+  },
+  {
+   "heading": "Ijobiy tashxisdan keyingi harakatlar",
+   "content": [
+    "Aniqlangan va gumon qilingan barcha bemorlar haqida hududiy DSENMga shoshilinch xabarnoma beriladi. Bezgak tashxisi tasdiqlangach, barcha musbat qon preparatlari 24 soat ichida nazorat uchun Respublika DSENMga yuboriladi [2].",
+    "Uch kunlik va tropik bezgakda barcha bemorlar bayonnomaga ko'ra shifoxonada davolanadi, manfiy natijada esa davo tezda to'xtatiladi. Shu tariqa tashxis nafaqat klinik, balki epidemiologik va tashkiliy chora-tadbirlarni ham belgilaydi [2, 3, 5]."
+   ]
+  },
+  {
+   "heading": "O'zbekiston sharoitida ahamiyati",
+   "content": [
+    "JSST ma'lumotiga ko'ra O'zbekiston 2018 yilda bezgakdan holi hudud deb sertifikatlangan davlatlar qatoriga kirgan. Bunday sharoitda tashxisning vazifasi birinchi navbatda xorijdan olib kelingan holatlarni o'z vaqtida aniqlash va mahalliy tarqalish qayta tiklanishining oldini olishdir [8].",
+    "Shu sababli xorijga borgan shaxslarni hisobga olish, ularni 3 yil davomida dispanser nazoratida saqlash va isitma paydo bo'lganda bezgakka tekshirish tashxis tizimining ajralmas qismi hisoblanadi. Parazitolog-shifokor bu jarayonda laboratoriya natijasini klinik kontekst bilan baholaydi [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Bezgak tashxisi klinik va epidemiologik ma'lumotlar asosida shubha qilinadi, Romanovskiy-Gimza bilan bo'yalgan qalin tomchi va yupqa surtma mikroskopiyasida plazmodiy turi, bosqichi hamda parazitemiya darajasi aniqlanib tasdiqlanadi, tropik bezgakka gumon bo'lsa esa davo laboratoriya tasdig'ini kutmasdan boshlanadi [1, 3, 6]."
+   ]
+  }
+ ],
+ "references": [
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523.",
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Parazitar kasalliklarni tashxisoti va davolash standartlari (O'zR SSV 2016 yildagi buyrug'iga ilova; buyruq raqami hujjatda ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1560.",
+  "Bezgakni davolash protokoli. O'zR SSV 22.08.2017 yildagi 473-son buyrug'iga 3-ilova. xayrullokomilov.uz/kutubxona, material ID 1546.",
+  "BM-SOM-08. Qalin tomchi va yupqa surtma qon preparatlari mikroskopiyasi (standart amaliy muolaja). xayrullokomilov.uz/kutubxona, material ID 2104.",
+  "World Health Organization. Microscopy (Global Malaria Programme). https://www.who.int/teams/global-malaria-programme/case-management/diagnosis/microscopy",
+  "World Health Organization. Malaria (fact sheet). https://www.who.int/news-room/fact-sheets/detail/malaria"
+ ]
 }

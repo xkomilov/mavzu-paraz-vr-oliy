@@ -2,57 +2,89 @@
  "number": 127,
  "title": "127. Lyamblioz bilan zararlanishning yo'llari va omili",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Lyamblioz kontagioz protozoozlar qatoriga kiradi: qo'zg'atuvchi bir odamdan yoki hayvondan boshqasiga sistalar orqali o'tadi. Yuqish yo'li qo'zg'atuvchi tashqi muhitdan xo'jayin organizmiga qanday kirishini, yuqish omili esa sistalarni tashuvchi vosita yoki obyektni bildiradi [1, 3].",
-   "Mavzuda yuqish mexanizmi, suv, kontakt-maishiy va oziq-ovqat yo'llari, mexanik tashuvchilar, hayvonlar va odamdan odamga yuqishning roli hamda moyillik va xavf omillari ko'rib chiqiladi. Manba va nazorat tizimi boshqa mavzularda yoritilgani uchun bu yerda faqat yo'llar va omillar tahlil qilinadi [1, 2, 6]."
-  ]},
-  {"heading": "Yuqish mexanizmi va zararlovchi shakl", "content": [
-   "Yo'riqnomada yuqish mexanizmi fekal-oral (og'iz-najas) deb ko'rsatilgan: sistalar najas bilan tashqi muhitga ajraladi va og'iz orqali yangi xo'jayin ichagiga tushadi. Atlasda ham mexanizm fekal-oral, invazion shakl esa sista ekani yozilgan [1, 4].",
-   "Qo'zg'atuvchini yuqish omillari lyamblia sistalari bilan ifloslangan qo'llar, suv va oziq-ovqat mahsulotlaridir. Zararlanish dozasi 10-100 sistagacha ekani aytilgani uchun juda oz miqdordagi ifloslanish ham yuqish uchun yetarli bo'lishi mumkin [1, 3, 5]."
-  ]},
-  {"heading": "Suv yo'li", "content": [
-   "Darslikda lyamblioz uchun asosiy yo'l suv yo'li ekani aytilgan. Sistalar 4-20 gradusli suvda 3 oygacha jonli qoladi va xlorga yuqori chidamliligi sababli vodoprovod suvi bilan bog'liq suv orqali avj olishlar yuz berishi mumkin [3].",
-   "Yo'riqnomada kasallik avj olishi yoki alohida zararlanish holatlari suzish havzalarining ifloslangan suvi, ochiq suv havzalari va vodoprovod suvining zararlanishiga bog'liq ekani ko'rsatilgan. Lyamblioz avj olishlarining ko'pchiligi suv orqali bo'lishi ham yozilgan [1]."
-  ]},
-  {"heading": "Kontakt-maishiy yo'l", "content": [
-   "Kontakt-maishiy yo'l bolalar ta'lim muassasalari uchun xos bo'lib, asosiy omil sifatida bolalar va xodimlarning ifloslangan qo'li, pol, gilam va o'yinchoqlar ko'rsatilgan. Yo'riqnomada odamdan odamga yuqish asosan bolalar muassasalarida kuzatilishi aytilgan [1, 3].",
-   "Oiladagi va bolalar muassasalaridagi muloqotda bo'lganlar, shuningdek barmoq, tirnoq, qalam va ruchkani og'izga solish kabi zararli odatlar zararlanish ehtimolini oshiradi. Sistalarning tashqi muhit omillariga chidamliligi bu yo'lni yanada xavfli qiladi [1]."
-  ]},
-  {"heading": "Oziq-ovqat yo'li", "content": [
-   "Yo'riqnomada lyamblia sistalari oziq-ovqat mahsulotlarida 6 soatdan 2 sutkagacha hayotchanligini saqlashi va ular orqali yuqishi mumkinligi ko'rsatilgan. Boshqa joyda sistalar mahsulotlarda bir necha soat, namligi yuqori mahsulotlarda esa bir necha sutka saqlanishi yozilgan [1].",
-   "Darslikda oziq-ovqat yo'li suv yo'liga qaraganda kamroq ahamiyatli ekani, u termik ishlov berilmagan mahsulotlar orqali amalga oshishi aytilgan. Shu darslikda zararlanish yuvilmagan sabzavot va mevalar hamda suv bilan sista tushganda sodir bo'lishi ham yozilgan [3]."
-  ]},
-  {"heading": "Mexanik tashuvchilar", "content": [
-   "Yo'riqnomada zararkunanda hasharotlar, ya'ni pashsha, suvarak va go'ng qo'ng'izlari lyamblia sistalarini tarqatishda katta ahamiyatga ega ekani ko'rsatilgan. Atlasda mexanik tashuvchi sifatida pashsha va suvaraklar, himoya choralari sifatida mahsulotlarni ulardan asrash keltirilgan [1, 4].",
-   "Parazitar kasalliklar epidemiologik nazorati yo'riqnomasida yuqish omillariga ta'sir etuvchi tadbirlar qatorida pashshalar bilan kurash, ichimlik suvni qaynatish, qo'llarni yuvish va xonalarni dezinfeksiyalash sanalgan. Bu tadbirlar ichak protozoozlari uchun umumiy ahamiyatga ega [2]."
-  ]},
-  {"heading": "Hayvonlarning roli", "content": [
-   "Yo'riqnomaga ko'ra kasallik manbai zararlangan odam yoki hayvon, ammo asosan odam hisoblanadi; ba'zi hayvonlar kasallik rezervuari bo'lishi mumkin. Darslikda ikkinchi darajali rolni it, qoramol (ayniqsa buzoqlar) va cho'chqa o'ynashi aytilgan [1, 3].",
-   "JSST hujjatiga ko'ra odam infeksiyasiga sabab bo'luvchi assemblajlar chorvada va boshqa hayvonlarda ham uchraydi, bu zoonoz yuqish imkoniyatini ko'rsatadi. Atlasda esa parazit faqat odamda yashashi aytilgan, shu sababli manbalar orasida farq bor [4, 6]."
-  ]},
-  {"heading": "Odamdan odamga va sayohat bilan bog'liq yuqish", "content": [
-   "Yo'riqnomada lyamblioz odamdan odamga ham yuqishi, asosan bolalar muassasalarida kuzatilishi, ayrim guruhlarda esa jinsiy yo'l bilan yuqishi mumkinligi yozilgan. Bolalar zararlanishi uch oylik davrdan boshlanadi, bu kontakt omillarining erta ta'sir qilishini bildiradi [1].",
-   "Darslikda lyamblioz hamma joyda tarqalgani, ammo issiq iqlimli mamlakatlarda ko'proq uchrashi va u yerlarda lyamblialar «sayyoh diareyasi» ning asosiy qo'zg'atuvchilaridan biri hisoblanishi aytilgan. JSST hujjatida ham kasallik sayyohlar orasida keng uchrashi ko'rsatilgan [3, 6]."
-  ]},
-  {"heading": "Moyillik va immunitet", "content": [
-   "Yo'riqnomada kasallanishga moyillik odamlarda turlicha ekani, zararlanishga chidamlilik ingichka ichak shilliq qavatining to'siq vazifasiga hamda mahalliy va hujayra immunitetiga bog'liqligi yozilgan. Kasallikdan keyingi immunitet kuchsiz va qisqa muddatli bo'ladi [1].",
-   "Yo'riqnomada 9 yoshgacha bolalarda kasallik kattalarga nisbatan 2-3 marta ko'p uchrashi, o'g'il bolalar qizlardan 2-3 marta ko'proq kasallanishi, 16 yoshdan katta ayollarda esa erkaklarga qaraganda zararlanish ko'proq kuzatilishi aytilgan. Darslikda xavf guruhi sifatida 9 yoshgacha bolalar ko'rsatilgan [1, 3]."
-  ]},
-  {"heading": "Xavf guruhlari", "content": [
-   "Yo'riqnomada shaxsiy gigiena ko'nikmalari yo'q shaxslar, aqli zaif va ruhiy kasallar hamda xavfli kasb guruhlari, ya'ni assenizatsiya va irrigatsiya xizmati, hayvonot bog'lari va qo'riqxona ishchilari orasida yuqish yuqori deb ko'rsatilgan. Darslik bolalar muassasalari xodimlarini ham xavf guruhiga kiritadi [1, 3].",
-   "Yo'riqnomada oshqozon osti bezi, oshqozon va jigar faoliyati buzilishi bilan lyamblioz birga uchragan bemorlar zararlanish xavfi yuqori guruhga kirishi aytilgan. Lyamblioz bilan og'rigan bolalarda bakterial infeksiyalar, masalan pnevmoniya, bronxit va otit yuqori ko'rsatkichda qayd etiladi [1]."
-  ]},
-  {"heading": "Omillarni aniqlash va mavsumiy faollik", "content": [
-   "Lyamblioz mavsumiyligi bahor oylarida (aprel-may), shuningdek yozda kuzatiladi. Kasallikning tarqalishi aholining ovqatlanishi, suv ta'minoti holati va sanitariya-gigiyena ko'nikmalariga bog'liq ekani yo'riqnomada ko'rsatilgan, ya'ni yuqish omillari faolligi ijtimoiy sharoit bilan belgilanadi [1].",
-   "Epidemiologik nazorat yo'riqnomasida yuqish omili odatda kasallanish yuqori hududlarda aniqlanishi va past hududlarda aniqlanmasligi (farqlanish usuli) bayon etilgan. Epidemiologik xulosa laboratoriya tahlillari natijalari bilan tasdiqlanishi kerak, bu omilni isbotlash uchun zarur [2]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "O'zbekistonda lyamblioz yuqishining qaysi yo'li (suv, kontakt-maishiy yoki oziq-ovqat) hududlarda ustun ekani, viloyatlar bo'yicha xavf omillarining ulushi ko'rilgan manbalarda keltirilmagan. Shu sababli mahalliy ustuvor yo'l haqida xulosa berilmaydi [1, 2].",
-   "Manbalardagi farqlar: hayvonlarning rezervuar roli, oziq-ovqat yo'lining ahamiyati va sistalarning oziq-ovqatda saqlanish muddati turlicha berilgan. Yo'riqnomadagi bolalar va rivojlangan hamda rivojlanayotgan mamlakatlar bo'yicha foizlar O'zbekistonga xos hisoblanmaydi [1, 3, 4]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Lyamblioz fekal-oral mexanizm bilan sistalar orqali yuqadi; asosiy yo'l suv yo'li, bolalar jamoalarida kontakt-maishiy yo'l, ikkinchi darajali yo'l oziq-ovqat yo'lidir. Omillar orasida ifloslangan qo'l, suv, oziq-ovqat va hasharotlar bor, xavf guruhlari esa bolalar va ayrim kasb egalaridir [1, 3, 6]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Lyamblioz kontagioz protozoozlar qatoriga kiradi: qo'zg'atuvchi bir odamdan yoki hayvondan boshqasiga sistalar orqali o'tadi. Yuqish yo'li qo'zg'atuvchi tashqi muhitdan xo'jayin organizmiga qanday kirishini, yuqish omili esa sistalarni tashuvchi vosita yoki obyektni bildiradi [1, 3].",
+    "Mavzuda yuqish mexanizmi, suv, kontakt-maishiy va oziq-ovqat yo'llari, mexanik tashuvchilar, hayvonlar va odamdan odamga yuqishning roli hamda moyillik va xavf omillari ko'rib chiqiladi. Manba va nazorat tizimi boshqa mavzularda yoritilgani uchun bu yerda faqat yo'llar va omillar tahlil qilinadi [1, 2, 6]."
+   ]
+  },
+  {
+   "heading": "Yuqish mexanizmi va zararlovchi shakl",
+   "content": [
+    "Yo'riqnomada yuqish mexanizmi fekal-oral (og'iz-najas) deb ko'rsatilgan: sistalar najas bilan tashqi muhitga ajraladi va og'iz orqali yangi xo'jayin ichagiga tushadi. Atlasda ham mexanizm fekal-oral, invazion shakl esa sista ekani yozilgan [1, 4].",
+    "Qo'zg'atuvchini yuqish omillari lyamblia sistalari bilan ifloslangan qo'llar, suv va oziq-ovqat mahsulotlaridir. Zararlanish dozasi 10-100 sistagacha ekani aytilgani uchun juda oz miqdordagi ifloslanish ham yuqish uchun yetarli bo'lishi mumkin [1, 3, 5]."
+   ]
+  },
+  {
+   "heading": "Suv yo'li",
+   "content": [
+    "Darslikda lyamblioz uchun asosiy yo'l suv yo'li ekani aytilgan. Sistalar 4-20 gradusli suvda 3 oygacha jonli qoladi va xlorga yuqori chidamliligi sababli vodoprovod suvi bilan bog'liq suv orqali avj olishlar yuz berishi mumkin [3].",
+    "Yo'riqnomada kasallik avj olishi yoki alohida zararlanish holatlari suzish havzalarining ifloslangan suvi, ochiq suv havzalari va vodoprovod suvining zararlanishiga bog'liq ekani ko'rsatilgan. Lyamblioz avj olishlarining ko'pchiligi suv orqali bo'lishi ham yozilgan [1]."
+   ]
+  },
+  {
+   "heading": "Kontakt-maishiy yo'l",
+   "content": [
+    "Kontakt-maishiy yo'l bolalar ta'lim muassasalari uchun xos bo'lib, asosiy omil sifatida bolalar va xodimlarning ifloslangan qo'li, pol, gilam va o'yinchoqlar ko'rsatilgan. Yo'riqnomada odamdan odamga yuqish asosan bolalar muassasalarida kuzatilishi aytilgan [1, 3].",
+    "Oiladagi va bolalar muassasalaridagi muloqotda bo'lganlar, shuningdek barmoq, tirnoq, qalam va ruchkani og'izga solish kabi zararli odatlar zararlanish ehtimolini oshiradi. Sistalarning tashqi muhit omillariga chidamliligi bu yo'lni yanada xavfli qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Oziq-ovqat yo'li",
+   "content": [
+    "Yo'riqnomada lyamblia sistalari oziq-ovqat mahsulotlarida 6 soatdan 2 sutkagacha hayotchanligini saqlashi va ular orqali yuqishi mumkinligi ko'rsatilgan. Boshqa joyda sistalar mahsulotlarda bir necha soat, namligi yuqori mahsulotlarda esa bir necha sutka saqlanishi yozilgan [1].",
+    "Darslikda oziq-ovqat yo'li suv yo'liga qaraganda kamroq ahamiyatli ekani, u termik ishlov berilmagan mahsulotlar orqali amalga oshishi aytilgan. Shu darslikda zararlanish yuvilmagan sabzavot va mevalar hamda suv bilan sista tushganda sodir bo'lishi ham yozilgan [3]."
+   ]
+  },
+  {
+   "heading": "Mexanik tashuvchilar",
+   "content": [
+    "Yo'riqnomada zararkunanda hasharotlar, ya'ni pashsha, suvarak va go'ng qo'ng'izlari lyamblia sistalarini tarqatishda katta ahamiyatga ega ekani ko'rsatilgan. Atlasda mexanik tashuvchi sifatida pashsha va suvaraklar, himoya choralari sifatida mahsulotlarni ulardan asrash keltirilgan [1, 4].",
+    "Parazitar kasalliklar epidemiologik nazorati yo'riqnomasida yuqish omillariga ta'sir etuvchi tadbirlar qatorida pashshalar bilan kurash, ichimlik suvni qaynatish, qo'llarni yuvish va xonalarni dezinfeksiyalash sanalgan. Bu tadbirlar ichak protozoozlari uchun umumiy ahamiyatga ega [2]."
+   ]
+  },
+  {
+   "heading": "Hayvonlarning roli",
+   "content": [
+    "Yo'riqnomaga ko'ra kasallik manbai zararlangan odam yoki hayvon, ammo asosan odam hisoblanadi; ba'zi hayvonlar kasallik rezervuari bo'lishi mumkin. Darslikda ikkinchi darajali rolni it, qoramol (ayniqsa buzoqlar) va cho'chqa o'ynashi aytilgan [1, 3].",
+    "JSST hujjatiga ko'ra odam infeksiyasiga sabab bo'luvchi assemblajlar chorvada va boshqa hayvonlarda ham uchraydi, bu zoonoz yuqish imkoniyatini ko'rsatadi. Atlasda esa parazit faqat odamda yashashi aytilgan, shu sababli manbalar orasida farq bor [4, 6]."
+   ]
+  },
+  {
+   "heading": "Odamdan odamga va sayohat bilan bog'liq yuqish",
+   "content": [
+    "Yo'riqnomada lyamblioz odamdan odamga ham yuqishi, asosan bolalar muassasalarida kuzatilishi, ayrim guruhlarda esa jinsiy yo'l bilan yuqishi mumkinligi yozilgan. Bolalar zararlanishi uch oylik davrdan boshlanadi, bu kontakt omillarining erta ta'sir qilishini bildiradi [1].",
+    "Darslikda lyamblioz hamma joyda tarqalgani, ammo issiq iqlimli mamlakatlarda ko'proq uchrashi va u yerlarda lyamblialar «sayyoh diareyasi» ning asosiy qo'zg'atuvchilaridan biri hisoblanishi aytilgan. JSST hujjatida ham kasallik sayyohlar orasida keng uchrashi ko'rsatilgan [3, 6]."
+   ]
+  },
+  {
+   "heading": "Moyillik va immunitet",
+   "content": [
+    "Yo'riqnomada kasallanishga moyillik odamlarda turlicha ekani, zararlanishga chidamlilik ingichka ichak shilliq qavatining to'siq vazifasiga hamda mahalliy va hujayra immunitetiga bog'liqligi yozilgan. Kasallikdan keyingi immunitet kuchsiz va qisqa muddatli bo'ladi [1].",
+    "Yo'riqnomada 9 yoshgacha bolalarda kasallik kattalarga nisbatan 2-3 marta ko'p uchrashi, o'g'il bolalar qizlardan 2-3 marta ko'proq kasallanishi, 16 yoshdan katta ayollarda esa erkaklarga qaraganda zararlanish ko'proq kuzatilishi aytilgan. Darslikda xavf guruhi sifatida 9 yoshgacha bolalar ko'rsatilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari",
+   "content": [
+    "Yo'riqnomada shaxsiy gigiena ko'nikmalari yo'q shaxslar, aqli zaif va ruhiy kasallar hamda xavfli kasb guruhlari, ya'ni assenizatsiya va irrigatsiya xizmati, hayvonot bog'lari va qo'riqxona ishchilari orasida yuqish yuqori deb ko'rsatilgan. Darslik bolalar muassasalari xodimlarini ham xavf guruhiga kiritadi [1, 3].",
+    "Yo'riqnomada oshqozon osti bezi, oshqozon va jigar faoliyati buzilishi bilan lyamblioz birga uchragan bemorlar zararlanish xavfi yuqori guruhga kirishi aytilgan. Lyamblioz bilan og'rigan bolalarda bakterial infeksiyalar, masalan pnevmoniya, bronxit va otit yuqori ko'rsatkichda qayd etiladi [1]."
+   ]
+  },
+  {
+   "heading": "Omillarni aniqlash va mavsumiy faollik",
+   "content": [
+    "Lyamblioz mavsumiyligi bahor oylarida (aprel-may), shuningdek yozda kuzatiladi. Kasallikning tarqalishi aholining ovqatlanishi, suv ta'minoti holati va sanitariya-gigiyena ko'nikmalariga bog'liq ekani yo'riqnomada ko'rsatilgan, ya'ni yuqish omillari faolligi ijtimoiy sharoit bilan belgilanadi [1].",
+    "Epidemiologik nazorat yo'riqnomasida yuqish omili odatda kasallanish yuqori hududlarda aniqlanishi va past hududlarda aniqlanmasligi (farqlanish usuli) bayon etilgan. Epidemiologik xulosa laboratoriya tahlillari natijalari bilan tasdiqlanishi kerak, bu omilni isbotlash uchun zarur [2]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Lyamblioz fekal-oral mexanizm bilan sistalar orqali yuqadi; asosiy yo'l suv yo'li, bolalar jamoalarida kontakt-maishiy yo'l, ikkinchi darajali yo'l oziq-ovqat yo'lidir. Omillar orasida ifloslangan qo'l, suv, oziq-ovqat va hasharotlar bor, xavf guruhlari esa bolalar va ayrim kasb egalaridir [1, 3, 6]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 5-ilova «Aholi o'rtasida ichak protozooz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1520.",

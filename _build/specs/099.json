@@ -2,69 +2,110 @@
  "number": 99,
  "title": "99. Teniarinxozga qarshi kurashning kompleks chora-tadbirlarini tashkil etish.",
  "sections": [
-  {"heading": "Kirish", "content": [
-   "Teniarinxozga qarshi kurash bir tarmoq kuchi bilan hal bo'lmaydi, chunki zanjirda odam, qoramol, go'sht va tashqi muhit ishtirok etadi. Milliy yo'riqnomada biogelmintozlarning oldini olish tibbiy-veterinariya kompleks chora-tadbirlaridan iborat ekani belgilangan [1].",
-   "Ushbu mavzuda kompleksni tashkil etish ketma-ketligi ko'rib chiqiladi: tashkiliy asos, aholini tekshirish, hisobga olish, davolash, dispanser kuzatuvi, veterinariya va sanitariya nazorati hamda tarbiyaviy ish. Oxirida samara va tasdiqlanmagan jihatlar yoziladi [1, 2, 3]."
-  ]},
-  {"heading": "Kompleks yondashuv tamoyili", "content": [
-   "Darslikka ko'ra tenioz va teniarinxozga qarshi kurash invaziya manbaini zararsizlantirish, tashqi muhitni najas bilan ifloslanishdan himoya qilish va yuqish yo'llarini to'sishga qaratiladi. Kompleksni tibbiyot va veterinariya xizmatlari ma'muriy hamda xo'jalik tuzilmalari ishtirokida bajaradi [3].",
-   "JSST ham T. solium bo'yicha tibbiyot, veterinariya va atrof-muhit sohalarini qamrab oluvchi birlashgan yondashuv eng tez barqaror nazoratga olib kelishini ta'kidlaydi. Bu fikr teniarinxoz uchun ham umumiy tamoyil sifatida foydali, lekin JSST hujjati aynan T. solium haqida yozilgan [4]."
-  ]},
-  {"heading": "Tashkiliy asos va ijrochilar", "content": [
-   "Yo'riqnomaga ko'ra aholini sanitariya holati, chorvadorlik xo'jaliklari va umumiy ovqatlanish korxonalari faoliyati nazorat qilinadi. Ushbu nazoratni hududiy DSENM mutaxassislari, ya'ni kommunal va ovqatlanish gigienasi shifokorlari, epidemiologlar, parazitologlar hamda veterinariya va obodonlashtirish bo'limlari amalga oshiradi [1].",
-   "Tekshiruvlar qishloq vrachlik punktlari va poliklinikalarda o'tkaziladi, xalq ta'limi muassasalari xodimlari, xo'jalik va muassasa rahbarlari esa sanitariya-targ'ibotga jalb qilinadi. Shunday qilib, tashkiliy asosni tibbiyot, veterinariya, mahalliy hokimiyat va xo'jaliklar birgalikda tashkil etadi [1, 3]."
-  ]},
-  {"heading": "Manbani aniqlash: aholini tekshirish", "content": [
-   "Yo'riqnomada aholini tekshirish invaziyalanganlarni faol aniqlash uchun belgilangan: xavfli guruhlar rejali profilaktik, qolganlar epidemiologik ko'rsatma bo'yicha tekshiriladi. Chorvachilik xodimlari, ya'ni sog'uvchilar va cho'ponlar, oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta tekshiriladi [1].",
-   "Hayvonlarda sistitserkoz topilsa, hududdagi aholi so'rov va laboratoriya usullarida tekshiriladi, necha marta tekshirish esa hududiy DSENM parazitologi tomonidan belgilanadi. Aholi punktida yoki chorva xo'jaligida finnoz qayd etilsa, invaziya manbaini topish uchun shu punkt aholisi tekshiriladi [1]."
-  ]},
-  {"heading": "Hisobga olish va xabar berish tartibi", "content": [
-   "Teniarinxozning har bir holati bo'yicha shoshilinch xabarnoma ф. 058/u to'ldirilib DSENMga yuboriladi. Har bir holat aniqlash usulidan qat'i nazar ф. №2 shaklga kiritiladi, hududiy DSENM esa har bir holatni hududiy veterinariya bo'limlariga xabar qiladi [1].",
-   "Hayvonlarda sistitserkoz topilsa, veterinariya bo'limlari hududiy DSENMga xabar berishi shart. Shu ikki tomonlama axborot almashinuvi kompleksning asosiy shartidir, chunki odamdagi invaziya manbai va chorvadagi finnoz bir-birini topishga imkon beradi [1]."
-  ]},
-  {"heading": "Davolash va degelmintizatsiya", "content": [
-   "Yo'riqnomada teniidozlar bilan kasallanganlarning barchasi to'liq davolangan bo'lishi shart deb belgilangan. Davolash bayonnomasida teniarinxoz uchun antigelmint vositalar, ya'ni prazikvantel, niklozamid va albendazol, shuningdek parhez va simptomatik terapiya ko'rsatilgan [1, 2].",
-   "Darslik bemor najasini degelmintizatsiya paytida chiqqan parazitlar bilan birga qaynoq suv bilan zararsizlantirishni tavsiya qiladi: najas ikki hajm qaynoq suv bilan yopiq idishda bir soat ushlanadi. Bu chora davolash paytida atrof-muhit ifloslanishining oldini oladi [3]."
-  ]},
-  {"heading": "Dispanser kuzatuvi va qayta tekshirish", "content": [
-   "Yo'riqnomada hech bir preparat bitta kurs bilan 100 foiz gijjadan xalos qilmasligi, strobilalar 1-3 oydan, hatto 4 oydan keyin qayta rivojlanishi mumkinligi yozilgan. Shu sababli davolangan bemor KIZ xonasi yoki oila shifokori dispanser kuzatuviga olinadi va 2, 4, 6 oyda qayta tekshiruvga chaqiriladi [1].",
-   "Uch marta manfiy natijadan keyin bemor hisobdan chiqariladi. Davolash bayonnomasida esa teniarinxozda 5 oy davomida har oy tekshirish belgilangan, laboratoriya yo'riqnomasi biogelmintozlarda davolangandan 3-4-5 oy keyin kamida 3 marta najas tekshirishni talab qiladi; bu muddatlar farq qiladi [1, 2, 5]."
-  ]},
-  {"heading": "Kimyoprofilaktika", "content": [
-   "Davolash bayonnomasiga ko'ra teniarinxoz keng tarqalgan hududlarda chorvadorlar va ularning oila a'zolari o'rtasida niklozamid bilan kimyoprofilaktika 2-2,5 oyda yoki 4 oyda bir marta o'tkazilishi kerak. Bunday tadbir faqat endemik joylar uchun ko'zda tutilgan [2].",
-   "Vladivostok darsligida yuqori endemik o'choqlarda xavf guruhlariga fenasal, ya'ni niklozamid bilan har chorakda profilaktik davolash tavsiya etilgan. Milliy bayonnomada oraliq 2-2,5 yoki 4 oy bo'lib, davriylikda farq bor; kimyoprofilaktika dozasi milliy matnda ko'rsatilmagan, shu sababli doza yozilmadi [2, 3]."
-  ]},
-  {"heading": "Veterinariya chora-tadbirlari", "content": [
-   "Yo'riqnomada kompleks veterinariya choralari aholining teniidozlar bilan va hayvonlarning sistitserkoz bilan zararlanishining oldini olishga qaratilgan bo'lib, veterinariya qonunchiligi asosida o'tkaziladi. Finnali go'sht va go'sht mahsulotlari muzlatish orqali zararsizlantiriladi [1].",
-   "Veterinariya mutaxassislari qushxonalarda go'sht finnozga veterinariya ekspertizasi sifati nazoratini monitoring qiladi, finnali go'shtni yo'qotish bo'yicha qoidalarga amal qiladi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holatini ham nazorat qiladi [1]."
-  ]},
-  {"heading": "Sanitariya-epidemiologik nazorat", "content": [
-   "Yo'riqnomaga ko'ra atrof muhitni tuxum bilan ifloslanishdan himoya qilish uchun aholi yashash joylarini kommunal obodonlashtirish, hojatxonalarni qurish va ta'mirlash, uy hayvonlarini tartibli saqlash hamda daydi itlarga qarshi kurash o'tkaziladi. Oqova suvlarni tuxumdan zararsizlantirish inshootlari DSENM nazoratida bo'ladi [1].",
-   "Barcha chorvachilik korxonalari, hayvon mahsulotlarini qayta ishlash va go'sht mahsulotlarini ishlab chiqarish korxonalari hududiy sanitariya-epidemiologiya va veterinariya xizmati hisobida bo'lishi kerak. Yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emas [1]."
-  ]},
-  {"heading": "Korxonalarda shaxsiy gigiena nazorati", "content": [
-   "Chorvachilik xo'jaliklarida hayvonlar bilan aloqada bo'lganlarning shaxsiy gigiena qoidalariga rioya qilishi, maxsus kiyim bilan ta'minlanishi va o'z vaqtida gelmintozlarga tekshirilishi alohida nazoratda turadi. Tibbiy ko'rik natijalari sanitariya daftarchasiga yoziladi [1].",
-   "Rioya nazorati uchun ogohlantirmasdan yiliga 1-2 marta hayvonlarga ishlatiladigan buyumlar, inventar va xodimlarning qo'llaridan surtma olinadi. Surtmada gijja tuxumi topilsa, xo'jalikda invaziya manbai aniqlanadi va sog'lomlashtirish tadbirlari o'tkaziladi [1]."
-  ]},
-  {"heading": "Go'sht savdosi monitoringi", "content": [
-   "DSENM ovqatlanish gigienasi mutaxassislari bilan go'sht do'konlarini va talabga javob bermagan go'shtni yo'qotish bo'yicha monitoring o'tkazadi. Bu qism odamning zararlanish yo'lini, ya'ni finnali go'shtning savdoga chiqishini yopishga qaratilgan [1].",
-   "Tibbiyot xodimlari va mahalla yig'inlari bilan birga mollarni saqlash va uyda so'yish bo'yicha keng ko'lamli sanitariya-targ'ibot ishlari olib boriladi. Yo'riqnomada uyda so'yishning o'zi alohida targ'ibot mavzusi sifatida ajratilgan, ya'ni bu holat nazorat uchun muhim bo'shliq hisoblanadi [1]."
-  ]},
-  {"heading": "Epidemik tekshiruv va tahlil", "content": [
-   "Teniarinxoz va teniozning har bir holatini epidemik tekshirishni hududiy DSENM parazitologlari va veterinariya mutaxassislari birgalikda o'tkazadi. Natijalar epidemiologik kartaga ф. 357/u yoziladi, veterinariya xodimlari esa zarur chora-tadbirlar bajarilishini nazorat qiladi [1].",
-   "Parazitologlar har yili kasallanishni aniqlanish usuli, hududiy tarqalishi, yoshi, jinsi, ijtimoiy holati, yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Shu tahlil kompleks hajmini hududga moslashtirish va xavf guruhlarini yangilash uchun asos beradi [1]."
-  ]},
-  {"heading": "Sanitariya-targ'ibot ishi", "content": [
-   "Darslikda sanitariya-ma'rifiy ish kompleksning muhim elementi sifatida ko'rsatilgan. Yo'riqnomada ilmiy-ommabop filmlar, radio va televideniye, mahalliy gazetalar, plakatlar, bukletlar, oilalarda suhbatlar, chorvachilik xo'jaliklarida targ'ibot va maktablarda diktantlar o'tkazish sanalgan [1, 3].",
-   "Targ'ibotda yuqish xavfini tug'diradigan oziq-ovqat va mahalliy tayyorlash usullari, sistitserkni zararsizlantirish yo'llari hamda aholining o'zi qatnashishi ahamiyati ko'rsatilishi kerak. Chorvadorlar mollarni zararlanish yo'llari va belgilari haqida bilimga ega bo'lishi lozim [1, 3]."
-  ]},
-  {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-   "Ko'rilgan milliy hujjatlarda teniarinxozga qarshi kompleks dasturning samara ko'rsatkichlari, ya'ni kasallanishning kamayish me'yori yoki hududni sog'lom deb e'lon qilish mezoni topilmadi. Shu sababli bunday raqamlar yozilmadi; yo'riqnomada faqat tadbirlar ro'yxati va hisobdan chiqarish tartibi berilgan [1].",
-   "Dispanser kuzatuvi bo'yicha manbalar farq qiladi: yo'riqnomada 2, 4, 6 oyda tekshiruv va uch marta manfiy natija, bayonnomada esa 5 oy davomida har oy tekshiruv. Qaysi tartib amalda ustun ekani manbalarda aniqlanmadi, shuning uchun ikkalasi ham keltirildi [1, 2]."
-  ]},
-  {"heading": "Xulosa", "content": [
-   "Teniarinxozga qarshi kompleks aholini tekshirish va davolash, dispanser kuzatuvi, veterinariya-sanitariya nazorati, go'sht savdosi monitoringi, obodonlashtirish va sanitariya-targ'ibotni bir tizimga birlashtiradi. Uni tibbiyot va veterinariya xizmatlari birgalikda tashkil etishi, har bir holatni hududiy DSENM va veterinariya bo'limlariga o'z vaqtida xabar qilishi zarur [1, 3]."
-  ]}
+  {
+   "heading": "Kirish",
+   "content": [
+    "Teniarinxozga qarshi kurash bir tarmoq kuchi bilan hal bo'lmaydi, chunki zanjirda odam, qoramol, go'sht va tashqi muhit ishtirok etadi. Milliy yo'riqnomada biogelmintozlarning oldini olish tibbiy-veterinariya kompleks chora-tadbirlaridan iborat ekani belgilangan [1].",
+    "Ushbu mavzuda kompleksni tashkil etish ketma-ketligi ko'rib chiqiladi: tashkiliy asos, aholini tekshirish, hisobga olish, davolash, dispanser kuzatuvi, veterinariya va sanitariya nazorati hamda tarbiyaviy ish. Oxirida dastur samarasini baholash yoritiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Kompleks yondashuv tamoyili",
+   "content": [
+    "Darslikka ko'ra tenioz va teniarinxozga qarshi kurash invaziya manbaini zararsizlantirish, tashqi muhitni najas bilan ifloslanishdan himoya qilish va yuqish yo'llarini to'sishga qaratiladi. Kompleksni tibbiyot va veterinariya xizmatlari ma'muriy hamda xo'jalik tuzilmalari ishtirokida bajaradi [3].",
+    "JSST ham T. solium bo'yicha tibbiyot, veterinariya va atrof-muhit sohalarini qamrab oluvchi birlashgan yondashuv eng tez barqaror nazoratga olib kelishini ta'kidlaydi. Bu fikr teniarinxoz uchun ham umumiy tamoyil sifatida foydali, lekin JSST hujjati aynan T. solium haqida yozilgan [4]."
+   ]
+  },
+  {
+   "heading": "Tashkiliy asos va ijrochilar",
+   "content": [
+    "Yo'riqnomaga ko'ra aholini sanitariya holati, chorvadorlik xo'jaliklari va umumiy ovqatlanish korxonalari faoliyati nazorat qilinadi. Ushbu nazoratni hududiy DSENM mutaxassislari, ya'ni kommunal va ovqatlanish gigienasi shifokorlari, epidemiologlar, parazitologlar hamda veterinariya va obodonlashtirish bo'limlari amalga oshiradi [1].",
+    "Tekshiruvlar qishloq vrachlik punktlari va poliklinikalarda o'tkaziladi, xalq ta'limi muassasalari xodimlari, xo'jalik va muassasa rahbarlari esa sanitariya-targ'ibotga jalb qilinadi. Shunday qilib, tashkiliy asosni tibbiyot, veterinariya, mahalliy hokimiyat va xo'jaliklar birgalikda tashkil etadi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Manbani aniqlash: aholini tekshirish",
+   "content": [
+    "Yo'riqnomada aholini tekshirish invaziyalanganlarni faol aniqlash uchun belgilangan: xavfli guruhlar rejali profilaktik, qolganlar epidemiologik ko'rsatma bo'yicha tekshiriladi. Chorvachilik xodimlari, ya'ni sog'uvchilar va cho'ponlar, oila a'zolari, qushxona xodimlari, qassoblar va oshpazlar yiliga bir marta tekshiriladi [1].",
+    "Hayvonlarda sistitserkoz topilsa, hududdagi aholi so'rov va laboratoriya usullarida tekshiriladi, necha marta tekshirish esa hududiy DSENM parazitologi tomonidan belgilanadi. Aholi punktida yoki chorva xo'jaligida finnoz qayd etilsa, invaziya manbaini topish uchun shu punkt aholisi tekshiriladi [1]."
+   ]
+  },
+  {
+   "heading": "Hisobga olish va xabar berish tartibi",
+   "content": [
+    "Teniarinxozning har bir holati bo'yicha shoshilinch xabarnoma ф. 058/u to'ldirilib DSENMga yuboriladi. Har bir holat aniqlash usulidan qat'i nazar ф. №2 shaklga kiritiladi, hududiy DSENM esa har bir holatni hududiy veterinariya bo'limlariga xabar qiladi [1].",
+    "Hayvonlarda sistitserkoz topilsa, veterinariya bo'limlari hududiy DSENMga xabar berishi shart. Shu ikki tomonlama axborot almashinuvi kompleksning asosiy shartidir, chunki odamdagi invaziya manbai va chorvadagi finnoz bir-birini topishga imkon beradi [1]."
+   ]
+  },
+  {
+   "heading": "Davolash va degelmintizatsiya",
+   "content": [
+    "Yo'riqnomada teniidozlar bilan kasallanganlarning barchasi to'liq davolangan bo'lishi shart deb belgilangan. Davolash bayonnomasida teniarinxoz uchun antigelmint vositalar, ya'ni prazikvantel, niklozamid va albendazol, shuningdek parhez va simptomatik terapiya ko'rsatilgan [1, 2].",
+    "Darslik bemor najasini degelmintizatsiya paytida chiqqan parazitlar bilan birga qaynoq suv bilan zararsizlantirishni tavsiya qiladi: najas ikki hajm qaynoq suv bilan yopiq idishda bir soat ushlanadi. Bu chora davolash paytida atrof-muhit ifloslanishining oldini oladi [3]."
+   ]
+  },
+  {
+   "heading": "Dispanser kuzatuvi va qayta tekshirish",
+   "content": [
+    "Yo'riqnomada hech bir preparat bitta kurs bilan 100 foiz gijjadan xalos qilmasligi, strobilalar 1-3 oydan, hatto 4 oydan keyin qayta rivojlanishi mumkinligi yozilgan. Shu sababli davolangan bemor KIZ xonasi yoki oila shifokori dispanser kuzatuviga olinadi va 2, 4, 6 oyda qayta tekshiruvga chaqiriladi [1].",
+    "Uch marta manfiy natijadan keyin bemor hisobdan chiqariladi. Davolash bayonnomasida esa teniarinxozda 5 oy davomida har oy tekshirish belgilangan, laboratoriya yo'riqnomasi biogelmintozlarda davolangandan 3-4-5 oy keyin kamida 3 marta najas tekshirishni talab qiladi; bu muddatlar farq qiladi [1, 2, 5]."
+   ]
+  },
+  {
+   "heading": "Kimyoprofilaktika",
+   "content": [
+    "Davolash bayonnomasiga ko'ra teniarinxoz keng tarqalgan hududlarda chorvadorlar va ularning oila a'zolari o'rtasida niklozamid bilan kimyoprofilaktika 2-2,5 oyda yoki 4 oyda bir marta o'tkazilishi kerak. Bunday tadbir faqat endemik joylar uchun ko'zda tutilgan [2].",
+    "Vladivostok darsligida yuqori endemik o'choqlarda xavf guruhlariga fenasal, ya'ni niklozamid bilan har chorakda profilaktik davolash tavsiya etilgan. Milliy bayonnomada oraliq 2-2,5 yoki 4 oy bo'lib, davriylikda farq bor; kimyoprofilaktika dozasi milliy matnda ko'rsatilmagan, shu sababli doza yozilmadi [2, 3]."
+   ]
+  },
+  {
+   "heading": "Veterinariya chora-tadbirlari",
+   "content": [
+    "Yo'riqnomada kompleks veterinariya choralari aholining teniidozlar bilan va hayvonlarning sistitserkoz bilan zararlanishining oldini olishga qaratilgan bo'lib, veterinariya qonunchiligi asosida o'tkaziladi. Finnali go'sht va go'sht mahsulotlari muzlatish orqali zararsizlantiriladi [1].",
+    "Veterinariya mutaxassislari qushxonalarda go'sht finnozga veterinariya ekspertizasi sifati nazoratini monitoring qiladi, finnali go'shtni yo'qotish bo'yicha qoidalarga amal qiladi. Veterinariya xodimlari aholi punktlarining veterinariya-sanitariya holatini ham nazorat qiladi [1]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-epidemiologik nazorat",
+   "content": [
+    "Yo'riqnomaga ko'ra atrof muhitni tuxum bilan ifloslanishdan himoya qilish uchun aholi yashash joylarini kommunal obodonlashtirish, hojatxonalarni qurish va ta'mirlash, uy hayvonlarini tartibli saqlash hamda daydi itlarga qarshi kurash o'tkaziladi. Oqova suvlarni tuxumdan zararsizlantirish inshootlari DSENM nazoratida bo'ladi [1].",
+    "Barcha chorvachilik korxonalari, hayvon mahsulotlarini qayta ishlash va go'sht mahsulotlarini ishlab chiqarish korxonalari hududiy sanitariya-epidemiologiya va veterinariya xizmati hisobida bo'lishi kerak. Yirik shoxli mollar uchun o'stiriladigan o'tlarni oqova suv bilan sug'orish mumkin emas [1]."
+   ]
+  },
+  {
+   "heading": "Korxonalarda shaxsiy gigiena nazorati",
+   "content": [
+    "Chorvachilik xo'jaliklarida hayvonlar bilan aloqada bo'lganlarning shaxsiy gigiena qoidalariga rioya qilishi, maxsus kiyim bilan ta'minlanishi va o'z vaqtida gelmintozlarga tekshirilishi alohida nazoratda turadi. Tibbiy ko'rik natijalari sanitariya daftarchasiga yoziladi [1].",
+    "Rioya nazorati uchun ogohlantirmasdan yiliga 1-2 marta hayvonlarga ishlatiladigan buyumlar, inventar va xodimlarning qo'llaridan surtma olinadi. Surtmada gijja tuxumi topilsa, xo'jalikda invaziya manbai aniqlanadi va sog'lomlashtirish tadbirlari o'tkaziladi [1]."
+   ]
+  },
+  {
+   "heading": "Go'sht savdosi monitoringi",
+   "content": [
+    "DSENM ovqatlanish gigienasi mutaxassislari bilan go'sht do'konlarini va talabga javob bermagan go'shtni yo'qotish bo'yicha monitoring o'tkazadi. Bu qism odamning zararlanish yo'lini, ya'ni finnali go'shtning savdoga chiqishini yopishga qaratilgan [1].",
+    "Tibbiyot xodimlari va mahalla yig'inlari bilan birga mollarni saqlash va uyda so'yish bo'yicha keng ko'lamli sanitariya-targ'ibot ishlari olib boriladi. Yo'riqnomada uyda so'yishning o'zi alohida targ'ibot mavzusi sifatida ajratilgan, ya'ni bu holat nazorat uchun muhim bo'shliq hisoblanadi [1]."
+   ]
+  },
+  {
+   "heading": "Epidemik tekshiruv va tahlil",
+   "content": [
+    "Teniarinxoz va teniozning har bir holatini epidemik tekshirishni hududiy DSENM parazitologlari va veterinariya mutaxassislari birgalikda o'tkazadi. Natijalar epidemiologik kartaga ф. 357/u yoziladi, veterinariya xodimlari esa zarur chora-tadbirlar bajarilishini nazorat qiladi [1].",
+    "Parazitologlar har yili kasallanishni aniqlanish usuli, hududiy tarqalishi, yoshi, jinsi, ijtimoiy holati, yashash joyi va ish faoliyati bo'yicha tahlil qiladi. Shu tahlil kompleks hajmini hududga moslashtirish va xavf guruhlarini yangilash uchun asos beradi [1]."
+   ]
+  },
+  {
+   "heading": "Sanitariya-targ'ibot ishi",
+   "content": [
+    "Darslikda sanitariya-ma'rifiy ish kompleksning muhim elementi sifatida ko'rsatilgan. Yo'riqnomada ilmiy-ommabop filmlar, radio va televideniye, mahalliy gazetalar, plakatlar, bukletlar, oilalarda suhbatlar, chorvachilik xo'jaliklarida targ'ibot va maktablarda diktantlar o'tkazish sanalgan [1, 3].",
+    "Targ'ibotda yuqish xavfini tug'diradigan oziq-ovqat va mahalliy tayyorlash usullari, sistitserkni zararsizlantirish yo'llari hamda aholining o'zi qatnashishi ahamiyati ko'rsatilishi kerak. Chorvadorlar mollarni zararlanish yo'llari va belgilari haqida bilimga ega bo'lishi lozim [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Teniarinxozga qarshi kompleks aholini tekshirish va davolash, dispanser kuzatuvi, veterinariya-sanitariya nazorati, go'sht savdosi monitoringi, obodonlashtirish va sanitariya-targ'ibotni bir tizimga birlashtiradi. Uni tibbiyot va veterinariya xizmatlari birgalikda tashkil etishi, har bir holatni hududiy DSENM va veterinariya bo'limlariga o'z vaqtida xabar qilishi zarur [1, 3]."
+   ]
+  }
  ],
  "references": [
   "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova «Aholi o'rtasida gelmintoz kasalliklarining oldini olish va epidemiyaga qarshi chora-tadbirlar to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1525.",

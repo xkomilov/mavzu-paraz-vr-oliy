@@ -1,73 +1,110 @@
 {
-  "number": 13,
-  "title": "13. O'zbekistonda bezgakni berilishida chivinlarning asosiy nechta turlari qatnashadi, ularning turlarini sanab o'ting.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "O'zbekistonda uchraydigan Anopheles turlarining hammasi ham bezgak yuqishida bir xil rol o'ynamaydi. Epidemiologik ahamiyat chivinning soni, plazmodiylarga moyilligi, odamga intilishi va turar joyda yashashi kabi omillarga bog'liq. Shu sababli tashuvchilar asosiy va ikkinchi darajali guruhlarga ajratiladi [1, 3].",
-      "Bu savol turlarning umumiy ro'yxatini emas, balki yuqishda asosiy ahamiyatga ega bo'lgan turlarni so'raydi. Mavzuda asosiy turlar soni, ularning nomlari, har birining ekologik xususiyatlari, ikkinchi darajali turlar hamda manbalar orasidagi farqlar ko'rib chiqiladi [1, 2]."
-    ]},
-    {"heading": "Tashuvchining epidemiologik samaradorligi mezonlari", "content": [
-      "Uslubiy qo'llanmada chivin turining epidemiologik ahamiyatini belgilovchi ko'rsatkichlar sanalgan: chivinlar soni, plazmodiylarga moyillik, antropofillik va endofillik darajasi hamda urg'ochi chivinning uzoq yashash qobiliyati. Fiziologik jihatdan keksa chivinlar ulushi ham muhim ko'rsatkich hisoblanadi [3].",
-      "Samarali tashuvchi tur bu xususiyatlarning hammasini to'liq birlashtirishi shart emas. Taqdimotlarda ham asosiy tashuvchilarning epidemik samaradorligini aniqlash uchun ko'p yillik soni va endofil yoki ekzofil turlarni tahlil qilish ko'rsatilgan. Shu mezonlar asosida O'zbekistondagi tashuvchilar tasniflanadi [3, 5]."
-    ]},
-    {"heading": "Asosiy tashuvchilar soni va ro'yxati", "content": [
-      "Anopheles bo'yicha taqdimotga ko'ra O'zbekistonda bezgak tashuvchilari orasida asosiylari uch tur: An. (An.) maculipennis, An. (C.) pulcherrimus va An. (C.) superpictus. Ikkinchi darajali yoki epizodik tur ham uchta, bittasining roli esa hali aniqlanmagan [2].",
-      "Shunday qilib, asosiy savolga javob: yuqishda asosiy ahamiyatga ega turlar uchta. Ular bir kenja urug'ga mansub emas: maculipennis Anopheles kenja urug'iga, pulcherrimus va superpictus esa Cellia kenja urug'iga kiradi. Bu uch tur bezgak profilaktikasi tadbirlarining asosiy obyektlari sanaladi [2]."
-    ]},
-    {"heading": "An. superpictus", "content": [
-      "An. superpictus O'rta Osiyoning tog' oldi va tog'li hududlarida bezgakning asosiy tashuvchisi hisoblanadi. Imagosi endofil va endofag, aholi yashaydigan binolar, molxona va yerto'lalarda ko'p uchraydi. Odamlar yashaydigan joylarda to'planadi va ichkarida hujum qiladi [1, 2].",
-      "Bu turning xavfli tomoni shundaki, u odamlar yashashi bilan bog'liq, yozning issiq davrida soni ko'p bo'ladi va bir gonotrofik davrda bir necha marta qon so'rishi mumkin. Qo'llanmaga ko'ra u dengiz sathidan 2800 m gacha, taqdimotga ko'ra 2000 m gacha bezgak tashiy oladi [1, 2]."
-    ]},
-    {"heading": "An. pulcherrimus", "content": [
-      "An. pulcherrimus past tekisliklarda yashashga moslashgan, issiqsevar va kserofil tur. Imagosi yarim ekzofil bo'lib, kunduzgi boshpanalari hayvonlar turadigan bostirma, ochiq molxona va loy bilan suvalgan devorlardir. Urg'ochilari o'lja izlab uzoqlarga uchadi [1, 2].",
-      "Qo'llanmada bu tur An. superpictus ga nisbatan bezgak parazitlari bilan kamroq zararlansa ham, bezgak mavsumining eng issiq vaqtida soni ortishi sababli Markaziy Osiyoning past tekisliklarida muhim epidemiologik ahamiyatga ega ekani yozilgan. Taqdimotda u asosiy tashuvchi deb ko'rsatilgan [1, 2]."
-    ]},
-    {"heading": "Maculipennis kompleksi: An. maculipennis va An. artemievi", "content": [
-      "Taqdimotda An. maculipennis va An. artemievi bir slaydda birga tavsiflangan: imagosi endofil, aholi punktlarida to'planadi, odamga uy ichida va tashqarida hujum qiladi, bir gonotrofik davrda qayta qon so'rishi kuzatilgan. Slaydda bu guruh Markaziy Osiyo va Qozog'istonda asosiy tashuvchi deb ko'rsatilgan [2].",
-      "Qo'llanmada maculipennis kompleksining O'zbekistondagi ahamiyatli vakillari sifatida An. martinius va An. artemievi nomlanadi, An. maculipennis esa O'zbekiston ro'yxatiga kirmaydi. An. artemievi Markaziy Osiyo va Qozog'istonda bezgakning samarali tashuvchisi hisoblanadi, qishda ham qon so'rishi mumkin [1]."
-    ]},
-    {"heading": "Ikkinchi darajali tashuvchilar", "content": [
-      "Taqdimotga ko'ra An. claviger, An. hyrcanus va An. martinius ikkinchi darajali yoki epizodik tashuvchilardir. An. claviger ekzofil, ko'payadigan joyidan uzoqlashmaydi va bezgakni yuqtirishda ikkinchi darajali ahamiyatga ega. Qo'llanma uni chiqqan joyiga yaqin aholi punktlarida yuqtirishi mumkin deydi [1, 2].",
-      "An. martinius yarim ekzofil bo'lib, odamga nisbatan hayvon qoniga ko'proq moyil. Yilning issiq vaqtida soni kamligi va zoofilligi sababli uning roli ikkinchi darajali deb baholangan. An. hyrcanus esa odatda ikkinchi darajali, biroq bezgak epidemiyasi bo'lgan joylarda birinchi darajali tashuvchi hisoblanishi aytilgan [2]."
-    ]},
-    {"heading": "An. algeriensis", "content": [
-      "An. algeriensis juda kam uchraydigan tur bo'lib, O'rta Osiyoning suv bosgan botqoq hududlarida tarqalgan. Imagosi ekzofil va ekzofag, odamlar yashaydigan xonalarga deyarli kirmaydi va chiqqan joyidan uzoqqa uchmaydi. Qo'llanmada soni kamligi tufayli uning bezgakni tashishdagi ahamiyati o'rganilmagani yozilgan [1].",
-      "Taqdimotda ham bu turning bezgak tashishdagi roli hali aniqlanmagan turlar qatoriga kiritilgan. Shu bois uni asosiy tashuvchilar sonini hisoblashda inobatga olmaslik to'g'ri, ammo ro'yxatdan chiqarib tashlamaslik kerak, chunki yangi tadqiqotlar uning rolini aniqlashtirishi mumkin [1, 2]."
-    ]},
-    {"heading": "Qo'llanmadagi xulosa: eng xavfli uch tur", "content": [
-      "Jahongirov qo'llanmasida yakuniy xulosa sifatida hozirgi vaqtda An. superpictus, An. artemievi va An. pulcherrimus O'zbekistonda bezgakni tarqatishda eng xavfli turlar deb hisoblanishi yozilgan. Bu yerda ham soni uchta, ya'ni asosiy tashuvchilar uchta tur ko'rsatilgan [1].",
-      "Qo'llanma An. hyrcanus ning ahamiyatini yaxshi o'rganilmagan deb baholaydi: Turkmanistonda 1945 yilda bu turning 5,3 foizi bezgak qo'zg'atuvchilari bilan zararlangani aniqlangan. Aniq baho berish uchun uning tarqalish hududlari va ozuqaga moyilligini aniqlash kerak deyiladi [1]."
-    ]},
-    {"heading": "Manbalar o'rtasidagi farq", "content": [
-      "Ikkala manbada ham asosiy turlar soni uchta, lekin nomlar mos kelmaydi. Taqdimotda maculipennis, pulcherrimus va superpictus, qo'llanmada superpictus, artemievi va pulcherrimus ko'rsatilgan. Farq asosan maculipennis kompleksi talqinidan kelib chiqadi, chunki artemievi shu kompleksga kiradi [1, 2].",
-      "Shuningdek, qo'llanma An. martinius ni kompleksning ahamiyatli vakili desa, taqdimot uni ikkinchi darajali deb baholaydi. Ushbu farqlar hisobotda ochiq ko'rsatildi. Bunday holatda eng ehtiyotkor yondashuv ikkala ro'yxatni keltirish va hududiy entomologik kuzatuv natijalariga tayanishdir [1, 2]."
-    ]},
-    {"heading": "Endofillik va kurash choralari", "content": [
-      "Taqdimotda tashuvchilar endofil (An. maculipennis, An. superpictus), ekzofil (An. claviger, An. hyrcanus) va yarim ekzofil (An. pulcherrimus, An. martinius) guruhlarga ajratilgan. Asosiy tadbir sifatida endofil turlar uchun binolarni uzoq qoldiq ta'sirli kontakt insektitsidlar bilan ishlash ko'rsatilgan [2].",
-      "Ekzofil turlarga qarshi insektitsid shimdirilgan to'rlar, gidrotexnik tadbirlar va kichik suv havzalarida lichinkaga qarshi usullar qo'shimcha chora sifatida tavsiya etilgan. Demak, asosiy tashuvchi turlarni aniqlash bevosita qo'llaniladigan kurash usulini belgilaydi [2]."
-    ]},
-    {"heading": "Qo'shni mintaqalar bilan taqqoslash", "content": [
-      "Kuliyevaning Bakuda nashr etilgan darsligida ham bezgakning potensial xavfli tashuvchilari sifatida An. sacharovi, An. superpictus va An. pulcherrimus nomlangan. An. hyrcanus, An. melanoon va An. plumbeus ikkinchi darajali va epizodik tashuvchilar deyilgan, ularning ekzofilligi qayd etilgan [4].",
-      "Bu taqqoslash superpictus va pulcherrimus ahamiyati Markaziy Osiyodan tashqarida ham e'tirof etilganini ko'rsatadi. Biroq An. sacharovi O'zbekiston ro'yxatida yo'q, shuning uchun darslikdagi tur tarkibi mamlakatimiz holatiga to'g'ridan-to'g'ri ko'chirilmaydi [1, 4]."
-    ]},
-    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
-      "Amaliyotda asosiy turlarni bilish o'choqlarni epidemiologik tekshirishda chivinlar ko'payadigan joylar, kunduzgi va qishlov boshpanalarini rejali kuzatishga yordam beradi. Entomologik nazoratda mavsumiy fenologik sanalar va chivin sonining dinamikasi hisobga olinadi [2, 5].",
-      "Hududda faqat bitta asosiy tur borligiga ishonib qolmaslik kerak. Bir tur bir sharoitda asosiy, boshqa sharoitda ikkinchi darajali tashuvchi bo'lishi mumkin. Shuning uchun har bir hudud uchun tur tarkibi, soni va endofillik darajasi alohida baholanishi lozim [1, 3]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Hozirgi kunda rasmiy buyruqda O'zbekistonning asosiy tashuvchi turlari ro'yxati belgilanganligini tasdiqlovchi manba topilmadi. 121-son buyruqning bezgak ilovasida chivinlarga qarshi tadbirlar tasnifi bor, lekin tur nomlari bo'yicha ro'yxat keltirilmagan [6].",
-      "Shu bois asosiy turlar soni sifatida taqdimot (3 tur) va qo'llanma (3 tur) ma'lumotlari bayon etildi. Viloyatlar kesimida har bir turning aniq ulushi va zararlanish foizi bo'yicha zamonaviy raqamlar manbalarda yo'q, ular tasdiqlanmagan hisoblanadi [1, 2]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "O'zbekistonda bezgakni tashishda asosiy ahamiyatga ega Anopheles turlari uchta: taqdimotga ko'ra An. maculipennis, An. pulcherrimus va An. superpictus, qo'llanmaga ko'ra An. superpictus, An. artemievi va An. pulcherrimus. Ikkinchi darajali turlar An. claviger, An. hyrcanus va An. martinius hisoblanadi [1, 2]."
-    ]}
-  ],
-  "references": [
-    "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
-    "Жаҳонгиров Ш.М. Prezentatsiya. Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi (taqdimot). L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1575.",
-    "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
-    "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
-    "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ (taqdimot). ОблЦГСЭН Ферганской области, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596.",
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 1-ilova «Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma». xayrullokomilov.uz/kutubxona, material ID 1523."
-  ]
+ "number": 13,
+ "title": "13. O'zbekistonda bezgakni berilishida chivinlarning asosiy nechta turlari qatnashadi, ularning turlarini sanab o'ting.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "O'zbekistonda uchraydigan Anopheles turlarining hammasi ham bezgak yuqishida bir xil rol o'ynamaydi. Epidemiologik ahamiyat chivinning soni, plazmodiylarga moyilligi, odamga intilishi va turar joyda yashashi kabi omillarga bog'liq. Shu sababli tashuvchilar asosiy va ikkinchi darajali guruhlarga ajratiladi [1, 3].",
+    "Bu mavzu turlarning umumiy ro'yxatiga emas, balki yuqishda asosiy ahamiyatga ega bo'lgan turlarga bag'ishlangan. Mavzuda asosiy turlar soni, ularning nomlari, har birining ekologik xususiyatlari, ikkinchi darajali turlar hamda manbalar orasidagi farqlar ko'rib chiqiladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Tashuvchining epidemiologik samaradorligi mezonlari",
+   "content": [
+    "Uslubiy qo'llanmada chivin turining epidemiologik ahamiyatini belgilovchi ko'rsatkichlar sanalgan: chivinlar soni, plazmodiylarga moyillik, antropofillik va endofillik darajasi hamda urg'ochi chivinning uzoq yashash qobiliyati. Fiziologik jihatdan keksa chivinlar ulushi ham muhim ko'rsatkich hisoblanadi [3].",
+    "Samarali tashuvchi tur bu xususiyatlarning hammasini to'liq birlashtirishi shart emas. Taqdimotlarda ham asosiy tashuvchilarning epidemik samaradorligini aniqlash uchun ko'p yillik soni va endofil yoki ekzofil turlarni tahlil qilish ko'rsatilgan. Shu mezonlar asosida O'zbekistondagi tashuvchilar tasniflanadi [3, 5]."
+   ]
+  },
+  {
+   "heading": "Asosiy tashuvchilar soni va ro'yxati",
+   "content": [
+    "Anopheles bo'yicha taqdimotga ko'ra O'zbekistonda bezgak tashuvchilari orasida asosiylari uch tur: An. (An.) maculipennis, An. (C.) pulcherrimus va An. (C.) superpictus. Ikkinchi darajali yoki epizodik tur ham uchta, bittasining roli esa hali aniqlanmagan [2].",
+    "Shunday qilib, yuqishda asosiy ahamiyatga ega turlar uchta. Ular bir kenja urug'ga mansub emas: maculipennis Anopheles kenja urug'iga, pulcherrimus va superpictus esa Cellia kenja urug'iga kiradi. Bu uch tur bezgak profilaktikasi tadbirlarining asosiy obyektlari sanaladi [2]."
+   ]
+  },
+  {
+   "heading": "An. superpictus",
+   "content": [
+    "An. superpictus O'rta Osiyoning tog' oldi va tog'li hududlarida bezgakning asosiy tashuvchisi hisoblanadi. Imagosi endofil va endofag, aholi yashaydigan binolar, molxona va yerto'lalarda ko'p uchraydi. Odamlar yashaydigan joylarda to'planadi va ichkarida hujum qiladi [1, 2].",
+    "Bu turning xavfli tomoni shundaki, u odamlar yashashi bilan bog'liq, yozning issiq davrida soni ko'p bo'ladi va bir gonotrofik davrda bir necha marta qon so'rishi mumkin. Qo'llanmaga ko'ra u dengiz sathidan 2800 m gacha, taqdimotga ko'ra 2000 m gacha bezgak tashiy oladi [1, 2]."
+   ]
+  },
+  {
+   "heading": "An. pulcherrimus",
+   "content": [
+    "An. pulcherrimus past tekisliklarda yashashga moslashgan, issiqsevar va kserofil tur. Imagosi yarim ekzofil bo'lib, kunduzgi boshpanalari hayvonlar turadigan bostirma, ochiq molxona va loy bilan suvalgan devorlardir. Urg'ochilari o'lja izlab uzoqlarga uchadi [1, 2].",
+    "Qo'llanmada bu tur An. superpictus ga nisbatan bezgak parazitlari bilan kamroq zararlansa ham, bezgak mavsumining eng issiq vaqtida soni ortishi sababli Markaziy Osiyoning past tekisliklarida muhim epidemiologik ahamiyatga ega ekani yozilgan. Taqdimotda u asosiy tashuvchi deb ko'rsatilgan [1, 2]."
+   ]
+  },
+  {
+   "heading": "Maculipennis kompleksi: An. maculipennis va An. artemievi",
+   "content": [
+    "Taqdimotda An. maculipennis va An. artemievi bir slaydda birga tavsiflangan: imagosi endofil, aholi punktlarida to'planadi, odamga uy ichida va tashqarida hujum qiladi, bir gonotrofik davrda qayta qon so'rishi kuzatilgan. Slaydda bu guruh Markaziy Osiyo va Qozog'istonda asosiy tashuvchi deb ko'rsatilgan [2].",
+    "Qo'llanmada maculipennis kompleksining O'zbekistondagi ahamiyatli vakillari sifatida An. martinius va An. artemievi nomlanadi, An. maculipennis esa O'zbekiston ro'yxatiga kirmaydi. An. artemievi Markaziy Osiyo va Qozog'istonda bezgakning samarali tashuvchisi hisoblanadi, qishda ham qon so'rishi mumkin [1]."
+   ]
+  },
+  {
+   "heading": "Ikkinchi darajali tashuvchilar",
+   "content": [
+    "Taqdimotga ko'ra An. claviger, An. hyrcanus va An. martinius ikkinchi darajali yoki epizodik tashuvchilardir. An. claviger ekzofil, ko'payadigan joyidan uzoqlashmaydi va bezgakni yuqtirishda ikkinchi darajali ahamiyatga ega. Qo'llanma uni chiqqan joyiga yaqin aholi punktlarida yuqtirishi mumkin deydi [1, 2].",
+    "An. martinius yarim ekzofil bo'lib, odamga nisbatan hayvon qoniga ko'proq moyil. Yilning issiq vaqtida soni kamligi va zoofilligi sababli uning roli ikkinchi darajali deb baholangan. An. hyrcanus esa odatda ikkinchi darajali, biroq bezgak epidemiyasi bo'lgan joylarda birinchi darajali tashuvchi hisoblanishi aytilgan [2]."
+   ]
+  },
+  {
+   "heading": "An. algeriensis",
+   "content": [
+    "An. algeriensis juda kam uchraydigan tur bo'lib, O'rta Osiyoning suv bosgan botqoq hududlarida tarqalgan. Imagosi ekzofil va ekzofag, odamlar yashaydigan xonalarga deyarli kirmaydi va chiqqan joyidan uzoqqa uchmaydi. Qo'llanmada soni kamligi tufayli uning bezgakni tashishdagi ahamiyati o'rganilmagani yozilgan [1].",
+    "Taqdimotda ham bu turning bezgak tashishdagi roli hali aniqlanmagan turlar qatoriga kiritilgan. Shu bois uni asosiy tashuvchilar sonini hisoblashda inobatga olmaslik to'g'ri, ammo ro'yxatdan chiqarib tashlamaslik kerak, chunki yangi tadqiqotlar uning rolini aniqlashtirishi mumkin [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qo'llanmadagi xulosa: eng xavfli uch tur",
+   "content": [
+    "Jahongirov qo'llanmasida yakuniy xulosa sifatida hozirgi vaqtda An. superpictus, An. artemievi va An. pulcherrimus O'zbekistonda bezgakni tarqatishda eng xavfli turlar deb hisoblanishi yozilgan. Bu yerda ham soni uchta, ya'ni asosiy tashuvchilar uchta tur ko'rsatilgan [1].",
+    "Qo'llanma An. hyrcanus ning ahamiyatini yaxshi o'rganilmagan deb baholaydi: Turkmanistonda 1945 yilda bu turning 5,3 foizi bezgak qo'zg'atuvchilari bilan zararlangani aniqlangan. Aniq baho berish uchun uning tarqalish hududlari va ozuqaga moyilligini aniqlash kerak deyiladi [1]."
+   ]
+  },
+  {
+   "heading": "Manbalar o'rtasidagi farq",
+   "content": [
+    "Ikkala manbada ham asosiy turlar soni uchta, lekin nomlar mos kelmaydi. Taqdimotda maculipennis, pulcherrimus va superpictus, qo'llanmada superpictus, artemievi va pulcherrimus ko'rsatilgan. Farq asosan maculipennis kompleksi talqinidan kelib chiqadi, chunki artemievi shu kompleksga kiradi [1, 2].",
+    "Shuningdek, qo'llanma An. martinius ni kompleksning ahamiyatli vakili desa, taqdimot uni ikkinchi darajali deb baholaydi. Ushbu farqlar hisobotda ochiq ko'rsatildi. Bunday holatda eng ehtiyotkor yondashuv ikkala ro'yxatni keltirish va hududiy entomologik kuzatuv natijalariga tayanishdir [1, 2]."
+   ]
+  },
+  {
+   "heading": "Endofillik va kurash choralari",
+   "content": [
+    "Taqdimotda tashuvchilar endofil (An. maculipennis, An. superpictus), ekzofil (An. claviger, An. hyrcanus) va yarim ekzofil (An. pulcherrimus, An. martinius) guruhlarga ajratilgan. Asosiy tadbir sifatida endofil turlar uchun binolarni uzoq qoldiq ta'sirli kontakt insektitsidlar bilan ishlash ko'rsatilgan [2].",
+    "Ekzofil turlarga qarshi insektitsid shimdirilgan to'rlar, gidrotexnik tadbirlar va kichik suv havzalarida lichinkaga qarshi usullar qo'shimcha chora sifatida tavsiya etilgan. Demak, asosiy tashuvchi turlarni aniqlash bevosita qo'llaniladigan kurash usulini belgilaydi [2]."
+   ]
+  },
+  {
+   "heading": "Qo'shni mintaqalar bilan taqqoslash",
+   "content": [
+    "Kuliyevaning Bakuda nashr etilgan darsligida ham bezgakning potensial xavfli tashuvchilari sifatida An. sacharovi, An. superpictus va An. pulcherrimus nomlangan. An. hyrcanus, An. melanoon va An. plumbeus ikkinchi darajali va epizodik tashuvchilar deyilgan, ularning ekzofilligi qayd etilgan [4].",
+    "Bu taqqoslash superpictus va pulcherrimus ahamiyati Markaziy Osiyodan tashqarida ham e'tirof etilganini ko'rsatadi. Biroq An. sacharovi O'zbekiston ro'yxatida yo'q, shuning uchun darslikdagi tur tarkibi mamlakatimiz holatiga to'g'ridan-to'g'ri ko'chirilmaydi [1, 4]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Amaliyotda asosiy turlarni bilish o'choqlarni epidemiologik tekshirishda chivinlar ko'payadigan joylar, kunduzgi va qishlov boshpanalarini rejali kuzatishga yordam beradi. Entomologik nazoratda mavsumiy fenologik sanalar va chivin sonining dinamikasi hisobga olinadi [2, 5].",
+    "Hududda faqat bitta asosiy tur borligiga ishonib qolmaslik kerak. Bir tur bir sharoitda asosiy, boshqa sharoitda ikkinchi darajali tashuvchi bo'lishi mumkin. Shuning uchun har bir hudud uchun tur tarkibi, soni va endofillik darajasi alohida baholanishi lozim [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "O'zbekistonda bezgakni tashishda asosiy ahamiyatga ega Anopheles turlari uchta: taqdimotga ko'ra An. maculipennis, An. pulcherrimus va An. superpictus, qo'llanmaga ko'ra An. superpictus, An. artemievi va An. pulcherrimus. Ikkinchi darajali turlar An. claviger, An. hyrcanus va An. martinius hisoblanadi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "Жаҳонгиров Ш.М., Нурмаматов Ш. ва boshq. Tibbiy entomologiya: o'quv qo'llanma. Samarqand: L.M. Isayev nomidagi tibbiy parazitologiya ITI, 2016. xayrullokomilov.uz/kutubxona, material ID 2357.",
+  "Жаҳонгиров Ш.М. Prezentatsiya. Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi (taqdimot). L.M. Isayev nomidagi MPITI. xayrullokomilov.uz/kutubxona, material ID 1575.",
+  "Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologik nazorati va profilaktikasi: uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, O'zR SSV, 2009. xayrullokomilov.uz/kutubxona, material ID 1547.",
+  "Кулиева Х.Ф. Медицинская энтомология: учебник. Баку: Zərdabi LTD, 2016. xayrullokomilov.uz/kutubxona, material ID 1604.",
+  "Шокиров М.К. Энтомологический надзор по рекомендации ВОЗ (taqdimot). ОблЦГСЭН Ферганской области, март 2015. xayrullokomilov.uz/kutubxona, material ID 1596."
+ ]
 }

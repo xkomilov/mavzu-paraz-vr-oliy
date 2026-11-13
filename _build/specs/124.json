@@ -1,118 +1,111 @@
 {
-  "number": 124,
-  "title": "124. Dengiz mahsulotlaridagi qaysi parazitlar inson sog'ligi uchun xavfli hisoblanadi.",
-  "sections": [
-    {
-      "heading": "Kirish",
-      "content": [
-        "Dengiz mahsulotlari deganda dengiz baliqlari, qisqichbaqasimonlar, mollyuskalar va kalmar kabi sefalopodlar tushuniladi. Ularning ichida parazitlar odamga asosan xom, yengil tuzlangan, marinadlangan yoki yetarli pishirilmagan holda iste'mol qilinganda o'tadi, shuning uchun xavf mahsulot turi bilan birga ishlov usuliga bog'liq [1, 3].",
-        "Mavzuda avval milliy yo'riqnomadagi umumiy qoida keltiriladi, so'ng anizakidlar, ularning hayot sikli, klinikasi va allergiyasi, boshqa nematodalar, tasmasimon gijjalar va trematodalar, qisqichbaqasimonlar bilan bog'liq paragonimoz, shuningdek muzlatish va issiqlik rejimlari ko'rib chiqiladi [1, 2, 3]."
-      ]
-    },
-    {
-      "heading": "Milliy yo'riqnomadagi yondashuv",
-      "content": [
-        "Milliy yo'riqnomada baliqlar, qisqichbaqasimonlar, suv jonivorlari, sudralib yuruvchilar va mollyuskalardan tayyorlanadigan mahsulotlar orqali gelmintozlar yuqishining biologik-ekologik xususiyatlari har bir hududning ijtimoiy-iqtisodiy, etnik va zoogeografik holatiga bog'liq deyilgan. Kurash kompleks va tabaqalashtirilgan yondashuvda olib borilishi kerak [1].",
-        "Kompleksga mahsulotni zararsizlantirish, sanitariya-gigiyenik va sanitariya-veterinariya ekspertizasi, parazitlardan tozalanganlik ko'rsatkichlari bo'yicha tekshiruv va sertifikatlash kiradi. Import baliq mahsulotlarini baholashda ishlab chiqaruvchi mamlakat sertifikatlari asos qilib olinadi, laboratoriya tekshiruvi esa akkreditatsiyadan o'tgan laboratoriyalarda o'tkaziladi [1]."
-      ]
-    },
-    {
-      "heading": "Anizakidlar: asosiy xavf",
-      "content": [
-        "Dengiz mahsulotlaridagi eng muhim parazitlar anizakid nematodalardir. FAO va JSST hujjatida anizakidoz og'ir zoonotik kasallik sifatida ta'riflangan, eng ko'p Anisakis simplex ('seld qurti') va Pseudoterranova decipiens ('treska qurti') bilan bog'liq, odam esa lichinka bosqichini yutganda zararlanadi [3].",
-        "CDC ma'lumotiga ko'ra odamni zararlaydigan turlar qatoriga Anisakis simplex kompleksi, Pseudoterranova decipiens kompleksi va Contracaecum osculatum kompleksi kiradi. Lichinkalar seld, treska, makrel kabi yirtqich dengiz baliqlarida va kalmarda uchraydi, shuning uchun bu turlar xavfli mahsulotlar qatoriga kiritiladi [4]."
-      ]
-    },
-    {
-      "heading": "Anizakidlarning hayot sikli",
-      "content": [
-        "Voyaga yetgan qurtlar dengiz sut emizuvchilarining oshqozonida yashaydi, tuxumlar ularning najasi bilan suvga tushadi va lichinka bosqichiga yetadi. Lichinkani qisqichbaqasimonlar yutadi, ulardan baliq yoki kalmar zararlanadi va ularda odam uchun yuqumli uchinchi bosqich lichinka saqlanadi [3, 4].",
-        "Odam tasodifiy xo'jayin bo'lib, lichinka to'liq rivojlanmaydi. FAO va JSST hujjatida lichinkalar oshqozon-ichak shilliq qavatiga kirib, o'lgach xo'ppoz hosil qilishi aytilgan, CDC esa odamdagi infeksiya ko'pincha o'z-o'zidan to'xtashini qayd etadi [3, 4]."
-      ]
-    },
-    {
-      "heading": "Klinika va allergiya",
-      "content": [
-        "CDC ma'lumotida anizakidoz soatlar ichida keskin qorin og'rig'i, ko'ngil aynishi va qusish bilan namoyon bo'lishi, ba'zan yara, ovqatdan zaharlanish yoki appenditsit bilan adashtirilishi mumkinligi yozilgan. Lichinka ichakka o'tsa, 1-2 haftadan keyin Kron kasalligiga o'xshash eozinofil granulomatoz reaksiya paydo bo'lishi mumkin [4].",
-        "Muhim jihati allergiya: FAO va JSST hujjatida gastroallergik anizakidoz IgE vositasidagi o'tkir reaksiya sifatida ta'riflangan va u baliq yaxshi pishirilganda ham rivojlanishi mumkin. Baliq qayta ishlovchilarda kasbiy astma, konyunktivit va dermatit ham kuzatilgan [3]."
-      ]
-    },
-    {
-      "heading": "Geografiya va xavfli taomlar",
-      "content": [
-        "FAO va JSST hujjatiga ko'ra anizakidoz butun dunyoda uchraydi, lekin ko'proq Osiyoda, ayniqsa Yaponiyada, hamda G'arbiy Yevropada xom, yengil pishirilgan yoki marinadlangan baliq taomlari keng tarqalgan joylarda qayd etiladi. Sushi, tuzlangan yoki dudlangan seld, gravlaks va seviche misol qilib keltirilgan [3].",
-        "Tarixiy baholarda odamdagi holatlar 15 000-20 000 ta deb hisoblangan, so'nggi yigirma yilda xabar etilgan holatlar ko'paygan. CDC bo'yicha eng yuqori kasallanish xom baliq taomlari mashhur joylarda: Yaponiya, Janubiy Amerikaning Tinch okeani qirg'og'i va Shimoliy Yevropaning ba'zi qismlari [3, 4]."
-      ]
-    },
-    {
-      "heading": "Boshqa baliq parazitlari",
-      "content": [
-        "Milliy yo'riqnomada kontratsekumoz, psevdoterranoz, korinozoma va boshqalar baliq mahsulotlari orqali yuqishi mumkin bo'lgan gelmintozlar qatoriga kiritilgan. Romanenko qo'llanmasida ham diplogonoporuslar, kontratsekumlar, psevdoterranlar, kriptokotilus va korinozomalar lichinkalari bilan zararlanish xavfi tilga olingan [1, 2].",
-        "Korinozoma lichinkalari uchun qo'llanmada muzlatish ma'lumoti keltirilgan: mayda baliq bir qatlamda -19 dan -20 darajagacha 18 soatda, yirik baliq ikki sutkada, 30 sm qatlamli qutilarda to'rt sutkada lichinkalarni yo'qotadi. Bu ma'lumot har bir parazit guruhi uchun rejim alohida ekanini ko'rsatadi [2]."
-      ]
-    },
-    {
-      "heading": "Tasmasimon gijjalar va trematodalar",
-      "content": [
-        "FAO va JSST tasnifiga ko'ra Diphyllobothriidae chuchuk va sho'r suv baliqlari bilan bog'liq, Heterophyidae esa chuchuk va sho'rtob suv baliqlari bilan. Difillobotrioz xom yoki yarim pishirilgan baliq yeyilganda yuqadi va uning turlaridan 14 tasi odamni zararlaydi [3].",
-        "Milliy yo'riqnomada difillobotrioz, metagonimoz va nanofietoz baliq mahsulotlari orqali yuqadigan gelmintozlar qatorida sanalgan, Romanenko qo'llanmasi ularning zararsizlantirish rejimlarini beradi. Bu rejimlar asosan daryo baliqlariga oid, shuning uchun dengiz mahsulotlariga mexanik ko'chirilmaydi [1, 2]."
-      ]
-    },
-    {
-      "heading": "Qisqichbaqasimonlar va paragonimoz",
-      "content": [
-        "Qisqichbaqasimonlar anizakidlarning oraliq xo'jayini bo'lib xizmat qiladi, ya'ni odam uchun xavf asosan ularni yegan baliq va kalmardan keladi. Alohida xavf paragonimoz bo'lib, JSST ma'lumotiga ko'ra Paragonimus uchun ikkinchi oraliq xo'jayin chuchuk suv qisqichbaqasimonlari, ya'ni krab va daryo rakidir [4, 5].",
-        "Atlasga ko'ra odam xom rak va krabni yeb yoki suv orqali zararlanadi, qisqichbaqa o'lgandan keyin ham metaserkariylar suvda 25 kungacha tirik qoladi. Paragonimoz o'pkada tuberkulyozga o'xshab ketishi mumkin, ammo bu chuchuk suv mahsulotlariga tegishli, dengiz mahsuloti emas [5, 6]."
-      ]
-    },
-    {
-      "heading": "Mollyuskalar va kalmar",
-      "content": [
-        "Milliy yo'riqnoma va Romanenko qo'llanmasi mollyuskalar hamda ularning qayta ishlangan mahsulotlarini baliq mahsulotlari bilan birga zararsizlantirish obyekti sifatida ko'rsatadi. FAO va JSST hujjatida esa Anisakidae ning ozuqa vositasi qatoriga sho'r suv baliqlari, qisqichbaqasimonlar va sefalopodlar kiritilgan [1, 2, 3].",
-        "Kalmarda anizakid lichinkalari -40 darajada 40 daqiqada, -32 da 60-90 daqiqada, -20 da 24 soatda o'ladi, deyiladi qo'llanmada. Qisqichbaqasimon va mollyuskalarni 15 daqiqa qaynatish ham zararsizlantirishning bir usuli sifatida ko'rsatilgan [2]."
-      ]
-    },
-    {
-      "heading": "Muzlatish rejimlari",
-      "content": [
-        "Romanenko qo'llanmasida dengiz baligi, qisqichbaqasimonlar, mollyuskalar uchun jadval keltirilgan: tana haroratida -18 darajada 14 sutka, -20 da 24 soat va keyin -18 dan baland bo'lmagan haroratda 7 sutka saqlash, -30 da 10 daqiqa va keyin -12 dan baland bo'lmagan haroratda 7 sutka saqlash. Bu SanPiN 3.2.569-96 ga asoslangan rejimlar [2].",
-        "Qo'llanmada yana alohida lichinkalar -20 darajada 4-5 sutka yashab qolishi, ayrim sharoitda -30 darajada ham bir necha daqiqada o'lishi, 45 kg blokdagi baliq -30 da 16 soat va -12 da bir hafta saqlanganda barcha lichinkalar o'lishi yozilgan. Shu sababli oddiy uy muzlatkichiga ishonib bo'lmaydi [2]."
-      ]
-    },
-    {
-      "heading": "Issiqlik, marinad va dudlash",
-      "content": [
-        "Qo'llanmada anizakid lichinkalari 45 darajagacha haroratga bardosh berishi, 55 darajadan yuqori haroratda tez o'lishi, baliq ichida 60 darajaga yetganda esa bir zumda o'lishi yozilgan. Shuning uchun yaxshi pishirish ishonchli, oldindan muzlatilmagan dengiz xomashyosidan dudlash esa kafolat bermaydi [2].",
-        "Lichinkalar kimyoviy ta'sirga ham chidamli: 7 foizli sirka kislotasi va 15 foizli osh tuzi eritmasida 30 sutkagacha tirik qolgan. Seldni 6 foizli tuz va 4 foizli sirka bilan marinadlash 6 sutkada 96 foiz lichinkani o'ldirgan, qolgan 4 foizi 60 sutkada o'lgan. Shuning uchun xom marinad xavfsiz deb hisoblanmaydi [2]."
-      ]
-    },
-    {
-      "heading": "Parazitolog-shifokor uchun ahamiyati",
-      "content": [
-        "Shifokor bemordan dengiz baligi, kalmar, sushi, seld, marinad va ceviche iste'moli haqida so'rashi kerak, ayniqsa chet eldan qaytganlarda. O'tkir qorin og'rig'i soatlar ichida paydo bo'lsa, anizakidoz ham farqlash tashxisida ko'riladi, chunki u ovqatdan zaharlanish yoki appenditsitga o'xshaydi [4].",
-        "FAO va JSST ma'lumotiga ko'ra aniq tashxis gastroskopiya yoki jarrohlik vaqtida qurtni topishni talab qiladi, o'tkinchi infeksiyada maxsus davo tavsiya etilmaydi. Shuning uchun laboratoriya yordami cheklangan, anamnez va endoskopik topilma muhim [3]."
-      ]
-    },
-    {
-      "heading": "Tasdiqlanmagan ma'lumotlar",
-      "content": [
-        "Ko'rilgan manbalarda O'zbekiston uchun dengiz mahsulotlari orqali yuqadigan parazitlarning joriy kasallanishi, import mahsulotdagi zararlanish darajasi va milliy me'yorlari tasdiqlanmadi. Milliy yo'riqnomada anizakidoz faqat nomlangan, muzlatish rejimi va xavfsizlik chegarasi berilmagan [1].",
-        "Muzlatish, issiqlik va marinad raqamlari Romanenko qo'llanmasidan olingan va Rossiya SanPiN 3.2.569-96 ga tayanadi, shu sababli ularni O'zbekiston me'yori deb bo'lmaydi. Qo'llanmaning o'zida ham anizakid lichinkalari uchun 60 darajada darhol o'lish va 55 darajadan yuqorida tez o'lish kabi bir oz farqli ifodalar uchraydi [2]."
-      ]
-    },
-    {
-      "heading": "Xulosa",
-      "content": [
-        "Dengiz mahsulotlarida eng xavfli parazitlar anizakid nematodalar (Anisakis, Pseudoterranova, Contracaecum), shuningdek boshqa nematodalar, difillobotridlar va geterofiidlar hisoblanadi. Qisqichbaqasimonlar bilan bog'liq paragonimoz chuchuk suv mahsulotlariga xos. Himoya yetarli pishirish, standart muzlatish va ishonchli nazoratdir [1, 2, 3]."
-      ]
-    }
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
-    "Food and Agriculture Organization of the United Nations, World Health Organization. Multicriteria-based ranking for risk management of food-borne parasites: report of a Joint FAO/WHO Expert Meeting, 3-7 September 2012, FAO Headquarters, Rome, Italy. Microbiological Risk Assessment Series 23, 2014. https://iris.who.int/server/api/core/bitstreams/2212cb84-d725-4842-aead-2844c24ac59a/content",
-    "Centers for Disease Control and Prevention. DPDx: Anisakiasis. https://www.cdc.gov/dpdx/anisakiasis/index.html",
-    "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
-    "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543."
-  ]
+ "number": 124,
+ "title": "124. Dengiz mahsulotlaridagi qaysi parazitlar inson sog'ligi uchun xavfli hisoblanadi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Dengiz mahsulotlari deganda dengiz baliqlari, qisqichbaqasimonlar, mollyuskalar va kalmar kabi sefalopodlar tushuniladi. Ularning ichida parazitlar odamga asosan xom, yengil tuzlangan, marinadlangan yoki yetarli pishirilmagan holda iste'mol qilinganda o'tadi, shuning uchun xavf mahsulot turi bilan birga ishlov usuliga bog'liq [1, 3].",
+    "Mavzuda avval milliy yo'riqnomadagi umumiy qoida keltiriladi, so'ng anizakidlar, ularning hayot sikli, klinikasi va allergiyasi, boshqa nematodalar, tasmasimon gijjalar va trematodalar, qisqichbaqasimonlar bilan bog'liq paragonimoz, shuningdek muzlatish va issiqlik rejimlari ko'rib chiqiladi [1, 2, 3]."
+   ]
+  },
+  {
+   "heading": "Milliy yo'riqnomadagi yondashuv",
+   "content": [
+    "Milliy yo'riqnomada baliqlar, qisqichbaqasimonlar, suv jonivorlari, sudralib yuruvchilar va mollyuskalardan tayyorlanadigan mahsulotlar orqali gelmintozlar yuqishining biologik-ekologik xususiyatlari har bir hududning ijtimoiy-iqtisodiy, etnik va zoogeografik holatiga bog'liq deyilgan. Kurash kompleks va tabaqalashtirilgan yondashuvda olib borilishi kerak [1].",
+    "Kompleksga mahsulotni zararsizlantirish, sanitariya-gigiyenik va sanitariya-veterinariya ekspertizasi, parazitlardan tozalanganlik ko'rsatkichlari bo'yicha tekshiruv va sertifikatlash kiradi. Import baliq mahsulotlarini baholashda ishlab chiqaruvchi mamlakat sertifikatlari asos qilib olinadi, laboratoriya tekshiruvi esa akkreditatsiyadan o'tgan laboratoriyalarda o'tkaziladi [1]."
+   ]
+  },
+  {
+   "heading": "Anizakidlar: asosiy xavf",
+   "content": [
+    "Dengiz mahsulotlaridagi eng muhim parazitlar anizakid nematodalardir. FAO va JSST hujjatida anizakidoz og'ir zoonotik kasallik sifatida ta'riflangan, eng ko'p Anisakis simplex ('seld qurti') va Pseudoterranova decipiens ('treska qurti') bilan bog'liq, odam esa lichinka bosqichini yutganda zararlanadi [3].",
+    "CDC ma'lumotiga ko'ra odamni zararlaydigan turlar qatoriga Anisakis simplex kompleksi, Pseudoterranova decipiens kompleksi va Contracaecum osculatum kompleksi kiradi. Lichinkalar seld, treska, makrel kabi yirtqich dengiz baliqlarida va kalmarda uchraydi, shuning uchun bu turlar xavfli mahsulotlar qatoriga kiritiladi [4]."
+   ]
+  },
+  {
+   "heading": "Anizakidlarning hayot sikli",
+   "content": [
+    "Voyaga yetgan qurtlar dengiz sut emizuvchilarining oshqozonida yashaydi, tuxumlar ularning najasi bilan suvga tushadi va lichinka bosqichiga yetadi. Lichinkani qisqichbaqasimonlar yutadi, ulardan baliq yoki kalmar zararlanadi va ularda odam uchun yuqumli uchinchi bosqich lichinka saqlanadi [3, 4].",
+    "Odam tasodifiy xo'jayin bo'lib, lichinka to'liq rivojlanmaydi. FAO va JSST hujjatida lichinkalar oshqozon-ichak shilliq qavatiga kirib, o'lgach xo'ppoz hosil qilishi aytilgan, CDC esa odamdagi infeksiya ko'pincha o'z-o'zidan to'xtashini qayd etadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Klinika va allergiya",
+   "content": [
+    "CDC ma'lumotida anizakidoz soatlar ichida keskin qorin og'rig'i, ko'ngil aynishi va qusish bilan namoyon bo'lishi, ba'zan yara, ovqatdan zaharlanish yoki appenditsit bilan adashtirilishi mumkinligi yozilgan. Lichinka ichakka o'tsa, 1-2 haftadan keyin Kron kasalligiga o'xshash eozinofil granulomatoz reaksiya paydo bo'lishi mumkin [4].",
+    "Muhim jihati allergiya: FAO va JSST hujjatida gastroallergik anizakidoz IgE vositasidagi o'tkir reaksiya sifatida ta'riflangan va u baliq yaxshi pishirilganda ham rivojlanishi mumkin. Baliq qayta ishlovchilarda kasbiy astma, konyunktivit va dermatit ham kuzatilgan [3]."
+   ]
+  },
+  {
+   "heading": "Geografiya va xavfli taomlar",
+   "content": [
+    "FAO va JSST hujjatiga ko'ra anizakidoz butun dunyoda uchraydi, lekin ko'proq Osiyoda, ayniqsa Yaponiyada, hamda G'arbiy Yevropada xom, yengil pishirilgan yoki marinadlangan baliq taomlari keng tarqalgan joylarda qayd etiladi. Sushi, tuzlangan yoki dudlangan seld, gravlaks va seviche misol qilib keltirilgan [3].",
+    "Tarixiy baholarda odamdagi holatlar 15 000-20 000 ta deb hisoblangan, so'nggi yigirma yilda xabar etilgan holatlar ko'paygan. CDC bo'yicha eng yuqori kasallanish xom baliq taomlari mashhur joylarda: Yaponiya, Janubiy Amerikaning Tinch okeani qirg'og'i va Shimoliy Yevropaning ba'zi qismlari [3, 4]."
+   ]
+  },
+  {
+   "heading": "Boshqa baliq parazitlari",
+   "content": [
+    "Milliy yo'riqnomada kontratsekumoz, psevdoterranoz, korinozoma va boshqalar baliq mahsulotlari orqali yuqishi mumkin bo'lgan gelmintozlar qatoriga kiritilgan. Romanenko qo'llanmasida ham diplogonoporuslar, kontratsekumlar, psevdoterranlar, kriptokotilus va korinozomalar lichinkalari bilan zararlanish xavfi tilga olingan [1, 2].",
+    "Korinozoma lichinkalari uchun qo'llanmada muzlatish ma'lumoti keltirilgan: mayda baliq bir qatlamda -19 dan -20 darajagacha 18 soatda, yirik baliq ikki sutkada, 30 sm qatlamli qutilarda to'rt sutkada lichinkalarni yo'qotadi. Bu ma'lumot har bir parazit guruhi uchun rejim alohida ekanini ko'rsatadi [2]."
+   ]
+  },
+  {
+   "heading": "Tasmasimon gijjalar va trematodalar",
+   "content": [
+    "FAO va JSST tasnifiga ko'ra Diphyllobothriidae chuchuk va sho'r suv baliqlari bilan bog'liq, Heterophyidae esa chuchuk va sho'rtob suv baliqlari bilan. Difillobotrioz xom yoki yarim pishirilgan baliq yeyilganda yuqadi va uning turlaridan 14 tasi odamni zararlaydi [3].",
+    "Milliy yo'riqnomada difillobotrioz, metagonimoz va nanofietoz baliq mahsulotlari orqali yuqadigan gelmintozlar qatorida sanalgan, Romanenko qo'llanmasi ularning zararsizlantirish rejimlarini beradi. Bu rejimlar asosan daryo baliqlariga oid, shuning uchun dengiz mahsulotlariga mexanik ko'chirilmaydi [1, 2]."
+   ]
+  },
+  {
+   "heading": "Qisqichbaqasimonlar va paragonimoz",
+   "content": [
+    "Qisqichbaqasimonlar anizakidlarning oraliq xo'jayini bo'lib xizmat qiladi, ya'ni odam uchun xavf asosan ularni yegan baliq va kalmardan keladi. Alohida xavf paragonimoz bo'lib, JSST ma'lumotiga ko'ra Paragonimus uchun ikkinchi oraliq xo'jayin chuchuk suv qisqichbaqasimonlari, ya'ni krab va daryo rakidir [4, 5].",
+    "Atlasga ko'ra odam xom rak va krabni yeb yoki suv orqali zararlanadi, qisqichbaqa o'lgandan keyin ham metaserkariylar suvda 25 kungacha tirik qoladi. Paragonimoz o'pkada tuberkulyozga o'xshab ketishi mumkin, ammo bu chuchuk suv mahsulotlariga tegishli, dengiz mahsuloti emas [5, 6]."
+   ]
+  },
+  {
+   "heading": "Mollyuskalar va kalmar",
+   "content": [
+    "Milliy yo'riqnoma va Romanenko qo'llanmasi mollyuskalar hamda ularning qayta ishlangan mahsulotlarini baliq mahsulotlari bilan birga zararsizlantirish obyekti sifatida ko'rsatadi. FAO va JSST hujjatida esa Anisakidae ning ozuqa vositasi qatoriga sho'r suv baliqlari, qisqichbaqasimonlar va sefalopodlar kiritilgan [1, 2, 3].",
+    "Kalmarda anizakid lichinkalari -40 darajada 40 daqiqada, -32 da 60-90 daqiqada, -20 da 24 soatda o'ladi, deyiladi qo'llanmada. Qisqichbaqasimon va mollyuskalarni 15 daqiqa qaynatish ham zararsizlantirishning bir usuli sifatida ko'rsatilgan [2]."
+   ]
+  },
+  {
+   "heading": "Muzlatish rejimlari",
+   "content": [
+    "Romanenko qo'llanmasida dengiz baligi, qisqichbaqasimonlar, mollyuskalar uchun jadval keltirilgan: tana haroratida -18 darajada 14 sutka, -20 da 24 soat va keyin -18 dan baland bo'lmagan haroratda 7 sutka saqlash, -30 da 10 daqiqa va keyin -12 dan baland bo'lmagan haroratda 7 sutka saqlash. Bu SanPiN 3.2.569-96 ga asoslangan rejimlar [2].",
+    "Qo'llanmada yana alohida lichinkalar -20 darajada 4-5 sutka yashab qolishi, ayrim sharoitda -30 darajada ham bir necha daqiqada o'lishi, 45 kg blokdagi baliq -30 da 16 soat va -12 da bir hafta saqlanganda barcha lichinkalar o'lishi yozilgan. Shu sababli oddiy uy muzlatkichiga ishonib bo'lmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Issiqlik, marinad va dudlash",
+   "content": [
+    "Qo'llanmada anizakid lichinkalari 45 darajagacha haroratga bardosh berishi, 55 darajadan yuqori haroratda tez o'lishi, baliq ichida 60 darajaga yetganda esa bir zumda o'lishi yozilgan. Shuning uchun yaxshi pishirish ishonchli, oldindan muzlatilmagan dengiz xomashyosidan dudlash esa kafolat bermaydi [2].",
+    "Lichinkalar kimyoviy ta'sirga ham chidamli: 7 foizli sirka kislotasi va 15 foizli osh tuzi eritmasida 30 sutkagacha tirik qolgan. Seldni 6 foizli tuz va 4 foizli sirka bilan marinadlash 6 sutkada 96 foiz lichinkani o'ldirgan, qolgan 4 foizi 60 sutkada o'lgan. Shuning uchun xom marinad xavfsiz deb hisoblanmaydi [2]."
+   ]
+  },
+  {
+   "heading": "Amaliy ahamiyati",
+   "content": [
+    "Shifokor bemordan dengiz baligi, kalmar, sushi, seld, marinad va ceviche iste'moli haqida so'rashi kerak, ayniqsa chet eldan qaytganlarda. O'tkir qorin og'rig'i soatlar ichida paydo bo'lsa, anizakidoz ham farqlash tashxisida ko'riladi, chunki u ovqatdan zaharlanish yoki appenditsitga o'xshaydi [4].",
+    "FAO va JSST ma'lumotiga ko'ra aniq tashxis gastroskopiya yoki jarrohlik vaqtida qurtni topishni talab qiladi, o'tkinchi infeksiyada maxsus davo tavsiya etilmaydi. Shuning uchun laboratoriya yordami cheklangan, anamnez va endoskopik topilma muhim [3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Dengiz mahsulotlarida eng xavfli parazitlar anizakid nematodalar (Anisakis, Pseudoterranova, Contracaecum), shuningdek boshqa nematodalar, difillobotridlar va geterofiidlar hisoblanadi. Qisqichbaqasimonlar bilan bog'liq paragonimoz chuchuk suv mahsulotlariga xos. Himoya yetarli pishirish, standart muzlatish va ishonchli nazoratdir [1, 2, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "Food and Agriculture Organization of the United Nations, World Health Organization. Multicriteria-based ranking for risk management of food-borne parasites: report of a Joint FAO/WHO Expert Meeting, 3-7 September 2012, FAO Headquarters, Rome, Italy. Microbiological Risk Assessment Series 23, 2014. https://iris.who.int/server/api/core/bitstreams/2212cb84-d725-4842-aead-2844c24ac59a/content",
+  "Centers for Disease Control and Prevention. DPDx: Anisakiasis. https://www.cdc.gov/dpdx/anisakiasis/index.html",
+  "World Health Organization. Foodborne trematode infections (fact sheet). https://www.who.int/news-room/fact-sheets/detail/foodborne-trematode-infections",
+  "Бажора Ю.И., Тимченко А.Д., Чеснокова М.М. и др. Атлас. Медицинская паразитология / под ред. Ю.И. Бажоры. Одесса: Одесский медуниверситет, 2001. xayrullokomilov.uz/kutubxona, material ID 1543."
+ ]
 }

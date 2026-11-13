@@ -1,70 +1,104 @@
 {
-  "number": 87,
-  "title": "87. Askaridozning etiologiyasi va epidemiologiyasi.",
-  "sections": [
-    {"heading": "Kirish", "content": [
-      "Askaridoz Ascaris lumbricoides qo'zg'atadigan antroponoz ichak geogelmintozidir: kasallikning boshlang'ich bosqichida lichinkalar migratsiyasi tufayli toksik-allergik belgilar, kechki bosqichida esa oshqozon-ichak shikastlanishi kuzatiladi. Yo'riqnomaga ko'ra, gelmintozlar respublikada eng ko'p tarqalgan parazitozlar bo'lib, ular orasida askaridoz ham qayd etilmoqda [1, 2].",
-      "Ushbu mavzuda qo'zg'atuvchining tasnifi va tuzilishi, hayot sikli, tuxumlarning tashqi muhitdagi rivoji hamda chidamliligi ko'rib chiqiladi. So'ng invaziya manbai, yuqish omillari, mavsumiylik, xavf guruhlari va o'choq turlari yoritiladi; klinika, tashxis va profilaktika alohida mavzularda bayon etiladi [1, 3]."
-    ]},
-    {"heading": "Qo'zg'atuvchi va tasnifi", "content": [
-      "Odam askaridozini odam askaridasi, Ascaris lumbricoides, qo'zg'atadi. U Nemathelminthes turi, Nematoda sinfiga kiradi; nomidagi lumbricoides so'zi tuproq chuvalchangiga o'xshashlikni bildiradi. Parazit faqat odam organizmida yashaydi, voyaga yetgan shakli esa ingichka ichakda joylashadi [3, 4].",
-      "Askaridalar ajralgan jinsli yirik nematodalardir. Tirik gelmintlar oq-pushti rangda, tanasi silindrsimon va ikki uchi o'tkirlashgan bo'ladi. Voyaga yetgan parazitlar ingichka ichakda ichak mazmuni va shilliq qavatning yuza qatlami hisobiga oziqlanadi [3, 4]."
-    ]},
-    {"heading": "Morfologiyasi", "content": [
-      "Urg'ochi askaridaning tana uzunligi 2737 raqamli darslikda 40 sm gacha, erkaginiki 25 sm gacha deb berilgan. Boshqa darslikda urg'ochisi 25-40 sm, erkagi 15-25 sm deb ko'rsatilgan, ya'ni manbalarda o'lchamlar oralig'i biroz farq qiladi [3, 4].",
-      "Gelmintning og'iz teshigi uchta kutikulyar lab bilan o'ralgan. Urg'ochisining dum uchi to'g'ri va konussimon o'siqli, erkaginiki esa qorin tomonga ilmoq shaklida qayrilgan. Bu belgilar gelmintni jinsiga qarab farqlash imkonini beradi [4, 5]."
-    ]},
-    {"heading": "Tuxumlarning tuzilishi", "content": [
-      "Urug'langan tuxum oval shaklli bo'lib, sariq-qo'ng'ir rangli yirik do'ngli oqsilli po'st bilan qoplangan, ichida qoramtir yumaloq embrion hujayra turadi. Uning o'lchami taxminan 50-70 x 40-50 mkm bo'lib, tashxis uchun asosiy belgi hisoblanadi [2, 4].",
-      "Ichakda faqat urg'ochi gelmintlar bo'lsa, najasda urug'lanmagan tuxumlar topiladi. Ularning po'sti yupqaroq, yuzasi notekis do'ngli, shakli turlicha va uzunligi 100 mkm dan oshishi mumkin; ichida embrion massasi shakllanmagan bo'ladi [3, 4]."
-    ]},
-    {"heading": "Odam organizmidagi rivojlanish", "content": [
-      "Invazion lichinkali tuxum ichakka tushgach, lichinka po'stdan chiqadi, ichak devoriga kiradi va darvoza venasi, jigar hamda pastki kovak vena orqali o'ng yurakka o'tadi. Keyin o'pka arteriyasi orqali o'pka kapillyarlariga, so'ngra alveolalar bo'shlig'iga chiqadi [3].",
-      "Lichinkalar bronxlar va traxeya orqali ko'tarilib, yutilgach ingichka ichakka tushadi va u yerda voyaga yetadi. Migratsiya paytida ular qon zardobi va eritrotsitlar bilan oziqlanadi, ikki marta po'st tashlaydi; bu faza o'rtacha 10-15 kun davom etadi [3, 4]."
-    ]},
-    {"heading": "Hayot siklining davomiyligi", "content": [
-      "Odam askaridasi faqat odamda parazitlik qiladi. Urug'langan urg'ochi sutkasiga 240 mingtagacha tuxum qo'yadi, tuxumlar najas bilan tashqi muhitga chiqadi. Yangi ajralgan tuxumlar zararlash qobiliyatiga ega emas va avval tuproqda yetilishi kerak [3, 5].",
-      "Tuxum ichakka tushganidan yangi avlod tuxumlari najasda paydo bo'lgunga qadar 2,5-3 oy o'tadi, shundan 14-15 kun migratsiyaga ketadi. Voyaga yetgan askaridaning umri bir yildan oshmaydi, shu sababli invaziyaning uzoq saqlanishi tashqi muhitdagi tuxumlar zahirasiga bog'liq [4, 5]."
-    ]},
-    {"heading": "Tuxumlarning tashqi muhitda yetilishi", "content": [
-      "Tuxum rivoji tuproqda kislorod, yetarli namlik va 12-37 gradus harorat bo'lganda kechadi; bu oraliqdan past yoki yuqori haroratda lichinka rivojlanmaydi. Qulay sharoitda invazion lichinka 12-16 kunda hosil bo'ladi, samarali haroratlar yig'indisi esa taxminan 360 gradus bo'lishi kerak [3].",
-      "O'rtacha iqlimda yetilish aprel-may oylarida tuproq harorati 12 gradusdan past bo'lmaganda boshlanadi; 17-29 gradusda invazion bosqich 18-48 kunda shakllanadi. JSST ma'lumotiga ko'ra, tuxum tuproqda yetilishi uchun taxminan 3 hafta kerak, shuning uchun yangi najasdan bevosita zararlanish bo'lmaydi [3, 6]."
-    ]},
-    {"heading": "Tuxumlarning chidamliligi", "content": [
-      "Askarida tuxumlari noqulay omillarga, ayniqsa past haroratga chidamli, yetilmagan tuxumlar esa yanada bardoshli. Lichinkali tuxumlar minus 20-30 gradusda halok bo'ladi, minus 30 gradusdan past haroratda har qanday bosqichda nobud bo'ladi; qulay sharoitda ular 10 yildan ortiq tirik qoladi [3].",
-      "Boshqa darslikka ko'ra loy, qora tuproq va balchiqli tuproqlar tuxum rivoji uchun qumli tuproqlarga qaraganda qulay. Organik moddalarga kambag'al tuproqda 20 sm chuqurlikda tuxumlar 5-7 yil tirik qoladi, kuzda yetilishni tugatmaganlari qishlab, bahorda invazion bo'ladi [4]."
-    ]},
-    {"heading": "Invaziya manbai", "content": [
-      "Geogelmintozlarning manbai invaziyalangan odamdir. Kasal odam najasi bilan ko'p miqdorda hali yetilmagan tuxum chiqaradi, shu sababli u to'g'ridan-to'g'ri aloqa orqali boshqalarni zararlay olmaydi, tuxum avval tashqi muhitda yetilishi shart [1, 3].",
-      "JSST ta'kidlashicha, askarida odam organizmida ko'paymaydi: qayta zararlanish faqat tashqi muhitdagi invazion bosqichlar bilan aloqa natijasida yuz beradi. Odamdan odamga bevosita yuqish yo'q, chunki najas bilan tushgan tuxum yetilishi uchun tuproqda taxminan 3 hafta kerak [6]."
-    ]},
-    {"heading": "Yuqish omillari va mavsumiylik", "content": [
-      "Yo'riqnomada asosiy omillar sifatida yuvilmagan sabzavotlar, mevalar va ko'katlar ko'rsatilgan; shuningdek tuproq, suv va iflos qo'llar orqali ham yuqadi. Aholini zararlash mavsumi yoz-kuz davriga to'g'ri keladi [1].",
-      "Darslikka ko'ra, tuproqda eng ko'p invazion tuxum yoz-kuz oylarida to'planadi. Tuproq ifloslanish darajasi aholi punktlarining obodonligiga, hojatxonalarning holatiga, aholining sanitariya madaniyatiga va najasdan o'g'it sifatida foydalanish intensivligiga bog'liq. O'rta kengliklarda zararlanish mavsumi apreldan oktyabrgacha davom etadi [3, 4]."
-    ]},
-    {"heading": "Xavf guruhlari va tarqalishi", "content": [
-      "JSST hisobiga ko'ra, tuproq orqali yuqadigan gelmintozlar dunyoda taxminan 1,5 milliard kishida uchraydi, ya'ni aholining 24 foizida. Ular ichimlik suvi, sanitariya va gigiena yetarli bo'lmagan kambag'al jamoalarda ko'proq tarqalgan. Bolalar gigiena qoidalariga rioya qilmasligi sababli kattalarga nisbatan ko'proq kasallanadi [4, 6].",
-      "Xavf guruhlariga bog'bonlar, polizchilar, yer bilan ishlovchilar va meva-sabzavot korxonalari xodimlari kiradi. Yo'riqnomada aholi o'rtasida tanlab tekshirish uchun 7-14 yoshli bolalar, 3-6 yoshli maktabgacha bolalar, fermer xo'jaligi xodimlari va sabzavot yetishtiruvchilar ko'rsatilgan [1, 3]."
-    ]},
-    {"heading": "O'choq turlari", "content": [
-      "Geogelmintozlarning «asl o'chog'ida» qo'zg'atuvchining tashqi muhitda aylanishi va aholini zararlash sharoiti mavjud: invaziya manbai, yuqish omillari va aholi immuniteti. «Yolg'on o'choqda» esa invaziya manbai bor, lekin yuqish omillari va qo'zg'atuvchi aylanishi uchun sharoit yo'q [1, 3].",
-      "Yo'riqnomada o'choqlar intensivligi bo'yicha bo'linadi: intensiv o'choqda aholi zararlanishi 30 foiz va undan yuqori, mikroo'choqlardagi uchastkalar 50 foiz va undan ko'p; o'rta intensivda 15-29 foiz; sust intensivda 15 foizgacha. O'rta intensivlikda uchastkalar ulushi yo'riqnomada 40 foiz, darslikda esa 50 foizdan kam deb berilgan [1, 3]."
-    ]},
-    {"heading": "Tasdiqlanmagan ma'lumotlar", "content": [
-      "Tekshirilgan manbalarda O'zbekiston bo'yicha askaridozning aniq tarqalganlik ko'rsatkichlari, viloyatlar kesimidagi darajasi va ko'p yillik dinamikasi topilmadi, shu sababli bunday raqamlar keltirilmaydi. Yo'riqnomada faqat gelmintozlar eng ko'p tarqalgan parazitozlar ekani aytilgan [1].",
-      "Farg'ona viloyati taqdimotida 2014 yil uchun gijja topilganlar jadvali bor, ammo ustunlar va raqamlar mosligi aniq o'qilmaydi, shuning uchun askaridoz bo'yicha son keltirilmadi. Shu taqdimotda lichinkalar teri orqali ham kiradi deyilgan, boshqa manbalar buni tasdiqlamaydi [7]."
-    ]},
-    {"heading": "Xulosa", "content": [
-      "Askaridozning epidemiologiyasini qo'zg'atuvchining hayot sikli belgilaydi: odam manba bo'lib, tuxumlar tuproqda yetilgach, yuvilmagan sabzavot, ko'kat, suv va iflos qo'llar orqali yangi xo'jayinga o'tadi. Asl va yolg'on o'choqlarni farqlash, intensivlikni baholash profilaktika hajmini belgilaydi [1, 3]."
-    ]}
-  ],
-  "references": [
-    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
-    "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
-    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
-    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
-    "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
-    "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
-    "Gijja (taqdimot, muallifi ko'rsatilmagan). xayrullokomilov.uz/kutubxona, material ID 1581."
-  ]
+ "number": 87,
+ "title": "87. Askaridozning etiologiyasi va epidemiologiyasi.",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Askaridoz Ascaris lumbricoides qo'zg'atadigan antroponoz ichak geogelmintozidir: kasallikning boshlang'ich bosqichida lichinkalar migratsiyasi tufayli toksik-allergik belgilar, kechki bosqichida esa oshqozon-ichak shikastlanishi kuzatiladi. Yo'riqnomaga ko'ra, gelmintozlar respublikada eng ko'p tarqalgan parazitozlar bo'lib, ular orasida askaridoz ham qayd etilmoqda [1, 2].",
+    "Ushbu mavzuda qo'zg'atuvchining tasnifi va tuzilishi, hayot sikli, tuxumlarning tashqi muhitdagi rivoji hamda chidamliligi ko'rib chiqiladi. So'ng invaziya manbai, yuqish omillari, mavsumiylik, xavf guruhlari va o'choq turlari yoritiladi; klinika, tashxis va profilaktika alohida mavzularda bayon etiladi [1, 3]."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchi va tasnifi",
+   "content": [
+    "Odam askaridozini odam askaridasi, Ascaris lumbricoides, qo'zg'atadi. U Nemathelminthes turi, Nematoda sinfiga kiradi; nomidagi lumbricoides so'zi tuproq chuvalchangiga o'xshashlikni bildiradi. Parazit faqat odam organizmida yashaydi, voyaga yetgan shakli esa ingichka ichakda joylashadi [3, 4].",
+    "Askaridalar ajralgan jinsli yirik nematodalardir. Tirik gelmintlar oq-pushti rangda, tanasi silindrsimon va ikki uchi o'tkirlashgan bo'ladi. Voyaga yetgan parazitlar ingichka ichakda ichak mazmuni va shilliq qavatning yuza qatlami hisobiga oziqlanadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Morfologiyasi",
+   "content": [
+    "Urg'ochi askaridaning tana uzunligi 2737 raqamli darslikda 40 sm gacha, erkaginiki 25 sm gacha deb berilgan. Boshqa darslikda urg'ochisi 25-40 sm, erkagi 15-25 sm deb ko'rsatilgan, ya'ni manbalarda o'lchamlar oralig'i biroz farq qiladi [3, 4].",
+    "Gelmintning og'iz teshigi uchta kutikulyar lab bilan o'ralgan. Urg'ochisining dum uchi to'g'ri va konussimon o'siqli, erkaginiki esa qorin tomonga ilmoq shaklida qayrilgan. Bu belgilar gelmintni jinsiga qarab farqlash imkonini beradi [4, 5]."
+   ]
+  },
+  {
+   "heading": "Tuxumlarning tuzilishi",
+   "content": [
+    "Urug'langan tuxum oval shaklli bo'lib, sariq-qo'ng'ir rangli yirik do'ngli oqsilli po'st bilan qoplangan, ichida qoramtir yumaloq embrion hujayra turadi. Uning o'lchami taxminan 50-70 x 40-50 mkm bo'lib, tashxis uchun asosiy belgi hisoblanadi [2, 4].",
+    "Ichakda faqat urg'ochi gelmintlar bo'lsa, najasda urug'lanmagan tuxumlar topiladi. Ularning po'sti yupqaroq, yuzasi notekis do'ngli, shakli turlicha va uzunligi 100 mkm dan oshishi mumkin; ichida embrion massasi shakllanmagan bo'ladi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Odam organizmidagi rivojlanish",
+   "content": [
+    "Invazion lichinkali tuxum ichakka tushgach, lichinka po'stdan chiqadi, ichak devoriga kiradi va darvoza venasi, jigar hamda pastki kovak vena orqali o'ng yurakka o'tadi. Keyin o'pka arteriyasi orqali o'pka kapillyarlariga, so'ngra alveolalar bo'shlig'iga chiqadi [3].",
+    "Lichinkalar bronxlar va traxeya orqali ko'tarilib, yutilgach ingichka ichakka tushadi va u yerda voyaga yetadi. Migratsiya paytida ular qon zardobi va eritrotsitlar bilan oziqlanadi, ikki marta po'st tashlaydi; bu faza o'rtacha 10-15 kun davom etadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Hayot siklining davomiyligi",
+   "content": [
+    "Odam askaridasi faqat odamda parazitlik qiladi. Urug'langan urg'ochi sutkasiga 240 mingtagacha tuxum qo'yadi, tuxumlar najas bilan tashqi muhitga chiqadi. Yangi ajralgan tuxumlar zararlash qobiliyatiga ega emas va avval tuproqda yetilishi kerak [3, 5].",
+    "Tuxum ichakka tushganidan yangi avlod tuxumlari najasda paydo bo'lgunga qadar 2,5-3 oy o'tadi, shundan 14-15 kun migratsiyaga ketadi. Voyaga yetgan askaridaning umri bir yildan oshmaydi, shu sababli invaziyaning uzoq saqlanishi tashqi muhitdagi tuxumlar zahirasiga bog'liq [4, 5]."
+   ]
+  },
+  {
+   "heading": "Tuxumlarning tashqi muhitda yetilishi",
+   "content": [
+    "Tuxum rivoji tuproqda kislorod, yetarli namlik va 12-37 gradus harorat bo'lganda kechadi; bu oraliqdan past yoki yuqori haroratda lichinka rivojlanmaydi. Qulay sharoitda invazion lichinka 12-16 kunda hosil bo'ladi, samarali haroratlar yig'indisi esa taxminan 360 gradus bo'lishi kerak [3].",
+    "O'rtacha iqlimda yetilish aprel-may oylarida tuproq harorati 12 gradusdan past bo'lmaganda boshlanadi; 17-29 gradusda invazion bosqich 18-48 kunda shakllanadi. JSST ma'lumotiga ko'ra, tuxum tuproqda yetilishi uchun taxminan 3 hafta kerak, shuning uchun yangi najasdan bevosita zararlanish bo'lmaydi [3, 6]."
+   ]
+  },
+  {
+   "heading": "Tuxumlarning chidamliligi",
+   "content": [
+    "Askarida tuxumlari noqulay omillarga, ayniqsa past haroratga chidamli, yetilmagan tuxumlar esa yanada bardoshli. Lichinkali tuxumlar minus 20-30 gradusda halok bo'ladi, minus 30 gradusdan past haroratda har qanday bosqichda nobud bo'ladi; qulay sharoitda ular 10 yildan ortiq tirik qoladi [3].",
+    "Boshqa darslikka ko'ra loy, qora tuproq va balchiqli tuproqlar tuxum rivoji uchun qumli tuproqlarga qaraganda qulay. Organik moddalarga kambag'al tuproqda 20 sm chuqurlikda tuxumlar 5-7 yil tirik qoladi, kuzda yetilishni tugatmaganlari qishlab, bahorda invazion bo'ladi [4]."
+   ]
+  },
+  {
+   "heading": "Invaziya manbai",
+   "content": [
+    "Geogelmintozlarning manbai invaziyalangan odamdir. Kasal odam najasi bilan ko'p miqdorda hali yetilmagan tuxum chiqaradi, shu sababli u to'g'ridan-to'g'ri aloqa orqali boshqalarni zararlay olmaydi, tuxum avval tashqi muhitda yetilishi shart [1, 3].",
+    "JSST ta'kidlashicha, askarida odam organizmida ko'paymaydi: qayta zararlanish faqat tashqi muhitdagi invazion bosqichlar bilan aloqa natijasida yuz beradi. Odamdan odamga bevosita yuqish yo'q, chunki najas bilan tushgan tuxum yetilishi uchun tuproqda taxminan 3 hafta kerak [6]."
+   ]
+  },
+  {
+   "heading": "Yuqish omillari va mavsumiylik",
+   "content": [
+    "Yo'riqnomada asosiy omillar sifatida yuvilmagan sabzavotlar, mevalar va ko'katlar ko'rsatilgan; shuningdek tuproq, suv va iflos qo'llar orqali ham yuqadi. Aholini zararlash mavsumi yoz-kuz davriga to'g'ri keladi [1].",
+    "Darslikka ko'ra, tuproqda eng ko'p invazion tuxum yoz-kuz oylarida to'planadi. Tuproq ifloslanish darajasi aholi punktlarining obodonligiga, hojatxonalarning holatiga, aholining sanitariya madaniyatiga va najasdan o'g'it sifatida foydalanish intensivligiga bog'liq. O'rta kengliklarda zararlanish mavsumi apreldan oktyabrgacha davom etadi [3, 4]."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari va tarqalishi",
+   "content": [
+    "JSST hisobiga ko'ra, tuproq orqali yuqadigan gelmintozlar dunyoda taxminan 1,5 milliard kishida uchraydi, ya'ni aholining 24 foizida. Ular ichimlik suvi, sanitariya va gigiena yetarli bo'lmagan kambag'al jamoalarda ko'proq tarqalgan. Bolalar gigiena qoidalariga rioya qilmasligi sababli kattalarga nisbatan ko'proq kasallanadi [4, 6].",
+    "Xavf guruhlariga bog'bonlar, polizchilar, yer bilan ishlovchilar va meva-sabzavot korxonalari xodimlari kiradi. Yo'riqnomada aholi o'rtasida tanlab tekshirish uchun 7-14 yoshli bolalar, 3-6 yoshli maktabgacha bolalar, fermer xo'jaligi xodimlari va sabzavot yetishtiruvchilar ko'rsatilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "O'choq turlari",
+   "content": [
+    "Geogelmintozlarning «asl o'chog'ida» qo'zg'atuvchining tashqi muhitda aylanishi va aholini zararlash sharoiti mavjud: invaziya manbai, yuqish omillari va aholi immuniteti. «Yolg'on o'choqda» esa invaziya manbai bor, lekin yuqish omillari va qo'zg'atuvchi aylanishi uchun sharoit yo'q [1, 3].",
+    "Yo'riqnomada o'choqlar intensivligi bo'yicha bo'linadi: intensiv o'choqda aholi zararlanishi 30 foiz va undan yuqori, mikroo'choqlardagi uchastkalar 50 foiz va undan ko'p; o'rta intensivda 15-29 foiz; sust intensivda 15 foizgacha. O'rta intensivlikda uchastkalar ulushi yo'riqnomada 40 foiz, darslikda esa 50 foizdan kam deb berilgan [1, 3]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Askaridozning epidemiologiyasini qo'zg'atuvchining hayot sikli belgilaydi: odam manba bo'lib, tuxumlar tuproqda yetilgach, yuvilmagan sabzavot, ko'kat, suv va iflos qo'llar orqali yangi xo'jayinga o'tadi. Asl va yolg'on o'choqlarni farqlash, intensivlikni baholash profilaktika hajmini belgilaydi [1, 3]."
+   ]
+  }
+ ],
+ "references": [
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'iga 4-ilova (gelmintozlar profilaktikasi va epidemiyaga qarshi chora-tadbirlar bo'yicha yo'riqnoma). xayrullokomilov.uz/kutubxona, material ID 1525.",
+  "Parazitar kasalliklarni davolash bayonnomalari (O'zR SSV 05.04.2016 yildagi 166-son buyrug'iga ilova). xayrullokomilov.uz/kutubxona, material ID 1559.",
+  "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+  "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+  "Романенко Н.А., Падченко И.К., Чебышев Н.В. Санитарная паразитология: руководство для врачей. Москва: Медицина, 2000. xayrullokomilov.uz/kutubxona, material ID 1598.",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections"
+ ]
 }
