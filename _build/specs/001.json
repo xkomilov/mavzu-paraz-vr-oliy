@@ -1,0 +1,66 @@
+{
+  "number": 1,
+  "title": "1. Parazitologiya predmeti, parazitologiya fan sifatida nimani o'rganadi.",
+  "sections": [
+    {"heading": "Kirish", "content": [
+      "Parazitologiya parazitlar, ularning xo'jayinlar, tashuvchilar va tashqi muhit bilan o'zaro munosabatlari, parazitlar keltirib chiqaradigan kasalliklar hamda ularga qarshi kurash choralari haqidagi fandir. Bu ta'rif fanning ham biologik, ham tibbiy-profilaktik mohiyatini birlashtiradi va parazitolog-shifokor faoliyatining nazariy asosini tashkil etadi [2].",
+      "Ushbu esseda avval parazitologiya predmeti va asosiy tushunchalari, so'ng fanning tarmoqlari, tarixiy shakllanishi, parazit va xo'jayin munosabatlari, parazitar tizim tushunchasi ko'rib chiqiladi. Oxirida fanning amaliy sog'liqni saqlashdagi va O'zbekiston sanitariya-epidemiologiya xizmatidagi o'rni yoritiladi [1, 2]."
+    ]},
+    {"heading": "Fanning predmeti", "content": [
+      "Parazitologiyaning predmeti parazitizm hodisasidir. Parazitizm turli turlarga mansub ikki organizm o'rtasidagi munosabat shakli bo'lib, bunda parazit xo'jayin organizmidan oziqlanish manbai va yashash muhiti sifatida foydalanadi, ikki organizm esa o'zaro antagonistik munosabatda bo'ladi. Shu sababli parazitizm ekologik tushuncha hisoblanadi [2].",
+      "Parazitlar dastlab boshqa tirik organizmlar hisobiga oziqlanadigan jonzotlar deb ta'riflangan, keyinchalik bu ta'rifga xo'jayinga zarar yetkazish belgisi qo'shilgan. Parazitni oziq va doimiy yoki vaqtinchalik yashash joyi bilan ta'minlaydigan organizm xo'jayin deb ataladi. Bu tushunchalar fanning barcha bo'limlari uchun umumiy tayanch bo'lib xizmat qiladi [1]."
+    ]},
+    {"heading": "Simbiotik munosabatlar orasida parazitizmning o'rni", "content": [
+      "Organizmlar o'rtasidagi munosabatlar bir necha shaklda bo'ladi: sinoykiya (kvartirantlik), mutualizm (o'zaro foydali birga yashash), kommensalizm (sherik-ovqatxo'rlik) va parazitizm. Parazitizm antagonistik simbioz bo'lib, unda bir organizm ikkinchisining tanasida yoki ustida yashab, uni yashash va oziqlanish muhiti sifatida ishlatadi hamda unga zarar yetkazadi [2].",
+      "Bu farqlash amaliyotda muhim, chunki ichakdagi ayrim mikroorganizmlar yoki sodda jonivorlar kommensal sifatida yashashi, boshqalari esa patogen ta'sir ko'rsatishi mumkin. Parazitolog laboratoriya natijasini baholaganda topilgan organizmning qaysi guruhga mansubligini aniqlab, uning klinik ahamiyatini to'g'ri izohlashi kerak [2]."
+    ]},
+    {"heading": "Parazitlarning asosiy guruhlari", "content": [
+      "Parazitlar xo'jayin bilan aloqa davomiyligiga ko'ra doimiy va vaqtinchalik parazitlarga bo'linadi. Doimiy parazitlar butun hayoti davomida xo'jayin tanasida yoki ustida yashaydi, masalan bitlar va bezgak plazmodiylari. Vaqtinchalik parazitlar esa xo'jayin bilan faqat oziqlanish paytida bog'lanadi, masalan qon so'ruvchi chivinlar [1].",
+      "Joylashuviga ko'ra ektoparazitlar va endoparazitlar farqlanadi. Endoparazitlar to'qimalarda, bo'shliqlarda, a'zolarda va hujayralar ichida yashaydi: leyshmaniyalar va toksoplazmalar hujayra ichida, bezgak plazmodiylari eritrotsitlarda, trixinella lichinkalari mushak to'qimasida uchraydi. Shuningdek obligat, fakultativ va soxta parazitlar ham ajratiladi [1, 2]."
+    ]},
+    {"heading": "Xo'jayinlar tasnifi", "content": [
+      "Parazit jinsiy yetuklikka erishib jinsiy yo'l bilan ko'payadigan organizm oxirgi yoki definitiv xo'jayin deb ataladi. Lichinkalik bosqichi yashaydigan yoki parazit jinssiz ko'payadigan organizm oraliq xo'jayin hisoblanadi. Ayrim parazitlarda qo'shimcha oraliq va rezervuar xo'jayinlar ham bo'ladi [1, 2].",
+      "Xo'jayinlar parazit rivojlanishi uchun sharoitiga ko'ra obligat, fakultativ va potensial guruhlarga ajratiladi. Masalan, odam askarida uchun obligat xo'jayin, o'txo'r hayvonlar esa trixinella uchun potensial xo'jayin hisoblanadi. Bu bilim o'choqlarda invaziya manbaini aniqlash va profilaktika rejasini tuzishda qo'llaniladi [2]."
+    ]},
+    {"heading": "Parazitning xo'jayin organizmiga ta'siri", "content": [
+      "Parazitologiya parazitning xo'jayinga ko'rsatadigan ta'sirini batafsil o'rganadi. Bu ta'sir mexanik shikastlanish, oziq moddalar va vitaminlarni o'zlashtirish, moddalar almashinuvini buzish, almashinuv mahsulotlari bilan toksik ta'sir va immun tizimiga ta'sir ko'rinishida namoyon bo'ladi. Masalan, askaridalar to'pi ichak tutilishiga sabab bo'lishi mumkin [2].",
+      "Intensiv gelmint invaziyalarida avitaminoz kuzatiladi: askaridozda A vitamini zaxirasi kamayadi, difillobotriozda esa B12 vitamini tanqisligi rivojlanadi. Parazitlarning antigenlari allergik reaksiyalar va immunosupressiyaga olib keladi. Shu sababli parazitozlar faqat ichak muammosi emas, balki butun organizm kasalligi sifatida qaraladi [2]."
+    ]},
+    {"heading": "Xo'jayinning javob reaksiyalari", "content": [
+      "Fan xo'jayinning parazitga qarshi nospesifik va spesifik himoya reaksiyalarini ham o'rganadi. Parazit to'qimalarni shikastlab, organizmni almashinuv mahsulotlari bilan sensibilizatsiya qiladi, natijada darhol va kechikkan turdagi allergik reaksiyalar, granulyomalar, kapsulalar va nekroz o'choqlari hosil bo'ladi [2].",
+      "Spesifik himoya darhol emas, ma'lum vaqt ichida shakllanadi va parazitni yo'qotishga qaratiladi. Unda maxsus immunoglobulinlar va T-limfotsitlar faollashtiradigan makrofaglar ishtirok etadi. Ushbu jarayonlarni bilish serologik tashxis natijalarini izohlash va invaziyaning bosqichini baholashda zarur [2]."
+    ]},
+    {"heading": "Parazitar tizim tushunchasi", "content": [
+      "Parazitar tizim tushunchasini V.N. Beklemishev 1956 yilda kiritgan. U parazit populyatsiyasi, bir yoki bir necha xo'jayin populyatsiyalari va ularning yashashi uchun zarur bo'lgan tashqi muhit qismini o'z ichiga oladi. Parazitar tizimlar ikki a'zoli, uch a'zoli va ko'p a'zoli bo'ladi [2].",
+      "Parazitlar biogeotsenozlarning tabiiy tarkibiy qismi bo'lib, hayvonlar soni regulyatori vazifasini bajaradi. Parazitar tizimning boshqa biotsenoz komponentlari bilan aloqalari parazitoz o'choqlarida profilaktik va epidemiyaga qarshi tadbirlarni ishlab chiqishda hisobga olinishi kerak. Bu fanning epidemiologik yo'nalishini belgilaydi [2]."
+    ]},
+    {"heading": "Fanning tarmoqlari", "content": [
+      "Parazitologiya umumiy, tibbiy, veterinariya va qishloq xo'jaligi parazitologiyasiga bo'linadi. Umumiy parazitologiya parazitlarning sistematikasi, anatomiyasi, fiziologiyasi, ekologiyasi va rivojlanish sikllarini o'rganadi. Tibbiy parazitologiya odamdagi invaziyalarni, veterinariya parazitologiyasi esa hayvonlar kasalliklarini o'rganadi [1].",
+      "Tibbiy parazitologiya mustaqil fan sifatida zoologiyaning uch bo'limini o'z ichiga oladi: tibbiy protistologiya parazit sodda jonivorlarni, gelmintologiya parazit chuvalchanglarni, araxnoentomologiya esa o'rgimchaksimonlar va hasharotlar sinfining parazit vakillarini o'rganadi. Bu bo'linish parazitlarning sistematik holatiga asoslangan [2]."
+    ]},
+    {"heading": "Fanning tarixiy shakllanishi", "content": [
+      "Parazitologiyaning fan sifatida shakllanishida A. Laveran, R. Ross, B. Grassi, U. Leyshman kabi olimlarning ishlari katta rol o'ynagan. Laveran 1880 yilda bemor eritrotsitlarida bezgak plazmodiyini aniqlagan va 1907 yilda Nobel mukofotiga sazovor bo'lgan. Ross esa 1902 yilda bezgak bo'yicha ishlari uchun Nobel mukofotini olgan [1].",
+      "Rus maktabida Ye.N. Pavlovskiy transmissiv kasalliklarning tabiiy o'choqliligi haqidagi ta'limotni yaratgan, K.I. Skryabin esa gelmintologiyaning asoschisi hisoblanadi va degelmintizatsiya hamda devastatsiya tamoyillarini taklif etgan. Bu ta'limotlar hozirgi parazitologik nazorat tizimining nazariy poydevoridir [1]."
+    ]},
+    {"heading": "Parazitar kasalliklarning ahamiyati", "content": [
+      "Parazitar kasalliklar yuqumli patologiyaning muhim qismini tashkil etadi. O'quv qo'llanmada keltirilgan JSST ma'lumotlariga ko'ra, dunyoda 4,5 milliarddan ortiq odam parazitozlar bilan zararlangan. Parazitlar hayvon va o'simlik dunyosi turlarining 6-7 foizini tashkil etadi [2].",
+      "Oxirgi yillarda OIV-infeksiyasining tarqalishi, immunosupressiv dorilarning keng qo'llanishi va ekologik vaziyat yomonlashuvi bilan bog'liq holda ayrim parazitozlar bilan kasallanish oshgani qayd etilgan. Boshqa mamlakatlardan parazitozlarni olib kirish xavfi ham ortgan. Bu fanning amaliy dolzarbligini kuchaytiradi [2]."
+    ]},
+    {"heading": "Fanning amaliy vazifalari", "content": [
+      "Tibbiy parazitologiya faqat parazitlar biologiyasi bilan cheklanmaydi: u parazitar kasalliklarning patogenezi, klinikasi, epidemiologiyasi, laboratoriya tashxisi, davolash va profilaktikasini ham o'rganadi. Shu bois fan tibbiyotning epidemiologiya, yuqumli kasalliklar va laboratoriya tashxisi sohalari bilan uzviy bog'langan [2].",
+      "O'zbekistonda parazitar kasalliklar profilaktikasi bo'yicha 121-son buyruq bezgak, leyshmanioz, kanali qaytalama terlama, gelmintozlar, ichak protozoozlari, laboratoriya tashxisi va epidemiologik nazorat bo'yicha yo'riqnomalarni tasdiqlagan. Bu hujjat fanning amaliy vazifalarini davlat darajasida mustahkamlaydi [3]."
+    ]},
+    {"heading": "Parazitolog-shifokor uchun ahamiyati", "content": [
+      "Parazitolog-shifokor fanning nazariy bilimlarini o'choqlarni epidemiologik tekshirish, xavfli hududlarni aniqlash, aholini sog'lomlashtirish rejalarini tuzish va laboratoriya natijalarini izohlashda qo'llaydi. 121-son buyruq hududiy markazlarga tibbiyot xodimlari bilan yillik o'quv mashg'ulotlarini o'tkazishni ham yuklagan [3].",
+      "Parazit hayot sikli, xo'jayinlar va yuqish omillarini bilmasdan turib samarali profilaktika tadbirini rejalashtirib bo'lmaydi. Masalan, oraliq xo'jayinni bilish go'sht va baliq nazoratini, tashuvchini bilish esa entomologik kurash tadbirlarini to'g'ri tashkil etishga yordam beradi [1, 2]."
+    ]},
+    {"heading": "Xulosa", "content": [
+      "Parazitologiya parazitizm hodisasini, parazit va xo'jayin munosabatlarini, parazitar tizimlarni va ular keltirib chiqaradigan kasalliklarni, shuningdek ularga qarshi kurash choralarini o'rganadigan kompleks fandir. Tibbiy parazitologiya protistologiya, gelmintologiya va araxnoentomologiya bo'limlaridan iborat bo'lib, uning bilimlari milliy normativ hujjatlar asosida amaliy profilaktika ishlarida qo'llaniladi [1, 2, 3]."
+    ]}
+  ],
+  "references": [
+    "Павлович С.А., Андреев В.П. Медицинская паразитология с энтомологией: учебное пособие. Минск: Вышэйшая школа, 2012. xayrullokomilov.uz/kutubxona, material ID 2736.",
+    "Полежаева Г.Ц., Дзюба Г.Т., Скурихина Ю.Е., Поздеева Е.С. Медицинская паразитология: учебное пособие. Владивосток: Медицина ДВ, 2017. ISBN 978-5-98301-092-5. xayrullokomilov.uz/kutubxona, material ID 2737.",
+    "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 25.03.2015 yildagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». xayrullokomilov.uz/kutubxona, material ID 432."
+  ]
+}
